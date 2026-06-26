@@ -1,0 +1,363 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="LA.1.es" tvg-name="LA 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" tvg-chno="01" channel-number="01",LA 1
+https://www.movistarplus.es/canal/la-1?id=tve
+#EXTINF:-1 tvg-id="LA.2.es" tvg-name="LA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/LA2.png" tvg-chno="02" channel-number="02",LA 2
+https://www.movistarplus.es/canal/la-2?id=la2
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/A3.png" tvg-chno="03" channel-number="03",Antena 3
+https://www.movistarplus.es/canal/antena-3?id=a3
+#EXTINF:-1 tvg-id="Cuatro.es" tvg-name="Cuatro" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C4.png" tvg-chno="04" channel-number="04",Cuatro
+https://www.movistarplus.es/canal/cuatro?id=c4
+#EXTINF:-1 tvg-id="Telecinco.es" tvg-name="Telecinco" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" tvg-chno="05" channel-number="05",Telecinco
+https://www.movistarplus.es/canal/telecinco?id=t5
+#EXTINF:-1 tvg-id="La.Sexta.es" tvg-name="La Sexta" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" tvg-chno="06" channel-number="06",La Sexta
+https://www.movistarplus.es/canal/la-sexta?id=sexta
+#EXTINF:-1 tvg-id="Movistar.Plus.es" tvg-name="Movistar Plus" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-chno="07" channel-number="07",Movistar Plus
+https://www.movistarplus.es/canal/movistar-plus?id=mplus
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-chno="08" channel-number="08",M+ Vamos
+https://www.movistarplus.es/canal/m-plus-vamos?id=vamosd
+#EXTINF:-1 tvg-id="7.TV.Región.Murcia.es" tvg-name="7 TV Región Murcia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/7TVMUR.png" tvg-chno="09" channel-number="09",7 TV Región Murcia
+https://www.movistarplus.es/canal/7-tv-region-murcia?id=7tvmur
+#EXTINF:-1 tvg-id="Aragón.TV.es" tvg-name="Aragón TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png" tvg-chno="09" channel-number="09",Aragón TV
+https://www.movistarplus.es/canal/aragon-tv?id=aragtv
+#EXTINF:-1 tvg-id="Canal.Extremadura.es" tvg-name="Canal Extremadura" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" tvg-chno="09" channel-number="09",Canal Extremadura
+https://www.movistarplus.es/canal/canal-extremadura?id=extre
+#EXTINF:-1 tvg-id="Canal.Sur.es" tvg-name="Canal Sur" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CANSUR.png" tvg-chno="09" channel-number="09",Canal Sur
+https://www.movistarplus.es/canal/canal-sur?id=cansur
+#EXTINF:-1 tvg-id="Castilla.la.Mancha.TV.es" tvg-name="Castilla la Mancha TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CASMAN.png" tvg-chno="09" channel-number="09",Castilla la Mancha TV
+https://www.movistarplus.es/canal/castilla-la-mancha-tv?id=casman
+#EXTINF:-1 tvg-id="IB3.es" tvg-name="IB3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IB3.png" tvg-chno="09" channel-number="09",IB3
+https://www.movistarplus.es/canal/ib3?id=ib3
+#EXTINF:-1 tvg-id="La.7.es" tvg-name="La 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CYLTV.png" tvg-chno="09" channel-number="09",La 7
+https://www.movistarplus.es/canal/la-7?id=cyltv
+#EXTINF:-1 tvg-id="Navarra.TV.es" tvg-name="Navarra TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAVA.png" tvg-chno="09" channel-number="09",Navarra TV
+https://www.movistarplus.es/canal/navarra-tv?id=nava
+#EXTINF:-1 tvg-id="TPA.es" tvg-name="TPA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TPA.png" tvg-chno="09" channel-number="09",TPA
+https://www.movistarplus.es/canal/tpa?id=tpa
+#EXTINF:-1 tvg-id="TV.Canaria.es" tvg-name="TV Canaria" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CANAR.png" tvg-chno="09" channel-number="09",TV Canaria
+https://www.movistarplus.es/canal/tv-canaria?id=canar
+#EXTINF:-1 tvg-id="TV3.es" tvg-name="TV3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TV3CAT.png" tvg-chno="09" channel-number="09",TV3
+https://www.movistarplus.es/canal/tv3?id=tv3cat
+#EXTINF:-1 tvg-id="TVG.-TV.Galicia.es" tvg-name="TVG -TV Galicia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVGAL.png" tvg-chno="09" channel-number="09",TVG -TV Galicia
+https://www.movistarplus.es/canal/tvg-tv-galicia?id=tvgal
+#EXTINF:-1 tvg-id="Telemadrid.es" tvg-name="Telemadrid" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TELMAD.png" tvg-chno="09" channel-number="09",Telemadrid
+https://www.movistarplus.es/canal/telemadrid?id=telmad
+#EXTINF:-1 tvg-id="etb1.es" tvg-name="etb1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB1.png" tvg-chno="09" channel-number="09",etb1
+https://www.movistarplus.es/canal/etb1?id=etb1
+#EXTINF:-1 tvg-id="À.Punt.es" tvg-name="À Punt" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/APUNT.png" tvg-chno="09" channel-number="09",À Punt
+https://www.movistarplus.es/canal/a-punt?id=apunt
+#EXTINF:-1 tvg-id="33.es" tvg-name="33" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAN33.png" tvg-chno="10" channel-number="10",33
+https://www.movistarplus.es/canal/33?id=can33
+#EXTINF:-1 tvg-id="Andalucía.TV.es" tvg-name="Andalucía TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANDATV.png" tvg-chno="10" channel-number="10",Andalucía TV
+https://www.movistarplus.es/canal/andalucia-tv?id=andatv
+#EXTINF:-1 tvg-id="La.Ocho.TV.es" tvg-name="La Ocho TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" tvg-chno="10" channel-number="10",La Ocho TV
+https://www.movistarplus.es/canal/la-ocho-tv?id=medite
+#EXTINF:-1 tvg-id="La.Otra.es" tvg-name="La Otra" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" tvg-chno="10" channel-number="10",La Otra
+https://www.movistarplus.es/canal/la-otra?id=otra
+#EXTINF:-1 tvg-id="TVG.2.es" tvg-name="TVG 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVG2.png" tvg-chno="10" channel-number="10",TVG 2
+https://www.movistarplus.es/canal/tvg-2?id=tvg2
+#EXTINF:-1 tvg-id="etb2.es" tvg-name="etb2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB2.png" tvg-chno="10" channel-number="10",etb2
+https://www.movistarplus.es/canal/etb2?id=etb2
+#EXTINF:-1 tvg-id="M+.Estrenos.es" tvg-name="M+ Estrenos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" tvg-chno="12" channel-number="12",M+ Estrenos
+https://www.movistarplus.es/canal/m-plus-estrenos?id=mv1
+#EXTINF:-1 tvg-id="M+.Hits.es" tvg-name="M+ Hits" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" tvg-chno="13" channel-number="13",M+ Hits
+https://www.movistarplus.es/canal/m-plus-hits?id=mhits
+#EXTINF:-1 tvg-id="M+.Originales.es" tvg-name="M+ Originales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" tvg-chno="14" channel-number="14",M+ Originales
+https://www.movistarplus.es/canal/m-plus-originales?id=morig
+#EXTINF:-1 tvg-id="M+.Vacaciones.es" tvg-name="M+ Vacaciones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVCIVA.png" tvg-chno="15" channel-number="15",M+ Vacaciones
+https://www.movistarplus.es/canal/m-plus-vacaciones?id=mvciva
+#EXTINF:-1 tvg-id="M+.Documentales.es" tvg-name="M+ Documentales" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" tvg-chno="17" channel-number="17",M+ Documentales
+https://www.movistarplus.es/canal/m-plus-documentales?id=mdoc
+#EXTINF:-1 tvg-id="M+.Orgullo.es" tvg-name="M+ Orgullo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MORGUL.png" tvg-chno="18" channel-number="18",M+ Orgullo
+https://www.movistarplus.es/canal/m-plus-orgullo?id=morgul
+#EXTINF:-1 tvg-id="M+.Clásicos.es" tvg-name="M+ Clásicos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" tvg-chno="20" channel-number="20",M+ Clásicos
+https://www.movistarplus.es/canal/m-plus-clasicos?id=mclas
+#EXTINF:-1 tvg-id="M+.Acción.es" tvg-name="M+ Acción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" tvg-chno="21" channel-number="21",M+ Acción
+https://www.movistarplus.es/canal/m-plus-accion?id=cpacci
+#EXTINF:-1 tvg-id="M+.Comedia.es" tvg-name="M+ Comedia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" tvg-chno="22" channel-number="22",M+ Comedia
+https://www.movistarplus.es/canal/m-plus-comedia?id=cpcome
+#EXTINF:-1 tvg-id="M+.Drama.es" tvg-name="M+ Drama" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" tvg-chno="23" channel-number="23",M+ Drama
+https://www.movistarplus.es/canal/m-plus-drama?id=cpcole
+#EXTINF:-1 tvg-id="M+.Indie.es" tvg-name="M+ Indie" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MINDI.png" tvg-chno="24" channel-number="24",M+ Indie
+https://www.movistarplus.es/canal/m-plus-indie?id=mindi
+#EXTINF:-1 tvg-id="M+.Cine.Español.es" tvg-name="M+ Cine Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" tvg-chno="25" channel-number="25",M+ Cine Español
+https://www.movistarplus.es/canal/m-plus-cine-espanyol?id=dcesp
+#EXTINF:-1 tvg-id="HBO.Max.Avances.es" tvg-name="HBO Max Avances" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MAXAVA.png" tvg-chno="26" channel-number="26",HBO Max Avances
+https://www.movistarplus.es/canal/hbo-max-avances?id=maxava
+#EXTINF:-1 tvg-id="SkyShowtime.1.es" tvg-name="SkyShowtime 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SKYSHO.png" tvg-chno="27" channel-number="27",SkyShowtime 1
+https://www.movistarplus.es/canal/skyshowtime-1?id=skysho
+#EXTINF:-1 tvg-id="Canal.FlixOlé.1.es" tvg-name="Canal FlixOlé 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FLIX1.png" tvg-chno="28" channel-number="28",Canal FlixOlé 1
+https://www.movistarplus.es/canal/canal-flixole-1?id=flix1
+#EXTINF:-1 tvg-id="Canal.FlixOlé.2.es" tvg-name="Canal FlixOlé 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FLIX2.png" tvg-chno="29" channel-number="29",Canal FlixOlé 2
+https://www.movistarplus.es/canal/canal-flixole-2?id=flix2
+#EXTINF:-1 tvg-id="TCM.es" tvg-name="TCM" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TCM.png" tvg-chno="30" channel-number="30",TCM
+https://www.movistarplus.es/canal/tcm?id=tcm
+#EXTINF:-1 tvg-id="AXN.Movies.es" tvg-name="AXN Movies" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SET.png" tvg-chno="31" channel-number="31",AXN Movies
+https://www.movistarplus.es/canal/axn-movies?id=set
+#EXTINF:-1 tvg-id="BBC.Series.es" tvg-name="BBC Series" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBDRA.png" tvg-chno="32" channel-number="32",BBC Series
+https://www.movistarplus.es/canal/bbc-series?id=bbdra
+#EXTINF:-1 tvg-id="BBC.Top.Gear.es" tvg-name="BBC Top Gear" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBGEA.png" tvg-chno="34" channel-number="34",BBC Top Gear
+https://www.movistarplus.es/canal/bbc-top-gear?id=bbgea
+#EXTINF:-1 tvg-id="Squirrel.es" tvg-name="Squirrel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SQUI.png" tvg-chno="35" channel-number="35",Squirrel
+https://www.movistarplus.es/canal/squirrel?id=squi
+#EXTINF:-1 tvg-id="BE.MAD.es" tvg-name="BE MAD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BEMAD.png" tvg-chno="36" channel-number="36",BE MAD
+https://www.movistarplus.es/canal/be-mad?id=bemad
+#EXTINF:-1 tvg-id="STAR.Channel.es" tvg-name="STAR Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" tvg-chno="37" channel-number="37",STAR Channel
+https://www.movistarplus.es/canal/star-channel?id=foxge
+#EXTINF:-1 tvg-id="AXN.es" tvg-name="AXN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/AXN.png" tvg-chno="38" channel-number="38",AXN
+https://www.movistarplus.es/canal/axn?id=axn
+#EXTINF:-1 tvg-id="Warner.TV.es" tvg-name="Warner TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TNT.png" tvg-chno="39" channel-number="39",Warner TV
+https://www.movistarplus.es/canal/warner-tv?id=tnt
+#EXTINF:-1 tvg-id="Comedy.Central.es" tvg-name="Comedy Central" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" tvg-chno="40" channel-number="40",Comedy Central
+https://www.movistarplus.es/canal/comedy-central?id=pcm
+#EXTINF:-1 tvg-id="Calle.13.es" tvg-name="Calle 13" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" tvg-chno="41" channel-number="41",Calle 13
+https://www.movistarplus.es/canal/calle-13?id=cl13
+#EXTINF:-1 tvg-id="COSMO.es" tvg-name="COSMO" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" tvg-chno="42" channel-number="42",COSMO
+https://www.movistarplus.es/canal/cosmo?id=cosmo
+#EXTINF:-1 tvg-id="SYFY.es" tvg-name="SYFY" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" tvg-chno="43" channel-number="43",SYFY
+https://www.movistarplus.es/canal/syfy?id=sci-fi
+#EXTINF:-1 tvg-id="Veo7.es" tvg-name="Veo7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VEO7.png" tvg-chno="44" channel-number="44",Veo7
+https://www.movistarplus.es/canal/veo7?id=veo7
+#EXTINF:-1 tvg-id="TRECE.es" tvg-name="TRECE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" tvg-chno="45" channel-number="45",TRECE
+https://www.movistarplus.es/canal/trece?id=13tv
+#EXTINF:-1 tvg-id="Energy.es" tvg-name="Energy" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" tvg-chno="46" channel-number="46",Energy
+https://www.movistarplus.es/canal/energy?id=energy
+#EXTINF:-1 tvg-id="Factoría.de.Ficción.es" tvg-name="Factoría de Ficción" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" tvg-chno="47" channel-number="47",Factoría de Ficción
+https://www.movistarplus.es/canal/factoria-de-ficcion?id=fdfic
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" tvg-chno="48" channel-number="48",Neox
+https://www.movistarplus.es/canal/neox?id=neox
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" tvg-chno="49" channel-number="49",Atreseries
+https://www.movistarplus.es/canal/atreseries?id=atress
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-chno="50" channel-number="50",M+ Vamos
+https://www.movistarplus.es/canal/m-plus-vamos?id=vamosd
+#EXTINF:-1 tvg-id="M+.Vamos.2.es" tvg-name="M+ Vamos 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-chno="51" channel-number="51",M+ Vamos 2
+https://www.movistarplus.es/canal/m-plus-vamos-2?id=vam2sd
+#EXTINF:-1 tvg-id="M+.Vamos.3.es" tvg-name="M+ Vamos 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" tvg-chno="52" channel-number="52",M+ Vamos 3
+https://www.movistarplus.es/canal/m-plus-vamos-3?id=mellav
+#EXTINF:-1 tvg-id="Primera.Federación.es" tvg-name="Primera Federación" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" tvg-chno="53" channel-number="53",Primera Federación
+https://www.movistarplus.es/canal/primera-federacion?id=mcopa
+#EXTINF:-1 tvg-id="M+.LALIGA.es" tvg-name="M+ LALIGA" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" tvg-chno="54" channel-number="54",M+ LALIGA
+https://www.movistarplus.es/canal/m-plus-laliga?id=mliga
+#EXTINF:-1 tvg-id="DAZN.MUNDIAL.es" tvg-name="DAZN MUNDIAL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" tvg-chno="55" channel-number="55",DAZN MUNDIAL
+https://www.movistarplus.es/canal/dazn-mundial?id=daznli
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-chno="56" channel-number="56",LALIGA TV HYPERMOTION
+https://www.movistarplus.es/canal/laliga-tv-hypermotion?id=mligs
+#EXTINF:-1 tvg-id="M+.Fanzone.es" tvg-name="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-chno="57" channel-number="57",M+ Fanzone
+https://www.movistarplus.es/canal/m-plus-fanzone?id=mlig1
+#EXTINF:-1 tvg-id="DAZN.MUNDIAL.2.es" tvg-name="DAZN MUNDIAL 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" tvg-chno="58" channel-number="58",DAZN MUNDIAL 2
+https://www.movistarplus.es/canal/dazn-mundial-2?id=daznl2
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-chno="59" channel-number="59",LALIGA TV HYPERMOTION 2
+https://www.movistarplus.es/canal/laliga-tv-hypermotion-2?id=mligs2
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.es" tvg-name="M+ Liga de Campeones" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" tvg-chno="60" channel-number="60",M+ Liga de Campeones
+https://www.movistarplus.es/canal/m-plus-liga-de-campeones?id=chapio
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.2.es" tvg-name="M+ Liga de Campeones 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" tvg-chno="61" channel-number="61",M+ Liga de Campeones 2
+https://www.movistarplus.es/canal/m-plus-liga-de-campeones-2?id=chap1
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.3.es" tvg-name="M+ Liga de Campeones 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" tvg-chno="62" channel-number="62",M+ Liga de Campeones 3
+https://www.movistarplus.es/canal/m-plus-liga-de-campeones-3?id=chap2
+#EXTINF:-1 tvg-id="M+.Deportes.es" tvg-name="M+ Deportes" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" tvg-chno="63" channel-number="63",M+ Deportes
+https://www.movistarplus.es/canal/m-plus-deportes?id=cpdep
+#EXTINF:-1 tvg-id="M+.Deportes.2.es" tvg-name="M+ Deportes 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARTHUR.png" tvg-chno="64" channel-number="64",M+ Deportes 2
+https://www.movistarplus.es/canal/m-plus-deportes-2?id=arthur
+#EXTINF:-1 tvg-id="M+.Deportes.3.es" tvg-name="M+ Deportes 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP2.png" tvg-chno="65" channel-number="65",M+ Deportes 3
+https://www.movistarplus.es/canal/m-plus-deportes-3?id=usop2
+#EXTINF:-1 tvg-id="M+.Baloncesto.es" tvg-name="M+ Baloncesto" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBALCT.png" tvg-chno="66" channel-number="66",M+ Baloncesto
+https://www.movistarplus.es/canal/m-plus-baloncesto?id=mbalct
+#EXTINF:-1 tvg-id="M+.Baloncesto.2.es" tvg-name="M+ Baloncesto 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBALC2.png" tvg-chno="67" channel-number="67",M+ Baloncesto 2
+https://www.movistarplus.es/canal/m-plus-baloncesto-2?id=mbalc2
+#EXTINF:-1 tvg-id="M+.Golf.es" tvg-name="M+ Golf" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" tvg-chno="68" channel-number="68",M+ Golf
+https://www.movistarplus.es/canal/m-plus-golf?id=golf%2b
+#EXTINF:-1 tvg-id="M+.Golf.2.es" tvg-name="M+ Golf 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF2.png" tvg-chno="69" channel-number="69",M+ Golf 2
+https://www.movistarplus.es/canal/m-plus-golf-2?id=golf2
+#EXTINF:-1 tvg-id="DAZN.F1.es" tvg-name="DAZN F1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" tvg-chno="70" channel-number="70",DAZN F1
+https://www.movistarplus.es/canal/dazn-f1?id=mvf1
+#EXTINF:-1 tvg-id="DAZN.MotoGP.es" tvg-name="DAZN MotoGP" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZMOT.png" tvg-chno="71" channel-number="71",DAZN MotoGP
+https://www.movistarplus.es/canal/dazn-motogp?id=dazmot
+#EXTINF:-1 tvg-id="DAZN.1.es" tvg-name="DAZN 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M1SD.png" tvg-chno="72" channel-number="72",DAZN 1
+https://www.movistarplus.es/canal/dazn-1?id=m1sd
+#EXTINF:-1 tvg-id="DAZN.2.es" tvg-name="DAZN 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/M2SD.png" tvg-chno="73" channel-number="73",DAZN 2
+https://www.movistarplus.es/canal/dazn-2?id=m2sd
+#EXTINF:-1 tvg-id="DAZN.Baloncesto.es" tvg-name="DAZN Baloncesto" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZBA.png" tvg-chno="74" channel-number="74",DAZN Baloncesto
+https://www.movistarplus.es/canal/dazn-baloncesto?id=dazba
+#EXTINF:-1 tvg-id="DAZN.Baloncesto.2.es" tvg-name="DAZN Baloncesto 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB2.png" tvg-chno="75" channel-number="75",DAZN Baloncesto 2
+https://www.movistarplus.es/canal/dazn-baloncesto-2?id=dazb2
+#EXTINF:-1 tvg-id="DAZN.Baloncesto.3.es" tvg-name="DAZN Baloncesto 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB3.png" tvg-chno="76" channel-number="76",DAZN Baloncesto 3
+https://www.movistarplus.es/canal/dazn-baloncesto-3?id=dazb3
+#EXTINF:-1 tvg-id="Eurosport.1.es" tvg-name="Eurosport 1" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" tvg-chno="77" channel-number="77",Eurosport 1
+https://www.movistarplus.es/canal/eurosport-1?id=esp
+#EXTINF:-1 tvg-id="Eurosport.2.es" tvg-name="Eurosport 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" tvg-chno="78" channel-number="78",Eurosport 2
+https://www.movistarplus.es/canal/eurosport-2?id=esp2
+#EXTINF:-1 tvg-id="GOL.es" tvg-name="GOL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" tvg-chno="79" channel-number="79",GOL
+https://www.movistarplus.es/canal/gol?id=gol
+#EXTINF:-1 tvg-id="Teledeporte.es" tvg-name="Teledeporte" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" tvg-chno="80" channel-number="80",Teledeporte
+https://www.movistarplus.es/canal/teledeporte?id=tdep
+#EXTINF:-1 tvg-id="Real.Madrid.TV.es" tvg-name="Real Madrid TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" tvg-chno="81" channel-number="81",Real Madrid TV
+https://www.movistarplus.es/canal/real-madrid-tv?id=realm
+#EXTINF:-1 tvg-id="Caza.y.Pesca.es" tvg-name="Caza y Pesca" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" tvg-chno="82" channel-number="82",Caza y Pesca
+https://www.movistarplus.es/canal/caza-y-pesca?id=cazpes
+#EXTINF:-1 tvg-id="Iberalia.TV.es" tvg-name="Iberalia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-chno="83" channel-number="83",Iberalia TV
+https://www.movistarplus.es/canal/iberalia-tv?id=iberal
+#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="Ubeat" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png" tvg-chno="85" channel-number="85",Ubeat
+https://www.movistarplus.es/canal/ubeat?id=ubeat
+#EXTINF:-1 tvg-id="National.Geographic.es" tvg-name="National Geographic" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-chno="86" channel-number="86",National Geographic
+https://www.movistarplus.es/canal/national-geographic?id=natgeo
+#EXTINF:-1 tvg-id="Nat.Geo.Wild.es" tvg-name="Nat Geo Wild" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-chno="87" channel-number="87",Nat Geo Wild
+https://www.movistarplus.es/canal/nat-geo-wild?id=natgw
+#EXTINF:-1 tvg-id="BBC.History.es" tvg-name="BBC History" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBHIS.png" tvg-chno="88" channel-number="88",BBC History
+https://www.movistarplus.es/canal/bbc-history?id=bbhis
+#EXTINF:-1 tvg-id="Discovery.es" tvg-name="Discovery" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" tvg-chno="89" channel-number="89",Discovery
+https://www.movistarplus.es/canal/discovery?id=dcr
+#EXTINF:-1 tvg-id="BBC.Earth.es" tvg-name="BBC Earth" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCEAR.png" tvg-chno="90" channel-number="90",BBC Earth
+https://www.movistarplus.es/canal/bbc-earth?id=bbcear
+#EXTINF:-1 tvg-id="DMAX.es" tvg-name="DMAX" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" tvg-chno="91" channel-number="91",DMAX
+https://www.movistarplus.es/canal/dmax?id=dcrmax
+#EXTINF:-1 tvg-id="BBC.Food.es" tvg-name="BBC Food" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBFOO.png" tvg-chno="92" channel-number="92",BBC Food
+https://www.movistarplus.es/canal/bbc-food?id=bbfoo
+#EXTINF:-1 tvg-id="BBC.Lifestyle.es" tvg-name="BBC Lifestyle" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBCLIF.png" tvg-chno="93" channel-number="93",BBC Lifestyle
+https://www.movistarplus.es/canal/bbc-lifestyle?id=bbclif
+#EXTINF:-1 tvg-id="DKISS.es" tvg-name="DKISS" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DKISS.png" tvg-chno="94" channel-number="94",DKISS
+https://www.movistarplus.es/canal/dkiss?id=dkiss
+#EXTINF:-1 tvg-id="Divinity.es" tvg-name="Divinity" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DIVINI.png" tvg-chno="95" channel-number="95",Divinity
+https://www.movistarplus.es/canal/divinity?id=divini
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NOVA.png" tvg-chno="96" channel-number="96",Nova
+https://www.movistarplus.es/canal/nova?id=nova
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEGA.png" tvg-chno="97" channel-number="97",Mega
+https://www.movistarplus.es/canal/mega?id=mega
+#EXTINF:-1 tvg-id="Ten.es" tvg-name="Ten" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TEN.png" tvg-chno="98" channel-number="98",Ten
+https://www.movistarplus.es/canal/ten?id=ten
+#EXTINF:-1 tvg-id="Baby.TV.es" tvg-name="Baby TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" tvg-chno="110" channel-number="110",Baby TV
+https://www.movistarplus.es/canal/baby-tv?id=baby
+#EXTINF:-1 tvg-id="Disney.Channel.es" tvg-name="Disney Channel" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" tvg-chno="111" channel-number="111",Disney Channel
+https://www.movistarplus.es/canal/disney-channel?id=playdc
+#EXTINF:-1 tvg-id="NICK.JR.es" tvg-name="NICK JR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" tvg-chno="113" channel-number="113",NICK JR
+https://www.movistarplus.es/canal/nick-jr?id=nickjr
+#EXTINF:-1 tvg-id="Nickelodeon.es" tvg-name="Nickelodeon" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" tvg-chno="114" channel-number="114",Nickelodeon
+https://www.movistarplus.es/canal/nickelodeon?id=nick
+#EXTINF:-1 tvg-id="Dreamworks.es" tvg-name="Dreamworks" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" tvg-chno="115" channel-number="115",Dreamworks
+https://www.movistarplus.es/canal/dreamworks?id=dwsp
+#EXTINF:-1 tvg-id="Boing.es" tvg-name="Boing" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" tvg-chno="117" channel-number="117",Boing
+https://www.movistarplus.es/canal/boing?id=boing
+#EXTINF:-1 tvg-id="Clan.TVE.es" tvg-name="Clan TVE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" tvg-chno="118" channel-number="118",Clan TVE
+https://www.movistarplus.es/canal/clan-tve?id=clantv
+#EXTINF:-1 tvg-id="SX3.es" tvg-name="SX3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/C33.png" tvg-chno="119" channel-number="119",SX3
+https://www.movistarplus.es/canal/sx3?id=c33
+#EXTINF:-1 tvg-id="MTV.es" tvg-name="MTV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MTV.png" tvg-chno="120" channel-number="120",MTV
+https://www.movistarplus.es/canal/mtv?id=mtv
+#EXTINF:-1 tvg-id="Mezzo.es" tvg-name="Mezzo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZZO.png" tvg-chno="123" channel-number="123",Mezzo
+https://www.movistarplus.es/canal/mezzo?id=mezzo
+#EXTINF:-1 tvg-id="Mezzo.Live.es" tvg-name="Mezzo Live" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEZZLI.png" tvg-chno="124" channel-number="124",Mezzo Live
+https://www.movistarplus.es/canal/mezzo-live?id=mezzli
+#EXTINF:-1 tvg-id="Classica.es" tvg-name="Classica" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLASSD.png" tvg-chno="125" channel-number="125",Classica
+https://www.movistarplus.es/canal/classica?id=classd
+#EXTINF:-1 tvg-id="24.Horas.es" tvg-name="24 Horas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/24H.png" tvg-chno="127" channel-number="127",24 Horas
+https://www.movistarplus.es/canal/24-horas?id=24h
+#EXTINF:-1 tvg-id="BBC.News.es" tvg-name="BBC News" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BBC.png" tvg-chno="128" channel-number="128",BBC News
+https://www.movistarplus.es/canal/bbc-news?id=bbc
+#EXTINF:-1 tvg-id="CNN.Int.es" tvg-name="CNN Int" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CNN.png" tvg-chno="129" channel-number="129",CNN Int
+https://www.movistarplus.es/canal/cnn-int?id=cnn
+#EXTINF:-1 tvg-id="Euronews.es" tvg-name="Euronews" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ENW.png" tvg-chno="131" channel-number="131",Euronews
+https://www.movistarplus.es/canal/euronews?id=enw
+#EXTINF:-1 tvg-id="Al.Jazeera.English.es" tvg-name="Al Jazeera English" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ALJAZE.png" tvg-chno="132" channel-number="132",Al Jazeera English
+https://www.movistarplus.es/canal/al-jazeera-english?id=aljaze
+#EXTINF:-1 tvg-id="FRANCE24.(FR).es" tvg-name="FRANCE24 (FR)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FRANCE.png" tvg-chno="133" channel-number="133",FRANCE24 (FR)
+https://www.movistarplus.es/canal/france24-fr?id=france
+#EXTINF:-1 tvg-id="3CatInfo.es" tvg-name="3CatInfo" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/3_24.png" tvg-chno="134" channel-number="134",3CatInfo
+https://www.movistarplus.es/canal/3catinfo?id=3_24
+#EXTINF:-1 tvg-id="1+1.Internacional.es" tvg-name="1+1 Internacional" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTEUA.png" tvg-chno="135" channel-number="135",1+1 Internacional
+https://www.movistarplus.es/canal/1-plus1-internacional?id=inteua
+#EXTINF:-1 tvg-id="CNBC.es" tvg-name="CNBC" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NBC.png" tvg-chno="136" channel-number="136",CNBC
+https://www.movistarplus.es/canal/cnbc?id=nbc
+#EXTINF:-1 tvg-id="TV5MONDE.es" tvg-name="TV5MONDE" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TV5.png" tvg-chno="137" channel-number="137",TV5MONDE
+https://www.movistarplus.es/canal/tv5monde?id=tv5
+#EXTINF:-1 tvg-id="Bloomberg.es" tvg-name="Bloomberg" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BL.png" tvg-chno="138" channel-number="138",Bloomberg
+https://www.movistarplus.es/canal/bloomberg?id=bl
+#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="El Toro TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/INTECO.png" tvg-chno="139" channel-number="139",El Toro TV
+https://www.movistarplus.es/canal/el-toro-tv?id=inteco
+#EXTINF:-1 tvg-id="Sky.News.es" tvg-name="Sky News" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/SKYNW.png" tvg-chno="139" channel-number="139",Sky News
+https://www.movistarplus.es/canal/sky-news?id=skynw
+#EXTINF:-1 tvg-id="Negocios.TV.es" tvg-name="Negocios TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" tvg-chno="140" channel-number="140",Negocios TV
+https://www.movistarplus.es/canal/negocios-tv?id=negotv
+#EXTINF:-1 tvg-id="CGTN.Español.es" tvg-name="CGTN Español" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CCTV-E.png" tvg-chno="141" channel-number="141",CGTN Español
+https://www.movistarplus.es/canal/cgtn-espanyol?id=cctv-e
+#EXTINF:-1 tvg-id="CGTN.Documentary.es" tvg-name="CGTN Documentary" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CGTND.png" tvg-chno="142" channel-number="142",CGTN Documentary
+https://www.movistarplus.es/canal/cgtn-documentary?id=cgtnd
+#EXTINF:-1 tvg-id="CGTN.Documentary.HD.es" tvg-name="CGTN Documentary HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CGTNDO.png" tvg-chno="142" channel-number="142",CGTN Documentary HD
+https://www.movistarplus.es/canal/cgtn-documentary-hd?id=cgtndo
+#EXTINF:-1 tvg-id="CGTN.English.HD.es" tvg-name="CGTN English HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CGTNEN.png" tvg-chno="143" channel-number="143",CGTN English HD
+https://www.movistarplus.es/canal/cgtn-english-hd?id=cgtnen
+#EXTINF:-1 tvg-id="UCL.es" tvg-name="UCL" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UCL.png" tvg-chno="143" channel-number="143",UCL
+https://www.movistarplus.es/canal/ucl?id=ucl
+#EXTINF:-1 tvg-id="CGTN.Français.HD.es" tvg-name="CGTN Français HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CGTNFR.png" tvg-chno="144" channel-number="144",CGTN Français HD
+https://www.movistarplus.es/canal/cgtn-francais-hd?id=cgtnfr
+#EXTINF:-1 tvg-id="Canal.de.las.Estrellas.es" tvg-name="Canal de las Estrellas" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GALAV.png" tvg-chno="144" channel-number="144",Canal de las Estrellas
+https://www.movistarplus.es/canal/canal-de-las-estrellas?id=galav
+#EXTINF:-1 tvg-id="Arirang.TV.HD.es" tvg-name="Arirang TV HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARIRHD.png" tvg-chno="145" channel-number="145",Arirang TV HD
+https://www.movistarplus.es/canal/arirang-tv-hd?id=arirhd
+#EXTINF:-1 tvg-id="TV.Chile.es" tvg-name="TV Chile" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHILE.png" tvg-chno="145" channel-number="145",TV Chile
+https://www.movistarplus.es/canal/tv-chile?id=chile
+#EXTINF:-1 tvg-id="TV.Colombia.es" tvg-name="TV Colombia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/COLOMB.png" tvg-chno="146" channel-number="146",TV Colombia
+https://www.movistarplus.es/canal/tv-colombia?id=colomb
+#EXTINF:-1 tvg-id="Cubavisión.es" tvg-name="Cubavisión" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CUBAV.png" tvg-chno="147" channel-number="147",Cubavisión
+https://www.movistarplus.es/canal/cubavision?id=cubav
+#EXTINF:-1 tvg-id="Telesur.es" tvg-name="Telesur" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TLESUR.png" tvg-chno="148" channel-number="148",Telesur
+https://www.movistarplus.es/canal/telesur?id=tlesur
+#EXTINF:-1 tvg-id="Daystar.Español.HD.es" tvg-name="Daystar Español HD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAYST.png" tvg-chno="149" channel-number="149",Daystar Español HD
+https://www.movistarplus.es/canal/daystar-espanyol-hd?id=dayst
+#EXTINF:-1 tvg-id="EWTN.es" tvg-name="EWTN" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EWTN.png" tvg-chno="149" channel-number="149",EWTN
+https://www.movistarplus.es/canal/ewtn?id=ewtn
+#EXTINF:-1 tvg-id="Canal.Sur.Andalucía.es" tvg-name="Canal Sur Andalucía" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" tvg-chno="151" channel-number="151",Canal Sur Andalucía
+https://www.movistarplus.es/canal/canal-sur-andalucia?id=antv
+#EXTINF:-1 tvg-id="TVG.Europa.es" tvg-name="TVG Europa" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVG.png" tvg-chno="152" channel-number="152",TVG Europa
+https://www.movistarplus.es/canal/tvg-europa?id=tvg
+#EXTINF:-1 tvg-id="Canal.Extremadura.Sat.es" tvg-name="Canal Extremadura Sat" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/EXTREM.png" tvg-chno="153" channel-number="153",Canal Extremadura Sat
+https://www.movistarplus.es/canal/canal-extremadura-sat?id=extrem
+#EXTINF:-1 tvg-id="TV3.Cat.es" tvg-name="TV3 Cat" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TVC.png" tvg-chno="154" channel-number="154",TV3 Cat
+https://www.movistarplus.es/canal/tv3-cat?id=tvc
+#EXTINF:-1 tvg-id="Aragón.TV.Int.es" tvg-name="Aragón TV Int" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGON.png" tvg-chno="156" channel-number="156",Aragón TV Int
+https://www.movistarplus.es/canal/aragon-tv-int?id=aragon
+#EXTINF:-1 tvg-id="Telemadrid.Int..es" tvg-name="Telemadrid Int." tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TELMIN.png" tvg-chno="157" channel-number="157",Telemadrid Int.
+https://www.movistarplus.es/canal/telemadrid-int?id=telmin
+#EXTINF:-1 tvg-id="etb1ON.es" tvg-name="etb1ON" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB3.png" tvg-chno="158" channel-number="158",etb1ON
+https://www.movistarplus.es/canal/etb1on?id=etb3
+#EXTINF:-1 tvg-id="etb2ON.es" tvg-name="etb2ON" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" tvg-chno="159" channel-number="159",etb2ON
+https://www.movistarplus.es/canal/etb2on?id=etb
+#EXTINF:-1 tvg-id="Esport.3.es" tvg-name="Esport 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" tvg-chno="164" channel-number="164",Esport 3
+https://www.movistarplus.es/canal/esport-3?id=esp3
+#EXTINF:-1 tvg-id="Betevé.es" tvg-name="Betevé" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BTV.png" tvg-chno="166" channel-number="166",Betevé
+https://www.movistarplus.es/canal/beteve?id=btv
+#EXTINF:-1 tvg-id="M+.LALIGA.3.es" tvg-name="M+ LALIGA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-chno="167" channel-number="167",M+ LALIGA 3
+https://www.movistarplus.es/canal/m-plus-laliga-3?id=mlig2
+#EXTINF:-1 tvg-id="DAZN.Mundial.6.es" tvg-name="DAZN Mundial 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" tvg-chno="168" channel-number="168",DAZN Mundial 6
+https://www.movistarplus.es/canal/dazn-mundial-6?id=mlig3
+#EXTINF:-1 tvg-id="DAZN.MUNDIAL.3.es" tvg-name="DAZN MUNDIAL 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" tvg-chno="173" channel-number="173",DAZN MUNDIAL 3
+https://www.movistarplus.es/canal/dazn-mundial-3?id=daznl3
+#EXTINF:-1 tvg-id="DAZN.MUNDIAL.4.es" tvg-name="DAZN MUNDIAL 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" tvg-chno="174" channel-number="174",DAZN MUNDIAL 4
+https://www.movistarplus.es/canal/dazn-mundial-4?id=daznl4
+#EXTINF:-1 tvg-id="DAZN.Mundial.5.es" tvg-name="DAZN Mundial 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" tvg-chno="175" channel-number="175",DAZN Mundial 5
+https://www.movistarplus.es/canal/dazn-mundial-5?id=daznl5
+#EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.3.es" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" tvg-chno="178" channel-number="178",LALIGA TV HYPERMOTION 3
+https://www.movistarplus.es/canal/laliga-tv-hypermotion-3?id=mligs3
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.4.es" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" tvg-chno="180" channel-number="180",M+ Liga de Campeones 4
+https://www.movistarplus.es/canal/m-plus-liga-de-campeones-4?id=chap3
+#EXTINF:-1 tvg-id="M+.Liga.de.Campeones.5.es" tvg-name="M+ Liga de Campeones 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" tvg-chno="181" channel-number="181",M+ Liga de Campeones 5
+https://www.movistarplus.es/canal/m-plus-liga-de-campeones-5?id=chap4
+#EXTINF:-1 tvg-id="M+.Deportes.4.es" tvg-name="M+ Deportes 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" tvg-chno="191" channel-number="191",M+ Deportes 4
+https://www.movistarplus.es/canal/m-plus-deportes-4?id=usop3
+#EXTINF:-1 tvg-id="M+.Deportes.5.es" tvg-name="M+ Deportes 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" tvg-chno="192" channel-number="192",M+ Deportes 5
+https://www.movistarplus.es/canal/m-plus-deportes-5?id=usop11
+#EXTINF:-1 tvg-id="M+.Deportes.6.es" tvg-name="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-chno="193" channel-number="193",M+ Deportes 6
+https://www.movistarplus.es/canal/m-plus-deportes-6?id=multi8
+#EXTINF:-1 tvg-id="M+.Deportes.7.es" tvg-name="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" tvg-chno="195" channel-number="195",M+ Deportes 7
+https://www.movistarplus.es/canal/m-plus-deportes-7?id=multi6
+#EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" tvg-chno="197" channel-number="197",DAZN 3
+https://www.movistarplus.es/canal/dazn-3?id=dazn3
+#EXTINF:-1 tvg-id="DAZN.4.es" tvg-name="DAZN 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" tvg-chno="198" channel-number="198",DAZN 4
+https://www.movistarplus.es/canal/dazn-4?id=dazn4
+#EXTINF:-1 tvg-id="Canal.Fútbol.Replay.es" tvg-name="Canal Fútbol Replay" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FUTREP.png" tvg-chno="199" channel-number="199",Canal Fútbol Replay
+https://www.movistarplus.es/canal/canal-futbol-replay?id=futrep
+#EXTINF:-1 tvg-id="M+.LALIGA.HDR.es" tvg-name="M+ LALIGA HDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" tvg-chno="440" channel-number="440",M+ LALIGA HDR
+https://www.movistarplus.es/canal/m-plus-laliga-hdr?id=mliguh
+#EXTINF:-1 tvg-id="M+.LALIGA.2.HDR.es" tvg-name="M+ LALIGA 2 HDR" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIUHD.png" tvg-chno="441" channel-number="441",M+ LALIGA 2 HDR
+https://www.movistarplus.es/canal/m-plus-laliga-2-hdr?id=mliuhd
+#EXTINF:-1 tvg-id="M+.Wimbledon.UHD.es" tvg-name="M+ Wimbledon UHD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/POPUHD.png" tvg-chno="444" channel-number="444",M+ Wimbledon UHD
+https://www.movistarplus.es/canal/m-plus-wimbledon-uhd?id=popuhd
+#EXTINF:-1 tvg-id="M+.LALIGA.3.es" tvg-name="M+ LALIGA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-chno="450" channel-number="450",M+ LALIGA 3
+https://www.movistarplus.es/canal/m-plus-laliga-3?id=mlig2
