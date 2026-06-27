@@ -1,387 +1,321 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP.1.pt" tvg-name="RTP 1" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp1.png" tvg-chno="1" channel-number="1",RTP 1
+#EXTINF:-1 tvg-id="RTP.1.HD.pt" tvg-name="RTP 1 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPHD.png" tvg-chno="1" channel-number="1",RTP 1 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.2.pt" tvg-name="RTP 2" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp2.png" tvg-chno="2" channel-number="2",RTP 2
+#EXTINF:-1 tvg-id="RTP.2.HD.pt" tvg-name="RTP 2 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTP2HD.png" tvg-chno="2" channel-number="2",RTP 2 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic.svg" tvg-chno="3" channel-number="3",SIC
+#EXTINF:-1 tvg-id="SIC.HD.pt" tvg-name="SIC HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICHD.png" tvg-chno="3" channel-number="3",SIC HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvi.svg" tvg-chno="4" channel-number="4",TVI
+#EXTINF:-1 tvg-id="TVI.HD.pt" tvg-name="TVI HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVIHD.png" tvg-chno="4" channel-number="4",TVI HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Notícias.pt" tvg-name="SIC Notícias" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sicnoticias_HD.png" tvg-chno="5" channel-number="5",SIC Notícias
+#EXTINF:-1 tvg-id="SIC.Notícias.HD.pt" tvg-name="SIC Notícias HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNHD.png" tvg-chno="5" channel-number="5",SIC Notícias HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.3.pt" tvg-name="RTP 3" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpnoticias.png" tvg-chno="6" channel-number="6",RTP 3
+#EXTINF:-1 tvg-id="RTP.Notícias.HD.pt" tvg-name="RTP Notícias HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTP3HD.png" tvg-chno="6" channel-number="6",RTP Notícias HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CNN.Portugal.pt" tvg-name="CNN Portugal" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cnn-portugal.svg" tvg-chno="7" channel-number="7",CNN Portugal
+#EXTINF:-1 tvg-id="CNN.Portugal.HD.pt" tvg-name="CNN Portugal HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcnnportugalhd.png" tvg-chno="7" channel-number="7",CNN Portugal HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cm-tv.svg" tvg-chno="8" channel-number="8",CMTV
+#EXTINF:-1 tvg-id="CMTV.HD.pt" tvg-name="CMTV HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCMTVHD.png" tvg-chno="8" channel-number="8",CMTV HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="News.Now.pt" tvg-name="News Now" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/newsnow.png" tvg-chno="9" channel-number="9",News Now
+#EXTINF:-1 tvg-id="NewsNOW.pt" tvg-name="NewsNOW" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNEWSNOW.png" tvg-chno="9" channel-number="9",NewsNOW
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SPORT.TV+.pt" tvg-name="SPORT TV+" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sporttv+.png" tvg-chno="10" channel-number="10",SPORT TV+
+#EXTINF:-1 tvg-id="SPORT.TV+.HD.pt" tvg-name="SPORT TV+ HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTVMAISHD.png" tvg-chno="10" channel-number="10",SPORT TV+ HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.11.pt" tvg-name="Canal 11" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/Logo_Canal_11_FPF.svg" tvg-chno="11" channel-number="11",Canal 11
+#EXTINF:-1 tvg-id="Canal.11.HD.pt" tvg-name="Canal 11 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANAL11HD.png" tvg-chno="11" channel-number="11",Canal 11 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="TVGlobo" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvglobo.png" tvg-chno="12" channel-number="12",TVGlobo
+#EXTINF:-1 tvg-id="Globo.HD.pt" tvg-name="Globo HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FGLOBOHD.png" tvg-chno="12" channel-number="12",Globo HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVI.Reality.pt" tvg-name="TVI Reality" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvi-reality.svg" tvg-chno="13" channel-number="13",TVI Reality
+#EXTINF:-1 tvg-id="TVI.Reality.HD.pt" tvg-name="TVI Reality HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVIREALHD.png" tvg-chno="13" channel-number="13",TVI Reality HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Mulher.pt" tvg-name="SIC Mulher" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-mulher-2023.svg" tvg-chno="14" channel-number="14",SIC Mulher
+#EXTINF:-1 tvg-id="SIC.Mulher.HD.pt" tvg-name="SIC Mulher HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICMHD.png" tvg-chno="14" channel-number="14",SIC Mulher HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Caras.pt" tvg-name="SIC Caras" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-caras.svg" tvg-chno="15" channel-number="15",SIC Caras
+#EXTINF:-1 tvg-id="SIC.Caras.HD.pt" tvg-name="SIC Caras HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICCHD.png" tvg-chno="15" channel-number="15",SIC Caras HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-name="SIC Radical" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-radical.svg" tvg-chno="16" channel-number="16",SIC Radical
+#EXTINF:-1 tvg-id="SIC.Radical.HD.pt" tvg-name="SIC Radical HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICRHD.png" tvg-chno="16" channel-number="16",SIC Radical HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="NOS.Studios.pt" tvg-name="NOS Studios" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nos-studios.svg" tvg-chno="17" channel-number="17",NOS Studios
+#EXTINF:-1 tvg-id="NOS.Studios.HD.pt" tvg-name="NOS Studios HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png" tvg-chno="17" channel-number="17",NOS Studios HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="V.+.TVI.pt" tvg-name="V + TVI" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/v+.png" tvg-chno="18" channel-number="18",V + TVI
+#EXTINF:-1 tvg-id="V+TVI.pt" tvg-name="V+TVI" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FVmaisTVI.png" tvg-chno="18" channel-number="18",V+TVI
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Sporting.TV.pt" tvg-name="Sporting TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sporting-tv.svg" tvg-chno="29" channel-number="29",Sporting TV
+#EXTINF:-1 tvg-id="Canal.Convidado.pt" tvg-name="Canal Convidado" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCONV.png" tvg-chno="19" channel-number="19",Canal Convidado
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="A.Bola.TV.pt" tvg-name="A Bola TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/abolaTV.png" tvg-chno="35" channel-number="35",A Bola TV
+#EXTINF:-1 tvg-id="SPORT.TV1.HD.pt" tvg-name="SPORT TV1 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png" tvg-chno="20" channel-number="20",SPORT TV1 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="W-Sport.pt" tvg-name="W-Sport" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/w-sport.png" tvg-chno="36" channel-number="36",W-Sport
+#EXTINF:-1 tvg-id="SPORT.TV2.HD.pt" tvg-name="SPORT TV2 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png" tvg-chno="21" channel-number="21",SPORT TV2 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Eurosport.pt" tvg-name="Eurosport" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/eurosport-1.svg" tvg-chno="37" channel-number="37",Eurosport
+#EXTINF:-1 tvg-id="SPORT.TV3.HD.pt" tvg-name="SPORT TV3 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png" tvg-chno="22" channel-number="22",SPORT TV3 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Eurosport.2.pt" tvg-name="Eurosport 2" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/eurosport-2.svg" tvg-chno="38" channel-number="38",Eurosport 2
+#EXTINF:-1 tvg-id="SPORT.TV4.HD.pt" tvg-name="SPORT TV4 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_4HD.png" tvg-chno="23" channel-number="23",SPORT TV4 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Disney.Junior.pt" tvg-name="Disney Junior" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/disneyjunior.png" tvg-chno="40" channel-number="40",Disney Junior
+#EXTINF:-1 tvg-id="SPORT.TV5.HD.pt" tvg-name="SPORT TV5 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_5HD.png" tvg-chno="24" channel-number="24",SPORT TV5 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Nick.Jr..pt" tvg-name="Nick Jr." tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nick-junior.png" tvg-chno="41" channel-number="41",Nick Jr.
+#EXTINF:-1 tvg-id="Sport.TV.6.HD.pt" tvg-name="Sport TV 6 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_6HD.png" tvg-chno="25" channel-number="25",Sport TV 6 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.Panda.pt" tvg-name="Canal Panda" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/panda.svg" tvg-chno="42" channel-number="42",Canal Panda
+#EXTINF:-1 tvg-id="Sport.TV.7.HD.pt" tvg-name="Sport TV 7 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_7HD.png" tvg-chno="26" channel-number="26",Sport TV 7 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Panda.KIDS.pt" tvg-name="Panda KIDS" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/logo_panda-kids.png" tvg-chno="43" channel-number="43",Panda KIDS
+#EXTINF:-1 tvg-id="BTV1.HD.pt" tvg-name="BTV1 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBENFICATV1HD.png" tvg-chno="27" channel-number="27",BTV1 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Cartonito.HD.pt" tvg-name="Cartonito HD" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cartonito.png" tvg-chno="45" channel-number="45",Cartonito HD
+#EXTINF:-1 tvg-id="Porto.Canal.HD.pt" tvg-name="Porto Canal HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPORTOHD.png" tvg-chno="28" channel-number="28",Porto Canal HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Disney.Channel.pt" tvg-name="Disney Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/disney-channel.svg" tvg-chno="46" channel-number="46",Disney Channel
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting TV HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPORTINGTVHD.png" tvg-chno="29" channel-number="29",Sporting TV HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nickelodeon.png" tvg-chno="47" channel-number="47",Nickelodeon
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos1.png" tvg-chno="30" channel-number="30",DAZN 1
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Cartoon.Network.pt" tvg-name="Cartoon Network" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cartoon-network.svg" tvg-chno="48" channel-number="48",Cartoon Network
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcanalnos2.png" tvg-chno="31" channel-number="31",DAZN 2
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.K.pt" tvg-name="SIC K" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-k.svg" tvg-chno="49" channel-number="49",SIC K
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP3HD.png" tvg-chno="32" channel-number="32",DAZN 3
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Baby.TV.pt" tvg-name="Baby TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/babytv.svg" tvg-chno="52" channel-number="52",Baby TV
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-name="DAZN 4" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP4HD.png" tvg-chno="33" channel-number="33",DAZN 4
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/hollywood_novo.png" tvg-chno="80" channel-number="80",Hollywood
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="DAZN 5" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDESP5HD.png" tvg-chno="34" channel-number="34",DAZN 5
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="NOS.Studios.pt" tvg-name="NOS Studios" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nos-studios.svg" tvg-chno="81" channel-number="81",NOS Studios
+#EXTINF:-1 tvg-id="A.Bola.TV.pt" tvg-name="A Bola TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FABOLA.png" tvg-chno="35" channel-number="35",A Bola TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/amc_new.png" tvg-chno="84" channel-number="84",AMC
+#EXTINF:-1 tvg-id="W-Sport.pt" tvg-name="W-Sport" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FWSPORT.png" tvg-chno="36" channel-number="36",W-Sport
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Comedy.pt" tvg-name="STAR Comedy" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_comedy.png" tvg-chno="85" channel-number="85",STAR Comedy
+#EXTINF:-1 tvg-id="Eurosport.1.HD.pt" tvg-name="Eurosport 1 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEurosportHD.png" tvg-chno="37" channel-number="37",Eurosport 1 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/axn.svg" tvg-chno="86" channel-number="86",AXN
+#EXTINF:-1 tvg-id="Eurosport.2.HD.pt" tvg-name="Eurosport 2 HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEUROS2HD.png" tvg-chno="38" channel-number="38",Eurosport 2 HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AXN.Movies.pt" tvg-name="AXN Movies" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/axn-movies.svg" tvg-chno="87" channel-number="87",AXN Movies
+#EXTINF:-1 tvg-id="Disney.Junior.HD.pt" tvg-name="Disney Junior HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISNEYJRHD.png" tvg-chno="40" channel-number="40",Disney Junior HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Life.pt" tvg-name="STAR Life" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_life.png" tvg-chno="88" channel-number="88",STAR Life
+#EXTINF:-1 tvg-id="Nick.Jr..pt" tvg-name="Nick Jr." tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNICKJR.png" tvg-chno="41" channel-number="41",Nick Jr.
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.pt" tvg-name="STAR" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" tvg-chno="89" channel-number="89",STAR
+#EXTINF:-1 tvg-id="Canal.Panda.HD.pt" tvg-name="Canal Panda HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fpandahd.png" tvg-chno="42" channel-number="42",Canal Panda HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SYFY.pt" tvg-name="SYFY" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/syfy.svg" tvg-chno="90" channel-number="90",SYFY
+#EXTINF:-1 tvg-id="Panda.KIDS.pt" tvg-name="Panda KIDS" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPANDAKHD.png" tvg-chno="43" channel-number="43",Panda KIDS
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Crime.pt" tvg-name="STAR Crime" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_crime.png" tvg-chno="91" channel-number="91",STAR Crime
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCARTOONITO.png" tvg-chno="45" channel-number="45",Cartoonito
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Movies.pt" tvg-name="STAR Movies" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" tvg-chno="92" channel-number="92",STAR Movies
+#EXTINF:-1 tvg-id="Disney.Channel.HD.pt" tvg-name="Disney Channel HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISNYHD.png" tvg-chno="46" channel-number="46",Disney Channel HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AXN.White.pt" tvg-name="AXN White" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/axn-white.svg" tvg-chno="93" channel-number="93",AXN White
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNicke.png" tvg-chno="47" channel-number="47",Nickelodeon
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="VinTV.pt" tvg-name="VinTV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/vintv.png" tvg-chno="94" channel-number="94",VinTV
+#EXTINF:-1 tvg-id="Cartoon.Network.HD.pt" tvg-name="Cartoon Network HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCART.png" tvg-chno="48" channel-number="48",Cartoon Network HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Dizi.pt" tvg-name="Dizi" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/dizi.png" tvg-chno="97" channel-number="97",Dizi
+#EXTINF:-1 tvg-id="SIC.K.HD.pt" tvg-name="SIC K HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICKHD.png" tvg-chno="49" channel-number="49",SIC K HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Discovery.Channel.pt" tvg-name="Discovery Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/discovery.svg" tvg-chno="100" channel-number="100",Discovery Channel
+#EXTINF:-1 tvg-id="Baby.TV.pt" tvg-name="Baby TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBABYTV.png" tvg-chno="52" channel-number="52",Baby TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="National.Geographic.HD.pt" tvg-name="National Geographic HD" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/nacional-geographic.svg" tvg-chno="105" channel-number="105",National Geographic HD
+#EXTINF:-1 tvg-id="TVCine.TOP.HD.pt" tvg-name="TVCine TOP HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineTop.png" tvg-chno="75" channel-number="75",TVCine TOP HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="National.Geographic.WILD.pt" tvg-name="National Geographic WILD" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/national-geographic-wild.svg" tvg-chno="107" channel-number="107",National Geographic WILD
+#EXTINF:-1 tvg-id="TVCine.EDITION.HD.pt" tvg-name="TVCine EDITION HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEdition.png" tvg-chno="76" channel-number="76",TVCine EDITION HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/odisseias.svg" tvg-chno="109" channel-number="109",Odisseia
+#EXTINF:-1 tvg-id="TVCine.EMOTION.HD.pt" tvg-name="TVCine EMOTION HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineEmotion.png" tvg-chno="77" channel-number="77",TVCine EMOTION HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Travel.Channel.pt" tvg-name="Travel Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/travel-channel.png" tvg-chno="110" channel-number="110",Travel Channel
+#EXTINF:-1 tvg-id="TVCine.ACTION.HD.pt" tvg-name="TVCine ACTION HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVCineAction.png" tvg-chno="78" channel-number="78",TVCine ACTION HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.HISTÓRIA.pt" tvg-name="Canal HISTÓRIA" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/canalhistoria.png" tvg-chno="112" channel-number="112",Canal HISTÓRIA
+#EXTINF:-1 tvg-id="Canal.Hollywood.HD.pt" tvg-name="Canal Hollywood HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHOLLYHD.png" tvg-chno="80" channel-number="80",Canal Hollywood HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AMC.Crime.pt" tvg-name="AMC Crime" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/amc-crimeV2.png" tvg-chno="113" channel-number="113",AMC Crime
+#EXTINF:-1 tvg-id="AMC.HD.pt" tvg-name="AMC HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCHD.png" tvg-chno="84" channel-number="84",AMC HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AMC.Break.pt" tvg-name="AMC Break" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/amc-breakV2.png" tvg-chno="114" channel-number="114",AMC Break
+#EXTINF:-1 tvg-id="Star.Comedy.HD.pt" tvg-name="Star Comedy HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFXHD.png" tvg-chno="85" channel-number="85",Star Comedy HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="ID.-.Investigation.Discovery.pt" tvg-name="ID - Investigation Discovery" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/invetigation-discovery-hd.svg" tvg-chno="115" channel-number="115",ID - Investigation Discovery
+#EXTINF:-1 tvg-id="AXN.HD.pt" tvg-name="AXN HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNHD.png" tvg-chno="86" channel-number="86",AXN HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Conta.Lá.pt" tvg-name="Conta Lá" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/contala.png" tvg-chno="123" channel-number="123",Conta Lá
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-name="AXN Movies HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNMoviesHD.png" tvg-chno="87" channel-number="87",AXN Movies HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="MyZen.TV.pt" tvg-name="MyZen TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/my-zen-tv.svg" tvg-chno="127" channel-number="127",MyZen TV
+#EXTINF:-1 tvg-id="Star.Life.HD.pt" tvg-name="Star Life HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png" tvg-chno="88" channel-number="88",Star Life HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="MyZen.4K.pt" tvg-name="MyZen 4K" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/Myzen_4K.png" tvg-chno="128" channel-number="128",MyZen 4K
+#EXTINF:-1 tvg-id="Star.Channel.HD.pt" tvg-name="Star Channel HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXHD.png" tvg-chno="89" channel-number="89",Star Channel HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="S+.pt" tvg-name="S+" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/saude-mais.svg" tvg-chno="129" channel-number="129",S+
+#EXTINF:-1 tvg-id="Syfy.HD.pt" tvg-name="Syfy HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png" tvg-chno="90" channel-number="90",Syfy HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.Memória.pt" tvg-name="RTP Memória" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpmemoria.png" tvg-chno="130" channel-number="130",RTP Memória
+#EXTINF:-1 tvg-id="Star.Crime.HD.pt" tvg-name="Star Crime HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png" tvg-chno="91" channel-number="91",Star Crime HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.NOVELAS.pt" tvg-name="SIC NOVELAS" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-novelas.png" tvg-chno="131" channel-number="131",SIC NOVELAS
+#EXTINF:-1 tvg-id="Star.Movies.HD.pt" tvg-name="Star Movies HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png" tvg-chno="92" channel-number="92",Star Movies HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tlc.svg" tvg-chno="133" channel-number="133",TLC
+#EXTINF:-1 tvg-id="AXN.White.HD.pt" tvg-name="AXN White HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png" tvg-chno="93" channel-number="93",AXN White HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="E!.Entertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/Entertainment.svg" tvg-chno="134" channel-number="134",E! Entertainment
+#EXTINF:-1 tvg-id="VinTV.pt" tvg-name="VinTV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPANDABIGGS.png" tvg-chno="94" channel-number="94",VinTV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Fashion.TV.pt" tvg-name="Fashion TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/fashion-tv.svg" tvg-chno="135" channel-number="135",Fashion TV
+#EXTINF:-1 tvg-id="Dizi.pt" tvg-name="Dizi" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDIZI.png" tvg-chno="97" channel-number="97",Dizi
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Casa.e.Cozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/casa-cozinha-hd.svg" tvg-chno="137" channel-number="137",Casa e Cozinha
+#EXTINF:-1 tvg-id="Discovery.HD.pt" tvg-name="Discovery HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDISCOVERYHD.png" tvg-chno="100" channel-number="100",Discovery HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="24.Kitchen.pt" tvg-name="24 Kitchen" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/24kitchen.svg" tvg-chno="138" channel-number="138",24 Kitchen
+#EXTINF:-1 tvg-id="National.Geographic.HD.pt" tvg-name="National Geographic HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNGCHD.png" tvg-chno="105" channel-number="105",National Geographic HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Food.Network.pt" tvg-name="Food Network" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/food.svg" tvg-chno="139" channel-number="139",Food Network
+#EXTINF:-1 tvg-id="National.Geographic.WILD.HD.pt" tvg-name="National Geographic WILD HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNGCWILDHD.png" tvg-chno="107" channel-number="107",National Geographic WILD HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="HGTV.pt" tvg-name="HGTV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/hgtv.png" tvg-chno="140" channel-number="140",HGTV
+#EXTINF:-1 tvg-id="ODISSEIA.HD.pt" tvg-name="ODISSEIA HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FODISSEIAHD.png" tvg-chno="109" channel-number="109",ODISSEIA HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.Q.pt" tvg-name="Canal Q" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/canaQ.svg" tvg-chno="143" channel-number="143",Canal Q
+#EXTINF:-1 tvg-id="Travel.Channel.HD.pt" tvg-name="Travel Channel HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRAVELHD.png" tvg-chno="110" channel-number="110",Travel Channel HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Fuel.TV.pt" tvg-name="Fuel TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/fuel-tv.svg" tvg-chno="145" channel-number="145",Fuel TV
+#EXTINF:-1 tvg-id="Canal.História.HD.pt" tvg-name="Canal História HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHistoriaHD.png" tvg-chno="112" channel-number="112",Canal História HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Motorvision.pt" tvg-name="Motorvision" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/motorvision.jpg" tvg-chno="146" channel-number="146",Motorvision
+#EXTINF:-1 tvg-id="AMC.Crime.HD.pt" tvg-name="AMC Crime HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCCrime.png" tvg-chno="113" channel-number="113",AMC Crime HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Nautical.Channel.pt" tvg-name="Nautical Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nautical-channel.png" tvg-chno="147" channel-number="147",Nautical Channel
+#EXTINF:-1 tvg-id="AMC.Break.HD.pt" tvg-name="AMC Break HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAMCBreak.png" tvg-chno="114" channel-number="114",AMC Break HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Horse.TV.pt" tvg-name="Horse TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/horse-tv.png" tvg-chno="148" channel-number="148",Horse TV
+#EXTINF:-1 tvg-id="ID.Investigation.Discovery.pt" tvg-name="ID Investigation Discovery" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FInvestigationDiscovery.png" tvg-chno="115" channel-number="115",ID Investigation Discovery
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="MCM.Top.pt" tvg-name="MCM Top" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/mcm-top.svg" tvg-chno="156" channel-number="156",MCM Top
+#EXTINF:-1 tvg-id="Conta.Lá.pt" tvg-name="Conta Lá" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCONTALA1PP.png" tvg-chno="123" channel-number="123",Conta Lá
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="MCM.Pop.pt" tvg-name="MCM Pop" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/mcm-pop.svg" tvg-chno="157" channel-number="157",MCM Pop
+#EXTINF:-1 tvg-id="Canal.Galeria.pt" tvg-name="Canal Galeria" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fgaleria.png" tvg-chno="126" channel-number="126",Canal Galeria
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Mezzo.pt" tvg-name="Mezzo" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/mezzo.jpg" tvg-chno="158" channel-number="158",Mezzo
+#EXTINF:-1 tvg-id="MyZen.TV.pt" tvg-name="MyZen TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FZENNATUR.png" tvg-chno="127" channel-number="127",MyZen TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Mezzo.Live.pt" tvg-name="Mezzo Live" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/mezzo-live.jpg" tvg-chno="159" channel-number="159",Mezzo Live
+#EXTINF:-1 tvg-id="S+.HD.pt" tvg-name="S+ HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSAUDEMAIS.png" tvg-chno="129" channel-number="129",S+ HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Afro.Music.Channel.pt" tvg-name="Afro Music Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/afro-music.svg" tvg-chno="165" channel-number="165",Afro Music Channel
+#EXTINF:-1 tvg-id="RTP.Memória.pt" tvg-name="RTP Memória" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPM.png" tvg-chno="130" channel-number="130",RTP Memória
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Trace.Toca.pt" tvg-name="Trace Toca" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/trace-toca.jpg" tvg-chno="166" channel-number="166",Trace Toca
+#EXTINF:-1 tvg-id="SIC.Novelas.pt" tvg-name="SIC Novelas" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICNOVEL.png" tvg-chno="131" channel-number="131",SIC Novelas
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Trace.Urban.pt" tvg-name="Trace Urban" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/trace_urban.jpg" tvg-chno="167" channel-number="167",Trace Urban
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTLC.png" tvg-chno="133" channel-number="133",TLC
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Trace.Brasil.pt" tvg-name="Trace Brasil" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/trace-brasil.png" tvg-chno="168" channel-number="168",Trace Brasil
+#EXTINF:-1 tvg-id="E!.Entertainment.HD.pt" tvg-name="E! Entertainment HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEENTERHD.png" tvg-chno="134" channel-number="134",E! Entertainment HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Record.News.pt" tvg-name="Record News" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/record-news.png" tvg-chno="176" channel-number="176",Record News
+#EXTINF:-1 tvg-id="FTV.HD.pt" tvg-name="FTV HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFASHIONTVHD.png" tvg-chno="135" channel-number="135",FTV HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Record.pt" tvg-name="Record" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/record.png" tvg-chno="177" channel-number="177",Record
+#EXTINF:-1 tvg-id="Casa.e.Cozinha.HD.pt" tvg-name="Casa e Cozinha HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcasacozhd.png" tvg-chno="137" channel-number="137",Casa e Cozinha HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.180.pt" tvg-name="Canal 180" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/canal-180.svg" tvg-chno="180" channel-number="180",Canal 180
+#EXTINF:-1 tvg-id="24Kitchen.HD.pt" tvg-name="24Kitchen HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2F24KITCHENHD.png" tvg-chno="138" channel-number="138",24Kitchen HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/artv.svg" tvg-chno="181" channel-number="181",ARTV
+#EXTINF:-1 tvg-id="Food.Network.HD.pt" tvg-name="Food Network HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOODNETWORKHD.png" tvg-chno="139" channel-number="139",Food Network HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Localvisão.TV.pt" tvg-name="Localvisão TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/LocalvisaoTV.jpg" tvg-chno="183" channel-number="183",Localvisão TV
+#EXTINF:-1 tvg-id="HGTV.pt" tvg-name="HGTV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHGTV.png" tvg-chno="140" channel-number="140",HGTV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Unifé.TV.pt" tvg-name="Unifé TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/unife-tv.svg" tvg-chno="184" channel-number="184",Unifé TV
+#EXTINF:-1 tvg-id="Canal.Q.pt" tvg-name="Canal Q" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCanalQB.png" tvg-chno="143" channel-number="143",Canal Q
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="Kuriakos TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/kuriakos-tv.svg" tvg-chno="185" channel-number="185",Kuriakos TV
+#EXTINF:-1 tvg-id="MTV.Portugal.HD.pt" tvg-name="MTV Portugal HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMTV.png" tvg-chno="144" channel-number="144",MTV Portugal HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TV.Canção.Nova.pt" tvg-name="TV Canção Nova" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cançao-nova.svg" tvg-chno="186" channel-number="186",TV Canção Nova
+#EXTINF:-1 tvg-id="Fuel.TV.HD.pt" tvg-name="Fuel TV HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFUELHD.png" tvg-chno="145" channel-number="145",Fuel TV HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Azores.TV.pt" tvg-name="Azores TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/azoresTV.png" tvg-chno="187" channel-number="187",Azores TV
+#EXTINF:-1 tvg-id="Motorvision.HD.pt" tvg-name="Motorvision HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMOTORVISIONHD.png" tvg-chno="146" channel-number="146",Motorvision HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.Madeira.pt" tvg-name="RTP Madeira" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpmadeira.png" tvg-chno="188" channel-number="188",RTP Madeira
+#EXTINF:-1 tvg-id="Nautical.Channel.pt" tvg-name="Nautical Channel" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNAUTICAL.png" tvg-chno="147" channel-number="147",Nautical Channel
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.Açores.pt" tvg-name="RTP Açores" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpacores.png" tvg-chno="189" channel-number="189",RTP Açores
+#EXTINF:-1 tvg-id="Horse.TV.pt" tvg-name="Horse TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FHORSE.png" tvg-chno="148" channel-number="148",Horse TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.África.pt" tvg-name="RTP África" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpafrica.png" tvg-chno="190" channel-number="190",RTP África
+#EXTINF:-1 tvg-id="Fight.Network.HD.pt" tvg-name="Fight Network HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFIGHTHD.png" tvg-chno="150" channel-number="150",Fight Network HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TPA.Notícias.pt" tvg-name="TPA Notícias" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/tpa-noticias.jpg" tvg-chno="191" channel-number="191",TPA Notícias
+#EXTINF:-1 tvg-id="MCM.Top.pt" tvg-name="MCM Top" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMCM.png" tvg-chno="156" channel-number="156",MCM Top
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="ZAP.Viva.pt" tvg-name="ZAP Viva" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/zap-viva-hd.svg" tvg-chno="192" channel-number="192",ZAP Viva
+#EXTINF:-1 tvg-id="MCM.Pop.pt" tvg-name="MCM Pop" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMCMPOP.png" tvg-chno="157" channel-number="157",MCM Pop
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TV.ZIMBO.pt" tvg-name="TV ZIMBO" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvzimbo-internacional.png" tvg-chno="193" channel-number="193",TV ZIMBO
+#EXTINF:-1 tvg-id="Mezzo.pt" tvg-name="Mezzo" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMEZZO.png" tvg-chno="158" channel-number="158",Mezzo
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STV.Notícias.pt" tvg-name="STV Notícias" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/stv-noticias.svg" tvg-chno="195" channel-number="195",STV Notícias
+#EXTINF:-1 tvg-id="Mezzo.Live.HD.pt" tvg-name="Mezzo Live HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMEZZOLIVEHD.png" tvg-chno="159" channel-number="159",Mezzo Live HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVM.Internacional.pt" tvg-name="TVM Internacional" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvm-internacional.png" tvg-chno="196" channel-number="196",TVM Internacional
+#EXTINF:-1 tvg-id="Stingray.iConcerts.HD.pt" tvg-name="Stingray iConcerts HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Ficoncertshd.png" tvg-chno="162" channel-number="162",Stingray iConcerts HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVEi.pt" tvg-name="TVEi" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvei.svg" tvg-chno="198" channel-number="198",TVEi
+#EXTINF:-1 tvg-id="Afro.Music.Channel.pt" tvg-name="Afro Music Channel" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAFROMUSIC.png" tvg-chno="165" channel-number="165",Afro Music Channel
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVE.24h.pt" tvg-name="TVE 24h" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/tve-24h.png" tvg-chno="199" channel-number="199",TVE 24h
+#EXTINF:-1 tvg-id="Trace.Toca.pt" tvg-name="Trace Toca" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTrace_Toca.png" tvg-chno="166" channel-number="166",Trace Toca
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TV.Galicia.pt" tvg-name="TV Galicia" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tv-galicia.svg" tvg-chno="200" channel-number="200",TV Galicia
+#EXTINF:-1 tvg-id="Trace.Urban.HD.pt" tvg-name="Trace Urban HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRACEURBANHD.png" tvg-chno="167" channel-number="167",Trace Urban HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rai.Itália.pt" tvg-name="Rai Itália" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rai-italia.jpg" tvg-chno="202" channel-number="202",Rai Itália
+#EXTINF:-1 tvg-id="Trace.Brasil.pt" tvg-name="Trace Brasil" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRACEBRAS.png" tvg-chno="168" channel-number="168",Trace Brasil
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-name="Euronews" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/euro-news.svg" tvg-chno="203" channel-number="203",Euronews
+#EXTINF:-1 tvg-id="New.Brasil.pt" tvg-name="New Brasil" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNEWBRASIL.png" tvg-chno="174" channel-number="174",New Brasil
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CNN.pt" tvg-name="CNN" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cnn-internacional.svg" tvg-chno="204" channel-number="204",CNN
+#EXTINF:-1 tvg-id="Record.News.pt" tvg-name="Record News" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRECORDNEWS.png" tvg-chno="176" channel-number="176",Record News
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Sky.News.pt" tvg-name="Sky News" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sky-news.svg" tvg-chno="205" channel-number="205",Sky News
+#EXTINF:-1 tvg-id="Record.pt" tvg-name="Record" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVRHD.png" tvg-chno="177" channel-number="177",Record
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Al.Jazeera.pt" tvg-name="Al Jazeera" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/aljazeera.jpg" tvg-chno="207" channel-number="207",Al Jazeera
+#EXTINF:-1 tvg-id="Localvisão.TV.HD.pt" tvg-name="Localvisão TV HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FLOCALVISAOTVHD.png" tvg-chno="179" channel-number="179",Localvisão TV HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="France.24.(Inglês).pt" tvg-name="France 24 (Inglês)" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/france24_ingles.png" tvg-chno="208" channel-number="208",France 24 (Inglês)
+#EXTINF:-1 tvg-id="Canal.180.pt" tvg-name="Canal 180" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FC180.png" tvg-chno="180" channel-number="180",Canal 180
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="DW.pt" tvg-name="DW" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/dw.svg" tvg-chno="209" channel-number="209",DW
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FPARLA.png" tvg-chno="181" channel-number="181",ARTV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CNBC.pt" tvg-name="CNBC" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/CNBC.png" tvg-chno="210" channel-number="210",CNBC
+#EXTINF:-1 tvg-id="Daystar.Español.pt" tvg-name="Daystar Español" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDAYSTARES.png" tvg-chno="182" channel-number="182",Daystar Español
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Bloomberg.pt" tvg-name="Bloomberg" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/bloomberg.svg" tvg-chno="211" channel-number="211",Bloomberg
+#EXTINF:-1 tvg-id="Daystar.pt" tvg-name="Daystar" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDAYSTAREN.png" tvg-chno="183" channel-number="183",Daystar
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CGTN.pt" tvg-name="CGTN" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cgtn.svg" tvg-chno="212" channel-number="212",CGTN
+#EXTINF:-1 tvg-id="Unifé.TV.pt" tvg-name="Unifé TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FUNIFE.png" tvg-chno="184" channel-number="184",Unifé TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TDM.pt" tvg-name="TDM" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/TDM.png" tvg-chno="220" channel-number="220",TDM
+#EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="Kuriakos TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FKURIAKOSTV.png" tvg-chno="185" channel-number="185",Kuriakos TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Cubavision.Internacional.pt" tvg-name="Cubavision Internacional" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cubavision-internacional.svg" tvg-chno="222" channel-number="222",Cubavision Internacional
+#EXTINF:-1 tvg-id="Canção.Nova.pt" tvg-name="Canção Nova" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANCAONOVA.png" tvg-chno="186" channel-number="186",Canção Nova
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Telesur.pt" tvg-name="Telesur" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/telesur.svg" tvg-chno="223" channel-number="223",Telesur
+#EXTINF:-1 tvg-id="Azores.TV.pt" tvg-name="Azores TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAzoresTV.png" tvg-chno="187" channel-number="187",Azores TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="M6.pt" tvg-name="M6" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/m6.svg" tvg-chno="224" channel-number="224",M6
+#EXTINF:-1 tvg-id="RTP.Madeira.pt" tvg-name="RTP Madeira" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPMAD.png" tvg-chno="188" channel-number="188",RTP Madeira
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TV5.Monde.pt" tvg-name="TV5 Monde" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tv5monde.png" tvg-chno="225" channel-number="225",TV5 Monde
+#EXTINF:-1 tvg-id="RTP.Açores.pt" tvg-name="RTP Açores" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPACO.png" tvg-chno="189" channel-number="189",RTP Açores
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="ARTE.Français.pt" tvg-name="ARTE Français" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/arte-francais.png" tvg-chno="226" channel-number="226",ARTE Français
+#EXTINF:-1 tvg-id="RTP.África.pt" tvg-name="RTP África" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPA.png" tvg-chno="190" channel-number="190",RTP África
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="France.24.(Francês).pt" tvg-name="France 24 (Francês)" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/france24_frances.png" tvg-chno="227" channel-number="227",France 24 (Francês)
+#EXTINF:-1 tvg-id="TPA.Notícias.pt" tvg-name="TPA Notícias" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTPA.png" tvg-chno="191" channel-number="191",TPA Notícias
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="BVN.pt" tvg-name="BVN" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/bnv.svg" tvg-chno="228" channel-number="228",BVN
+#EXTINF:-1 tvg-id="ZAP.Viva.HD.pt" tvg-name="ZAP Viva HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FZAPVIVAHD.png" tvg-chno="192" channel-number="192",ZAP Viva HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTL.pt" tvg-name="RTL" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtl.svg" tvg-chno="229" channel-number="229",RTL
+#EXTINF:-1 tvg-id="TV.Zimbo.pt" tvg-name="TV Zimbo" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVZIMBO.png" tvg-chno="193" channel-number="193",TV Zimbo
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="ARTE.Deutsch.pt" tvg-name="ARTE Deutsch" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/arte-deutsch.png" tvg-chno="230" channel-number="230",ARTE Deutsch
+#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTCVINT.png" tvg-chno="194" channel-number="194",TCV Internacional
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTR.Planeta.pt" tvg-name="RTR Planeta" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/planeta-rtr.svg" tvg-chno="237" channel-number="237",RTR Planeta
+#EXTINF:-1 tvg-id="STV.Notícias.pt" tvg-name="STV Notícias" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSTVNOTICIAS.png" tvg-chno="195" channel-number="195",STV Notícias
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RT.pt" tvg-name="RT" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/rt.png" tvg-chno="238" channel-number="238",RT
+#EXTINF:-1 tvg-id="TVEi.pt" tvg-name="TVEi" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVEINT.png" tvg-chno="198" channel-number="198",TVEi
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="BNT.World.pt" tvg-name="BNT World" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/bnt-world_NOVO.png" tvg-chno="239" channel-number="239",BNT World
+#EXTINF:-1 tvg-id="TVE.24h.pt" tvg-name="TVE 24h" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVE24.png" tvg-chno="199" channel-number="199",TVE 24h
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="1+1.pt" tvg-name="1+1" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/1mais1-internacional.svg" tvg-chno="240" channel-number="240",1+1
+#EXTINF:-1 tvg-id="TV.Galicia.pt" tvg-name="TV Galicia" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVGALIZA.png" tvg-chno="200" channel-number="200",TV Galicia
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVRi.pt" tvg-name="TVRi" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvri.svg" tvg-chno="241" channel-number="241",TVRi
+#EXTINF:-1 tvg-id="Rai.Italia.pt" tvg-name="Rai Italia" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRAIITALIA.png" tvg-chno="202" channel-number="202",Rai Italia
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Phoenix.CNE.pt" tvg-name="Phoenix CNE" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/phoenix-cne.svg" tvg-chno="242" channel-number="242",Phoenix CNE
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-name="Euronews" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FEURON.png" tvg-chno="203" channel-number="203",Euronews
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Phoenix.Infonews.pt" tvg-name="Phoenix Infonews" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/radio/phoenix-news.png" tvg-chno="243" channel-number="243",Phoenix Infonews
+#EXTINF:-1 tvg-id="CNN.pt" tvg-name="CNN" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNN.png" tvg-chno="204" channel-number="204",CNN
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CCTV4.pt" tvg-name="CCTV4" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cctv4.svg" tvg-chno="244" channel-number="244",CCTV4
+#EXTINF:-1 tvg-id="Sky.News.pt" tvg-name="Sky News" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSKYN.png" tvg-chno="205" channel-number="205",Sky News
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="KBS.World.pt" tvg-name="KBS World" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/kbs-world-hd.svg" tvg-chno="245" channel-number="245",KBS World
+#EXTINF:-1 tvg-id="Al.Jazeera.pt" tvg-name="Al Jazeera" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FJAZEERA.png" tvg-chno="207" channel-number="207",Al Jazeera
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="NHK.World.Japan.pt" tvg-name="NHK World Japan" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nhk-world-japan.svg" tvg-chno="246" channel-number="246",NHK World Japan
+#EXTINF:-1 tvg-id="France.24.(I).pt" tvg-name="France 24 (I)" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24.png" tvg-chno="208" channel-number="208",France 24 (I)
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Antena.1.pt" tvg-name="Antena 1" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp_antena1.png" tvg-chno="271" channel-number="271",Antena 1
+#EXTINF:-1 tvg-id="DW.pt" tvg-name="DW" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDTSWELLE.png" tvg-chno="209" channel-number="209",DW
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Antena.2.pt" tvg-name="Antena 2" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp_antena2.png" tvg-chno="272" channel-number="272",Antena 2
+#EXTINF:-1 tvg-id="CNBC.pt" tvg-name="CNBC" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCNBC.png" tvg-chno="210" channel-number="210",CNBC
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Antena.3.pt" tvg-name="Antena 3" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp_antena3.png" tvg-chno="273" channel-number="273",Antena 3
+#EXTINF:-1 tvg-id="Bloomberg.pt" tvg-name="Bloomberg" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBLOOM.png" tvg-chno="211" channel-number="211",Bloomberg
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RDP.África.pt" tvg-name="RDP África" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpafrica.png" tvg-chno="274" channel-number="274",RDP África
+#EXTINF:-1 tvg-id="CGTN.pt" tvg-name="CGTN" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fcgtn.png" tvg-chno="212" channel-number="212",CGTN
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rádio.Lusitânia.pt" tvg-name="Rádio Lusitânia" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtplusitania.png" tvg-chno="275" channel-number="275",Rádio Lusitânia
+#EXTINF:-1 tvg-id="TDM.pt" tvg-name="TDM" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTDM.png" tvg-chno="220" channel-number="220",TDM
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rádio.Zig.Zag.pt" tvg-name="Rádio Zig Zag" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpzigzag.png" tvg-chno="276" channel-number="276",Rádio Zig Zag
+#EXTINF:-1 tvg-id="Cubavisión.Internacional.pt" tvg-name="Cubavisión Internacional" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCUBAVINT.png" tvg-chno="222" channel-number="222",Cubavisión Internacional
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Cidade.FM.pt" tvg-name="Cidade FM" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/radio-cidade-fm.svg" tvg-chno="277" channel-number="277",Cidade FM
+#EXTINF:-1 tvg-id="TeleSUR.pt" tvg-name="TeleSUR" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTELESUR.png" tvg-chno="223" channel-number="223",TeleSUR
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rádio.Comercial.pt" tvg-name="Rádio Comercial" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/comercial.svg" tvg-chno="278" channel-number="278",Rádio Comercial
+#EXTINF:-1 tvg-id="M6.pt" tvg-name="M6" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FM6.png" tvg-chno="224" channel-number="224",M6
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Smooth.FM.pt" tvg-name="Smooth FM" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/smooth.svg" tvg-chno="279" channel-number="279",Smooth FM
+#EXTINF:-1 tvg-id="TV5.Monde.pt" tvg-name="TV5 Monde" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTV5.png" tvg-chno="225" channel-number="225",TV5 Monde
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="M80.pt" tvg-name="M80" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/m80.svg" tvg-chno="280" channel-number="280",M80
+#EXTINF:-1 tvg-id="ARTE.(Français).pt" tvg-name="ARTE (Français)" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FARTE.png" tvg-chno="226" channel-number="226",ARTE (Français)
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Mega.Hits.pt" tvg-name="Mega Hits" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/mega-hits.svg" tvg-chno="281" channel-number="281",Mega Hits
+#EXTINF:-1 tvg-id="France.24.(F).pt" tvg-name="France 24 (F)" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFRANCE24FR.png" tvg-chno="227" channel-number="227",France 24 (F)
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Marginal.pt" tvg-name="Marginal" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/marginal.svg" tvg-chno="282" channel-number="282",Marginal
+#EXTINF:-1 tvg-id="BVN.pt" tvg-name="BVN" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FBVN.png" tvg-chno="228" channel-number="228",BVN
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Radar.pt" tvg-name="Radar" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/radio/radio-radar.png" tvg-chno="283" channel-number="283",Radar
+#EXTINF:-1 tvg-id="RTL.pt" tvg-name="RTL" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTL.png" tvg-chno="229" channel-number="229",RTL
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Oxigénio.pt" tvg-name="Oxigénio" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/oxigenio.svg" tvg-chno="284" channel-number="284",Oxigénio
+#EXTINF:-1 tvg-id="ARTE.(Deutsch).pt" tvg-name="ARTE (Deutsch)" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FARTEDE.png" tvg-chno="230" channel-number="230",ARTE (Deutsch)
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rádio.Amália.pt" tvg-name="Rádio Amália" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/radio-amalia.svg" tvg-chno="285" channel-number="285",Rádio Amália
+#EXTINF:-1 tvg-id="RTR.Planeta.pt" tvg-name="RTR Planeta" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTRPLNET.png" tvg-chno="237" channel-number="237",RTR Planeta
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RFM.pt" tvg-name="RFM" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/rfm.png" tvg-chno="286" channel-number="286",RFM
+#EXTINF:-1 tvg-id="Russia.Today.pt" tvg-name="Russia Today" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRUSSIAT.png" tvg-chno="238" channel-number="238",Russia Today
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rádio.Renascença.pt" tvg-name="Rádio Renascença" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/renascenca.svg" tvg-chno="287" channel-number="287",Rádio Renascença
+#EXTINF:-1 tvg-id="BNT.World.pt" tvg-name="BNT World" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVBLGARIA.png" tvg-chno="239" channel-number="239",BNT World
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TSF.pt" tvg-name="TSF" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/radio-tsf.svg" tvg-chno="288" channel-number="288",TSF
+#EXTINF:-1 tvg-id="1+1.pt" tvg-name="1+1" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2F1MAIS1.png" tvg-chno="240" channel-number="240",1+1
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Super.FM.pt" tvg-name="Super FM" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/radio-super-fm.svg" tvg-chno="289" channel-number="289",Super FM
+#EXTINF:-1 tvg-id="TVR.Internacional.pt" tvg-name="TVR Internacional" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVRI.png" tvg-chno="241" channel-number="241",TVR Internacional
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CM.Rádio.pt" tvg-name="CM Rádio" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cmradio.png" tvg-chno="290" channel-number="290",CM Rádio
+#EXTINF:-1 tvg-id="CCTV.4.pt" tvg-name="CCTV 4" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCTV4.png" tvg-chno="244" channel-number="244",CCTV 4
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Rádio.Regional.pt" tvg-name="Rádio Regional" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/regional.svg" tvg-chno="291" channel-number="291",Rádio Regional
+#EXTINF:-1 tvg-id="KBS.World.HD.pt" tvg-name="KBS World HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FKBSWORLDHD.png" tvg-chno="245" channel-number="245",KBS World HD
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.NOS.pt" tvg-name="Canal NOS" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/canal-nos.svg" tvg-chno="500" channel-number="500",Canal NOS
+#EXTINF:-1 tvg-id="NHK.World.TV.pt" tvg-name="NHK World TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNHK.png" tvg-chno="246" channel-number="246",NHK World TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.1.pt" tvg-name="RTP 1" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp1.png" tvg-chno="501" channel-number="501",RTP 1
+#EXTINF:-1 tvg-id="SET.Asia.pt" tvg-name="SET Asia" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSETA.png" tvg-chno="247" channel-number="247",SET Asia
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.2.pt" tvg-name="RTP 2" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtp2.png" tvg-chno="502" channel-number="502",RTP 2
+#EXTINF:-1 tvg-id="MAX.pt" tvg-name="MAX" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMAX.png" tvg-chno="249" channel-number="249",MAX
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic.svg" tvg-chno="503" channel-number="503",SIC
+#EXTINF:-1 tvg-id="DOGTV.pt" tvg-name="DOGTV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDOGTV.png" tvg-chno="253" channel-number="253",DOGTV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvi.svg" tvg-chno="504" channel-number="504",TVI
+#EXTINF:-1 tvg-id="OneToro.TV.pt" tvg-name="OneToro TV" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png" tvg-chno="254" channel-number="254",OneToro TV
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="RTP.3.pt" tvg-name="RTP 3" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/rtpnoticias.png" tvg-chno="506" channel-number="506",RTP 3
+#EXTINF:-1 tvg-id="Caça.e.Pesca.pt" tvg-name="Caça e Pesca" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png" tvg-chno="255" channel-number="255",Caça e Pesca
 https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CNN.Portugal.pt" tvg-name="CNN Portugal" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cnn-portugal.svg" tvg-chno="507" channel-number="507",CNN Portugal
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/cm-tv.svg" tvg-chno="508" channel-number="508",CMTV
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SPORT.TV+.pt" tvg-name="SPORT TV+" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sporttv+.png" tvg-chno="510" channel-number="510",SPORT TV+
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVGlobo.pt" tvg-name="TVGlobo" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvglobo.png" tvg-chno="512" channel-number="512",TVGlobo
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="TVI.Reality.pt" tvg-name="TVI Reality" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/tvi-reality.svg" tvg-chno="513" channel-number="513",TVI Reality
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Mulher.pt" tvg-name="SIC Mulher" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-mulher-2023.svg" tvg-chno="514" channel-number="514",SIC Mulher
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Caras.pt" tvg-name="SIC Caras" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-caras.svg" tvg-chno="515" channel-number="515",SIC Caras
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-name="SIC Radical" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-radical.svg" tvg-chno="516" channel-number="516",SIC Radical
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="NOS.Studios.pt" tvg-name="NOS Studios" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nos-studios.svg" tvg-chno="517" channel-number="517",NOS Studios
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Eurosport.2.pt" tvg-name="Eurosport 2" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/eurosport-2.svg" tvg-chno="538" channel-number="538",Eurosport 2
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Disney.Junior.pt" tvg-name="Disney Junior" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/disneyjunior.png" tvg-chno="540" channel-number="540",Disney Junior
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.Panda.pt" tvg-name="Canal Panda" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/panda.svg" tvg-chno="542" channel-number="542",Canal Panda
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Disney.Channel.pt" tvg-name="Disney Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/disney-channel.svg" tvg-chno="546" channel-number="546",Disney Channel
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SIC.K.pt" tvg-name="SIC K" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/sic-k.svg" tvg-chno="549" channel-number="549",SIC K
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/hollywod.svg" tvg-chno="580" channel-number="580",Hollywood
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/amc_new.png" tvg-chno="584" channel-number="584",AMC
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Comedy.pt" tvg-name="STAR Comedy" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_comedy.png" tvg-chno="585" channel-number="585",STAR Comedy
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AXN.pt" tvg-name="AXN" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/axn.svg" tvg-chno="586" channel-number="586",AXN
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AXN.Movies.pt" tvg-name="AXN Movies" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/axn-movies.svg" tvg-chno="587" channel-number="587",AXN Movies
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Life.pt" tvg-name="STAR Life" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_life.png" tvg-chno="588" channel-number="588",STAR Life
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.pt" tvg-name="STAR" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_channel.png" tvg-chno="589" channel-number="589",STAR
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="SYFY.pt" tvg-name="SYFY" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/syfy.svg" tvg-chno="590" channel-number="590",SYFY
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="STAR.Movies.pt" tvg-name="STAR Movies" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/STAR_movies.png" tvg-chno="592" channel-number="592",STAR Movies
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AXN.White.pt" tvg-name="AXN White" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/axn-white.svg" tvg-chno="593" channel-number="593",AXN White
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Discovery.Channel.pt" tvg-name="Discovery Channel" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/discovery.svg" tvg-chno="600" channel-number="600",Discovery Channel
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="National.Geographic.pt" tvg-name="National Geographic" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/nacional-geographic.svg" tvg-chno="605" channel-number="605",National Geographic
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="National.Geographic.WILD.pt" tvg-name="National Geographic WILD" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/national-geographic-wild.svg" tvg-chno="607" channel-number="607",National Geographic WILD
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/odisseias.svg" tvg-chno="609" channel-number="609",Odisseia
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.HISTÓRIA.pt" tvg-name="Canal HISTÓRIA" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/canalhistoria.png" tvg-chno="612" channel-number="612",Canal HISTÓRIA
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AMC.Crime.pt" tvg-name="AMC Crime" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/amc-crimeV2.png" tvg-chno="613" channel-number="613",AMC Crime
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="AMC.Break.pt" tvg-name="AMC Break" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/amc-breakV2.png" tvg-chno="614" channel-number="614",AMC Break
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="E!.Entertainment.pt" tvg-name="E! Entertainment" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/Entertainment.svg" tvg-chno="634" channel-number="634",E! Entertainment
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Fuel.TV.pt" tvg-name="Fuel TV" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/images/logos/fuel-tv.svg" tvg-chno="645" channel-number="645",Fuel TV
-https://www.nos.pt/tv/180-canais
-#EXTINF:-1 tvg-id="Canal.NOS.pt" tvg-name="Canal NOS" tvg-logo="https://www.nos.pt/content/dam/nos/assets/channels/logos-todos-os-canais-/tv/canal-nos.svg" tvg-chno="999" channel-number="999",Canal NOS
+#EXTINF:-1 tvg-id="Canal.NOS.HD.pt" tvg-name="Canal NOS HD" tvg-logo="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANALNOSHD.png" tvg-chno="500" channel-number="500",Canal NOS HD
 https://www.nos.pt/tv/180-canais
