@@ -1,0 +1,513 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="CANAL+.360.HD.fr" tvg-name="CANAL+ 360 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22300/ncplus-ouah/CHN43FB/60-rhKM" tvg-chno="1" channel-number="1",CANAL+ 360 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.PREMIUM.fr" tvg-name="CANAL+ PREMIUM" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20586/ncplus-ouah/CHN43FB/CANAL_Premium_black" tvg-chno="2" channel-number="2",CANAL+ PREMIUM
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.DOMO.HD.fr" tvg-name="CANAL+ DOMO HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20841/ncplus-ouah/CHN43FB/CANALDOMOHD" tvg-chno="3" channel-number="3",CANAL+ DOMO HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.KUCHNIA.fr" tvg-name="CANAL+ KUCHNIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20838/ncplus-ouah/CHN43FB/CANALKuchnia" tvg-chno="4" channel-number="4",CANAL+ KUCHNIA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.fr" tvg-name="TVN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20756/ncplus-ouah/CHN43FB/TVNlogo-uH4G-1ZpH" tvg-chno="5" channel-number="5",TVN
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.24.HD.fr" tvg-name="TVN 24 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20309/ncplus-ouah/CHN43FB/tvn24logo" tvg-chno="6" channel-number="6",TVN 24 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.fr" tvg-name="POLSAT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20790/ncplus-ouah/CHN43FB/polsat-logotyp-przezroczysty" tvg-chno="7" channel-number="7",POLSAT
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TV.6.HD.fr" tvg-name="TV 6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20792/ncplus-ouah/CHN43FB/TV6-2023.svg-rDR7" tvg-chno="8" channel-number="8",TV 6 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.7.HD.fr" tvg-name="TVN 7 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20746/ncplus-ouah/CHN43FB/TVN7-cuwa" tvg-chno="9" channel-number="9",TVN 7 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="polsat.2.fr" tvg-name="polsat 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20302/ncplus-ouah/CHN43FB/polsat2logo" tvg-chno="10" channel-number="10",polsat 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.1.fr" tvg-name="TVP 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20271/ncplus-ouah/CHN43FB/tvp1logo" tvg-chno="11" channel-number="11",TVP 1
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.2.fr" tvg-name="TVP 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20314/ncplus-ouah/CHN43FB/tvp2logo" tvg-chno="12" channel-number="12",TVP 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.INFO.fr" tvg-name="TVP INFO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20515/ncplus-ouah/CHN43FB/TVPinfo_navy_4x3-Ik88" tvg-chno="13" channel-number="13",TVP INFO
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.SERIALE.fr" tvg-name="TVP SERIALE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20783/ncplus-ouah/CHN43FB/tvpserialelogo" tvg-chno="14" channel-number="14",TVP SERIALE
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ALE.KINO+.HD.fr" tvg-name="ALE KINO+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20846/ncplus-ouah/CHN43FB/Alekino_new" tvg-chno="15" channel-number="15",ALE KINO+ HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="STOPKLATKA.TV.(new).fr" tvg-name="STOPKLATKA TV (new)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20886/ncplus-ouah/CHN43FB/stopklatkafb" tvg-chno="16" channel-number="16",STOPKLATKA TV (new)
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FILMBOX+.one.fr" tvg-name="FILMBOX+ one" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20519/ncplus-ouah/CHN43FB/1200x900_filmbox_one-SwK4" tvg-chno="17" channel-number="17",FILMBOX+ one
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.FILM.HD.fr" tvg-name="POLSAT FILM HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20789/ncplus-ouah/CHN43FB/s2d6rdehxf2t1jittwrunih1544euy3o-ij8n" tvg-chno="18" channel-number="18",POLSAT FILM HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="SUPER.POLSAT.HD.fr" tvg-name="SUPER POLSAT HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20795/ncplus-ouah/CHN43FB/Super_Polsat_Poziome_2021.svg-AIRH" tvg-chno="19" channel-number="19",SUPER POLSAT HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TTV.fr" tvg-name="TTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20807/ncplus-ouah/CHN43FB/TTV" tvg-chno="20" channel-number="20",TTV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="PLANETE+.HD.fr" tvg-name="PLANETE+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20834/CHN43FB/Planete_640_480_0503.png" tvg-chno="21" channel-number="21",PLANETE+ HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ZOOM.TV.fr" tvg-name="ZOOM TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21181/ncplus-ouah/CHN43FB/zoom_reformats284x184-Ud-s" tvg-chno="22" channel-number="22",ZOOM TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVPULSE.HD.fr" tvg-name="TVPULSE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20303/ncplus-ouah/CHN43FB/MicrosoftTeams-image2" tvg-chno="23" channel-number="23",TVPULSE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="PULS.2.fr" tvg-name="PULS 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20866/ncplus-ouah/CHN43FB/PULS2_3_12_20" tvg-chno="24" channel-number="24",PULS 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="MINIMINI+.HD.fr" tvg-name="MINIMINI+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20833/ncplus-ouah/CHN43FB/MiniMini" tvg-chno="25" channel-number="25",MINIMINI+ HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TELETOON+.HD.fr" tvg-name="TELETOON+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20842/CHN43FB/teleTOON_640_480_0503.png" tvg-chno="26" channel-number="26",TELETOON+ HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="KINO.POLSKA.fr" tvg-name="KINO POLSKA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20295/ncplus-ouah/CHN43FB/KinoPolska_green-4HyX" tvg-chno="28" channel-number="28",KINO POLSKA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NOVELAS+.fr" tvg-name="NOVELAS+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21841/ncplus-ouah/CHN43FB/NOVELAS_red" tvg-chno="29" channel-number="29",NOVELAS+
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Strefa.Abonenta.fr" tvg-name="Strefa Abonenta" tvg-logo="" tvg-chno="30" channel-number="30",Strefa Abonenta
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.FILM.HD.fr" tvg-name="CANAL+ FILM HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20845/CHN43FB/CANAL_FILM_640_480_0503.png" tvg-chno="33" channel-number="33",CANAL+ FILM HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.SERIALE.HD.fr" tvg-name="CANAL+ SERIALE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20927/CHN43FB/CANAL_SERIALE_640_480_0503.png" tvg-chno="34" channel-number="34",CANAL+ SERIALE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.DOKUMENT.HD.fr" tvg-name="CANAL+ DOKUMENT HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20930/CHN43FB/CANAL_DOKUMENT_640_480_0503.png" tvg-chno="35" channel-number="35",CANAL+ DOKUMENT HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.4K.ULTRA.HD.fr" tvg-name="CANAL+ 4K ULTRA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21402/ncplus-ouah/CHN43FB/Canal_4K_Ultra_HD" tvg-chno="36" channel-number="36",CANAL+ 4K ULTRA HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="CANAL+ SPORT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20588/ncplus-ouah/CHN43FB/1200x900_c_sport-KU-G" tvg-chno="37" channel-number="37",CANAL+ SPORT
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.SPORT.2.fr" tvg-name="CANAL+ SPORT 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20928/ncplus-ouah/CHN43FB/1200x900_c_sport_2-JxK_" tvg-chno="38" channel-number="38",CANAL+ SPORT 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.SPORT.3.fr" tvg-name="CANAL+ SPORT 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21581/ncplus-ouah/CHN43FB/1200x900_c_sport3-8d16" tvg-chno="39" channel-number="39",CANAL+ SPORT 3
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.SPORT.4.fr" tvg-name="CANAL+ SPORT 4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21583/ncplus-ouah/CHN43FB/1200x900_c_sport4-kCQJ" tvg-chno="40" channel-number="40",CANAL+ SPORT 4
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.SPORT.5.fr" tvg-name="CANAL+ SPORT 5" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20855/ncplus-ouah/CHN43FB/1200x900_c_sport5-BI55" tvg-chno="41" channel-number="41",CANAL+ SPORT 5
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.1.HD.fr" tvg-name="CANAL+ EXTRA 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22308/ncplus-ouah/CHN43FB/c1-Z_1o" tvg-chno="43" channel-number="43",CANAL+ EXTRA 1 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.2.HD.fr" tvg-name="CANAL+ EXTRA 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22302/ncplus-ouah/CHN43FB/c2-hYKe" tvg-chno="44" channel-number="44",CANAL+ EXTRA 2 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.3.HD.fr" tvg-name="CANAL+ EXTRA 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22303/ncplus-ouah/CHN43FB/c3-7LE2" tvg-chno="45" channel-number="45",CANAL+ EXTRA 3 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.4.HD.fr" tvg-name="CANAL+ EXTRA 4 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22304/ncplus-ouah/CHN43FB/c4-_Qse" tvg-chno="46" channel-number="46",CANAL+ EXTRA 4 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="KANAL.ZERO.TV.fr" tvg-name="KANAL ZERO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22395/ncplus-ouah/CHN43FB/zero-1280x720-B-QeBv" tvg-chno="49" channel-number="49",KANAL ZERO TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.24.BiS.HD.fr" tvg-name="TVN 24 BiS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20331/ncplus-ouah/CHN43FB/tvn24bislogo" tvg-chno="51" channel-number="51",TVN 24 BiS HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.NEWS.HD.fr" tvg-name="POLSAT NEWS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20662/ncplus-ouah/CHN43FB/polsatnews" tvg-chno="52" channel-number="52",POLSAT NEWS HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="polsat.news.2.fr" tvg-name="polsat news 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20307/ncplus-ouah/CHN43FB/polsatnews2logo" tvg-chno="53" channel-number="53",polsat news 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Polsat.News.Polityka.fr" tvg-name="Polsat News Polityka" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20694/ncplus-ouah/CHN43FB/PolsatNewsPolityka-IFfB" tvg-chno="54" channel-number="54",Polsat News Polityka
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="WYDARZENIA.24.fr" tvg-name="WYDARZENIA 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22310/ncplus-ouah/CHN43FB/Wydarzenia_24_2022.svg-q2k-" tvg-chno="55" channel-number="55",WYDARZENIA 24
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FOKUS.TV.fr" tvg-name="FOKUS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20887/ncplus-ouah/CHN43FB/fokus_hd-4Rgf" tvg-chno="56" channel-number="56",FOKUS TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NOWA.TV.fr" tvg-name="NOWA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21044/ncplus-ouah/CHN43FB/Logo_ekranowe_NowaTV_od_1.08.2019-ZWdO" tvg-chno="57" channel-number="57",NOWA TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Antena.fr" tvg-name="Antena" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21901/ncplus-ouah/CHN43FB/AntenaHD2-YYWp" tvg-chno="58" channel-number="58",Antena
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVC.fr" tvg-name="TVC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20889/ncplus-ouah/CHN43FB/TVC_2024-present-aAb1" tvg-chno="59" channel-number="59",TVC
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVC.SUPER.fr" tvg-name="TVC SUPER" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22281/ncplus-ouah/CHN43FB/TVC_Super-nJg0" tvg-chno="60" channel-number="60",TVC SUPER
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="METRO.TV.fr" tvg-name="METRO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21201/ncplus-ouah/CHN43FB/metrologov2" tvg-chno="61" channel-number="61",METRO TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="wPolsce24.fr" tvg-name="wPolsce24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22361/ncplus-ouah/CHN43FB/WPolsce24_1200x900-XO72-JML7" tvg-chno="62" channel-number="62",wPolsce24
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.POLONIA.fr" tvg-name="TVP POLONIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20538/ncplus-ouah/CHN43FB/TVP_Polonia_Logo_2020.svg-R_Xz" tvg-chno="63" channel-number="63",TVP POLONIA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TV.REPUBLIKA.fr" tvg-name="TV REPUBLIKA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20902/ncplus-ouah/CHN43FB/republikafn" tvg-chno="64" channel-number="64",TV REPUBLIKA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVS.fr" tvg-name="TVS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20766/ncplus-ouah/CHN43FB/tvs_logo-v3PX" tvg-chno="66" channel-number="66",TVS
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="SZLAGIER.TV.fr" tvg-name="SZLAGIER TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22282/ncplus-ouah/CHN43FB/Szlagier_TV_Recreation-R43b" tvg-chno="67" channel-number="67",SZLAGIER TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TV4.fr" tvg-name="TV4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20706/ncplus-ouah/CHN43FB/tv4" tvg-chno="68" channel-number="68",TV4
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="WP.fr" tvg-name="WP" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20084/ncplus-ouah/CHN43FB/wplogov3" tvg-chno="69" channel-number="69",WP
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HBO.HD.fr" tvg-name="HBO HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20526/CHN43FB/HBO_HD_640_480_0503.png" tvg-chno="75" channel-number="75",HBO HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HBO.2.HD.fr" tvg-name="HBO 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20527/CHN43FB/HBO_2_640_480_0503.png" tvg-chno="76" channel-number="76",HBO 2 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HBO.3.HD.fr" tvg-name="HBO 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20525/CHN43FB/HBO_3_HD_640_480_0503.png" tvg-chno="77" channel-number="77",HBO 3 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CINEMAX.HD.fr" tvg-name="CINEMAX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20279/ncplus-ouah/CHN43FB/cinemaxfb" tvg-chno="78" channel-number="78",CINEMAX HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CINEMAX.2.HD.fr" tvg-name="CINEMAX 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20280/ncplus-ouah/CHN43FB/cinemax2fb" tvg-chno="79" channel-number="79",CINEMAX 2 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FILMBOX+.hits.fr" tvg-name="FILMBOX+ hits" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20535/ncplus-ouah/CHN43FB/1200x900_filmbox_hits-ciMS" tvg-chno="80" channel-number="80",FILMBOX+ hits
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FILMBOX+.emotion.fr" tvg-name="FILMBOX+ emotion" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20536/ncplus-ouah/CHN43FB/1200x900_filmbox_emotion-2Xe7" tvg-chno="81" channel-number="81",FILMBOX+ emotion
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FILMBOX+.action.fr" tvg-name="FILMBOX+ action" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20839/ncplus-ouah/CHN43FB/1200x900_filmbox_action-5sjT" tvg-chno="82" channel-number="82",FILMBOX+ action
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FILMBOX+.comedy.fr" tvg-name="FILMBOX+ comedy" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20744/ncplus-ouah/CHN43FB/1200x900_filmbox_comedy-u2IF" tvg-chno="83" channel-number="83",FILMBOX+ comedy
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FILMBOX+.festival.fr" tvg-name="FILMBOX+ festival" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20961/ncplus-ouah/CHN43FB/1200x900_filmbox_festival--t5v" tvg-chno="84" channel-number="84",FILMBOX+ festival
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.ROZRYWKA.fr" tvg-name="TVP ROZRYWKA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20861/ncplus-ouah/CHN43FB/tvprozrywkalogo" tvg-chno="92" channel-number="92",TVP ROZRYWKA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.KULTURA.fr" tvg-name="TVP KULTURA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20316/ncplus-ouah/CHN43FB/logo2-PKWk" tvg-chno="93" channel-number="93",TVP KULTURA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.HD.fr" tvg-name="TVP HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20556/ncplus-ouah/CHN43FB/TVP_HD_logo.svg-qcM2" tvg-chno="94" channel-number="94",TVP HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="COMEDY.CENTRAL.HD.fr" tvg-name="COMEDY CENTRAL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20282/ncplus-ouah/CHN43FB/comedycentralblack" tvg-chno="103" channel-number="103",COMEDY CENTRAL HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="PARAMOUNT.CHANNEL.HD.fr" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20794/CHN43FB/paramount_640_480_0503.png" tvg-chno="104" channel-number="104",PARAMOUNT CHANNEL HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BBC.FIRST.HD.fr" tvg-name="BBC FIRST HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20779/ncplus-ouah/CHN43FB/bbcfirst" tvg-chno="105" channel-number="105",BBC FIRST HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Warner.TV.fr" tvg-name="Warner TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20696/ncplus-ouah/CHN43FB/warnertvCHN43FB2" tvg-chno="106" channel-number="106",Warner TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="13.ULICA.HD.fr" tvg-name="13 ULICA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20883/ncplus-ouah/CHN43FB/13Ulica_black_new" tvg-chno="107" channel-number="107",13 ULICA HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="SCI.FI.fr" tvg-name="SCI FI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20880/ncplus-ouah/CHN43FB/SCIFI_Poland_Logo_HORIZONTAL_BW_ouah" tvg-chno="108" channel-number="108",SCI FI
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.COMEDY.CENTRAL.EXTRA.HD.fr" tvg-name="POLSAT COMEDY CENTRAL EXTRA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20785/ncplus-ouah/CHN43FB/ComedyCentralEXTRA_black" tvg-chno="109" channel-number="109",POLSAT COMEDY CENTRAL EXTRA HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.FABUŁA.HD.fr" tvg-name="TVN FABUŁA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20925/ncplus-ouah/CHN43FB/TVN_Fabua.svg-vx0r" tvg-chno="111" channel-number="111",TVN FABUŁA HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ROMANCE.TV.HD.fr" tvg-name="ROMANCE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20793/ncplus-ouah/CHN43FB/RomanceTV_black1" tvg-chno="112" channel-number="112",ROMANCE TV HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FX.fr" tvg-name="FX" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20780/ncplus-ouah/CHN43FB/FX_kolor" tvg-chno="113" channel-number="113",FX
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="AXN.fr" tvg-name="AXN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20274/ncplus-ouah/CHN43FB/AXN" tvg-chno="114" channel-number="114",AXN
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="AMC.HD.fr" tvg-name="AMC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20296/ncplus-ouah/CHN43FB/amc_black-yAxn" tvg-chno="115" channel-number="115",AMC HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FX.COMEDY.fr" tvg-name="FX COMEDY" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20906/ncplus-ouah/CHN43FB/FXComedy_black" tvg-chno="116" channel-number="116",FX COMEDY
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Viasat.Epic.Drama.fr" tvg-name="Viasat Epic Drama" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21301/ncplus-ouah/CHN43FB/1200x900_viasat_epic_drama_v2-1PBG" tvg-chno="117" channel-number="117",Viasat Epic Drama
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="SUNDANCE.TV.HD.fr" tvg-name="SUNDANCE TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20817/ncplus-ouah/CHN43FB/sundanceTV_black-erdj" tvg-chno="119" channel-number="119",SUNDANCE TV HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.Seriale.fr" tvg-name="POLSAT Seriale" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20879/ncplus-ouah/CHN43FB/Polsat_Seriale_Poziome_2021.svg-myXO" tvg-chno="121" channel-number="121",POLSAT Seriale
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="AXN.BLACK.fr" tvg-name="AXN BLACK" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20276/ncplus-ouah/CHN43FB/axnblackfb" tvg-chno="122" channel-number="122",AXN BLACK
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.HD.fr" tvg-name="DISCOVERY CHANNEL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20285/ncplus-ouah/CHN43FB/Discovery_Channel_HD_640_480_05031" tvg-chno="128" channel-number="128",DISCOVERY CHANNEL HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.fr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20646/CHN43FB/National_Geographic_HD_640_480_0503.png" tvg-chno="129" channel-number="129",NATIONAL GEOGRAPHIC HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20768/CHN43FB/National_Geographic_WILD_640_480_0503.png" tvg-chno="130" channel-number="130",NAT GEO WILD HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BBC.EARTH.fr" tvg-name="BBC EARTH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20786/ncplus-ouah/CHN43FB/BBC_earth_black" tvg-chno="131" channel-number="131",BBC EARTH
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BBC.BRIT.HD.fr" tvg-name="BBC BRIT HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20571/ncplus-ouah/CHN43FB/BBCBRIT_blue" tvg-chno="132" channel-number="132",BBC BRIT HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.DOKU.HD.fr" tvg-name="POLSAT DOKU HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22311/ncplus-ouah/CHN43FB/Polsat_Doku_Poziome_2021.svg-2nBy" tvg-chno="133" channel-number="133",POLSAT DOKU HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.HISTORIA.fr" tvg-name="TVP HISTORIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20713/ncplus-ouah/CHN43FB/TVP_Historia_logo.svg-4Ggr" tvg-chno="134" channel-number="134",TVP HISTORIA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NAT.GEO.PEOPLE.HD.fr" tvg-name="NAT GEO PEOPLE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20867/ncplus-ouah/CHN43FB/79449568" tvg-chno="135" channel-number="135",NAT GEO PEOPLE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HISTORY.HD.fr" tvg-name="HISTORY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20814/ncplus-ouah/CHN43FB/History" tvg-chno="136" channel-number="136",HISTORY HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HISTORY.2.HD.fr" tvg-name="HISTORY 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20904/ncplus-ouah/CHN43FB/History2" tvg-chno="137" channel-number="137",HISTORY 2 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISCOVERY.HISTORIA.fr" tvg-name="DISCOVERY HISTORIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20286/ncplus-ouah/CHN43FB/discoveryhistoriafb" tvg-chno="138" channel-number="138",DISCOVERY HISTORIA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISCOVERY.SCIENCE.HD.fr" tvg-name="DISCOVERY SCIENCE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20287/ncplus-ouah/CHN43FB/discoverysciencefb" tvg-chno="139" channel-number="139",DISCOVERY SCIENCE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.VIASAT.HISTORY.HD.fr" tvg-name="POLSAT VIASAT HISTORY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21001/ncplus-ouah/CHN43FB/1200x900_polsat_viasat_history_v3-8Fve" tvg-chno="140" channel-number="140",POLSAT VIASAT HISTORY HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.VIASAT.EXPLORE.HD.fr" tvg-name="POLSAT VIASAT EXPLORE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21003/ncplus-ouah/CHN43FB/1200x900_polsat_viasat_explore_v4-CzFk" tvg-chno="141" channel-number="141",POLSAT VIASAT EXPLORE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.VIASAT.NATURE.HD.fr" tvg-name="POLSAT VIASAT NATURE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21002/ncplus-ouah/CHN43FB/1200x900_polsat_viasat_nature_v2-tJaL" tvg-chno="142" channel-number="142",POLSAT VIASAT NATURE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.DOKUMENT.fr" tvg-name="TVP DOKUMENT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21782/ncplus-ouah/CHN43FB/TVP_Dokument_2020.svg-nXWE" tvg-chno="143" channel-number="143",TVP DOKUMENT
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ANIMAL.PLANET.HD.fr" tvg-name="ANIMAL PLANET HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20769/ncplus-ouah/CHN43FB/animalplanetfb" tvg-chno="144" channel-number="144",ANIMAL PLANET HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TRAVEL.CHANNEL.HD.fr" tvg-name="TRAVEL CHANNEL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20702/ncplus-ouah/CHN43FB/travelchannel" tvg-chno="145" channel-number="145",TRAVEL CHANNEL HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Kabaret.TV.fr" tvg-name="Kabaret TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22381/ncplus-ouah/CHN43FB/s-1200-630_-b_9R" tvg-chno="146" channel-number="146",Kabaret TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="LOVE.NATURE.4K.fr" tvg-name="LOVE NATURE 4K" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22301/ncplus-ouah/CHN43FB/Beznazwy-2-UkcL" tvg-chno="149" channel-number="149",LOVE NATURE 4K
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISNEY.JUNIOR.fr" tvg-name="DISNEY JUNIOR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20810/ncplus-ouah/CHN43FB/DISNEY_JR_HERO_LOGO_RGB-1200x900--B7V" tvg-chno="152" channel-number="152",DISNEY JUNIOR
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NICK.JR..fr" tvg-name="NICK JR." tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20808/ncplus-ouah/CHN43FB/1200x900_Nick-Jr-tlo-blanck-A9Rq" tvg-chno="153" channel-number="153",NICK JR.
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CBEEBIES.fr" tvg-name="CBEEBIES" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20570/ncplus-ouah/CHN43FB/2000x1500_logo_bbc_cbeebies-Ekfx" tvg-chno="154" channel-number="154",CBEEBIES
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.ABC.fr" tvg-name="TVP ABC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20891/ncplus-ouah/CHN43FB/TVP_ABC_2021-RDmG" tvg-chno="155" channel-number="155",TVP ABC
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISNEY.CHANNEL.HD.fr" tvg-name="DISNEY CHANNEL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20557/ncplus-ouah/CHN43FB/DisneyChannel_darkblue" tvg-chno="157" channel-number="157",DISNEY CHANNEL HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISNEY.XD.fr" tvg-name="DISNEY XD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20770/ncplus-ouah/CHN43FB/disneyxd" tvg-chno="158" channel-number="158",DISNEY XD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NICK..fr" tvg-name="NICK." tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20559/ncplus-ouah/CHN43FB/nickeloden-czarny" tvg-chno="159" channel-number="159",NICK.
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NICKTOONS.HD.fr" tvg-name="NICKTOONS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20809/ncplus-ouah/CHN43FB/Nicktoons-1200x900-blanc-hcCY" tvg-chno="160" channel-number="160",NICKTOONS HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CARTOON.NETWORK.HD.fr" tvg-name="CARTOON NETWORK HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20590/CHN43FB/Cartoon_Network_640_480_0503.png" tvg-chno="161" channel-number="161",CARTOON NETWORK HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CARTOONITO.HD.fr" tvg-name="CARTOONITO HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20277/ncplus-ouah/CHN43FB/Cartoonito_black" tvg-chno="162" channel-number="162",CARTOONITO HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.JIM.JAM.fr" tvg-name="POLSAT JIM JAM" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20558/ncplus-ouah/CHN43FB/polsatjimjam" tvg-chno="163" channel-number="163",POLSAT JIM JAM
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TeenNick.fr" tvg-name="TeenNick" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21942/ncplus-ouah/CHN43FB/1200x900_TeenNick-4M2G" tvg-chno="164" channel-number="164",TeenNick
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ELEVEN.SPORTS.1.HD.fr" tvg-name="ELEVEN SPORTS 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20843/CHN43FB/Eleven_1_640_480_0503.png" tvg-chno="178" channel-number="178",ELEVEN SPORTS 1 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ELEVEN.SPORTS.2.HD.fr" tvg-name="ELEVEN SPORTS 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20847/ncplus-ouah/CHN43FB/Eleven_2_640_480_06102020.png" tvg-chno="179" channel-number="179",ELEVEN SPORTS 2 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ELEVEN.SPORTS.3.HD.fr" tvg-name="ELEVEN SPORTS 3 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21041/ncplus-ouah/CHN43FB/Eleven_3_640_480_06102020.png" tvg-chno="180" channel-number="180",ELEVEN SPORTS 3 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ELEVEN.SPORTS.4.HD.fr" tvg-name="ELEVEN SPORTS 4 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21282/CHN43FB/Eleven_4_640_480_0503.png" tvg-chno="181" channel-number="181",ELEVEN SPORTS 4 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Eleven.Sports.1.4K.fr" tvg-name="Eleven Sports 1 4K" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21662/ncplus-ouah/CHN43FB/eleven-sports-1-4K-white-tlo-9d43" tvg-chno="182" channel-number="182",Eleven Sports 1 4K
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.Sport.HD.fr" tvg-name="TVP Sport HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20318/ncplus-ouah/CHN43FB/TVP_Sport_Logo_biale-WChZ" tvg-chno="183" channel-number="183",TVP Sport HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="EUROSPORT.1.HD.fr" tvg-name="EUROSPORT 1 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20289/CHN43FB/Eurosport_1_640_480_0503.png" tvg-chno="184" channel-number="184",EUROSPORT 1 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="EUROSPORT.2.HD.fr" tvg-name="EUROSPORT 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20290/CHN43FB/Eurosport_2_640_480_0503.png" tvg-chno="185" channel-number="185",EUROSPORT 2 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="polsat.games.fr" tvg-name="polsat games" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21981/ncplus-ouah/CHN43FB/polsatgameslogo" tvg-chno="186" channel-number="186",polsat games
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FIGHTBOX.HD.fr" tvg-name="FIGHTBOX HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20844/ncplus-ouah/CHN43FB/filmboxfb" tvg-chno="187" channel-number="187",FIGHTBOX HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FIGHTKLUB.fr" tvg-name="FIGHTKLUB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21021/ncplus-ouah/CHN43FB/FightklubHD" tvg-chno="188" channel-number="188",FIGHTKLUB
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="SPORTKLUB.fr" tvg-name="SPORTKLUB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20304/ncplus-ouah/CHN43FB/Sport_Klub_HD" tvg-chno="189" channel-number="189",SPORTKLUB
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="MOTOWIZJA.HD.fr" tvg-name="MOTOWIZJA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20884/ncplus-ouah/CHN43FB/motowizjav2" tvg-chno="190" channel-number="190",MOTOWIZJA HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.LIVE.5.fr" tvg-name="CANAL+ LIVE 5" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22221/ncplus-ouah/CHN43FB/CANAL_Live5_2000x1500-rbBM" tvg-chno="191" channel-number="191",CANAL+ LIVE 5
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.5.HD.fr" tvg-name="CANAL+ EXTRA 5 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22305/ncplus-ouah/CHN43FB/c5-I0Yz" tvg-chno="197" channel-number="197",CANAL+ EXTRA 5 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.6.HD.fr" tvg-name="CANAL+ EXTRA 6 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22306/ncplus-ouah/CHN43FB/c6-46GB" tvg-chno="198" channel-number="198",CANAL+ EXTRA 6 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.7.HD.fr" tvg-name="CANAL+ EXTRA 7 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22307/ncplus-ouah/CHN43FB/c7-AMX_" tvg-chno="199" channel-number="199",CANAL+ EXTRA 7 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.NOW.fr" tvg-name="CANAL+ NOW" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20683/ncplus-ouah/CHN43FB/1200x900_c_now-OP2h" tvg-chno="207" channel-number="207",CANAL+ NOW
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="GOLF.CHANNEL.HD.fr" tvg-name="GOLF CHANNEL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21681/ncplus-ouah/CHN43FB/Golf_Zone-tZiM-Hk4B" tvg-chno="208" channel-number="208",GOLF CHANNEL HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="EXTREME.SPORTS.HD.fr" tvg-name="EXTREME SPORTS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20613/ncplus-ouah/CHN43FB/extremelogo" tvg-chno="209" channel-number="209",EXTREME SPORTS HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.TURBO.HD.fr" tvg-name="TVN TURBO HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20313/ncplus-ouah/CHN43FB/TVNturbo1-psKP" tvg-chno="212" channel-number="212",TVN TURBO HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVN.STYLE.HD.fr" tvg-name="TVN STYLE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20312/ncplus-ouah/CHN43FB/TVNStyle1-RVTN" tvg-chno="213" channel-number="213",TVN STYLE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HGTV.fr" tvg-name="HGTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20329/CHN43FB/HGTV_640_480_0503.png" tvg-chno="214" channel-number="214",HGTV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FOOD.NETWORK.fr" tvg-name="FOOD NETWORK" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21062/ncplus-ouah/CHN43FB/foodnetworklogo" tvg-chno="215" channel-number="215",FOOD NETWORK
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.PLAY.HD.fr" tvg-name="POLSAT PLAY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20791/ncplus-ouah/CHN43FB/polsatplay" tvg-chno="216" channel-number="216",POLSAT PLAY HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.CAFE.HD.fr" tvg-name="POLSAT CAFE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20788/ncplus-ouah/CHN43FB/polsatcafe" tvg-chno="217" channel-number="217",POLSAT CAFE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BBC.LIFESTYLE.fr" tvg-name="BBC LIFESTYLE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20573/ncplus-ouah/CHN43FB/bbclifestylelogo" tvg-chno="218" channel-number="218",BBC LIFESTYLE
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="VIASAT.TRUE.CRIME.fr" tvg-name="VIASAT TRUE CRIME" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22283/ncplus-ouah/CHN43FB/True_Crime_LogoonChannelColour-M2ZT" tvg-chno="219" channel-number="219",VIASAT TRUE CRIME
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="StudioMed.TV.fr" tvg-name="StudioMed TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21621/ncplus-ouah/CHN43FB/STUDIOMED_LOGO_poziom_WHITE1-J83f" tvg-chno="220" channel-number="220",StudioMed TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="MTV.POLSKA.fr" tvg-name="MTV POLSKA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20298/CHN43FB/mtv_640_480_0503.png" tvg-chno="221" channel-number="221",MTV POLSKA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TLC.HD.fr" tvg-name="TLC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20288/CHN43FB/TLC_HD_640_480_0503.png" tvg-chno="222" channel-number="222",TLC HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DTX.fr" tvg-name="DTX" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20284/ncplus-ouah/CHN43FB/dtxlogo" tvg-chno="223" channel-number="223",DTX
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="E!.ENTERTAINMENT.fr" tvg-name="E! ENTERTAINMENT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20605/ncplus-ouah/CHN43FB/E_LOGO_Flat_black_solid_ouah" tvg-chno="224" channel-number="224",E! ENTERTAINMENT
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Active.Family.fr" tvg-name="Active Family" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20907/ncplus-ouah/CHN43FB/Active_Family_29-9BGR" tvg-chno="225" channel-number="225",Active Family
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.CRIME.&.INVESTIGATION.fr" tvg-name="POLSAT CRIME & INVESTIGATION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20811/CHN43FB/polsatCrime_640_480_0503.png" tvg-chno="227" channel-number="227",POLSAT CRIME & INVESTIGATION
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ID.INVESTIGATION.fr" tvg-name="ID INVESTIGATION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20760/ncplus-ouah/CHN43FB/idlogo" tvg-chno="228" channel-number="228",ID INVESTIGATION
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ADVENTURE.HD.fr" tvg-name="ADVENTURE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20901/ncplus-ouah/CHN43FB/adventure" tvg-chno="229" channel-number="229",ADVENTURE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HOME.TV.fr" tvg-name="HOME TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21501/ncplus-ouah/CHN43FB/home_tv_hd-XmiA" tvg-chno="230" channel-number="230",HOME TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISCOVERY.LIFE.HD.fr" tvg-name="DISCOVERY LIFE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20273/ncplus-ouah/CHN43FB/discoverylife" tvg-chno="231" channel-number="231",DISCOVERY LIFE HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.RODZINA.HD.fr" tvg-name="POLSAT RODZINA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22312/ncplus-ouah/CHN43FB/Polsat_Rodzina_Poziome_2021.svg-nKl1" tvg-chno="233" channel-number="233",POLSAT RODZINA HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="KINO.POLSKA.MUZYKA.fr" tvg-name="KINO POLSKA MUZYKA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20871/ncplus-ouah/CHN43FB/kinopolskamuzykalogo" tvg-chno="240" channel-number="240",KINO POLSKA MUZYKA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="STARS.TV.fr" tvg-name="STARS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20837/ncplus-ouah/CHN43FB/starstvfb" tvg-chno="241" channel-number="241",STARS TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NUTA.GOLD.fr" tvg-name="NUTA GOLD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22241/ncplus-ouah/CHN43FB/Nuta_Gold_TV_Logo-ifm7" tvg-chno="242" channel-number="242",NUTA GOLD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="4FUN.fr" tvg-name="4FUN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20272/CHN43FB/4FUN_640_480_0503.png" tvg-chno="243" channel-number="243",4FUN
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="4FUN.HITS.GOLD.fr" tvg-name="4FUN HITS GOLD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20820/ncplus-ouah/CHN43FB/4FUN_KIDS_logo1" tvg-chno="244" channel-number="244",4FUN HITS GOLD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="4FUN.DANCE.fr" tvg-name="4FUN DANCE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20875/CHN43FB/4FUNDance_640_480_0503.png" tvg-chno="245" channel-number="245",4FUN DANCE
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ESKA.TV.fr" tvg-name="ESKA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21043/ncplus-ouah/CHN43FB/eskatvfb" tvg-chno="246" channel-number="246",ESKA TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NUTA.TV.fr" tvg-name="NUTA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21163/CHN43FB/nuta_640_480_0503.png" tvg-chno="247" channel-number="247",NUTA TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="ESKA.TV.EXTRA.fr" tvg-name="ESKA TV EXTRA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20758/ncplus-ouah/CHN43FB/eskatvextrafb" tvg-chno="248" channel-number="248",ESKA TV EXTRA
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="VOX.MUSIC.TV.fr" tvg-name="VOX MUSIC TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20890/ncplus-ouah/CHN43FB/voxmusictv" tvg-chno="249" channel-number="249",VOX MUSIC TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DISCO.POLO.MUSIC.fr" tvg-name="DISCO POLO MUSIC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20888/ncplus-ouah/CHN43FB/discopolomusic" tvg-chno="250" channel-number="250",DISCO POLO MUSIC
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POLSAT.MUSIC.HD.fr" tvg-name="POLSAT MUSIC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20903/ncplus-ouah/CHN43FB/Polsat_Music.svg-XkBV" tvg-chno="251" channel-number="251",POLSAT MUSIC HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="polotv.fr" tvg-name="polotv" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20865/ncplus-ouah/CHN43FB/polotvlogo" tvg-chno="256" channel-number="256",polotv
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="POWER.TV.fr" tvg-name="POWER TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20900/CHN43FB/power_640_480_0503.png" tvg-chno="257" channel-number="257",POWER TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="eskarock.fr" tvg-name="eskarock" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21042/ncplus-ouah/CHN43FB/eskarocklogo" tvg-chno="258" channel-number="258",eskarock
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="MEZZO.fr" tvg-name="MEZZO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20635/ncplus-ouah/CHN43FB/MicrosoftTeams-image2" tvg-chno="260" channel-number="260",MEZZO
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.World.fr" tvg-name="TVP World" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22243/ncplus-ouah/CHN43FB/TVPWORLD-pn0O" tvg-chno="264" channel-number="264",TVP World
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="EURONEWS.HD.fr" tvg-name="EURONEWS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21761/ncplus-ouah/CHN43FB/Euronews" tvg-chno="265" channel-number="265",EURONEWS HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BBC.News.fr" tvg-name="BBC News" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20761/ncplus-ouah/CHN43FB/BBC_News_Stacked_White_Bright_Colour_RGB_HR" tvg-chno="266" channel-number="266",BBC News
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FRANCE.24.ANG.fr" tvg-name="FRANCE 24 ANG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20941/ncplus-ouah/CHN43FB/FRANCE24_english" tvg-chno="267" channel-number="267",FRANCE 24 ANG
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="FRANCE.24.fr" tvg-name="FRANCE 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20942/ncplus-ouah/CHN43FB/FRANCE24" tvg-chno="268" channel-number="268",FRANCE 24
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="DEUTSCHE.WELLE.fr" tvg-name="DEUTSCHE WELLE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21101/ncplus-ouah/CHN43FB/DEUTSCHE-WELLE" tvg-chno="269" channel-number="269",DEUTSCHE WELLE
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CURRENT.TIME.TV.fr" tvg-name="CURRENT TIME TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22201/ncplus-ouah/CHN43FB/CURRENTTIMETV" tvg-chno="272" channel-number="272",CURRENT TIME TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CNN.fr" tvg-name="CNN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20281/ncplus-ouah/CHN43FB/CNN" tvg-chno="273" channel-number="273",CNN
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CNBC.fr" tvg-name="CNBC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21762/ncplus-ouah/CHN43FB/CNBC" tvg-chno="274" channel-number="274",CNBC
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BLOOMBERG.fr" tvg-name="BLOOMBERG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22001/ncplus-ouah/CHN43FB/bloombergtvfb" tvg-chno="275" channel-number="275",BLOOMBERG
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="NHK.WORLD-JAPAN.fr" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22004/ncplus-ouah/CHN43FB/nhklogo" tvg-chno="286" channel-number="286",NHK WORLD-JAPAN
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CTV.-.DLA.CIEBIE.fr" tvg-name="CTV - DLA CIEBIE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22249/ncplus-ouah/CHN43FB/dark_9991-d6st" tvg-chno="291" channel-number="291",CTV - DLA CIEBIE
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="AXN.WHITE.fr" tvg-name="AXN WHITE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20275/ncplus-ouah/CHN43FB/axnwhitefb" tvg-chno="292" channel-number="292",AXN WHITE
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="AXN.SPIN.HD.fr" tvg-name="AXN SPIN HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20836/ncplus-ouah/CHN43FB/axnspinfb" tvg-chno="293" channel-number="293",AXN SPIN HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="BIZNES24.fr" tvg-name="BIZNES24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21742/ncplus-ouah/CHN43FB/biznes24" tvg-chno="294" channel-number="294",BIZNES24
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Sejm.RP.fr" tvg-name="Sejm RP" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21881/ncplus-ouah/CHN43FB/1200x900px-Sejm_RP-kp_L" tvg-chno="297" channel-number="297",Sejm RP
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="HUSTLER.HD.fr" tvg-name="HUSTLER HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20806/ncplus-ouah/CHN43FB/HUSTLER_TV_HD-wrIz" tvg-chno="300" channel-number="300",HUSTLER HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Blue.Hustler.fr" tvg-name="Blue Hustler" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20772/ncplus-ouah/CHN43FB/Blue_hustler-x2Xm" tvg-chno="301" channel-number="301",Blue Hustler
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Private.TV.fr" tvg-name="Private TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20773/ncplus-ouah/CHN43FB/282-2820841_private-tv-29iq" tvg-chno="302" channel-number="302",Private TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Dorcel.TV.fr" tvg-name="Dorcel TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20200/ncplus-ouah/CHN43FB/Dorcel_TV_29-2Bwd" tvg-chno="303" channel-number="303",Dorcel TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Redlight.HD.fr" tvg-name="Redlight HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20819/ncplus-ouah/CHN43FB/REDLIGHT-HD-LOGO-M7HN-b8QS" tvg-chno="305" channel-number="305",Redlight HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="VIVID.RED.fr" tvg-name="VIVID RED" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21861/ncplus-ouah/CHN43FB/Vivid_Red_29--TSX" tvg-chno="306" channel-number="306",VIVID RED
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.Kobieta.fr" tvg-name="TVP Kobieta" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22248/ncplus-ouah/CHN43FB/TVP_Kobieta-pRgn" tvg-chno="321" channel-number="321",TVP Kobieta
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.Nauka.fr" tvg-name="TVP Nauka" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22247/ncplus-ouah/CHN43FB/TVP_Nauka-w0YL" tvg-chno="322" channel-number="322",TVP Nauka
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.Kultura.2.fr" tvg-name="TVP Kultura 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22245/ncplus-ouah/CHN43FB/TVP_Kultura2-_vJU" tvg-chno="323" channel-number="323",TVP Kultura 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.Historia.2.fr" tvg-name="TVP Historia 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22244/ncplus-ouah/CHN43FB/TVP_Historia2-g6sa" tvg-chno="324" channel-number="324",TVP Historia 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.ABC.2.fr" tvg-name="TVP ABC 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22246/ncplus-ouah/CHN43FB/TVP_ABC_2-pWV0" tvg-chno="325" channel-number="325",TVP ABC 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Alfa.TVP.fr" tvg-name="Alfa TVP" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22242/ncplus-ouah/CHN43FB/AlfaTVP-B8lN" tvg-chno="326" channel-number="326",Alfa TVP
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Białystok.fr" tvg-name="TVP 3 Białystok" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22181/ncplus-ouah/CHN43FB/TVP3_Bialystok" tvg-chno="328" channel-number="328",TVP 3 Białystok
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Bydgoszcz.fr" tvg-name="TVP 3 Bydgoszcz" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22182/ncplus-ouah/CHN43FB/TVP3_Bydgoszcz" tvg-chno="329" channel-number="329",TVP 3 Bydgoszcz
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Gdańsk.fr" tvg-name="TVP 3 Gdańsk" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22183/ncplus-ouah/CHN43FB/TVP3_Gdansk" tvg-chno="330" channel-number="330",TVP 3 Gdańsk
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Gorzów.Wielkopolski.fr" tvg-name="TVP 3 Gorzów Wielkopolski" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22192/ncplus-ouah/CHN43FB/TVP3_GorzowWielkopolski" tvg-chno="331" channel-number="331",TVP 3 Gorzów Wielkopolski
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Katowice.fr" tvg-name="TVP 3 Katowice" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22184/ncplus-ouah/CHN43FB/TVP3_Katowice" tvg-chno="332" channel-number="332",TVP 3 Katowice
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Kielce.fr" tvg-name="TVP 3 Kielce" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22193/ncplus-ouah/CHN43FB/TVP3_Kielce" tvg-chno="333" channel-number="333",TVP 3 Kielce
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Kraków.fr" tvg-name="TVP 3 Kraków" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22185/ncplus-ouah/CHN43FB/TVP3_Krakow" tvg-chno="334" channel-number="334",TVP 3 Kraków
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Lublin.fr" tvg-name="TVP 3 Lublin" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22186/ncplus-ouah/CHN43FB/TVP3_Lublin" tvg-chno="335" channel-number="335",TVP 3 Lublin
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Łódź.fr" tvg-name="TVP 3 Łódź" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22187/ncplus-ouah/CHN43FB/TVP3_Lodz" tvg-chno="336" channel-number="336",TVP 3 Łódź
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Olsztyn.fr" tvg-name="TVP 3 Olsztyn" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22194/ncplus-ouah/CHN43FB/TVP3_Olsztyn" tvg-chno="337" channel-number="337",TVP 3 Olsztyn
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Opole.fr" tvg-name="TVP 3 Opole" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22195/ncplus-ouah/CHN43FB/TVP3_Opole" tvg-chno="338" channel-number="338",TVP 3 Opole
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Poznań.fr" tvg-name="TVP 3 Poznań" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22188/ncplus-ouah/CHN43FB/TVP3_Poznan" tvg-chno="339" channel-number="339",TVP 3 Poznań
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Rzeszów.fr" tvg-name="TVP 3 Rzeszów" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22189/ncplus-ouah/CHN43FB/TVP3_Rzeszow" tvg-chno="340" channel-number="340",TVP 3 Rzeszów
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Szczecin.fr" tvg-name="TVP 3 Szczecin" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22190/ncplus-ouah/CHN43FB/TVP3_Szczecin" tvg-chno="341" channel-number="341",TVP 3 Szczecin
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Warszawa.fr" tvg-name="TVP 3 Warszawa" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20868/ncplus-ouah/CHN43FB/TVP3_Warszawa" tvg-chno="342" channel-number="342",TVP 3 Warszawa
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TVP.3.Wrocław.fr" tvg-name="TVP 3 Wrocław" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22191/ncplus-ouah/CHN43FB/TVP3_Wroclaw" tvg-chno="343" channel-number="343",TVP 3 Wrocław
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.LIVE.6.fr" tvg-name="CANAL+ LIVE 6" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22322/ncplus-ouah/CHN43FB/CLive6_1200x900-S1cj" tvg-chno="344" channel-number="344",CANAL+ LIVE 6
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.8.HD.fr" tvg-name="CANAL+ EXTRA 8 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22384/ncplus-ouah/CHN43FB/extra8-y-hm" tvg-chno="345" channel-number="345",CANAL+ EXTRA 8 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.9.fr" tvg-name="CANAL+ EXTRA 9" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21463/ncplus-ouah/CHN43FB/CExtra9_1200x900-4NmJ" tvg-chno="346" channel-number="346",CANAL+ EXTRA 9
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.10.HD.fr" tvg-name="CANAL+ EXTRA 10 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22386/ncplus-ouah/CHN43FB/CExtra10_1200x900-VcBN-JAoe" tvg-chno="347" channel-number="347",CANAL+ EXTRA 10 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.11.HD.fr" tvg-name="CANAL+ EXTRA 11 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22387/ncplus-ouah/CHN43FB/CExtra11_1200x900-qiF6-AlMn" tvg-chno="348" channel-number="348",CANAL+ EXTRA 11 HD
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.1.fr" tvg-name="Program 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22041/ncplus-ouah/CHN43FB/T1_1000-1000" tvg-chno="710" channel-number="710",Program 1
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.2.fr" tvg-name="Program 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22042/ncplus-ouah/CHN43FB/T2_1000-1000" tvg-chno="711" channel-number="711",Program 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.3.fr" tvg-name="Program 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22043/ncplus-ouah/CHN43FB/T3_1000-1000" tvg-chno="712" channel-number="712",Program 3
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.4.fr" tvg-name="Program 4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22044/ncplus-ouah/CHN43FB/T4_1000-1000" tvg-chno="713" channel-number="713",Program 4
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.5.fr" tvg-name="Program 5" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22045/ncplus-ouah/CHN43FB/T5_1000-1000" tvg-chno="714" channel-number="714",Program 5
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.6.fr" tvg-name="Program 6" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22046/ncplus-ouah/CHN43FB/T6_1000-1000" tvg-chno="715" channel-number="715",Program 6
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Polsat.fr" tvg-name="Polsat" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22376/ncplus-ouah/CHN43FB/polsat-logotyp-przezroczysty-1Kal" tvg-chno="716" channel-number="716",Polsat
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="PULS.fr" tvg-name="PULS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22377/ncplus-ouah/CHN43FB/pulse2-hDzy-U3eV" tvg-chno="717" channel-number="717",PULS
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="TV4.fr" tvg-name="TV4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22378/ncplus-ouah/CHN43FB/tv4-AcjC-j_h_" tvg-chno="718" channel-number="718",TV4
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Zoom.TV.fr" tvg-name="Zoom TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22379/ncplus-ouah/CHN43FB/zoom_reformats284x184-5tfh" tvg-chno="719" channel-number="719",Zoom TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Stopklatka.TV.fr" tvg-name="Stopklatka TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22380/ncplus-ouah/CHN43FB/stopklatkafb-BiqM" tvg-chno="720" channel-number="720",Stopklatka TV
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Canal+.Now.fr" tvg-name="Canal+ Now" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21925/ncplus-ouah/CHN43FB/1200x900_c_now-mt_3" tvg-chno="721" channel-number="721",Canal+ Now
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.7.fr" tvg-name="Program 7" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22363/ncplus-ouah/CHN43FB/TEST7-uZda" tvg-chno="722" channel-number="722",Program 7
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.8.fr" tvg-name="Program 8" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22364/ncplus-ouah/CHN43FB/test8-ESal" tvg-chno="723" channel-number="723",Program 8
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.9.fr" tvg-name="Program 9" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22365/ncplus-ouah/CHN43FB/test9-6r9J" tvg-chno="724" channel-number="724",Program 9
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.10.fr" tvg-name="Program 10" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22366/ncplus-ouah/CHN43FB/test10-DL60" tvg-chno="725" channel-number="725",Program 10
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.11.fr" tvg-name="Program 11" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22367/ncplus-ouah/CHN43FB/test11-KWAv" tvg-chno="726" channel-number="726",Program 11
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.12.fr" tvg-name="Program 12" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20877/ncplus-ouah/CHN43FB/test12-F8hi" tvg-chno="727" channel-number="727",Program 12
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.13.fr" tvg-name="Program 13" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21703/ncplus-ouah/CHN43FB/test13-xi71" tvg-chno="728" channel-number="728",Program 13
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.14.fr" tvg-name="Program 14" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20782/ncplus-ouah/CHN43FB/test14-Ndzh" tvg-chno="729" channel-number="729",Program 14
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.15.fr" tvg-name="Program 15" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20874/ncplus-ouah/CHN43FB/test15-JDG7" tvg-chno="730" channel-number="730",Program 15
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.16.fr" tvg-name="Program 16" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21464/ncplus-ouah/CHN43FB/test16-oxMC" tvg-chno="731" channel-number="731",Program 16
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.17.fr" tvg-name="Program 17" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21465/ncplus-ouah/CHN43FB/test17-VNIW" tvg-chno="732" channel-number="732",Program 17
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="Program.18.fr" tvg-name="Program 18" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21466/ncplus-ouah/CHN43FB/test18-CYlv" tvg-chno="733" channel-number="733",Program 18
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.LIVE.1.fr" tvg-name="CANAL+ LIVE 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24001/ncplus-ouah/CHN43FB/CANAL_Live1_2000x1500-mBzp" tvg-chno="900" channel-number="900",CANAL+ LIVE 1
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.LIVE.2.fr" tvg-name="CANAL+ LIVE 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24002/ncplus-ouah/CHN43FB/CANAL_Live2_2000x1500-cIj8" tvg-chno="901" channel-number="901",CANAL+ LIVE 2
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.LIVE.3.fr" tvg-name="CANAL+ LIVE 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24003/ncplus-ouah/CHN43FB/CANAL_Live3_2000x1500-ydq_" tvg-chno="902" channel-number="902",CANAL+ LIVE 3
+https://www.canalplus.com/programme-tv/
+#EXTINF:-1 tvg-id="CANAL+.LIVE.4.fr" tvg-name="CANAL+ LIVE 4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24004/ncplus-ouah/CHN43FB/CANAL_Live4_2000x1500-pFBA" tvg-chno="903" channel-number="903",CANAL+ LIVE 4
+https://www.canalplus.com/programme-tv/
