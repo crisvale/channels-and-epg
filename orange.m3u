@@ -91,8 +91,6 @@ https://orangetv.orange.es/epg?channel=1043
 https://orangetv.orange.es/epg?channel=11173
 #EXTINF:-1 tvg-id="BOM.Cine.es" tvg-name="BOM Cine" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BOM_176x122.png" tvg-chno="54" channel-number="54",BOM Cine
 https://orangetv.orange.es/epg?channel=11174
-#EXTINF:-1 tvg-id="Territorio.OVNI.by.AMC.Channels.es" tvg-name="Territorio OVNI by AMC Channels" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMCN_TERRITORIO_OVNI_176x122.png" tvg-chno="55" channel-number="55",Territorio OVNI by AMC Channels
-https://orangetv.orange.es/epg?channel=11295
 #EXTINF:-1 tvg-id="Canal.Historia.es" tvg-name="Canal Historia" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_HISTORIA_LOGO_176x122.png" tvg-chno="58" channel-number="58",Canal Historia
 https://orangetv.orange.es/epg?channel=11019
 #EXTINF:-1 tvg-id="BBC.History.es" tvg-name="BBC History" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BBC_HISTORY_WHITE_176x122.png" tvg-chno="59" channel-number="59",BBC History
