@@ -213,8 +213,6 @@ https://orangetv.orange.es/epg?channel=11231
 https://orangetv.orange.es/epg?channel=11232
 #EXTINF:-1 tvg-id="DAZN.Baloncesto.3.es" tvg-name="DAZN Baloncesto 3" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_3_176x122.png" tvg-chno="128" channel-number="128",DAZN Baloncesto 3
 https://orangetv.orange.es/epg?channel=11270
-#EXTINF:-1 tvg-id="LALIGA.Inside.es" tvg-name="LALIGA Inside" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_INSIDE_176x122.png" tvg-chno="129" channel-number="129",LALIGA Inside
-https://orangetv.orange.es/epg?channel=11129
 #EXTINF:-1 tvg-id="Rugby.Challenge.Spain.es" tvg-name="Rugby Challenge Spain" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUGBY_SPAIN_WHITE_176x122.png" tvg-chno="130" channel-number="130",Rugby Challenge Spain
 https://orangetv.orange.es/epg?channel=11271
 #EXTINF:-1 tvg-id="Tennis.Channel.es" tvg-name="Tennis Channel" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png" tvg-chno="131" channel-number="131",Tennis Channel
@@ -245,8 +243,6 @@ https://orangetv.orange.es/epg?channel=11277
 https://orangetv.orange.es/epg?channel=1081
 #EXTINF:-1 tvg-id="Trace.Sport.Stars.es" tvg-name="Trace Sport Stars" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TRACE_SPORT_STARS_176x122.png" tvg-chno="148" channel-number="148",Trace Sport Stars
 https://orangetv.orange.es/epg?channel=1095
-#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="Ubeat" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/UBEAT_176x122.png" tvg-chno="149" channel-number="149",Ubeat
-https://orangetv.orange.es/epg?channel=11061
 #EXTINF:-1 tvg-id="Gametoon.HD.es" tvg-name="Gametoon HD" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/GAME_TOON_White_176x122.png" tvg-chno="150" channel-number="150",Gametoon HD
 https://orangetv.orange.es/epg?channel=1086
 #EXTINF:-1 tvg-id="MMA.TV.es" tvg-name="MMA TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MMATV_WHITE_176x122.png" tvg-chno="151" channel-number="151",MMA TV
