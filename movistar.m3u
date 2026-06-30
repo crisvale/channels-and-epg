@@ -195,8 +195,6 @@ https://www.movistarplus.es/canal/real-madrid-tv?id=realm
 https://www.movistarplus.es/canal/caza-y-pesca?id=cazpes
 #EXTINF:-1 tvg-id="Iberalia.TV.es" tvg-name="Iberalia TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/IBERAL.png" tvg-chno="83" channel-number="83",Iberalia TV
 https://www.movistarplus.es/canal/iberalia-tv?id=iberal
-#EXTINF:-1 tvg-id="Ubeat.es" tvg-name="Ubeat" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/UBEAT.png" tvg-chno="85" channel-number="85",Ubeat
-https://www.movistarplus.es/canal/ubeat?id=ubeat
 #EXTINF:-1 tvg-id="National.Geographic.es" tvg-name="National Geographic" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" tvg-chno="86" channel-number="86",National Geographic
 https://www.movistarplus.es/canal/national-geographic?id=natgeo
 #EXTINF:-1 tvg-id="Nat.Geo.Wild.es" tvg-name="Nat Geo Wild" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" tvg-chno="87" channel-number="87",Nat Geo Wild
@@ -345,6 +343,8 @@ https://www.movistarplus.es/canal/m-plus-deportes-4?id=usop3
 https://www.movistarplus.es/canal/m-plus-deportes-5?id=usop11
 #EXTINF:-1 tvg-id="M+.Deportes.6.es" tvg-name="M+ Deportes 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" tvg-chno="193" channel-number="193",M+ Deportes 6
 https://www.movistarplus.es/canal/m-plus-deportes-6?id=multi8
+#EXTINF:-1 tvg-id="M+.Baloncesto.3.es" tvg-name="M+ Baloncesto 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MBALC3.png" tvg-chno="194" channel-number="194",M+ Baloncesto 3
+https://www.movistarplus.es/canal/m-plus-baloncesto-3?id=mbalc3
 #EXTINF:-1 tvg-id="M+.Deportes.7.es" tvg-name="M+ Deportes 7" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" tvg-chno="195" channel-number="195",M+ Deportes 7
 https://www.movistarplus.es/canal/m-plus-deportes-7?id=multi6
 #EXTINF:-1 tvg-id="DAZN.3.es" tvg-name="DAZN 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" tvg-chno="197" channel-number="197",DAZN 3
