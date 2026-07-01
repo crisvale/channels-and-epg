@@ -31,7 +31,7 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a5
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180125/broadcasts/day/0?channelPosition=15
 #EXTINF:-1 tvg-id="VOIR+.fr" tvg-name="VOIR+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180215/canal-ouah/CHN43FB/VOIR_PLUS_FB_myCANAL_640x480" tvg-chno="30" channel-number="30",VOIR+
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180215/broadcasts/day/0?channelPosition=16
-#EXTINF:-1 tvg-id="NOVELAS.(Cameroun).fr" tvg-name="NOVELAS (Cameroun)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50225/canal-ouah/CHN43FB/NOVELASTV_640x480-hBX1" tvg-chno="31" channel-number="31",NOVELAS (Cameroun)
+#EXTINF:-1 tvg-id="NOVELAS.(Cameroun).fr" tvg-name="NOVELAS (Cameroun)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180971/canal-ouah/CHN43FB/NOVELAS_640x480-57eG" tvg-chno="31" channel-number="31",NOVELAS (Cameroun)
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180971/broadcasts/day/0?channelPosition=21
 #EXTINF:-1 tvg-id="A+.fr" tvg-name="A+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97810198" tvg-chno="32" channel-number="32",A+
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180335/broadcasts/day/0?channelPosition=24
