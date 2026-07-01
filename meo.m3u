@@ -31,6 +31,8 @@ https://tv.meo.pt/player?channel=SIC_Novelas_HD
 https://tv.meo.pt/player?channel=ContaLa_N_HD
 #EXTINF:-1 tvg-id="Veja.pt" tvg-name="Veja" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VEJA&profile=corner_transparent_positive&width=100" tvg-chno="17" channel-number="17",Veja
 https://tv.meo.pt/player?channel=Canal_Veja_HD
+#EXTINF:-1 tvg-id="Disney.Junior.pt" tvg-name="Disney Junior" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LIVE2&profile=corner_transparent_positive&width=100" tvg-chno="18" channel-number="18",Disney Junior
+https://tv.meo.pt/player?channel=Live2_HD
 #EXTINF:-1 tvg-id="Sport.TV.+.pt" tvg-name="Sport TV +" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPTVHD&profile=corner_transparent_positive&width=100" tvg-chno="20" channel-number="20",Sport TV +
 https://tv.meo.pt/player?channel=SPORTTV_HD
 #EXTINF:-1 tvg-id="Sport.TV1.pt" tvg-name="Sport TV1" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT1HD&profile=corner_transparent_positive&width=100" tvg-chno="21" channel-number="21",Sport TV1
