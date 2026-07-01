@@ -1,0 +1,733 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Das.Erste.de" tvg-name="Das Erste" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/das-erste/stationLogo_20241119.png" tvg-chno="1" channel-number="1",Das Erste
+https://www.magenta.tv/tv-guide#channel-das-erste
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="ZDF" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/zdf/stationLogo_20220211.png" tvg-chno="2" channel-number="2",ZDF
+https://www.magenta.tv/tv-guide#channel-zdf
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl/stationLogo_20220211.png" tvg-chno="3" channel-number="3",RTL
+https://www.magenta.tv/tv-guide#channel-rtl
+#EXTINF:-1 tvg-id="SAT.1.de" tvg-name="SAT.1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1/stationLogo_20220211.png" tvg-chno="4" channel-number="4",SAT.1
+https://www.magenta.tv/tv-guide#channel-sat.1
+#EXTINF:-1 tvg-id="ProSieben.de" tvg-name="ProSieben" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/pro7/stationLogo_20220211.png" tvg-chno="5" channel-number="5",ProSieben
+https://www.magenta.tv/tv-guide#channel-pro7
+#EXTINF:-1 tvg-id="VOX.de" tvg-name="VOX" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/vox/stationLogo_20220211.png" tvg-chno="6" channel-number="6",VOX
+https://www.magenta.tv/tv-guide#channel-vox
+#EXTINF:-1 tvg-id="Kabel.Eins.de" tvg-name="Kabel Eins" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/kabel-1/stationLogo_20220211.png" tvg-chno="7" channel-number="7",Kabel Eins
+https://www.magenta.tv/tv-guide#channel-kabel-1
+#EXTINF:-1 tvg-id="RTLZWEI.de" tvg-name="RTLZWEI" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl2/stationLogo_20220211.png" tvg-chno="8" channel-number="8",RTLZWEI
+https://www.magenta.tv/tv-guide#channel-rtl2
+#EXTINF:-1 tvg-id="Super.RTL.de" tvg-name="Super RTL" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/super-rtl/stationLogo_20220211.png" tvg-chno="9" channel-number="9",Super RTL
+https://www.magenta.tv/tv-guide#channel-super-rtl
+#EXTINF:-1 tvg-id="KiKA.de" tvg-name="KiKA" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/kika/stationLogo_20220211.png" tvg-chno="10" channel-number="10",KiKA
+https://www.magenta.tv/tv-guide#channel-kika
+#EXTINF:-1 tvg-id="Nick/Comedy.Central+1.de" tvg-name="Nick/Comedy Central+1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/nickcc/stationLogo_20220211.png" tvg-chno="11" channel-number="11",Nick/Comedy Central+1
+https://www.magenta.tv/tv-guide#channel-nickcc
+#EXTINF:-1 tvg-id="3sat.de" tvg-name="3sat" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/3sat/stationLogo_20220211.png" tvg-chno="12" channel-number="12",3sat
+https://www.magenta.tv/tv-guide#channel-3sat
+#EXTINF:-1 tvg-id="WELT.de" tvg-name="WELT" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/n24/stationLogo_20220211.png" tvg-chno="13" channel-number="13",WELT
+https://www.magenta.tv/tv-guide#channel-n24
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="ntv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/n-tv/stationLogo_20220211.png" tvg-chno="14" channel-number="14",ntv
+https://www.magenta.tv/tv-guide#channel-n-tv
+#EXTINF:-1 tvg-id="phoenix.de" tvg-name="phoenix" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/phoenix/stationLogo_20240820.png" tvg-chno="15" channel-number="15",phoenix
+https://www.magenta.tv/tv-guide#channel-phoenix
+#EXTINF:-1 tvg-id="TELE.5.de" tvg-name="TELE 5" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tele5/stationLogo_20220211.png" tvg-chno="16" channel-number="16",TELE 5
+https://www.magenta.tv/tv-guide#channel-tele5
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="ZDFneo" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/zdf-neo/stationLogo_20220211.png" tvg-chno="17" channel-number="17",ZDFneo
+https://www.magenta.tv/tv-guide#channel-zdf-neo
+#EXTINF:-1 tvg-id="MOMENTS.de" tvg-name="MOMENTS" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00888-DABEI/stationLogo_20260330.png" tvg-chno="18" channel-number="18",MOMENTS
+https://www.magenta.tv/tv-guide#channel-KID00888-DABEI
+#EXTINF:-1 tvg-id="BR.Fernsehen.Süd.de" tvg-name="BR Fernsehen Süd" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/br-sued/stationLogo_20241119.png" tvg-chno="21" channel-number="21",BR Fernsehen Süd
+https://www.magenta.tv/tv-guide#channel-br-sued
+#EXTINF:-1 tvg-id="FUSSBALL.TV.1.de" tvg-name="FUSSBALL.TV 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01001-FUSSBALLTV1/stationLogo_20240326.png" tvg-chno="22" channel-number="22",FUSSBALL.TV 1
+https://www.magenta.tv/tv-guide#channel-KID01037-FUSSBALLTV1
+#EXTINF:-1 tvg-id="FUSSBALL.TV.2.de" tvg-name="FUSSBALL.TV 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01004-FUSSBALLTV2/stationLogo_20240326.png" tvg-chno="23" channel-number="23",FUSSBALL.TV 2
+https://www.magenta.tv/tv-guide#channel-KID01064-FUSSBALLTV2
+#EXTINF:-1 tvg-id="FUSSBALL.TV.3.de" tvg-name="FUSSBALL.TV 3" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01005-FUSSBALLTV3/stationLogo_20240326.png" tvg-chno="24" channel-number="24",FUSSBALL.TV 3
+https://www.magenta.tv/tv-guide#channel-KID01065-FUSSBALLTV3
+#EXTINF:-1 tvg-id="hr-fernsehen.de" tvg-name="hr-fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/hr/stationLogo_20241119.png" tvg-chno="25" channel-number="25",hr-fernsehen
+https://www.magenta.tv/tv-guide#channel-hr
+#EXTINF:-1 tvg-id="MDR-Fernsehen.Sachsen.de" tvg-name="MDR-Fernsehen Sachsen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/mdr-sachsen/stationLogo_20220211.png" tvg-chno="27" channel-number="27",MDR-Fernsehen Sachsen
+https://www.magenta.tv/tv-guide#channel-mdr-sachsen
+#EXTINF:-1 tvg-id="NDR.Fernsehen.Niedersachsen.de" tvg-name="NDR Fernsehen Niedersachsen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/ndr/stationLogo_20241210.png" tvg-chno="29" channel-number="29",NDR Fernsehen Niedersachsen
+https://www.magenta.tv/tv-guide#channel-ndr
+#EXTINF:-1 tvg-id="Radio.Bremen.TV.de" tvg-name="Radio Bremen TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/radio-bremen-tv/stationLogo_20240820.png" tvg-chno="30" channel-number="30",Radio Bremen TV
+https://www.magenta.tv/tv-guide#channel-radio-bremen-tv
+#EXTINF:-1 tvg-id="rbb.fernsehen.Berlin.de" tvg-name="rbb fernsehen Berlin" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rbb-berlin/stationLogo_20241119.png" tvg-chno="31" channel-number="31",rbb fernsehen Berlin
+https://www.magenta.tv/tv-guide#channel-rbb-berlin
+#EXTINF:-1 tvg-id="SR.Fernsehen.de" tvg-name="SR Fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sr/stationLogo_20241119.png" tvg-chno="36" channel-number="36",SR Fernsehen
+https://www.magenta.tv/tv-guide#channel-sr
+#EXTINF:-1 tvg-id="SWR.Fernsehen.BW.de" tvg-name="SWR Fernsehen BW" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/swr-bw/stationLogo_20220211.png" tvg-chno="37" channel-number="37",SWR Fernsehen BW
+https://www.magenta.tv/tv-guide#channel-swr-bw
+#EXTINF:-1 tvg-id="SWR.Fernsehen.RP.de" tvg-name="SWR Fernsehen RP" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/swr-rp/stationLogo_20220211.png" tvg-chno="38" channel-number="38",SWR Fernsehen RP
+https://www.magenta.tv/tv-guide#channel-swr-rp
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Köln.de" tvg-name="WDR Fernsehen Köln" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr/stationLogo_20241119.png" tvg-chno="39" channel-number="39",WDR Fernsehen Köln
+https://www.magenta.tv/tv-guide#channel-wdr
+#EXTINF:-1 tvg-id="More.Than.Sports.TV.de" tvg-name="More Than Sports TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00909-MoreThanSportsTV/stationLogo_20220211.png" tvg-chno="49" channel-number="49",More Than Sports TV
+https://www.magenta.tv/tv-guide#channel-KID00909-MoreThanSportsTV
+#EXTINF:-1 tvg-id="MS.Sport.de" tvg-name="MS Sport" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00873-MyTeamTV-Eishockey8/stationLogo_20221114.png" tvg-chno="50" channel-number="50",MS Sport
+https://www.magenta.tv/tv-guide#channel-KID00873-MyTeamTV-Eishockey8
+#EXTINF:-1 tvg-id="MS.GOLF.1.de" tvg-name="MS GOLF 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01051-MSGOLF1/stationLogo_20260105.png" tvg-chno="51" channel-number="51",MS GOLF 1
+https://www.magenta.tv/tv-guide#channel-KID01051-MSGOLF1
+#EXTINF:-1 tvg-id="MS.GOLF.2.de" tvg-name="MS GOLF 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01052-MSGOLF2/stationLogo_20260105.png" tvg-chno="52" channel-number="52",MS GOLF 2
+https://www.magenta.tv/tv-guide#channel-KID01052-MSGOLF2
+#EXTINF:-1 tvg-id="Eurosport.1.de" tvg-name="Eurosport 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/eurosport/stationLogo_20220211.png" tvg-chno="53" channel-number="53",Eurosport 1
+https://www.magenta.tv/tv-guide#channel-eurosport
+#EXTINF:-1 tvg-id="Red.Bull.TV.de" tvg-name="Red Bull TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00907-RedBullTV/stationLogo_20220211.png" tvg-chno="54" channel-number="54",Red Bull TV
+https://www.magenta.tv/tv-guide#channel-KID00907-RedBullTV
+#EXTINF:-1 tvg-id="Red.Bull.TV.Motorsport.de" tvg-name="Red Bull TV Motorsport" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00902-ServusTVMotorsport/stationLogo_20250804.png" tvg-chno="55" channel-number="55",Red Bull TV Motorsport
+https://www.magenta.tv/tv-guide#channel-KID00902-ServusTVMotorsport
+#EXTINF:-1 tvg-id="SPORT1.de" tvg-name="SPORT1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sport1/stationLogo_20240424.png" tvg-chno="56" channel-number="56",SPORT1
+https://www.magenta.tv/tv-guide#channel-sport1
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="ARTE" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/arte/stationLogo_20220211.png" tvg-chno="57" channel-number="57",ARTE
+https://www.magenta.tv/tv-guide#channel-arte
+#EXTINF:-1 tvg-id="ONE.de" tvg-name="ONE" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/einsfesti/stationLogo_20220211.png" tvg-chno="58" channel-number="58",ONE
+https://www.magenta.tv/tv-guide#channel-einsfesti
+#EXTINF:-1 tvg-id="ANIXE+.de" tvg-name="ANIXE+" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/anixe-sd/stationLogo_20220211.png" tvg-chno="59" channel-number="59",ANIXE+
+https://www.magenta.tv/tv-guide#channel-anixe-sd
+#EXTINF:-1 tvg-id="ANIXE.HD.Serie.de" tvg-name="ANIXE HD Serie" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00893-ANIXEHDSerie/stationLogo_20220211.png" tvg-chno="60" channel-number="60",ANIXE HD Serie
+https://www.magenta.tv/tv-guide#channel-KID00893-ANIXEHDSerie
+#EXTINF:-1 tvg-id="Comedy.Central.de" tvg-name="Comedy Central" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/viva/stationLogo_20220211.png" tvg-chno="61" channel-number="61",Comedy Central
+https://www.magenta.tv/tv-guide#channel-viva
+#EXTINF:-1 tvg-id="TOP.SERIEN.de" tvg-name="TOP SERIEN" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00941-craction/stationLogo_20250320.png" tvg-chno="62" channel-number="62",TOP SERIEN
+https://www.magenta.tv/tv-guide#channel-KID00941-craction
+#EXTINF:-1 tvg-id="Disney.Channel.de" tvg-name="Disney Channel" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/das-vierte/stationLogo_20240318.png" tvg-chno="63" channel-number="63",Disney Channel
+https://www.magenta.tv/tv-guide#channel-das-vierte
+#EXTINF:-1 tvg-id="DMAX.de" tvg-name="DMAX" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/dmax/stationLogo_20220211.png" tvg-chno="64" channel-number="64",DMAX
+https://www.magenta.tv/tv-guide#channel-dmax
+#EXTINF:-1 tvg-id="Fashion.TV.de" tvg-name="Fashion TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00934-FashionTV/stationLogo_20220211.png" tvg-chno="65" channel-number="65",Fashion TV
+https://www.magenta.tv/tv-guide#channel-KID00934-FashionTV
+#EXTINF:-1 tvg-id="HGTV.de" tvg-name="HGTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00863-HGTV/stationLogo_20220211.png" tvg-chno="66" channel-number="66",HGTV
+https://www.magenta.tv/tv-guide#channel-KID00863-HGTV
+#EXTINF:-1 tvg-id="OUTtv.de" tvg-name="OUTtv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00960-OUTtv/stationLogo_20221114.png" tvg-chno="68" channel-number="68",OUTtv
+https://www.magenta.tv/tv-guide#channel-KID00960-OUTtv
+#EXTINF:-1 tvg-id="ProSieben.MAXX.de" tvg-name="ProSieben MAXX" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/pro7-maxx/stationLogo_20220211.png" tvg-chno="69" channel-number="69",ProSieben MAXX
+https://www.magenta.tv/tv-guide#channel-pro7-maxx
+#EXTINF:-1 tvg-id="NITRO.de" tvg-name="NITRO" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-nitro/stationLogo_20220211.png" tvg-chno="70" channel-number="70",NITRO
+https://www.magenta.tv/tv-guide#channel-rtl-nitro
+#EXTINF:-1 tvg-id="RTLup.de" tvg-name="RTLup" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00748-RTLplus/stationLogo_20220211.png" tvg-chno="71" channel-number="71",RTLup
+https://www.magenta.tv/tv-guide#channel-KID00748-RTLplus
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00942-RiC/stationLogo_20221114.png" tvg-chno="72" channel-number="72",RiC
+https://www.magenta.tv/tv-guide#channel-KID00942-RiC
+#EXTINF:-1 tvg-id="SAT.1.GOLD.de" tvg-name="SAT.1 GOLD" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-gold/stationLogo_20220211.png" tvg-chno="73" channel-number="73",SAT.1 GOLD
+https://www.magenta.tv/tv-guide#channel-sat.1-gold
+#EXTINF:-1 tvg-id="DF1.de" tvg-name="DF1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/servus-tv/stationLogo_20231220.png" tvg-chno="74" channel-number="74",DF1
+https://www.magenta.tv/tv-guide#channel-servus-tv
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="sixx" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sixx/stationLogo_20220211.png" tvg-chno="75" channel-number="75",sixx
+https://www.magenta.tv/tv-guide#channel-sixx
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="TLC" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tlc/stationLogo_20220211.png" tvg-chno="76" channel-number="76",TLC
+https://www.magenta.tv/tv-guide#channel-tlc
+#EXTINF:-1 tvg-id="TOGGO.plus.de" tvg-name="TOGGO plus" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00792-TOGGOplus/stationLogo_20220211.png" tvg-chno="77" channel-number="77",TOGGO plus
+https://www.magenta.tv/tv-guide#channel-KID00792-TOGGOplus
+#EXTINF:-1 tvg-id="VOXup.de" tvg-name="VOXup" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00880-VOXup/stationLogo_20220211.png" tvg-chno="78" channel-number="78",VOXup
+https://www.magenta.tv/tv-guide#channel-KID00880-VOXup
+#EXTINF:-1 tvg-id="wedotv.Movies.de" tvg-name="wedotv Movies" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00956-wedomovies/stationLogo_20251202.png" tvg-chno="79" channel-number="79",wedotv Movies
+https://www.magenta.tv/tv-guide#channel-KID00956-wedomovies
+#EXTINF:-1 tvg-id="ARD-alpha.de" tvg-name="ARD-alpha" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/br-alpha/stationLogo_20220211.png" tvg-chno="80" channel-number="80",ARD-alpha
+https://www.magenta.tv/tv-guide#channel-br-alpha
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="ZDFinfo" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/zdf-info/stationLogo_20220211.png" tvg-chno="81" channel-number="81",ZDFinfo
+https://www.magenta.tv/tv-guide#channel-zdf-info
+#EXTINF:-1 tvg-id="tagesschau24.de" tvg-name="tagesschau24" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tagesschau24/stationLogo_20220211.png" tvg-chno="82" channel-number="82",tagesschau24
+https://www.magenta.tv/tv-guide#channel-tagesschau24
+#EXTINF:-1 tvg-id="Euronews.Deutsch.de" tvg-name="Euronews Deutsch" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/euron-d/stationLogo_20230405.png" tvg-chno="83" channel-number="83",Euronews Deutsch
+https://www.magenta.tv/tv-guide#channel-euron-d
+#EXTINF:-1 tvg-id="Bibel.TV.de" tvg-name="Bibel TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/bibel-tv/stationLogo_20250611.png" tvg-chno="84" channel-number="84",Bibel TV
+https://www.magenta.tv/tv-guide#channel-bibel-tv
+#EXTINF:-1 tvg-id="Hope.TV.de" tvg-name="Hope TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01016-HopeTV/stationLogo_20240815.png" tvg-chno="85" channel-number="85",Hope TV
+https://www.magenta.tv/tv-guide#channel-KID01016-HopeTV
+#EXTINF:-1 tvg-id="K-TV.de" tvg-name="K-TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/k-tv/stationLogo_20221114.png" tvg-chno="86" channel-number="86",K-TV
+https://www.magenta.tv/tv-guide#channel-k-tv
+#EXTINF:-1 tvg-id="Imearth.de" tvg-name="Imearth" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00993-Imearth/stationLogo_20230323.png" tvg-chno="87" channel-number="87",Imearth
+https://www.magenta.tv/tv-guide#channel-KID00993-Imearth
+#EXTINF:-1 tvg-id="Travelxp.de" tvg-name="Travelxp" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00992-Travelxp/stationLogo_20230323.png" tvg-chno="88" channel-number="88",Travelxp
+https://www.magenta.tv/tv-guide#channel-KID00992-Travelxp
+#EXTINF:-1 tvg-id="Kabel.Eins.Doku.de" tvg-name="Kabel Eins Doku" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00773-kabeleinsDoku/stationLogo_20220211.png" tvg-chno="89" channel-number="89",Kabel Eins Doku
+https://www.magenta.tv/tv-guide#channel-KID00773-kabeleinsDoku
+#EXTINF:-1 tvg-id="Marco.Polo.TV.de" tvg-name="Marco Polo TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00935-MarcoPoloTV/stationLogo_20220211.png" tvg-chno="90" channel-number="90",Marco Polo TV
+https://www.magenta.tv/tv-guide#channel-KID00935-MarcoPoloTV
+#EXTINF:-1 tvg-id="N24.Doku.de" tvg-name="N24 Doku" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00772-N24Doku/stationLogo_20220211.png" tvg-chno="91" channel-number="91",N24 Doku
+https://www.magenta.tv/tv-guide#channel-KID00772-N24Doku
+#EXTINF:-1 tvg-id="Welt.der.Wunder.de" tvg-name="Welt der Wunder" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/welt-der-wunder/stationLogo_20220211.png" tvg-chno="92" channel-number="92",Welt der Wunder
+https://www.magenta.tv/tv-guide#channel-welt-der-wunder
+#EXTINF:-1 tvg-id="Stimmungsgarten.TV.de" tvg-name="Stimmungsgarten TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01017-StimmungsgartenTV/stationLogo_20240815.png" tvg-chno="93" channel-number="93",Stimmungsgarten TV
+https://www.magenta.tv/tv-guide#channel-KID01017-StimmungsgartenTV
+#EXTINF:-1 tvg-id="SCHLAGER.DELUXE.de" tvg-name="SCHLAGER DELUXE" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00970-SCHLAGERDELUXE/stationLogo_20221114.png" tvg-chno="94" channel-number="94",SCHLAGER DELUXE
+https://www.magenta.tv/tv-guide#channel-KID00970-SCHLAGERDELUXE
+#EXTINF:-1 tvg-id="DELUXE.MUSIC.de" tvg-name="DELUXE MUSIC" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/deluxe-music/stationLogo_20220211.png" tvg-chno="95" channel-number="95",DELUXE MUSIC
+https://www.magenta.tv/tv-guide#channel-deluxe-music
+#EXTINF:-1 tvg-id="MTV.de" tvg-name="MTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/mtv-hd/stationLogo_20220211.png" tvg-chno="96" channel-number="96",MTV
+https://www.magenta.tv/tv-guide#channel-mtv-hd
+#EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00938-DeutschesMusikFernsehen/stationLogo_20240528.png" tvg-chno="97" channel-number="97",DMF
+https://www.magenta.tv/tv-guide#channel-KID00938-DeutschesMusikFernsehen
+#EXTINF:-1 tvg-id="Ballermann.TV.de" tvg-name="Ballermann TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00950-BallermannTV/stationLogo_20221114.png" tvg-chno="98" channel-number="98",Ballermann TV
+https://www.magenta.tv/tv-guide#channel-KID00950-BallermannTV
+#EXTINF:-1 tvg-id="Schlagerparadies.TV.de" tvg-name="Schlagerparadies.TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00949-SchlagerparadiesTV/stationLogo_20221114.png" tvg-chno="99" channel-number="99",Schlagerparadies.TV
+https://www.magenta.tv/tv-guide#channel-KID00949-SchlagerparadiesTV
+#EXTINF:-1 tvg-id="Volksmusik.TV.de" tvg-name="Volksmusik.TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00952-VolksmusikTV/stationLogo_20240110.png" tvg-chno="100" channel-number="100",Volksmusik.TV
+https://www.magenta.tv/tv-guide#channel-KID00952-VolksmusikTV
+#EXTINF:-1 tvg-id="FOLX.MUSIC.TELEVISION.de" tvg-name="FOLX MUSIC TELEVISION" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00936-FOLXMUSICTELEVISION/stationLogo_20221114.png" tvg-chno="101" channel-number="101",FOLX MUSIC TELEVISION
+https://www.magenta.tv/tv-guide#channel-KID00936-FOLXMUSICTELEVISION
+#EXTINF:-1 tvg-id="ONE.MUSIC.TELEVISION.de" tvg-name="ONE MUSIC TELEVISION" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00954-ONEMUSICTELEVISION/stationLogo_20221114.png" tvg-chno="102" channel-number="102",ONE MUSIC TELEVISION
+https://www.magenta.tv/tv-guide#channel-KID00954-ONEMUSICTELEVISION
+#EXTINF:-1 tvg-id="ZWEI.MUSIC.TELEVISION.de" tvg-name="ZWEI MUSIC TELEVISION" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00955-ZWEIMUSICTELEVISION/stationLogo_20221114.png" tvg-chno="103" channel-number="103",ZWEI MUSIC TELEVISION
+https://www.magenta.tv/tv-guide#channel-KID00955-ZWEIMUSICTELEVISION
+#EXTINF:-1 tvg-id="Stingray.Classica.de" tvg-name="Stingray Classica" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00961-StingrayClassica/stationLogo_20221114.png" tvg-chno="104" channel-number="104",Stingray Classica
+https://www.magenta.tv/tv-guide#channel-KID00961-StingrayClassica
+#EXTINF:-1 tvg-id="Stingray.iConcerts.de" tvg-name="Stingray iConcerts" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00963-StingrayiConcerts/stationLogo_20221114.png" tvg-chno="105" channel-number="105",Stingray iConcerts
+https://www.magenta.tv/tv-guide#channel-KID00963-StingrayiConcerts
+#EXTINF:-1 tvg-id="Stingray.DJAZZ.de" tvg-name="Stingray DJAZZ" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00962-StingrayDJAZZ/stationLogo_20221114.png" tvg-chno="106" channel-number="106",Stingray DJAZZ
+https://www.magenta.tv/tv-guide#channel-KID00962-StingrayDJAZZ
+#EXTINF:-1 tvg-id="123.live.de" tvg-name="123.live" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00895-1-2-3tv/stationLogo_20260420.png" tvg-chno="107" channel-number="107",123.live
+https://www.magenta.tv/tv-guide#channel-KID00895-1-2-3tv
+#EXTINF:-1 tvg-id="CHANNEL21.de" tvg-name="CHANNEL21" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00924-CHANNEL21/stationLogo_20220211.png" tvg-chno="108" channel-number="108",CHANNEL21
+https://www.magenta.tv/tv-guide#channel-KID00924-CHANNEL21
+#EXTINF:-1 tvg-id="HSE.de" tvg-name="HSE" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/hse-24/stationLogo_20220211.png" tvg-chno="109" channel-number="109",HSE
+https://www.magenta.tv/tv-guide#channel-hse-24
+#EXTINF:-1 tvg-id="Juwelo.de" tvg-name="Juwelo" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01025-Juwelo/stationLogo_20250402.png" tvg-chno="110" channel-number="110",Juwelo
+https://www.magenta.tv/tv-guide#channel-KID01025-Juwelo
+#EXTINF:-1 tvg-id="QVC.de" tvg-name="QVC" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/qvc/stationLogo_20220211.png" tvg-chno="112" channel-number="112",QVC
+https://www.magenta.tv/tv-guide#channel-qvc
+#EXTINF:-1 tvg-id="QVC.ZWEI.de" tvg-name="QVC ZWEI" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01024-QVCZWEI/stationLogo_20250417.png" tvg-chno="113" channel-number="113",QVC ZWEI
+https://www.magenta.tv/tv-guide#channel-KID01024-QVCZWEI
+#EXTINF:-1 tvg-id="Shop.LC.de" tvg-name="Shop LC" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00920-ShopLC/stationLogo_20220211.png" tvg-chno="114" channel-number="114",Shop LC
+https://www.magenta.tv/tv-guide#channel-KID00920-ShopLC
+#EXTINF:-1 tvg-id="sonnenklar.TV.de" tvg-name="sonnenklar.TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sonnenklar.tv/stationLogo_20220211.png" tvg-chno="115" channel-number="115",sonnenklar.TV
+https://www.magenta.tv/tv-guide#channel-sonnenklar.tv
+#EXTINF:-1 tvg-id="Lilo.TV.de" tvg-name="Lilo.TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01022-LiloTV/stationLogo_20250211.png" tvg-chno="119" channel-number="119",Lilo.TV
+https://www.magenta.tv/tv-guide#channel-KID01022-LiloTV
+#EXTINF:-1 tvg-id="Al.Jazeera.English.de" tvg-name="Al Jazeera English" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00940-AlJazeeraEnglish/stationLogo_20220211.png" tvg-chno="120" channel-number="120",Al Jazeera English
+https://www.magenta.tv/tv-guide#channel-KID00940-AlJazeeraEnglish
+#EXTINF:-1 tvg-id="Asharq.News.de" tvg-name="Asharq News" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00948-AsharqNews/stationLogo_20221114.png" tvg-chno="123" channel-number="123",Asharq News
+https://www.magenta.tv/tv-guide#channel-KID00948-AsharqNews
+#EXTINF:-1 tvg-id="ERT.Cosmos.de" tvg-name="ERT Cosmos" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00968-ERT/stationLogo_20260518.png" tvg-chno="125" channel-number="125",ERT Cosmos
+https://www.magenta.tv/tv-guide#channel-KID00968-ERT
+#EXTINF:-1 tvg-id="BBC.News.de" tvg-name="BBC News" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/bbc-world/stationLogo_20230406.png" tvg-chno="126" channel-number="126",BBC News
+https://www.magenta.tv/tv-guide#channel-bbc-world
+#EXTINF:-1 tvg-id="CNBC.International.de" tvg-name="CNBC International" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00967-CNBCInternational/stationLogo_20251216.png" tvg-chno="127" channel-number="127",CNBC International
+https://www.magenta.tv/tv-guide#channel-KID00967-CNBCInternational
+#EXTINF:-1 tvg-id="CNN.International.de" tvg-name="CNN International" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/cnn-international/stationLogo_20220211.png" tvg-chno="128" channel-number="128",CNN International
+https://www.magenta.tv/tv-guide#channel-cnn-international
+#EXTINF:-1 tvg-id="Euronews.English.de" tvg-name="Euronews English" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00969-EuronewsEnglish/stationLogo_20230405.png" tvg-chno="129" channel-number="129",Euronews English
+https://www.magenta.tv/tv-guide#channel-KID00969-EuronewsEnglish
+#EXTINF:-1 tvg-id="FREEDOM.de" tvg-name="FREEDOM" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00988-FREEDOM/stationLogo_20221114.png" tvg-chno="130" channel-number="130",FREEDOM
+https://www.magenta.tv/tv-guide#channel-KID00988-FREEDOM
+#EXTINF:-1 tvg-id="Espreso.de" tvg-name="Espreso" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00987-Espreso/stationLogo_20221114.png" tvg-chno="131" channel-number="131",Espreso
+https://www.magenta.tv/tv-guide#channel-KID00987-Espreso
+#EXTINF:-1 tvg-id="France.2.de" tvg-name="France 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00995-France2/stationLogo_20230703.png" tvg-chno="132" channel-number="132",France 2
+https://www.magenta.tv/tv-guide#channel-KID00995-France2
+#EXTINF:-1 tvg-id="France.3.de" tvg-name="France 3" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00996-France3/stationLogo_20230703.png" tvg-chno="133" channel-number="133",France 3
+https://www.magenta.tv/tv-guide#channel-KID00996-France3
+#EXTINF:-1 tvg-id="France.4.de" tvg-name="France 4" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01011-France4/stationLogo_20240415.png" tvg-chno="134" channel-number="134",France 4
+https://www.magenta.tv/tv-guide#channel-KID01011-France4
+#EXTINF:-1 tvg-id="France.5.de" tvg-name="France 5" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01012-France5/stationLogo_20240415.png" tvg-chno="135" channel-number="135",France 5
+https://www.magenta.tv/tv-guide#channel-KID01012-France5
+#EXTINF:-1 tvg-id="France.24.francais.de" tvg-name="France 24 francais" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00939-France24francais/stationLogo_20220211.png" tvg-chno="136" channel-number="136",France 24 francais
+https://www.magenta.tv/tv-guide#channel-KID00939-France24francais
+#EXTINF:-1 tvg-id="France.24.english.de" tvg-name="France 24 english" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00951-France24english/stationLogo_20221114.png" tvg-chno="137" channel-number="137",France 24 english
+https://www.magenta.tv/tv-guide#channel-KID00951-France24english
+#EXTINF:-1 tvg-id="TV5MONDE.Europe.de" tvg-name="TV5MONDE Europe" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00937-TV5MONDEEurope/stationLogo_20251013.png" tvg-chno="138" channel-number="138",TV5MONDE Europe
+https://www.magenta.tv/tv-guide#channel-KID00937-TV5MONDEEurope
+#EXTINF:-1 tvg-id="Magenta.Musik.1.de" tvg-name="Magenta Musik 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00802-MagentaMusik1/stationLogo_20220211.png" tvg-chno="141" channel-number="141",Magenta Musik 1
+https://www.magenta.tv/tv-guide#channel-KID00802-MagentaMusik1
+#EXTINF:-1 tvg-id="Magenta.Musik.2.de" tvg-name="Magenta Musik 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00803-MagentaMusik2/stationLogo_20220211.png" tvg-chno="142" channel-number="142",Magenta Musik 2
+https://www.magenta.tv/tv-guide#channel-KID00803-MagentaMusik2
+#EXTINF:-1 tvg-id="Fabella.de" tvg-name="Fabella" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01061-Fabella/stationLogo_20260126.png" tvg-chno="145" channel-number="145",Fabella
+https://www.magenta.tv/tv-guide#channel-KID01061-Fabella
+#EXTINF:-1 tvg-id="Filmgold.de" tvg-name="Filmgold" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01044-Filmgold/stationLogo_20251113.png" tvg-chno="146" channel-number="146",Filmgold
+https://www.magenta.tv/tv-guide#channel-KID01044-Filmgold
+#EXTINF:-1 tvg-id="Grjngo.de" tvg-name="Grjngo" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01058-Grjngo/stationLogo_20260121.png" tvg-chno="147" channel-number="147",Grjngo
+https://www.magenta.tv/tv-guide#channel-KID01058-Grjngo
+#EXTINF:-1 tvg-id="Moviedome.de" tvg-name="Moviedome" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01062-Moviedome/stationLogo_20260126.png" tvg-chno="148" channel-number="148",Moviedome
+https://www.magenta.tv/tv-guide#channel-KID01062-Moviedome
+#EXTINF:-1 tvg-id="Alarm.für.Cobra.11./.Balko.de" tvg-name="Alarm für Cobra 11 / Balko" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01047-AlarmCobra11Balko/stationLogo_20251216.png" tvg-chno="155" channel-number="155",Alarm für Cobra 11 / Balko
+https://www.magenta.tv/tv-guide#channel-KID01047-AlarmCobra11Balko
+#EXTINF:-1 tvg-id="Bauer.sucht.Frau.de" tvg-name="Bauer sucht Frau" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01049-BauersuchtFrau/stationLogo_20251216.png" tvg-chno="157" channel-number="157",Bauer sucht Frau
+https://www.magenta.tv/tv-guide#channel-KID01049-BauersuchtFrau
+#EXTINF:-1 tvg-id="KultKrimi.de" tvg-name="KultKrimi" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01042-KultKrimi/stationLogo_20251113.png" tvg-chno="158" channel-number="158",KultKrimi
+https://www.magenta.tv/tv-guide#channel-KID01042-KultKrimi
+#EXTINF:-1 tvg-id="NARUTO.de" tvg-name="NARUTO" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01055-NARUTO/stationLogo_20260126.png" tvg-chno="162" channel-number="162",NARUTO
+https://www.magenta.tv/tv-guide#channel-KID01055-NARUTO
+#EXTINF:-1 tvg-id="Telenovela.ZDF.de" tvg-name="Telenovela ZDF" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01043-TelenovelaZDF/stationLogo_20251113.png" tvg-chno="164" channel-number="164",Telenovela ZDF
+https://www.magenta.tv/tv-guide#channel-KID01043-TelenovelaZDF
+#EXTINF:-1 tvg-id="TOP.SCI-FI.de" tvg-name="TOP SCI-FI" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01053-TOPSCI-FI/stationLogo_20260121.png" tvg-chno="165" channel-number="165",TOP SCI-FI
+https://www.magenta.tv/tv-guide#channel-KID01053-TOPSCI-FI
+#EXTINF:-1 tvg-id="Scooore.de" tvg-name="Scooore" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01039-Scooore/stationLogo_20251113.png" tvg-chno="169" channel-number="169",Scooore
+https://www.magenta.tv/tv-guide#channel-KID01039-Scooore
+#EXTINF:-1 tvg-id="World.of.Freesports.de" tvg-name="World of Freesports" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01041-WorldofFreesports/stationLogo_20251113.png" tvg-chno="173" channel-number="173",World of Freesports
+https://www.magenta.tv/tv-guide#channel-KID01041-WorldofFreesports
+#EXTINF:-1 tvg-id="Royalworld.de" tvg-name="Royalworld" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01059-Royalworld/stationLogo_20260121.png" tvg-chno="177" channel-number="177",Royalworld
+https://www.magenta.tv/tv-guide#channel-KID01059-Royalworld
+#EXTINF:-1 tvg-id="Spiegel.TV.de" tvg-name="Spiegel TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01057-SPIEGELTV/stationLogo_20260121.png" tvg-chno="178" channel-number="178",Spiegel TV
+https://www.magenta.tv/tv-guide#channel-KID01057-SPIEGELTV
+#EXTINF:-1 tvg-id="Terra.Mater.WILD.de" tvg-name="Terra Mater WILD" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01060-TerraMaterWILD/stationLogo_20260121.png" tvg-chno="179" channel-number="179",Terra Mater WILD
+https://www.magenta.tv/tv-guide#channel-KID01060-TerraMaterWILD
+#EXTINF:-1 tvg-id="TOP.TRUE.CRIME.de" tvg-name="TOP TRUE CRIME" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01054-TOPTRUECRIME/stationLogo_20260121.png" tvg-chno="181" channel-number="181",TOP TRUE CRIME
+https://www.magenta.tv/tv-guide#channel-KID01054-TOPTRUECRIME
+#EXTINF:-1 tvg-id="hundkatzemaus.de" tvg-name="hundkatzemaus" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01050-hundkatzemaus/stationLogo_20251216.png" tvg-chno="183" channel-number="183",hundkatzemaus
+https://www.magenta.tv/tv-guide#channel-KID01050-hundkatzemaus
+#EXTINF:-1 tvg-id="Landlust.TV.de" tvg-name="Landlust TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01040-LandlustTV/stationLogo_20251113.png" tvg-chno="185" channel-number="185",Landlust TV
+https://www.magenta.tv/tv-guide#channel-KID01040-LandlustTV
+#EXTINF:-1 tvg-id="Shopping.Queen.de" tvg-name="Shopping Queen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01048-ShoppingQueen/stationLogo_20251216.png" tvg-chno="186" channel-number="186",Shopping Queen
+https://www.magenta.tv/tv-guide#channel-KID01048-ShoppingQueen
+#EXTINF:-1 tvg-id="ProSiebenSat.1.de" tvg-name="ProSiebenSat.1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00914-ProSiebenSat1UHD/stationLogo_20220211.png" tvg-chno="188" channel-number="188",ProSiebenSat.1
+https://www.magenta.tv/tv-guide#channel-KID00914-ProSiebenSat1UHD
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="RTL" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00860-RTLUHD/stationLogo_20220211.png" tvg-chno="190" channel-number="190",RTL
+https://www.magenta.tv/tv-guide#channel-KID00860-RTLUHD
+#EXTINF:-1 tvg-id="Travelxp.4K.de" tvg-name="Travelxp 4K" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00857-Travelxp4K/stationLogo_20220211.png" tvg-chno="197" channel-number="197",Travelxp 4K
+https://www.magenta.tv/tv-guide#channel-KID00857-Travelxp4K
+#EXTINF:-1 tvg-id="13TH.STREET.de" tvg-name="13TH STREET" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/13th-street/stationLogo_20220211.png" tvg-chno="200" channel-number="200",13TH STREET
+https://www.magenta.tv/tv-guide#channel-13th-street
+#EXTINF:-1 tvg-id="AXN.Black.de" tvg-name="AXN Black" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/axn/stationLogo_20230829.png" tvg-chno="202" channel-number="202",AXN Black
+https://www.magenta.tv/tv-guide#channel-axn
+#EXTINF:-1 tvg-id="Kabel.Eins.CLASSICS.de" tvg-name="Kabel Eins CLASSICS" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/kabel-1-classics/stationLogo_20220211.png" tvg-chno="205" channel-number="205",Kabel Eins CLASSICS
+https://www.magenta.tv/tv-guide#channel-kabel-1-classics
+#EXTINF:-1 tvg-id="KinoweltTV.de" tvg-name="KinoweltTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/kinowelt-tv/stationLogo_20220211.png" tvg-chno="206" channel-number="206",KinoweltTV
+https://www.magenta.tv/tv-guide#channel-kinowelt-tv
+#EXTINF:-1 tvg-id="ProSieben.FUN.de" tvg-name="ProSieben FUN" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/pro7-fun/stationLogo_20220211.png" tvg-chno="207" channel-number="207",ProSieben FUN
+https://www.magenta.tv/tv-guide#channel-pro7-fun
+#EXTINF:-1 tvg-id="RTL.Crime.de" tvg-name="RTL Crime" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-crime/stationLogo_20220211.png" tvg-chno="208" channel-number="208",RTL Crime
+https://www.magenta.tv/tv-guide#channel-rtl-crime
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.de" tvg-name="Sky Sci-Fi" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/syfy/stationLogo_20260526.png" tvg-chno="210" channel-number="210",Sky Sci-Fi
+https://www.magenta.tv/tv-guide#channel-syfy
+#EXTINF:-1 tvg-id="Warner.TV.Comedy.de" tvg-name="Warner TV Comedy" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/glitz/stationLogo_20220211.png" tvg-chno="211" channel-number="211",Warner TV Comedy
+https://www.magenta.tv/tv-guide#channel-glitz
+#EXTINF:-1 tvg-id="Warner.TV.Film.de" tvg-name="Warner TV Film" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tnt-film/stationLogo_20220211.png" tvg-chno="212" channel-number="212",Warner TV Film
+https://www.magenta.tv/tv-guide#channel-tnt-film
+#EXTINF:-1 tvg-id="Warner.TV.Serie.de" tvg-name="Warner TV Serie" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tnt-serie/stationLogo_20220211.png" tvg-chno="213" channel-number="213",Warner TV Serie
+https://www.magenta.tv/tv-guide#channel-tnt-serie
+#EXTINF:-1 tvg-id="Universal.TV.de" tvg-name="Universal TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/universal-channel/stationLogo_20220211.png" tvg-chno="214" channel-number="214",Universal TV
+https://www.magenta.tv/tv-guide#channel-universal-channel
+#EXTINF:-1 tvg-id="Baby.TV.de" tvg-name="Baby TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/baby-tv/stationLogo_20220211.png" tvg-chno="215" channel-number="215",Baby TV
+https://www.magenta.tv/tv-guide#channel-baby-tv
+#EXTINF:-1 tvg-id="Cartoonito.de" tvg-name="Cartoonito" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/boomerang/stationLogo_20230328.png" tvg-chno="216" channel-number="216",Cartoonito
+https://www.magenta.tv/tv-guide#channel-boomerang
+#EXTINF:-1 tvg-id="Cartoon.Network.de" tvg-name="Cartoon Network" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/cartoon-network/stationLogo_20220211.png" tvg-chno="217" channel-number="217",Cartoon Network
+https://www.magenta.tv/tv-guide#channel-cartoon-network
+#EXTINF:-1 tvg-id="Fix&amp;Foxi.TV.de" tvg-name="Fix&amp;Foxi TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01019-FixFoxiTV/stationLogo_20240927.png" tvg-chno="220" channel-number="220",Fix&amp;Foxi TV
+https://www.magenta.tv/tv-guide#channel-KID01019-FixFoxiTV
+#EXTINF:-1 tvg-id="Nick.Jr..de" tvg-name="Nick Jr." tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/nick-jr/stationLogo_20240212.png" tvg-chno="222" channel-number="222",Nick Jr.
+https://www.magenta.tv/tv-guide#channel-nick-jr.
+#EXTINF:-1 tvg-id="RiC.today.de" tvg-name="RiC.today" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01018-RiCtoday/stationLogo_20240927.png" tvg-chno="225" channel-number="225",RiC.today
+https://www.magenta.tv/tv-guide#channel-KID01018-RiCtoday
+#EXTINF:-1 tvg-id="BonGusto.de" tvg-name="BonGusto" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/bongusto/stationLogo_20220211.png" tvg-chno="230" channel-number="230",BonGusto
+https://www.magenta.tv/tv-guide#channel-bongusto
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00841-Heimatkanal/stationLogo_20220211.png" tvg-chno="233" channel-number="233",Heimatkanal
+https://www.magenta.tv/tv-guide#channel-KID00841-Heimatkanal
+#EXTINF:-1 tvg-id="RTL.Passion.de" tvg-name="RTL Passion" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/passion/stationLogo_20220211.png" tvg-chno="234" channel-number="234",RTL Passion
+https://www.magenta.tv/tv-guide#channel-passion
+#EXTINF:-1 tvg-id="Romance.TV.de" tvg-name="Romance TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/romance-tv/stationLogo_20220211.png" tvg-chno="236" channel-number="236",Romance TV
+https://www.magenta.tv/tv-guide#channel-romance-tv
+#EXTINF:-1 tvg-id="RTL.Living.de" tvg-name="RTL Living" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-living/stationLogo_20220211.png" tvg-chno="237" channel-number="237",RTL Living
+https://www.magenta.tv/tv-guide#channel-rtl-living
+#EXTINF:-1 tvg-id="SAT.1.emotions.de" tvg-name="SAT.1 emotions" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-emotions/stationLogo_20220211.png" tvg-chno="239" channel-number="239",SAT.1 emotions
+https://www.magenta.tv/tv-guide#channel-sat.1-emotions
+#EXTINF:-1 tvg-id="AXN.White.de" tvg-name="AXN White" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sony-tv/stationLogo_20230829.png" tvg-chno="240" channel-number="240",AXN White
+https://www.magenta.tv/tv-guide#channel-sony-tv
+#EXTINF:-1 tvg-id="wetter.com.TV.de" tvg-name="wetter.com TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00758-wettercomTV/stationLogo_20220211.png" tvg-chno="242" channel-number="242",wetter.com TV
+https://www.magenta.tv/tv-guide#channel-KID00758-wettercomTV
+#EXTINF:-1 tvg-id="Animal.Planet.de" tvg-name="Animal Planet" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/animal-planet/stationLogo_20220211.png" tvg-chno="245" channel-number="245",Animal Planet
+https://www.magenta.tv/tv-guide#channel-animal-planet
+#EXTINF:-1 tvg-id="Crime+Investigation.de" tvg-name="Crime+Investigation" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/ae/stationLogo_20220211.png" tvg-chno="246" channel-number="246",Crime+Investigation
+https://www.magenta.tv/tv-guide#channel-ae
+#EXTINF:-1 tvg-id="Discovery.Channel.de" tvg-name="Discovery Channel" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/discovery-channel/stationLogo_20220211.png" tvg-chno="247" channel-number="247",Discovery Channel
+https://www.magenta.tv/tv-guide#channel-discovery-channel
+#EXTINF:-1 tvg-id="GEO.Television.de" tvg-name="GEO Television" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/geo/stationLogo_20220211.png" tvg-chno="248" channel-number="248",GEO Television
+https://www.magenta.tv/tv-guide#channel-geo
+#EXTINF:-1 tvg-id="The.HISTORY.Channel.de" tvg-name="The HISTORY Channel" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/history-channel/stationLogo_20230406.png" tvg-chno="249" channel-number="249",The HISTORY Channel
+https://www.magenta.tv/tv-guide#channel-history-channel
+#EXTINF:-1 tvg-id="National.Geographic.de" tvg-name="National Geographic" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/national-geographic/stationLogo_20220211.png" tvg-chno="253" channel-number="253",National Geographic
+https://www.magenta.tv/tv-guide#channel-national-geographic
+#EXTINF:-1 tvg-id="National.Geographic.Wild.de" tvg-name="National Geographic Wild" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00760-NATGEOWILD/stationLogo_20220211.png" tvg-chno="254" channel-number="254",National Geographic Wild
+https://www.magenta.tv/tv-guide#channel-KID00760-NATGEOWILD
+#EXTINF:-1 tvg-id="Bergblick.de" tvg-name="Bergblick" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/planet-tv/stationLogo_20220211.png" tvg-chno="255" channel-number="255",Bergblick
+https://www.magenta.tv/tv-guide#channel-planet-tv
+#EXTINF:-1 tvg-id="Spiegel.Geschichte.de" tvg-name="Spiegel Geschichte" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00881-SpiegelGeschichte/stationLogo_20230802.png" tvg-chno="256" channel-number="256",Spiegel Geschichte
+https://www.magenta.tv/tv-guide#channel-KID00881-SpiegelGeschichte
+#EXTINF:-1 tvg-id="Curiosity.Channel.de" tvg-name="Curiosity Channel" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/spiegel-wissen/stationLogo_20230427.png" tvg-chno="257" channel-number="257",Curiosity Channel
+https://www.magenta.tv/tv-guide#channel-spiegel-wissen
+#EXTINF:-1 tvg-id="auto.motor.und.sport.de" tvg-name="auto motor und sport" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/auto-motor-sport/stationLogo_20220211.png" tvg-chno="260" channel-number="260",auto motor und sport
+https://www.magenta.tv/tv-guide#channel-auto-motor-sport
+#EXTINF:-1 tvg-id="Eurosport.2.de" tvg-name="Eurosport 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/eurosport-2/stationLogo_20220211.png" tvg-chno="263" channel-number="263",Eurosport 2
+https://www.magenta.tv/tv-guide#channel-eurosport-2
+#EXTINF:-1 tvg-id="Motorvision+.de" tvg-name="Motorvision+" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00795-MOTORVISIONTV/stationLogo_20230907.png" tvg-chno="266" channel-number="266",Motorvision+
+https://www.magenta.tv/tv-guide#channel-KID00795-MOTORVISIONTV
+#EXTINF:-1 tvg-id="eSportsONE.de" tvg-name="eSportsONE" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sport1-us-sd/stationLogo_20241203.png" tvg-chno="268" channel-number="268",eSportsONE
+https://www.magenta.tv/tv-guide#channel-sport1-us-sd
+#EXTINF:-1 tvg-id="Blue.Hustler.de" tvg-name="Blue Hustler" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/blue-hustler/stationLogo_20220211.png" tvg-chno="276" channel-number="276",Blue Hustler
+https://www.magenta.tv/tv-guide#channel-blue-hustler
+#EXTINF:-1 tvg-id="Lust.pur.de" tvg-name="Lust pur" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/lust-pur/stationLogo_20220211.png" tvg-chno="277" channel-number="277",Lust pur
+https://www.magenta.tv/tv-guide#channel-lust-pur
+#EXTINF:-1 tvg-id="Penthouse.Passion.de" tvg-name="Penthouse Passion" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/penthouse/stationLogo_20220211.png" tvg-chno="278" channel-number="278",Penthouse Passion
+https://www.magenta.tv/tv-guide#channel-penthouse
+#EXTINF:-1 tvg-id="Playboy.Europe.de" tvg-name="Playboy Europe" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/playboy-europe/stationLogo_20220211.png" tvg-chno="279" channel-number="279",Playboy Europe
+https://www.magenta.tv/tv-guide#channel-playboy-europe
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rck-tv/stationLogo_20220211.png" tvg-chno="284" channel-number="284",Jukebox
+https://www.magenta.tv/tv-guide#channel-rck-tv
+#EXTINF:-1 tvg-id="MagentaSport.de" tvg-name="MagentaSport" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00910-MagentaSport/stationLogo_20221114.png" tvg-chno="300" channel-number="300",MagentaSport
+https://www.magenta.tv/tv-guide#channel-KID00910-MagentaSport
+#EXTINF:-1 tvg-id="Sport.1.-.myTeamTV.de" tvg-name="Sport 1 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00754-TelekomEishockey1/stationLogo_20220211.png" tvg-chno="301" channel-number="301",Sport 1 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00754-TelekomEishockey1
+#EXTINF:-1 tvg-id="Sport.2.-.myTeamTV.de" tvg-name="Sport 2 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00755-TelekomEishockey2/stationLogo_20220211.png" tvg-chno="302" channel-number="302",Sport 2 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00755-TelekomEishockey2
+#EXTINF:-1 tvg-id="Sport.3.-.myTeamTV.de" tvg-name="Sport 3 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00756-TelekomEishockey3/stationLogo_20220211.png" tvg-chno="303" channel-number="303",Sport 3 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00756-TelekomEishockey3
+#EXTINF:-1 tvg-id="Sport.4.-.myTeamTV.de" tvg-name="Sport 4 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00761-TelekomEishockey4/stationLogo_20220211.png" tvg-chno="304" channel-number="304",Sport 4 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00761-TelekomEishockey4
+#EXTINF:-1 tvg-id="Sport.5.-.myTeamTV.de" tvg-name="Sport 5 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00762-TelekomEishockey5/stationLogo_20220211.png" tvg-chno="305" channel-number="305",Sport 5 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00762-TelekomEishockey5
+#EXTINF:-1 tvg-id="Sport.6.-.myTeamTV.de" tvg-name="Sport 6 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00763-TelekomEishockey6/stationLogo_20220211.png" tvg-chno="306" channel-number="306",Sport 6 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00763-TelekomEishockey6
+#EXTINF:-1 tvg-id="Sport.7.-.myTeamTV.de" tvg-name="Sport 7 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00764-TelekomEishockey7/stationLogo_20220211.png" tvg-chno="307" channel-number="307",Sport 7 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00764-TelekomEishockey7
+#EXTINF:-1 tvg-id="Sport.8.-.myTeamTV.de" tvg-name="Sport 8 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00806-MyTeamTV-Fuball1/stationLogo_20220211.png" tvg-chno="308" channel-number="308",Sport 8 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00806-MyTeamTV-Fuball1
+#EXTINF:-1 tvg-id="Sport.9.-.myTeamTV.de" tvg-name="Sport 9 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00807-MyTeamTV-Fuball2/stationLogo_20220211.png" tvg-chno="309" channel-number="309",Sport 9 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00807-MyTeamTV-Fuball2
+#EXTINF:-1 tvg-id="Sport.10.-.myTeamTV.de" tvg-name="Sport 10 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00808-MyTeamTV-Fuball3/stationLogo_20220211.png" tvg-chno="310" channel-number="310",Sport 10 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00808-MyTeamTV-Fuball3
+#EXTINF:-1 tvg-id="Sport.11.-.myTeamTV.de" tvg-name="Sport 11 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00809-MyTeamTV-Fuball4/stationLogo_20220211.png" tvg-chno="311" channel-number="311",Sport 11 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00809-MyTeamTV-Fuball4
+#EXTINF:-1 tvg-id="Sport.12.-.myTeamTV.de" tvg-name="Sport 12 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00811-MyTeamTV-Fuball5/stationLogo_20220211.png" tvg-chno="312" channel-number="312",Sport 12 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00811-MyTeamTV-Fuball5
+#EXTINF:-1 tvg-id="Sport.13.-.myTeamTV.de" tvg-name="Sport 13 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00812-MyTeamTV-Fuball6/stationLogo_20220211.png" tvg-chno="313" channel-number="313",Sport 13 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00812-MyTeamTV-Fuball6
+#EXTINF:-1 tvg-id="Sport.14.-.myTeamTV.de" tvg-name="Sport 14 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00813-MyTeamTV-Fuball7/stationLogo_20220211.png" tvg-chno="314" channel-number="314",Sport 14 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00813-MyTeamTV-Fuball7
+#EXTINF:-1 tvg-id="Sport.15.-.myTeamTV.de" tvg-name="Sport 15 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/bbl-sd1/stationLogo_20220211.png" tvg-chno="315" channel-number="315",Sport 15 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-bbl-sd1
+#EXTINF:-1 tvg-id="Sport.16.-.myTeamTV.de" tvg-name="Sport 16 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/bbl-sd2/stationLogo_20220211.png" tvg-chno="316" channel-number="316",Sport 16 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-bbl-sd2
+#EXTINF:-1 tvg-id="Sport.17.-.myTeamTV.de" tvg-name="Sport 17 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/bbl-sd3/stationLogo_20220211.png" tvg-chno="317" channel-number="317",Sport 17 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-bbl-sd3
+#EXTINF:-1 tvg-id="Sport.18.-.myTeamTV.de" tvg-name="Sport 18 - myTeamTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00765-TelekomBasketball4/stationLogo_20250107.png" tvg-chno="318" channel-number="318",Sport 18 - myTeamTV
+https://www.magenta.tv/tv-guide#channel-KID00765-TelekomBasketball4
+#EXTINF:-1 tvg-id="SPORTDIGITAL.FUSSBALL.de" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sportdigital/stationLogo_20220211.png" tvg-chno="319" channel-number="319",SPORTDIGITAL FUSSBALL
+https://www.magenta.tv/tv-guide#channel-sportdigital
+#EXTINF:-1 tvg-id="Sportdigital1+.de" tvg-name="Sportdigital1+" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sport1plus/stationLogo_20241203.png" tvg-chno="320" channel-number="320",Sportdigital1+
+https://www.magenta.tv/tv-guide#channel-sport1plus
+#EXTINF:-1 tvg-id="Sky.Sport.Kompakt.1.de" tvg-name="Sky Sport Kompakt 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00819-SkySportKompakt1/stationLogo_20220211.png" tvg-chno="321" channel-number="321",Sky Sport Kompakt 1
+https://www.magenta.tv/tv-guide#channel-KID00819-SkySportKompakt1
+#EXTINF:-1 tvg-id="TeleBom/TeleDom.de" tvg-name="TeleBom/TeleDom" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/detmirtk/stationLogo_20220211.png" tvg-chno="350" channel-number="350",TeleBom/TeleDom
+https://www.magenta.tv/tv-guide#channel-detmirtk
+#EXTINF:-1 tvg-id="Euronews.Russki.de" tvg-name="Euronews Russki" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/euron-rus/stationLogo_20230405.png" tvg-chno="351" channel-number="351",Euronews Russki
+https://www.magenta.tv/tv-guide#channel-euron-rus
+#EXTINF:-1 tvg-id="Kinomir.de" tvg-name="Kinomir" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/nashe-kino/stationLogo_20220211.png" tvg-chno="352" channel-number="352",Kinomir
+https://www.magenta.tv/tv-guide#channel-nashe-kino
+#EXTINF:-1 tvg-id="OstWest.de" tvg-name="OstWest" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtvi/stationLogo_20220211.png" tvg-chno="354" channel-number="354",OstWest
+https://www.magenta.tv/tv-guide#channel-rtvi
+#EXTINF:-1 tvg-id="iTVN.de" tvg-name="iTVN" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/itvn/stationLogo_20220211.png" tvg-chno="360" channel-number="360",iTVN
+https://www.magenta.tv/tv-guide#channel-itvn
+#EXTINF:-1 tvg-id="TVP.Polonia.de" tvg-name="TVP Polonia" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tv-polonia/stationLogo_20220211.png" tvg-chno="361" channel-number="361",TVP Polonia
+https://www.magenta.tv/tv-guide#channel-tv-polonia
+#EXTINF:-1 tvg-id="ATV.Avrupa.de" tvg-name="ATV Avrupa" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01002-ATVAvrupa/stationLogo_20240109.png" tvg-chno="364" channel-number="364",ATV Avrupa
+https://www.magenta.tv/tv-guide#channel-KID01002-ATVAvrupa
+#EXTINF:-1 tvg-id="HT.SPOR.de" tvg-name="HT SPOR" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01015-HTSPOR/stationLogo_20241203.png" tvg-chno="365" channel-number="365",HT SPOR
+https://www.magenta.tv/tv-guide#channel-KID01015-HTSPOR
+#EXTINF:-1 tvg-id="Euro.D.de" tvg-name="Euro D" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/euro-d/stationLogo_20220211.png" tvg-chno="366" channel-number="366",Euro D
+https://www.magenta.tv/tv-guide#channel-euro-d
+#EXTINF:-1 tvg-id="Eurostar.TV.de" tvg-name="Eurostar TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/euro-star/stationLogo_20220211.png" tvg-chno="367" channel-number="367",Eurostar TV
+https://www.magenta.tv/tv-guide#channel-euro-star
+#EXTINF:-1 tvg-id="Kanal.7.de" tvg-name="Kanal 7" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/kanal-7/stationLogo_20220211.png" tvg-chno="368" channel-number="368",Kanal 7
+https://www.magenta.tv/tv-guide#channel-kanal-7
+#EXTINF:-1 tvg-id="beIN.iZ.de" tvg-name="beIN iZ" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00876-beINiZ/stationLogo_20220211.png" tvg-chno="369" channel-number="369",beIN iZ
+https://www.magenta.tv/tv-guide#channel-KID00876-beINiZ
+#EXTINF:-1 tvg-id="beIN.Movies.Turk.de" tvg-name="beIN Movies Turk" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/moviemax-turk/stationLogo_20220211.png" tvg-chno="370" channel-number="370",beIN Movies Turk
+https://www.magenta.tv/tv-guide#channel-moviemax-turk
+#EXTINF:-1 tvg-id="Habertürk.TV.de" tvg-name="Habertürk TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00885-HaberTrk/stationLogo_20220211.png" tvg-chno="371" channel-number="371",Habertürk TV
+https://www.magenta.tv/tv-guide#channel-KID00885-HaberTrk
+#EXTINF:-1 tvg-id="Show.Turk.de" tvg-name="Show Turk" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/show-turk/stationLogo_20220211.png" tvg-chno="373" channel-number="373",Show Turk
+https://www.magenta.tv/tv-guide#channel-show-turk
+#EXTINF:-1 tvg-id="Show.Max.de" tvg-name="Show Max" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00877-ShowMax/stationLogo_20220211.png" tvg-chno="374" channel-number="374",Show Max
+https://www.magenta.tv/tv-guide#channel-KID00877-ShowMax
+#EXTINF:-1 tvg-id="TRT.Cocuk.de" tvg-name="TRT Cocuk" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01003-TRTCocuk/stationLogo_20240109.png" tvg-chno="375" channel-number="375",TRT Cocuk
+https://www.magenta.tv/tv-guide#channel-KID01003-TRTCocuk
+#EXTINF:-1 tvg-id="TV8.Int.de" tvg-name="TV8 Int" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tv-8-int/stationLogo_20220211.png" tvg-chno="376" channel-number="376",TV8 Int
+https://www.magenta.tv/tv-guide#channel-tv-8-int
+#EXTINF:-1 tvg-id="ÜLKE.TV.de" tvg-name="ÜLKE TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/power-tuerk-tv/stationLogo_20220211.png" tvg-chno="377" channel-number="377",ÜLKE TV
+https://www.magenta.tv/tv-guide#channel-power-tuerk-tv
+#EXTINF:-1 tvg-id="Euronews.Italiano.de" tvg-name="Euronews Italiano" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/euron-i/stationLogo_20230405.png" tvg-chno="380" channel-number="380",Euronews Italiano
+https://www.magenta.tv/tv-guide#channel-euron-i
+#EXTINF:-1 tvg-id="Rai.1.de" tvg-name="Rai 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rai-uno/stationLogo_20220211.png" tvg-chno="381" channel-number="381",Rai 1
+https://www.magenta.tv/tv-guide#channel-rai-uno
+#EXTINF:-1 tvg-id="Rai.2.de" tvg-name="Rai 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rai-due/stationLogo_20220211.png" tvg-chno="382" channel-number="382",Rai 2
+https://www.magenta.tv/tv-guide#channel-rai-due
+#EXTINF:-1 tvg-id="Rai.3.de" tvg-name="Rai 3" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rai-tre/stationLogo_20220211.png" tvg-chno="383" channel-number="383",Rai 3
+https://www.magenta.tv/tv-guide#channel-rai-tre
+#EXTINF:-1 tvg-id="Baden.TV.de" tvg-name="Baden TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00747-BadenTV/stationLogo_20220211.png" tvg-chno="400" channel-number="400",Baden TV
+https://www.magenta.tv/tv-guide#channel-KID00747-BadenTV
+#EXTINF:-1 tvg-id="Baden.TV.Süd.de" tvg-name="Baden TV Süd" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00862-BadenTVSd/stationLogo_20220211.png" tvg-chno="401" channel-number="401",Baden TV Süd
+https://www.magenta.tv/tv-guide#channel-KID00862-BadenTVSd
+#EXTINF:-1 tvg-id="L-TV.de" tvg-name="L-TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00742-L-TV/stationLogo_20260420.png" tvg-chno="402" channel-number="402",L-TV
+https://www.magenta.tv/tv-guide#channel-KID00742-L-TV
+#EXTINF:-1 tvg-id="Regio.TV.de" tvg-name="Regio TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00839-RegioTV/stationLogo_20220211.png" tvg-chno="403" channel-number="403",Regio TV
+https://www.magenta.tv/tv-guide#channel-KID00839-RegioTV
+#EXTINF:-1 tvg-id="RTL.Rhein-Neckar.de" tvg-name="RTL Rhein-Neckar" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01000-RTLRhein-Neckar/stationLogo_20230410.png" tvg-chno="406" channel-number="406",RTL Rhein-Neckar
+https://www.magenta.tv/tv-guide#channel-KID01000-RTLRhein-Neckar
+#EXTINF:-1 tvg-id="a.tv.de" tvg-name="a.tv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/a.tv/stationLogo_20220211.png" tvg-chno="425" channel-number="425",a.tv
+https://www.magenta.tv/tv-guide#channel-a.tv
+#EXTINF:-1 tvg-id="allgäu.tv.de" tvg-name="allgäu.tv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tv-allgaeu/stationLogo_20220211.png" tvg-chno="426" channel-number="426",allgäu.tv
+https://www.magenta.tv/tv-guide#channel-tv-allgaeu
+#EXTINF:-1 tvg-id="BR.Fernsehen.Nord.de" tvg-name="BR Fernsehen Nord" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/br-nord/stationLogo_20241119.png" tvg-chno="427" channel-number="427",BR Fernsehen Nord
+https://www.magenta.tv/tv-guide#channel-br-nord
+#EXTINF:-1 tvg-id="NIEDERBAYERN.TV.Deggendorf.-.Straubing.de" tvg-name="NIEDERBAYERN TV Deggendorf - Straubing" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/donau-tv/stationLogo_20220211.png" tvg-chno="428" channel-number="428",NIEDERBAYERN TV Deggendorf - Straubing
+https://www.magenta.tv/tv-guide#channel-donau-tv
+#EXTINF:-1 tvg-id="Franken.Fernsehen.de" tvg-name="Franken Fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/franken-fernsehen/stationLogo_20220211.png" tvg-chno="429" channel-number="429",Franken Fernsehen
+https://www.magenta.tv/tv-guide#channel-franken-fernsehen
+#EXTINF:-1 tvg-id="tv.ingolstadt.de" tvg-name="tv.ingolstadt" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/intv/stationLogo_20220211.png" tvg-chno="430" channel-number="430",tv.ingolstadt
+https://www.magenta.tv/tv-guide#channel-intv
+#EXTINF:-1 tvg-id="NIEDERBAYERN.TV.Landshut.de" tvg-name="NIEDERBAYERN TV Landshut" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/isar-tv/stationLogo_20220211.png" tvg-chno="431" channel-number="431",NIEDERBAYERN TV Landshut
+https://www.magenta.tv/tv-guide#channel-isar-tv
+#EXTINF:-1 tvg-id="münchen.tv.de" tvg-name="münchen.tv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/muenchen.tv/stationLogo_20220211.png" tvg-chno="433" channel-number="433",münchen.tv
+https://www.magenta.tv/tv-guide#channel-muenchen.tv
+#EXTINF:-1 tvg-id="Oberpfalz.TV.de" tvg-name="Oberpfalz TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/oberpfalz-tv/stationLogo_20220211.png" tvg-chno="434" channel-number="434",Oberpfalz TV
+https://www.magenta.tv/tv-guide#channel-oberpfalz-tv
+#EXTINF:-1 tvg-id="RFO.de" tvg-name="RFO" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rfo/stationLogo_20220211.png" tvg-chno="435" channel-number="435",RFO
+https://www.magenta.tv/tv-guide#channel-rfo
+#EXTINF:-1 tvg-id="RTL.Bayern.de" tvg-name="RTL Bayern" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00999-RTLBayern/stationLogo_20230410.png" tvg-chno="436" channel-number="436",RTL Bayern
+https://www.magenta.tv/tv-guide#channel-KID00999-RTLBayern
+#EXTINF:-1 tvg-id="SAT.1.Bayern.de" tvg-name="SAT.1 Bayern" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-bayern/stationLogo_20230315.png" tvg-chno="437" channel-number="437",SAT.1 Bayern
+https://www.magenta.tv/tv-guide#channel-sat.1-bayern
+#EXTINF:-1 tvg-id="NIEDERBAYERN.TV.Passau.de" tvg-name="NIEDERBAYERN TV Passau" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/trp1/stationLogo_20220211.png" tvg-chno="438" channel-number="438",NIEDERBAYERN TV Passau
+https://www.magenta.tv/tv-guide#channel-trp1
+#EXTINF:-1 tvg-id="TV.Oberfranken.de" tvg-name="TV Oberfranken" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tv-oberfranken/stationLogo_20220211.png" tvg-chno="439" channel-number="439",TV Oberfranken
+https://www.magenta.tv/tv-guide#channel-tv-oberfranken
+#EXTINF:-1 tvg-id="TV.Mainfranken.de" tvg-name="TV Mainfranken" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tv-touring-wuerzburg/stationLogo_20250320.png" tvg-chno="440" channel-number="440",TV Mainfranken
+https://www.magenta.tv/tv-guide#channel-tv-touring-wuerzburg
+#EXTINF:-1 tvg-id="TVA.Ostbayern.de" tvg-name="TVA Ostbayern" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tva-ostbayern/stationLogo_20220211.png" tvg-chno="441" channel-number="441",TVA Ostbayern
+https://www.magenta.tv/tv-guide#channel-tva-ostbayern
+#EXTINF:-1 tvg-id="ALEX.Berlin.de" tvg-name="ALEX Berlin" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00785-ALEXBerlin/stationLogo_20220211.png" tvg-chno="450" channel-number="450",ALEX Berlin
+https://www.magenta.tv/tv-guide#channel-KID00785-ALEXBerlin
+#EXTINF:-1 tvg-id="tv.berlin.de" tvg-name="tv.berlin" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00783-tvberlin/stationLogo_20220211.png" tvg-chno="452" channel-number="452",tv.berlin
+https://www.magenta.tv/tv-guide#channel-KID00783-tvberlin
+#EXTINF:-1 tvg-id="lausitz.tv.de" tvg-name="lausitz.tv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01010-lausitztv/stationLogo_20240418.png" tvg-chno="456" channel-number="456",lausitz.tv
+https://www.magenta.tv/tv-guide#channel-KID01010-lausitztv
+#EXTINF:-1 tvg-id="rbb.fernsehen.Brandenburg.de" tvg-name="rbb fernsehen Brandenburg" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rbb-brandenburg/stationLogo_20241119.png" tvg-chno="457" channel-number="457",rbb fernsehen Brandenburg
+https://www.magenta.tv/tv-guide#channel-rbb-brandenburg
+#EXTINF:-1 tvg-id="teltOwkanal.de" tvg-name="teltOwkanal" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01020-teltOwkanal/stationLogo_20241203.png" tvg-chno="459" channel-number="459",teltOwkanal
+https://www.magenta.tv/tv-guide#channel-KID01020-teltOwkanal
+#EXTINF:-1 tvg-id="RTL.Bremen.&amp;.Niedersachsen.de" tvg-name="RTL Bremen &amp; Niedersachsen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-hb-nds/stationLogo_20230315.png" tvg-chno="461" channel-number="461",RTL Bremen &amp; Niedersachsen
+https://www.magenta.tv/tv-guide#channel-rtl-hb-nds
+#EXTINF:-1 tvg-id="SAT.1.Niedersachsen.und.Bremen.de" tvg-name="SAT.1 Niedersachsen und Bremen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-nds-bremen/stationLogo_20230315.png" tvg-chno="462" channel-number="462",SAT.1 Niedersachsen und Bremen
+https://www.magenta.tv/tv-guide#channel-sat.1-nds-bremen
+#EXTINF:-1 tvg-id="Hamburg.1.de" tvg-name="Hamburg 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/hamburg-1/stationLogo_20220211.png" tvg-chno="465" channel-number="465",Hamburg 1
+https://www.magenta.tv/tv-guide#channel-hamburg-1
+#EXTINF:-1 tvg-id="NDR.Fernsehen.Hamburg.de" tvg-name="NDR Fernsehen Hamburg" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/ndr-hamburg/stationLogo_20241210.png" tvg-chno="466" channel-number="466",NDR Fernsehen Hamburg
+https://www.magenta.tv/tv-guide#channel-ndr-hamburg
+#EXTINF:-1 tvg-id="NDR.Fernsehen.Schleswig-Holstein.de" tvg-name="NDR Fernsehen Schleswig-Holstein" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/ndr-schleswig-holste/stationLogo_20241210.png" tvg-chno="467" channel-number="467",NDR Fernsehen Schleswig-Holstein
+https://www.magenta.tv/tv-guide#channel-ndr-schleswig-holste
+#EXTINF:-1 tvg-id="RTL.Hamburg.&amp;.Schleswig-Holstein.de" tvg-name="RTL Hamburg &amp; Schleswig-Holstein" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-hh-sh/stationLogo_20230315.png" tvg-chno="468" channel-number="468",RTL Hamburg &amp; Schleswig-Holstein
+https://www.magenta.tv/tv-guide#channel-rtl-hh-sh
+#EXTINF:-1 tvg-id="SAT.1.Hamburg.und.Schleswig-Holstein.de" tvg-name="SAT.1 Hamburg und Schleswig-Holstein" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-hh-sh/stationLogo_20230315.png" tvg-chno="469" channel-number="469",SAT.1 Hamburg und Schleswig-Holstein
+https://www.magenta.tv/tv-guide#channel-sat.1-hh-sh
+#EXTINF:-1 tvg-id="RTL.Hessen.de" tvg-name="RTL Hessen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-hessen/stationLogo_20230315.png" tvg-chno="474" channel-number="474",RTL Hessen
+https://www.magenta.tv/tv-guide#channel-rtl-hessen
+#EXTINF:-1 tvg-id="GüstrowTV.de" tvg-name="GüstrowTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01030-GstrowTV/stationLogo_20250630.png" tvg-chno="475" channel-number="475",GüstrowTV
+https://www.magenta.tv/tv-guide#channel-KID01030-GstrowTV
+#EXTINF:-1 tvg-id="NDR.Fernsehen.Mecklenburg-Vorpommern.de" tvg-name="NDR Fernsehen Mecklenburg-Vorpommern" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/ndr-meckl.-vorpommer/stationLogo_20241210.png" tvg-chno="476" channel-number="476",NDR Fernsehen Mecklenburg-Vorpommern
+https://www.magenta.tv/tv-guide#channel-ndr-meckl.-vorpommer
+#EXTINF:-1 tvg-id="ems.TV.de" tvg-name="ems TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00882-emsTV/stationLogo_20220211.png" tvg-chno="480" channel-number="480",ems TV
+https://www.magenta.tv/tv-guide#channel-KID00882-emsTV
+#EXTINF:-1 tvg-id="Friesischer.Rundfunk.de" tvg-name="Friesischer Rundfunk" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00890-FriesischerRundfunk/stationLogo_20220211.png" tvg-chno="481" channel-number="481",Friesischer Rundfunk
+https://www.magenta.tv/tv-guide#channel-KID00890-FriesischerRundfunk
+#EXTINF:-1 tvg-id="NRWision.de" tvg-name="NRWision" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00874-nrwision/stationLogo_20231109.png" tvg-chno="492" channel-number="492",NRWision
+https://www.magenta.tv/tv-guide#channel-KID00874-nrwision
+#EXTINF:-1 tvg-id="RTL.Nordrhein-Westfalen.de" tvg-name="RTL Nordrhein-Westfalen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/rtl-nrw/stationLogo_20230315.png" tvg-chno="493" channel-number="493",RTL Nordrhein-Westfalen
+https://www.magenta.tv/tv-guide#channel-rtl-nrw
+#EXTINF:-1 tvg-id="SAT.1.Nordrhein-Westfalen.de" tvg-name="SAT.1 Nordrhein-Westfalen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-nrw/stationLogo_20230315.png" tvg-chno="494" channel-number="494",SAT.1 Nordrhein-Westfalen
+https://www.magenta.tv/tv-guide#channel-sat.1-nrw
+#EXTINF:-1 tvg-id="Studio.47.de" tvg-name="Studio 47" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00849-Studio47/stationLogo_20251027.png" tvg-chno="495" channel-number="495",Studio 47
+https://www.magenta.tv/tv-guide#channel-KID00849-Studio47
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Aachen.de" tvg-name="WDR Fernsehen Aachen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-aachen/stationLogo_20241119.png" tvg-chno="496" channel-number="496",WDR Fernsehen Aachen
+https://www.magenta.tv/tv-guide#channel-wdr-aachen
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Bielefeld.de" tvg-name="WDR Fernsehen Bielefeld" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-bielefeld/stationLogo_20241119.png" tvg-chno="497" channel-number="497",WDR Fernsehen Bielefeld
+https://www.magenta.tv/tv-guide#channel-wdr-bielefeld
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Bonn.de" tvg-name="WDR Fernsehen Bonn" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-bonn/stationLogo_20241119.png" tvg-chno="498" channel-number="498",WDR Fernsehen Bonn
+https://www.magenta.tv/tv-guide#channel-wdr-bonn
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Dortmund.de" tvg-name="WDR Fernsehen Dortmund" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-dortmund/stationLogo_20241119.png" tvg-chno="499" channel-number="499",WDR Fernsehen Dortmund
+https://www.magenta.tv/tv-guide#channel-wdr-dortmund
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Duisburg.de" tvg-name="WDR Fernsehen Duisburg" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-duisburg/stationLogo_20241119.png" tvg-chno="500" channel-number="500",WDR Fernsehen Duisburg
+https://www.magenta.tv/tv-guide#channel-wdr-duisburg
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Düsseldorf.de" tvg-name="WDR Fernsehen Düsseldorf" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-duesseldorf/stationLogo_20241119.png" tvg-chno="501" channel-number="501",WDR Fernsehen Düsseldorf
+https://www.magenta.tv/tv-guide#channel-wdr-duesseldorf
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Essen.de" tvg-name="WDR Fernsehen Essen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-essen/stationLogo_20241119.png" tvg-chno="502" channel-number="502",WDR Fernsehen Essen
+https://www.magenta.tv/tv-guide#channel-wdr-essen
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Münster.de" tvg-name="WDR Fernsehen Münster" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-muenster/stationLogo_20241119.png" tvg-chno="503" channel-number="503",WDR Fernsehen Münster
+https://www.magenta.tv/tv-guide#channel-wdr-muenster
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Siegen.de" tvg-name="WDR Fernsehen Siegen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-siegen/stationLogo_20241119.png" tvg-chno="504" channel-number="504",WDR Fernsehen Siegen
+https://www.magenta.tv/tv-guide#channel-wdr-siegen
+#EXTINF:-1 tvg-id="WDR.Fernsehen.Wuppertal.de" tvg-name="WDR Fernsehen Wuppertal" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/wdr-wuppertal/stationLogo_20241119.png" tvg-chno="505" channel-number="505",WDR Fernsehen Wuppertal
+https://www.magenta.tv/tv-guide#channel-wdr-wuppertal
+#EXTINF:-1 tvg-id="OK4.de" tvg-name="OK4" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00851-OK4/stationLogo_20220211.png" tvg-chno="512" channel-number="512",OK4
+https://www.magenta.tv/tv-guide#channel-KID00851-OK4
+#EXTINF:-1 tvg-id="OK54.Trier.de" tvg-name="OK54 Trier" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00842-OK54Trier/stationLogo_20220211.png" tvg-chno="513" channel-number="513",OK54 Trier
+https://www.magenta.tv/tv-guide#channel-KID00842-OK54Trier
+#EXTINF:-1 tvg-id="OK.Weinstraße.de" tvg-name="OK Weinstraße" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00853-OKWeinstrasse/stationLogo_20220211.png" tvg-chno="515" channel-number="515",OK Weinstraße
+https://www.magenta.tv/tv-guide#channel-KID00853-OKWeinstrasse
+#EXTINF:-1 tvg-id="rheinlOKal.de" tvg-name="rheinlOKal" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00843-OK-TVLudwigshafen/stationLogo_20251013.png" tvg-chno="517" channel-number="517",rheinlOKal
+https://www.magenta.tv/tv-guide#channel-KID00843-OK-TVLudwigshafen
+#EXTINF:-1 tvg-id="OK:TV.Mainz.de" tvg-name="OK:TV Mainz" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00852-OKTVMainz/stationLogo_20241002.png" tvg-chno="518" channel-number="518",OK:TV Mainz
+https://www.magenta.tv/tv-guide#channel-KID00852-OKTVMainz
+#EXTINF:-1 tvg-id="SAT.1.Rheinland-Pfalz.und.Hessen.de" tvg-name="SAT.1 Rheinland-Pfalz und Hessen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sat.1-rhlpf-hessen/stationLogo_20230315.png" tvg-chno="522" channel-number="522",SAT.1 Rheinland-Pfalz und Hessen
+https://www.magenta.tv/tv-guide#channel-sat.1-rhlpf-hessen
+#EXTINF:-1 tvg-id="TV.Mittelrhein.de" tvg-name="TV Mittelrhein" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00781-TVMittelrhein/stationLogo_20220211.png" tvg-chno="523" channel-number="523",TV Mittelrhein
+https://www.magenta.tv/tv-guide#channel-KID00781-TVMittelrhein
+#EXTINF:-1 tvg-id="Chemnitz.Fernsehen.de" tvg-name="Chemnitz Fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00845-ChemnitzFernsehen/stationLogo_20220211.png" tvg-chno="535" channel-number="535",Chemnitz Fernsehen
+https://www.magenta.tv/tv-guide#channel-KID00845-ChemnitzFernsehen
+#EXTINF:-1 tvg-id="Dresden.Fernsehen.de" tvg-name="Dresden Fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00846-DresdenFernsehen/stationLogo_20220211.png" tvg-chno="536" channel-number="536",Dresden Fernsehen
+https://www.magenta.tv/tv-guide#channel-KID00846-DresdenFernsehen
+#EXTINF:-1 tvg-id="Glück.Auf!.TV.de" tvg-name="Glück Auf! TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01014-GlckAufTV/stationLogo_20240722.png" tvg-chno="539" channel-number="539",Glück Auf! TV
+https://www.magenta.tv/tv-guide#channel-KID01014-GlckAufTV
+#EXTINF:-1 tvg-id="LAUSITZWELLE.de" tvg-name="LAUSITZWELLE" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00897-LAUSITZWELLE/stationLogo_20220211.png" tvg-chno="541" channel-number="541",LAUSITZWELLE
+https://www.magenta.tv/tv-guide#channel-KID00897-LAUSITZWELLE
+#EXTINF:-1 tvg-id="Leipzig.Fernsehen.de" tvg-name="Leipzig Fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00847-LeipzigFernsehen/stationLogo_20220211.png" tvg-chno="542" channel-number="542",Leipzig Fernsehen
+https://www.magenta.tv/tv-guide#channel-KID00847-LeipzigFernsehen
+#EXTINF:-1 tvg-id="TV.Westsachsen.de" tvg-name="TV Westsachsen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00848-TVWestsachsen/stationLogo_20220211.png" tvg-chno="545" channel-number="545",TV Westsachsen
+https://www.magenta.tv/tv-guide#channel-KID00848-TVWestsachsen
+#EXTINF:-1 tvg-id="BLK.TV.de" tvg-name="BLK TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01023-BLKTV/stationLogo_20250211.png" tvg-chno="560" channel-number="560",BLK TV
+https://www.magenta.tv/tv-guide#channel-KID01023-BLKTV
+#EXTINF:-1 tvg-id="kulturmd.de" tvg-name="kulturmd" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01029-kulturmd/stationLogo_20250611.png" tvg-chno="562" channel-number="562",kulturmd
+https://www.magenta.tv/tv-guide#channel-KID01029-kulturmd
+#EXTINF:-1 tvg-id="MDF.1.Fernsehen.de" tvg-name="MDF.1 Fernsehen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00898-MDF1Fernsehen/stationLogo_20220211.png" tvg-chno="563" channel-number="563",MDF.1 Fernsehen
+https://www.magenta.tv/tv-guide#channel-KID00898-MDF1Fernsehen
+#EXTINF:-1 tvg-id="MDR-Fernsehen.Sachsen-Anhalt.de" tvg-name="MDR-Fernsehen Sachsen-Anhalt" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/mdr-s-anhalt/stationLogo_20220211.png" tvg-chno="564" channel-number="564",MDR-Fernsehen Sachsen-Anhalt
+https://www.magenta.tv/tv-guide#channel-mdr-s-anhalt
+#EXTINF:-1 tvg-id="RAN1.de" tvg-name="RAN1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01021-RAN1/stationLogo_20241203.png" tvg-chno="572" channel-number="572",RAN1
+https://www.magenta.tv/tv-guide#channel-KID01021-RAN1
+#EXTINF:-1 tvg-id="RBW.de" tvg-name="RBW" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01013-RBW/stationLogo_20240722.png" tvg-chno="573" channel-number="573",RBW
+https://www.magenta.tv/tv-guide#channel-KID01013-RBW
+#EXTINF:-1 tvg-id="RFH.Regionalfernsehen.Harz.de" tvg-name="RFH Regionalfernsehen Harz" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00896-RFHRegionalfernsehenHarz/stationLogo_20220211.png" tvg-chno="574" channel-number="574",RFH Regionalfernsehen Harz
+https://www.magenta.tv/tv-guide#channel-KID00896-RFHRegionalfernsehenHarz
+#EXTINF:-1 tvg-id="SYLT1.de" tvg-name="SYLT1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01038-SYLT1/stationLogo_20251013.png" tvg-chno="580" channel-number="580",SYLT1
+https://www.magenta.tv/tv-guide#channel-KID01038-SYLT1
+#EXTINF:-1 tvg-id="altenburg.tv.de" tvg-name="altenburg.tv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00858-altenburgtv/stationLogo_20220211.png" tvg-chno="585" channel-number="585",altenburg.tv
+https://www.magenta.tv/tv-guide#channel-KID00858-altenburgtv
+#EXTINF:-1 tvg-id="JenaTV.de" tvg-name="JenaTV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00989-JenaTV/stationLogo_20221114.png" tvg-chno="586" channel-number="586",JenaTV
+https://www.magenta.tv/tv-guide#channel-KID00989-JenaTV
+#EXTINF:-1 tvg-id="MDR-Fernsehen.Thüringen.de" tvg-name="MDR-Fernsehen Thüringen" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/mdr-thueringen/stationLogo_20220211.png" tvg-chno="587" channel-number="587",MDR-Fernsehen Thüringen
+https://www.magenta.tv/tv-guide#channel-mdr-thueringen
+#EXTINF:-1 tvg-id="Rennsteig.TV.de" tvg-name="Rennsteig.TV" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00837-RennsteigTV/stationLogo_20220211.png" tvg-chno="589" channel-number="589",Rennsteig.TV
+https://www.magenta.tv/tv-guide#channel-KID00837-RennsteigTV
+#EXTINF:-1 tvg-id="salve.tv.de" tvg-name="salve.tv" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00855-salvetv/stationLogo_20220211.png" tvg-chno="591" channel-number="591",salve.tv
+https://www.magenta.tv/tv-guide#channel-KID00855-salvetv
+#EXTINF:-1 tvg-id="SRF.de" tvg-name="SRF" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00919-SRF/stationLogo_20220211.png" tvg-chno="592" channel-number="592",SRF
+https://www.magenta.tv/tv-guide#channel-KID00919-SRF
+#EXTINF:-1 tvg-id="Sky.Showcase.de" tvg-name="Sky Showcase" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00986-SkyShowcase/stationLogo_20260526.png" tvg-chno="700" channel-number="700",Sky Showcase
+https://www.magenta.tv/tv-guide#channel-KID00986-SkyShowcase
+#EXTINF:-1 tvg-id="Sky.One.de" tvg-name="Sky One" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00780-Sky1/stationLogo_20260526.png" tvg-chno="701" channel-number="701",Sky One
+https://www.magenta.tv/tv-guide#channel-KID00780-Sky1
+#EXTINF:-1 tvg-id="Sky.Krimi.de" tvg-name="Sky Krimi" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skykrimi/stationLogo_20260526.png" tvg-chno="703" channel-number="703",Sky Krimi
+https://www.magenta.tv/tv-guide#channel-skykrimi
+#EXTINF:-1 tvg-id="Sky.Atlantic.de" tvg-name="Sky Atlantic" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skyatlantic/stationLogo_20260526.png" tvg-chno="704" channel-number="704",Sky Atlantic
+https://www.magenta.tv/tv-guide#channel-skyatlantic
+#EXTINF:-1 tvg-id="Sky.Crime.de" tvg-name="Sky Crime" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00901-SkyCrime/stationLogo_20260526.png" tvg-chno="708" channel-number="708",Sky Crime
+https://www.magenta.tv/tv-guide#channel-KID00901-SkyCrime
+#EXTINF:-1 tvg-id="Sky.Documentaries.de" tvg-name="Sky Documentaries" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00915-SkyDocumentaries/stationLogo_20260526.png" tvg-chno="709" channel-number="709",Sky Documentaries
+https://www.magenta.tv/tv-guide#channel-KID00915-SkyDocumentaries
+#EXTINF:-1 tvg-id="Sky.Nature.de" tvg-name="Sky Nature" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00917-SkyNature/stationLogo_20260526.png" tvg-chno="710" channel-number="710",Sky Nature
+https://www.magenta.tv/tv-guide#channel-KID00917-SkyNature
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.(Sky).de" tvg-name="Sky Sci-Fi (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/syfy-sky/stationLogo_20260526.png" tvg-chno="712" channel-number="712",Sky Sci-Fi (Sky)
+https://www.magenta.tv/tv-guide#channel-syfy-sky
+#EXTINF:-1 tvg-id="13TH.STREET.(Sky).de" tvg-name="13TH STREET (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/13th-street-sky/stationLogo_20220211.png" tvg-chno="713" channel-number="713",13TH STREET (Sky)
+https://www.magenta.tv/tv-guide#channel-13th-street-sky
+#EXTINF:-1 tvg-id="Universal.TV.(Sky).de" tvg-name="Universal TV (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/universalhd-sky/stationLogo_20220211.png" tvg-chno="714" channel-number="714",Universal TV (Sky)
+https://www.magenta.tv/tv-guide#channel-universalhd-sky
+#EXTINF:-1 tvg-id="Warner.TV.Serie.(Sky).de" tvg-name="Warner TV Serie (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tnt-serie-sky/stationLogo_20220211.png" tvg-chno="718" channel-number="718",Warner TV Serie (Sky)
+https://www.magenta.tv/tv-guide#channel-tnt-serie-sky
+#EXTINF:-1 tvg-id="Warner.TV.Comedy.(Sky).de" tvg-name="Warner TV Comedy (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/glitz-hd-sky/stationLogo_20220211.png" tvg-chno="719" channel-number="719",Warner TV Comedy (Sky)
+https://www.magenta.tv/tv-guide#channel-glitz-hd-sky
+#EXTINF:-1 tvg-id="Heimatkanal.(Sky).de" tvg-name="Heimatkanal (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/heimat-sky/stationLogo_20220211.png" tvg-chno="720" channel-number="720",Heimatkanal (Sky)
+https://www.magenta.tv/tv-guide#channel-heimat-sky
+#EXTINF:-1 tvg-id="Romance.TV.(Sky).de" tvg-name="Romance TV (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00840-RomanceTVSky/stationLogo_20220211.png" tvg-chno="721" channel-number="721",Romance TV (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00840-RomanceTVSky
+#EXTINF:-1 tvg-id="National.Geographic.(Sky).de" tvg-name="National Geographic (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01035-NationalGeographicSky/stationLogo_20220211.png" tvg-chno="726" channel-number="726",National Geographic (Sky)
+https://www.magenta.tv/tv-guide#channel-KID01035-NationalGeographicSky
+#EXTINF:-1 tvg-id="National.Geographic.Wild.(Sky).de" tvg-name="National Geographic Wild (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01036-NationalGeographicWildSky/stationLogo_20250728.png" tvg-chno="727" channel-number="727",National Geographic Wild (Sky)
+https://www.magenta.tv/tv-guide#channel-KID01036-NationalGeographicWildSky
+#EXTINF:-1 tvg-id="The.HISTORY.Channel.(Sky).de" tvg-name="The HISTORY Channel (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/histhd-sky/stationLogo_20230406.png" tvg-chno="728" channel-number="728",The HISTORY Channel (Sky)
+https://www.magenta.tv/tv-guide#channel-histhd-sky
+#EXTINF:-1 tvg-id="Crime+Investigation.(Sky).de" tvg-name="Crime+Investigation (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00918-CrimeInvestigationSky/stationLogo_20220211.png" tvg-chno="730" channel-number="730",Crime+Investigation (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00918-CrimeInvestigationSky
+#EXTINF:-1 tvg-id="Cartoonito.(Sky).de" tvg-name="Cartoonito (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00879-BoomerangSky/stationLogo_20230328.png" tvg-chno="732" channel-number="732",Cartoonito (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00879-BoomerangSky
+#EXTINF:-1 tvg-id="Nick.Jr..(Sky).de" tvg-name="Nick Jr. (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00887-NickJrSky/stationLogo_20240212.png" tvg-chno="734" channel-number="734",Nick Jr. (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00887-NickJrSky
+#EXTINF:-1 tvg-id="Nicktoons.(Sky).de" tvg-name="Nicktoons (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00889-NicktoonsSky/stationLogo_20240229.png" tvg-chno="735" channel-number="735",Nicktoons (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00889-NicktoonsSky
+#EXTINF:-1 tvg-id="Cartoon.Network.(Sky).de" tvg-name="Cartoon Network (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00891-CartoonNetworkSky/stationLogo_20220211.png" tvg-chno="736" channel-number="736",Cartoon Network (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00891-CartoonNetworkSky
+#EXTINF:-1 tvg-id="Jukebox.(Sky).de" tvg-name="Jukebox (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/jukebox-sky/stationLogo_20220211.png" tvg-chno="737" channel-number="737",Jukebox (Sky)
+https://www.magenta.tv/tv-guide#channel-jukebox-sky
+#EXTINF:-1 tvg-id="Beate-Uhse.TV.(Sky).de" tvg-name="Beate-Uhse.TV (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/beateu-sky/stationLogo_20220211.png" tvg-chno="740" channel-number="740",Beate-Uhse.TV (Sky)
+https://www.magenta.tv/tv-guide#channel-beateu-sky
+#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.de" tvg-name="Sky Cinema Premiere" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skycinema/stationLogo_20260518.png" tvg-chno="755" channel-number="755",Sky Cinema Premiere
+https://www.magenta.tv/tv-guide#channel-skycinema
+#EXTINF:-1 tvg-id="Sky.Cinema.Blockbuster.de" tvg-name="Sky Cinema Blockbuster" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01009-SkyCinemaHighlights/stationLogo_20260518.png" tvg-chno="756" channel-number="756",Sky Cinema Blockbuster
+https://www.magenta.tv/tv-guide#channel-KID01009-SkyCinemaHighlights
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.de" tvg-name="Sky Cinema Action" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skyaction/stationLogo_20260518.png" tvg-chno="757" channel-number="757",Sky Cinema Action
+https://www.magenta.tv/tv-guide#channel-skyaction
+#EXTINF:-1 tvg-id="Sky.Cinema.Feelgood.de" tvg-name="Sky Cinema Feelgood" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00776-SkyCinemaFamily/stationLogo_20260518.png" tvg-chno="758" channel-number="758",Sky Cinema Feelgood
+https://www.magenta.tv/tv-guide#channel-KID00776-SkyCinemaFamily
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.de" tvg-name="Sky Cinema Classics" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skynostalgie/stationLogo_20260518.png" tvg-chno="759" channel-number="759",Sky Cinema Classics
+https://www.magenta.tv/tv-guide#channel-skynostalgie
+#EXTINF:-1 tvg-id="Warner.TV.Film.(Sky).de" tvg-name="Warner TV Film (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00741-TNTFilmSky/stationLogo_20220211.png" tvg-chno="760" channel-number="760",Warner TV Film (Sky)
+https://www.magenta.tv/tv-guide#channel-KID00741-TNTFilmSky
+#EXTINF:-1 tvg-id="Sky.Sport.News.de" tvg-name="Sky Sport News" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skyspnews/stationLogo_20220211.png" tvg-chno="800" channel-number="800",Sky Sport News
+https://www.magenta.tv/tv-guide#channel-skyspnews
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.de" tvg-name="Sky Sport Top Event" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-01/stationLogo_20221114.png" tvg-chno="801" channel-number="801",Sky Sport Top Event
+https://www.magenta.tv/tv-guide#channel-skysport-01
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-01/stationLogo_20221114.png" tvg-chno="802" channel-number="802",Sky Sport Bundesliga
+https://www.magenta.tv/tv-guide#channel-skybuli-01
+#EXTINF:-1 tvg-id="Sky.Sport.F1.de" tvg-name="Sky Sport F1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00899-SkySportF1/stationLogo_20220211.png" tvg-chno="803" channel-number="803",Sky Sport F1
+https://www.magenta.tv/tv-guide#channel-KID00899-SkySportF1
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.de" tvg-name="Sky Sport Premier League" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00976-SkySportPremierLeague/stationLogo_20221114.png" tvg-chno="804" channel-number="804",Sky Sport Premier League
+https://www.magenta.tv/tv-guide#channel-KID00976-SkySportPremierLeague
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.de" tvg-name="Sky Sport Mix" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00977-SkySportMix/stationLogo_20221114.png" tvg-chno="805" channel-number="805",Sky Sport Mix
+https://www.magenta.tv/tv-guide#channel-KID00977-SkySportMix
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.de" tvg-name="Sky Sport Tennis" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-02/stationLogo_20221114.png" tvg-chno="806" channel-number="806",Sky Sport Tennis
+https://www.magenta.tv/tv-guide#channel-skysport-02
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.de" tvg-name="Sky Sport Golf" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00978-SkySportGolf/stationLogo_20221114.png" tvg-chno="807" channel-number="807",Sky Sport Golf
+https://www.magenta.tv/tv-guide#channel-KID00978-SkySportGolf
+#EXTINF:-1 tvg-id="Sky.Sport.de" tvg-name="Sky Sport" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00815-SkySportUHD/stationLogo_20220211.png" tvg-chno="809" channel-number="809",Sky Sport
+https://www.magenta.tv/tv-guide#channel-KID00815-SkySportUHD
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.de" tvg-name="Sky Sport Bundesliga" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00814-SkySportBundesligaUHD/stationLogo_20220211.png" tvg-chno="810" channel-number="810",Sky Sport Bundesliga
+https://www.magenta.tv/tv-guide#channel-KID00814-SkySportBundesligaUHD
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.de" tvg-name="Sky Sport Bundesliga 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-02/stationLogo_20221114.png" tvg-chno="811" channel-number="811",Sky Sport Bundesliga 1
+https://www.magenta.tv/tv-guide#channel-skybuli-02
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.2.de" tvg-name="Sky Sport Bundesliga 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-03/stationLogo_20221114.png" tvg-chno="812" channel-number="812",Sky Sport Bundesliga 2
+https://www.magenta.tv/tv-guide#channel-skybuli-03
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.3.de" tvg-name="Sky Sport Bundesliga 3" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-04/stationLogo_20221114.png" tvg-chno="813" channel-number="813",Sky Sport Bundesliga 3
+https://www.magenta.tv/tv-guide#channel-skybuli-04
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.4.de" tvg-name="Sky Sport Bundesliga 4" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-05/stationLogo_20221114.png" tvg-chno="814" channel-number="814",Sky Sport Bundesliga 4
+https://www.magenta.tv/tv-guide#channel-skybuli-05
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.5.de" tvg-name="Sky Sport Bundesliga 5" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-06/stationLogo_20221114.png" tvg-chno="815" channel-number="815",Sky Sport Bundesliga 5
+https://www.magenta.tv/tv-guide#channel-skybuli-06
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6.de" tvg-name="Sky Sport Bundesliga 6" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-07/stationLogo_20221114.png" tvg-chno="816" channel-number="816",Sky Sport Bundesliga 6
+https://www.magenta.tv/tv-guide#channel-skybuli-07
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7.de" tvg-name="Sky Sport Bundesliga 7" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-08/stationLogo_20221114.png" tvg-chno="817" channel-number="817",Sky Sport Bundesliga 7
+https://www.magenta.tv/tv-guide#channel-skybuli-08
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.8.de" tvg-name="Sky Sport Bundesliga 8" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-09/stationLogo_20221114.png" tvg-chno="818" channel-number="818",Sky Sport Bundesliga 8
+https://www.magenta.tv/tv-guide#channel-skybuli-09
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.9.de" tvg-name="Sky Sport Bundesliga 9" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skybuli-10/stationLogo_20221114.png" tvg-chno="819" channel-number="819",Sky Sport Bundesliga 9
+https://www.magenta.tv/tv-guide#channel-skybuli-10
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.10.de" tvg-name="Sky Sport Bundesliga 10" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00980-SkySportBundesliga10/stationLogo_20221114.png" tvg-chno="820" channel-number="820",Sky Sport Bundesliga 10
+https://www.magenta.tv/tv-guide#channel-KID00980-SkySportBundesliga10
+#EXTINF:-1 tvg-id="Sky.Sport.1.de" tvg-name="Sky Sport 1" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-03/stationLogo_20221114.png" tvg-chno="821" channel-number="821",Sky Sport 1
+https://www.magenta.tv/tv-guide#channel-skysport-03
+#EXTINF:-1 tvg-id="Sky.Sport.2.de" tvg-name="Sky Sport 2" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-04/stationLogo_20221114.png" tvg-chno="822" channel-number="822",Sky Sport 2
+https://www.magenta.tv/tv-guide#channel-skysport-04
+#EXTINF:-1 tvg-id="Sky.Sport.3.de" tvg-name="Sky Sport 3" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-05/stationLogo_20221114.png" tvg-chno="823" channel-number="823",Sky Sport 3
+https://www.magenta.tv/tv-guide#channel-skysport-05
+#EXTINF:-1 tvg-id="Sky.Sport.4.de" tvg-name="Sky Sport 4" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-06/stationLogo_20221114.png" tvg-chno="824" channel-number="824",Sky Sport 4
+https://www.magenta.tv/tv-guide#channel-skysport-06
+#EXTINF:-1 tvg-id="Sky.Sport.5.de" tvg-name="Sky Sport 5" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-07/stationLogo_20221114.png" tvg-chno="825" channel-number="825",Sky Sport 5
+https://www.magenta.tv/tv-guide#channel-skysport-07
+#EXTINF:-1 tvg-id="Sky.Sport.6.de" tvg-name="Sky Sport 6" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-08/stationLogo_20221114.png" tvg-chno="826" channel-number="826",Sky Sport 6
+https://www.magenta.tv/tv-guide#channel-skysport-08
+#EXTINF:-1 tvg-id="Sky.Sport.7.de" tvg-name="Sky Sport 7" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-09/stationLogo_20221114.png" tvg-chno="827" channel-number="827",Sky Sport 7
+https://www.magenta.tv/tv-guide#channel-skysport-09
+#EXTINF:-1 tvg-id="Sky.Sport.8.de" tvg-name="Sky Sport 8" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-10/stationLogo_20221114.png" tvg-chno="828" channel-number="828",Sky Sport 8
+https://www.magenta.tv/tv-guide#channel-skysport-10
+#EXTINF:-1 tvg-id="Sky.Sport.9.de" tvg-name="Sky Sport 9" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-11/stationLogo_20221114.png" tvg-chno="829" channel-number="829",Sky Sport 9
+https://www.magenta.tv/tv-guide#channel-skysport-11
+#EXTINF:-1 tvg-id="Sky.Sport.10.de" tvg-name="Sky Sport 10" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00981-SkySport10/stationLogo_20221114.png" tvg-chno="830" channel-number="830",Sky Sport 10
+https://www.magenta.tv/tv-guide#channel-KID00981-SkySport10
+#EXTINF:-1 tvg-id="MagentaTV.Info.de" tvg-name="MagentaTV Info" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/entertain-info/stationLogo_20220211.png" tvg-chno="998" channel-number="998",MagentaTV Info
+https://www.magenta.tv/tv-guide#channel-entertain-info
