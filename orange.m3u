@@ -33,7 +33,7 @@ https://orangetv.orange.es/epg?channel=11006
 https://orangetv.orange.es/epg?channel=11275
 #EXTINF:-1 tvg-id="VinTV.es" tvg-name="VinTV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VIN_TV_176x122.png" tvg-chno="22" channel-number="22",VinTV
 https://orangetv.orange.es/epg?channel=11063
-#EXTINF:-1 tvg-id="SELEKT.es" tvg-name="SELEKT" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SELEKT_176x122.png" tvg-chno="23" channel-number="23",SELEKT
+#EXTINF:-1 tvg-id="AMC.Selekt.TV.es" tvg-name="AMC Selekt TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/AMC_SELEKT_176x122.png" tvg-chno="23" channel-number="23",AMC Selekt TV
 https://orangetv.orange.es/epg?channel=11045
 #EXTINF:-1 tvg-id="Runtime.Series.es" tvg-name="Runtime Series" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_SERIES_WHITE_176x122.png" tvg-chno="24" channel-number="24",Runtime Series
 https://orangetv.orange.es/epg?channel=11093
