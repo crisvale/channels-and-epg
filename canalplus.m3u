@@ -65,7 +65,7 @@ https://www.canalplus.com/chaines/tv-breizh
 https://www.canalplus.com/chaines/rtl9
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/611/canal-ouah/CHN43FB/AB1_NOIR_640x480-dOLu" tvg-chno="56" channel-number="56",AB1
 https://www.canalplus.com/chaines/ab1
-#EXTINF:-1 tvg-id="NOVELAS.TV.fr" tvg-name="NOVELAS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/693/canal-ouah/CHN43FB/CHN43FB_693_20260701-yeP4" tvg-chno="57" channel-number="57",NOVELAS TV
+#EXTINF:-1 tvg-id="NOVELAS.TV.fr" tvg-name="NOVELAS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/92753990" tvg-chno="57" channel-number="57",NOVELAS TV
 https://www.canalplus.com/chaines/novelas
 #EXTINF:-1 tvg-id="TF1.SERIES.FILMS.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/526/canal-ouah/CHN43FB/CHN43FB_526_20251024-S-vt" tvg-chno="59" channel-number="59",TF1 SERIES FILMS
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/526/broadcasts/day/0?channelPosition=36
