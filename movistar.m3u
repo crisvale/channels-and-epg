@@ -323,14 +323,10 @@ https://www.movistarplus.es/canal/esport-3?id=esp3
 https://www.movistarplus.es/canal/beteve?id=btv
 #EXTINF:-1 tvg-id="M+.LALIGA.3.es" tvg-name="M+ LALIGA 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" tvg-chno="167" channel-number="167",M+ LALIGA 3
 https://www.movistarplus.es/canal/m-plus-laliga-3?id=mlig2
-#EXTINF:-1 tvg-id="DAZN.Mundial.6.es" tvg-name="DAZN Mundial 6" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" tvg-chno="168" channel-number="168",DAZN Mundial 6
-https://www.movistarplus.es/canal/dazn-mundial-6?id=mlig3
 #EXTINF:-1 tvg-id="DAZN.MUNDIAL.3.es" tvg-name="DAZN MUNDIAL 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" tvg-chno="173" channel-number="173",DAZN MUNDIAL 3
 https://www.movistarplus.es/canal/dazn-mundial-3?id=daznl3
 #EXTINF:-1 tvg-id="DAZN.MUNDIAL.4.es" tvg-name="DAZN MUNDIAL 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" tvg-chno="174" channel-number="174",DAZN MUNDIAL 4
 https://www.movistarplus.es/canal/dazn-mundial-4?id=daznl4
-#EXTINF:-1 tvg-id="DAZN.Mundial.5.es" tvg-name="DAZN Mundial 5" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL5.png" tvg-chno="175" channel-number="175",DAZN Mundial 5
-https://www.movistarplus.es/canal/dazn-mundial-5?id=daznl5
 #EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.3.es" tvg-name="LALIGA TV HYPERMOTION 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" tvg-chno="178" channel-number="178",LALIGA TV HYPERMOTION 3
 https://www.movistarplus.es/canal/laliga-tv-hypermotion-3?id=mligs3
 #EXTINF:-1 tvg-id="M+.Liga.de.Campeones.4.es" tvg-name="M+ Liga de Campeones 4" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" tvg-chno="180" channel-number="180",M+ Liga de Campeones 4
