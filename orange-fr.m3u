@@ -159,7 +159,7 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_esprit_sorcier_tv
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_museum_channel
 #EXTINF:-1 tvg-id="MAISON.ET.TRAVAUX.TV.fr" tvg-name="MAISON ET TRAVAUX TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_maison_et_travaux_tv/20210930_141331/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="113" channel-number="113",MAISON ET TRAVAUX TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_maison_et_travaux_tv
-#EXTINF:-1 tvg-id="TOP.SANTE.TV.fr" tvg-name="TOP SANTE TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_top_sante_tv/20210930_141331/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="114" channel-number="114",TOP SANTE TV
+#EXTINF:-1 tvg-id="DOCTISSIMO.TV.fr" tvg-name="DOCTISSIMO TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_top_sante_tv/20260611_081608/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="114" channel-number="114",DOCTISSIMO TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_top_sante_tv
 #EXTINF:-1 tvg-id="MIEUX.fr" tvg-name="MIEUX" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mieux_tv/20250709_122929/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="115" channel-number="115",MIEUX
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_mieux_tv
@@ -197,8 +197,6 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_planeteplus_ci
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_planeteplus_aventure_experience
 #EXTINF:-1 tvg-id="LOVE.NATURE.fr" tvg-name="LOVE NATURE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_love_nature/20260224_174958/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="135" channel-number="135",LOVE NATURE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_love_nature
-#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mcm/20181115_095836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="139" channel-number="139",MCM
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mcm
 #EXTINF:-1 tvg-id="MGG.TV.fr" tvg-name="MGG TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_es1/20220128_093134/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="140" channel-number="140",MGG TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_es1
 #EXTINF:-1 tvg-id="TECH&amp;CO.fr" tvg-name="TECH&amp;CO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_01tv/20220623_154612/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="141" channel-number="141",TECH&amp;CO
@@ -233,8 +231,6 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_tropical
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_latina
 #EXTINF:-1 tvg-id="TRACE.VANILLA.fr" tvg-name="TRACE VANILLA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_vanilla/20230324_101810/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="163" channel-number="163",TRACE VANILLA
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_vanilla
-#EXTINF:-1 tvg-id="OLYMPIA.TV.fr" tvg-name="OLYMPIA TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_olympia_tv/20200130_100105/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="165" channel-number="165",OLYMPIA TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_olympia_tv
 #EXTINF:-1 tvg-id="MEZZO.fr" tvg-name="MEZZO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mezzo/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="166" channel-number="166",MEZZO
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_mezzo
 #EXTINF:-1 tvg-id="MEZZO.LIVE.fr" tvg-name="MEZZO LIVE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mezzolivehd/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="167" channel-number="167",MEZZO LIVE
@@ -453,6 +449,8 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3provence
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3rhalpes
 #EXTINF:-1 tvg-id="ETV:.Télévision.Caraïbéenne.fr" tvg-name="ETV: Télévision Caraïbéenne" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_etv/20240116_143755/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="406" channel-number="406",ETV: Télévision Caraïbéenne
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_etv
+#EXTINF:-1 tvg-id="ATV.fr" tvg-name="ATV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_atv_martinique/20250305_135921/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="407" channel-number="407",ATV
+https://tv.orange.fr/lecture/en-direct/chaines/livetv_atv_martinique
 #EXTINF:-1 tvg-id="TELE.KREOL.fr" tvg-name="TELE KREOL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tv_kreol/20180417_111545/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="409" channel-number="409",TELE KREOL
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_tv_kreol
 #EXTINF:-1 tvg-id="KANAL.AUSTRAL.TV.fr" tvg-name="KANAL AUSTRAL.TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_kanal_austral/20260416_152808/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="410" channel-number="410",KANAL AUSTRAL.TV
@@ -489,11 +487,9 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_nci
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_africa
 #EXTINF:-1 tvg-id="TRACE.GOSPEL.fr" tvg-name="TRACE GOSPEL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_gospel/20230831_150807/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="606" channel-number="606",TRACE GOSPEL
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_gospel
-#EXTINF:-1 tvg-id="NOVELAS.TV.fr" tvg-name="NOVELAS TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_novelas/20241112_182751/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="607" channel-number="607",NOVELAS TV
+#EXTINF:-1 tvg-id="NOVELAS+.fr" tvg-name="NOVELAS+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_novelas/20260617_091836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="607" channel-number="607",NOVELAS+
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_novelas
 #EXTINF:-1 tvg-id="NOLLYWOOD.TV.fr" tvg-name="NOLLYWOOD TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nollywood_tv/20241112_183315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="608" channel-number="608",NOLLYWOOD TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_nollywood_tv
 #EXTINF:-1 tvg-id="SUNU.YEUF.fr" tvg-name="SUNU YEUF" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_sunu_yeuf/20241112_184315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="609" channel-number="609",SUNU YEUF
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_sunu_yeuf
-#EXTINF:-1 tvg-id="M6.4K.fr" tvg-name="M6 4K" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_m6_4k/20241105_151505/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="906" channel-number="906",M6 4K
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_m6_4k
