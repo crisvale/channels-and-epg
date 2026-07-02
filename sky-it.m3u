@@ -1,0 +1,297 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Rai.1.HD.it" tvg-name="Rai 1 HD" tvg-logo="https://guidatv.sky.it/logo/899rai1hd_Dark_Fit.png?checksum=998d5b6a-1188-4aad-8b1c-f486b3fa2969" tvg-chno="101" channel-number="101",Rai 1 HD
+https://guidatv.sky.it#channel-899
+#EXTINF:-1 tvg-id="Rai.2.HD.it" tvg-name="Rai 2 HD" tvg-logo="https://guidatv.sky.it/logo/898rai2hd_Dark_Fit.png?checksum=d8534292-e9e1-4386-852a-36e1da6e686c" tvg-chno="102" channel-number="102",Rai 2 HD
+https://guidatv.sky.it#channel-898
+#EXTINF:-1 tvg-id="Rai.3.HD.it" tvg-name="Rai 3 HD" tvg-logo="https://guidatv.sky.it/logo/897rai3hd_Dark_Fit.png?checksum=e30a539b-225f-43a2-b9e4-a88124efdf24" tvg-chno="103" channel-number="103",Rai 3 HD
+https://guidatv.sky.it#channel-897
+#EXTINF:-1 tvg-id="Rete.4.HD.it" tvg-name="Rete 4 HD" tvg-logo="https://guidatv.sky.it/logo/5464rete4hd_Dark_Fit.png?checksum=5493aff1f7be7f6fd8a49d377e942048" tvg-chno="104" channel-number="104",Rete 4 HD
+https://guidatv.sky.it#channel-10464
+#EXTINF:-1 tvg-id="Canale.5.HD.it" tvg-name="Canale 5 HD" tvg-logo="https://guidatv.sky.it/logo/5435canale5hd_Dark_Fit.png?checksum=8d7e988f450ee000a247717f8246b546" tvg-chno="105" channel-number="105",Canale 5 HD
+https://guidatv.sky.it#channel-10354
+#EXTINF:-1 tvg-id="Italia.1.HD.it" tvg-name="Italia 1 HD" tvg-logo="https://guidatv.sky.it/logo/5459italia1hd_Dark_Fit.png?checksum=3c8d3855b0573e95a7cbb380f7a270e1" tvg-chno="106" channel-number="106",Italia 1 HD
+https://guidatv.sky.it#channel-10454
+#EXTINF:-1 tvg-id="LA7.HD.it" tvg-name="LA7 HD" tvg-logo="https://guidatv.sky.it/logo/407la7hd_Dark_Fit.png?checksum=90ff0f85-d31b-4ad7-abc1-23e3c4f18f7f" tvg-chno="107" channel-number="107",LA7 HD
+https://guidatv.sky.it#channel-319
+#EXTINF:-1 tvg-id="Sky.Uno.it" tvg-name="Sky Uno" tvg-logo="https://guidatv.sky.it/logo/477skyuno_Dark_Fit.png?checksum=1119f40f-03b4-4500-8d76-0ad03708ceec" tvg-chno="108" channel-number="108",Sky Uno
+https://guidatv.sky.it#channel-9115
+#EXTINF:-1 tvg-id="Sky.Atlantic.it" tvg-name="Sky Atlantic" tvg-logo="https://guidatv.sky.it/logo/226skyatlantic_Dark_Fit.png?checksum=697f7177-b298-42dd-9e85-8e756c8e2ea5" tvg-chno="111" channel-number="111",Sky Atlantic
+https://guidatv.sky.it#channel-9095
+#EXTINF:-1 tvg-id="Sky.Serie.it" tvg-name="Sky Serie" tvg-logo="https://guidatv.sky.it/logo/684skyserie_Dark_Fit.png?checksum=cd1ecfd4-d700-4167-8582-21f5e5bdcd54" tvg-chno="112" channel-number="112",Sky Serie
+https://guidatv.sky.it#channel-11244
+#EXTINF:-1 tvg-id="Sky.Investigation.it" tvg-name="Sky Investigation" tvg-logo="https://guidatv.sky.it/logo/686skyinvestigation_Dark_Fit.png?checksum=d8acf54c-ffd6-4fe0-a34c-31321b4cc6ae" tvg-chno="113" channel-number="113",Sky Investigation
+https://guidatv.sky.it#channel-11246
+#EXTINF:-1 tvg-id="Sky.Crime.it" tvg-name="Sky Crime" tvg-logo="https://guidatv.sky.it/logo/249skycrime_Dark_Fit.png?checksum=ea13512e-18ac-4f3a-a0bc-e685c29dda46" tvg-chno="115" channel-number="115",Sky Crime
+https://guidatv.sky.it#channel-8336
+#EXTINF:-1 tvg-id="Sky.Documentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://guidatv.sky.it/logo/697skydocumentaries_Dark_Fit.png?checksum=051429e1-c7d2-41cb-9f05-3bb2a5f06e1d" tvg-chno="117" channel-number="117",Sky Documentaries
+https://guidatv.sky.it#channel-11239
+#EXTINF:-1 tvg-id="Sky.Adventure.it" tvg-name="Sky Adventure" tvg-logo="https://guidatv.sky.it/logo/961skyadventure_Dark_Fit.png?checksum=6ea24ea0-611a-43e6-8151-7c293bcd8629" tvg-chno="118" channel-number="118",Sky Adventure
+https://guidatv.sky.it#channel-11889
+#EXTINF:-1 tvg-id="Sky.Nature.it" tvg-name="Sky Nature" tvg-logo="https://guidatv.sky.it/logo/695skynature_Dark_Fit.png?checksum=4a550e90-0d76-4287-8bed-0b7e085d6682" tvg-chno="119" channel-number="119",Sky Nature
+https://guidatv.sky.it#channel-11242
+#EXTINF:-1 tvg-id="Sky.Arte.it" tvg-name="Sky Arte" tvg-logo="https://guidatv.sky.it/logo/74skyarte_Dark_Fit.png?checksum=877bdab3-302c-43d3-9281-59af9069f039" tvg-chno="120" channel-number="120",Sky Arte
+https://guidatv.sky.it#channel-8473
+#EXTINF:-1 tvg-id="Sky.Classica.it" tvg-name="Sky Classica" tvg-logo="https://guidatv.sky.it/logo/170170_Dark_Fit.png?checksum=d19cfc42-3cc1-4306-bdf8-f6c50cb23fb9" tvg-chno="121" channel-number="121",Sky Classica
+https://guidatv.sky.it#channel-11437
+#EXTINF:-1 tvg-id="Sky.Documentaries.+1.HD.it" tvg-name="Sky Documentaries +1 HD" tvg-logo="https://guidatv.sky.it/logo/928skydocumentaries1hd_Dark_Fit.png?checksum=ed168b7c-740b-43a1-9dcb-ab103c663958" tvg-chno="121" channel-number="121",Sky Documentaries +1 HD
+https://guidatv.sky.it#channel-11240
+#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery" tvg-logo="https://guidatv.sky.it/logo/5522discovery_Dark_Fit.png?checksum=791908a1-6b1b-4f02-a305-bfa9c7d2bf5b" tvg-chno="123" channel-number="123",Discovery
+https://guidatv.sky.it#channel-12124
+#EXTINF:-1 tvg-id="TV8.HD.it" tvg-name="TV8 HD" tvg-logo="https://guidatv.sky.it/logo/260tv8hd_Dark_Fit.png?checksum=51b69f7d73040297bd02b1f812eb9fab" tvg-chno="125" channel-number="125",TV8 HD
+https://guidatv.sky.it#channel-8195
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="cielo" tvg-logo="https://guidatv.sky.it/logo/120cielo_Dark_Fit.png?checksum=1241357c-62c0-4c0a-b81e-c7506691a9b6" tvg-chno="126" channel-number="126",cielo
+https://guidatv.sky.it#channel-8133
+#EXTINF:-1 tvg-id="Comedy.Central.it" tvg-name="Comedy Central" tvg-logo="https://guidatv.sky.it/logo/404comedycentral_Dark_Fit.png?checksum=7ea2d1b4d1b728a8ebb63fe0a2a32c42" tvg-chno="129" channel-number="129",Comedy Central
+https://guidatv.sky.it#channel-318
+#EXTINF:-1 tvg-id="MTV.HD.it" tvg-name="MTV HD" tvg-logo="https://guidatv.sky.it/logo/763mtvhd_Dark_Fit.png?checksum=ac92abc9-fe08-49d2-982e-3b6767dce11b" tvg-chno="131" channel-number="131",MTV HD
+https://guidatv.sky.it#channel-9195
+#EXTINF:-1 tvg-id="MTV.Music.it" tvg-name="MTV Music" tvg-logo="https://guidatv.sky.it/logo/429mtvmusic_Dark_Fit.png?checksum=45c6d0879889ea6beaf733b7a0062286" tvg-chno="132" channel-number="132",MTV Music
+https://guidatv.sky.it#channel-11054
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso HD" tvg-logo="https://guidatv.sky.it/logo/229gamberorossohd_Dark_Fit.png?checksum=b62c411c1a166b2f10cf1e4639ac31a0" tvg-chno="133" channel-number="133",Gambero Rosso HD
+https://guidatv.sky.it#channel-11055
+#EXTINF:-1 tvg-id="NOVE.HD.it" tvg-name="NOVE HD" tvg-logo="https://guidatv.sky.it/logo/227novehd_Dark_Fit.png?checksum=cfeb4f0d8626fa2ebcecd8657136a7a7" tvg-chno="149" channel-number="149",NOVE HD
+https://guidatv.sky.it#channel-12116
+#EXTINF:-1 tvg-id="20Mediaset.HD.it" tvg-name="20Mediaset HD" tvg-logo="https://guidatv.sky.it/logo/545820mediasethd_Dark_Fit.png?checksum=31066ae6-dfbf-42df-aa07-ca3c9d676099" tvg-chno="151" channel-number="151",20Mediaset HD
+https://guidatv.sky.it#channel-10458
+#EXTINF:-1 tvg-id="TV2000.HD.it" tvg-name="TV2000 HD" tvg-logo="https://guidatv.sky.it/logo/180tv2000hd_Dark_Fit.png?checksum=b66f763c9cac44437487cbbd7c4a7e0a" tvg-chno="157" channel-number="157",TV2000 HD
+https://guidatv.sky.it#channel-7588
+#EXTINF:-1 tvg-id="27Twentyseven.HD.it" tvg-name="27Twentyseven HD" tvg-logo="https://guidatv.sky.it/logo/545327twentysevenhd_Dark_Fit.png?checksum=db1aca5a-75f6-4c06-8de2-89d2679f45e4" tvg-chno="158" channel-number="158",27Twentyseven HD
+https://guidatv.sky.it#channel-11342
+#EXTINF:-1 tvg-id="La.5.HD.it" tvg-name="La 5 HD" tvg-logo="https://guidatv.sky.it/logo/5437la5hd_Dark_Fit.png?checksum=47ac2d91-4ef6-4727-9a3d-95468ec65945" tvg-chno="159" channel-number="159",La 5 HD
+https://guidatv.sky.it#channel-10466
+#EXTINF:-1 tvg-id="Real.Time.HD.it" tvg-name="Real Time HD" tvg-logo="https://guidatv.sky.it/logo/507realtimehd_Dark_Fit.png?checksum=44442ebf90f9c2db3f5d7fa59172647d" tvg-chno="160" channel-number="160",Real Time HD
+https://guidatv.sky.it#channel-12117
+#EXTINF:-1 tvg-id="LA7CINEMA.it" tvg-name="LA7CINEMA" tvg-logo="https://guidatv.sky.it/logo/5503la7cinema_Dark_Fit.png" tvg-chno="161" channel-number="161",LA7CINEMA
+https://guidatv.sky.it#channel-11430
+#EXTINF:-1 tvg-id="Mediaset.Extra.HD.it" tvg-name="Mediaset Extra HD" tvg-logo="https://guidatv.sky.it/logo/5443mediasetextrahd_Dark_Fit.png?checksum=662d7869-f767-4545-b99c-0e3754b22236" tvg-chno="163" channel-number="163",Mediaset Extra HD
+https://guidatv.sky.it#channel-10465
+#EXTINF:-1 tvg-id="GIALLO.it" tvg-name="GIALLO" tvg-logo="https://guidatv.sky.it/logo/3655giallo_Dark_Fit.png?checksum=c996a2ca85b9d9e92fea7c635739300e" tvg-chno="167" channel-number="167",GIALLO
+https://guidatv.sky.it#channel-12126
+#EXTINF:-1 tvg-id="TOPcrime.HD.it" tvg-name="TOPcrime HD" tvg-logo="https://guidatv.sky.it/logo/5445topcrimehd_Dark_Fit.png?checksum=5a0d81c7-dfb4-4a31-9202-c71b17581425" tvg-chno="168" channel-number="168",TOPcrime HD
+https://guidatv.sky.it#channel-10468
+#EXTINF:-1 tvg-id="DMAX.HD.it" tvg-name="DMAX HD" tvg-logo="https://guidatv.sky.it/logo/5414dmaxhd_Dark_Fit.png?checksum=81b09dfde2edaf86ea83648f49dbd22f" tvg-chno="170" channel-number="170",DMAX HD
+https://guidatv.sky.it#channel-12120
+#EXTINF:-1 tvg-id="Mediaset.Italia2.HD.it" tvg-name="Mediaset Italia2 HD" tvg-logo="https://guidatv.sky.it/logo/5444mediasetitalia2hd_Dark_Fit.png?checksum=53596254-ae3a-40bc-acce-5aa9c4a59c27" tvg-chno="175" channel-number="175",Mediaset Italia2 HD
+https://guidatv.sky.it#channel-10469
+#EXTINF:-1 tvg-id="Sky.Sport24.it" tvg-name="Sky Sport24" tvg-logo="https://guidatv.sky.it/logo/35skysport24_Dark_Fit.png?checksum=4c102430-e3f4-436d-bc16-55a56b370dad" tvg-chno="200" channel-number="200",Sky Sport24
+https://guidatv.sky.it#channel-9094
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno" tvg-logo="https://guidatv.sky.it/logo/23skysportuno_Dark_Fit.png?checksum=b324557a-718b-4028-8b30-65a8ba347bcb" tvg-chno="201" channel-number="201",Sky Sport Uno
+https://guidatv.sky.it#channel-9097
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://guidatv.sky.it/logo/209skysportcalcio_Dark_Fit.png?checksum=e8b31585-967c-469b-bee0-3e5a70bc678b" tvg-chno="202" channel-number="202",Sky Sport Calcio
+https://guidatv.sky.it#channel-9113
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://guidatv.sky.it/logo/559skysporttennis_Dark_Fit.png?checksum=b9fcf317-1320-4820-a7f3-eded52e55442" tvg-chno="203" channel-number="203",Sky Sport Tennis
+https://guidatv.sky.it#channel-11237
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena" tvg-logo="https://guidatv.sky.it/logo/24skysportarena_Dark_Fit.png?checksum=e4a22ef9-3e04-4a57-ad4c-f8823563fee0" tvg-chno="204" channel-number="204",Sky Sport Arena
+https://guidatv.sky.it#channel-9093
+#EXTINF:-1 tvg-id="Sky.Sport.Basket.it" tvg-name="Sky Sport Basket" tvg-logo="https://guidatv.sky.it/logo/764skysportbasket_Dark_Fit.png?checksum=0ba6d5d1-84b1-41c4-b574-51689c0c27d8" tvg-chno="205" channel-number="205",Sky Sport Basket
+https://guidatv.sky.it#channel-9116
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max" tvg-logo="https://guidatv.sky.it/logo/248skysportmax_Dark_Fit.png?checksum=5bc88c5a-569d-426d-92b3-69b2407aa0ea" tvg-chno="206" channel-number="206",Sky Sport Max
+https://guidatv.sky.it#channel-9103
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1" tvg-logo="https://guidatv.sky.it/logo/478skysportf1_Dark_Fit.png?checksum=31440b2f-7ffd-4ade-9547-5eef62902f9c" tvg-chno="207" channel-number="207",Sky Sport F1
+https://guidatv.sky.it#channel-9096
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://guidatv.sky.it/logo/483skysportmotogp_Dark_Fit.png?checksum=c49e6833-fb1f-407d-9815-ae9cb4c6b741" tvg-chno="208" channel-number="208",Sky Sport MotoGP
+https://guidatv.sky.it#channel-9102
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sport Golf" tvg-logo="https://guidatv.sky.it/logo/768skysportgolf_Dark_Fit.png?checksum=b4b2559d-9be6-427e-ab58-3fdfde24f866" tvg-chno="209" channel-number="209",Sky Sport Golf
+https://guidatv.sky.it#channel-10254
+#EXTINF:-1 tvg-id="Sky.Sport.Legend.it" tvg-name="Sky Sport Legend" tvg-logo="https://guidatv.sky.it/logo/578skysportlegend_Dark_Fit.png?checksum=d82f0783-b8a6-4bac-9bb2-cb6979d6ac87" tvg-chno="210" channel-number="210",Sky Sport Legend
+https://guidatv.sky.it#channel-11910
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.it" tvg-name="Sky Sport Mix" tvg-logo="https://guidatv.sky.it/logo/579skysportmix_Dark_Fit.png?checksum=3e2175cd-e5bd-4e9f-a2c4-5f81fc318cad" tvg-chno="211" channel-number="211",Sky Sport Mix
+https://guidatv.sky.it#channel-11909
+#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="SuperTennis HD" tvg-logo="https://guidatv.sky.it/logo/5246supertennishd_Dark_Fit.png?checksum=13f5cbb1646d848fde3af6fccba8dd4c" tvg-chno="212" channel-number="212",SuperTennis HD
+https://guidatv.sky.it#channel-6000
+#EXTINF:-1 tvg-id="Sky.Sport.4K.it" tvg-name="Sky Sport 4K" tvg-logo="https://guidatv.sky.it/logo/628skysport4k_Dark_Fit.png?checksum=a309ec39-b993-4119-96a9-eaa65091381e" tvg-chno="213" channel-number="213",Sky Sport 4K
+https://guidatv.sky.it#channel-10013
+#EXTINF:-1 tvg-id="DAZN.1.it" tvg-name="DAZN 1" tvg-logo="https://guidatv.sky.it/logo/566dazn1_Dark_Fit.png?checksum=1f3ce6e3-7e0c-4d60-b4aa-3fcb37fa6d75" tvg-chno="214" channel-number="214",DAZN 1
+https://guidatv.sky.it#channel-11402
+#EXTINF:-1 tvg-id="DAZN.2.it" tvg-name="DAZN 2" tvg-logo="https://guidatv.sky.it/logo/535dazn2_Dark_Fit.png?checksum=87632b40-f9a5-4909-aba5-5661bbbe5d18" tvg-chno="215" channel-number="215",DAZN 2
+https://guidatv.sky.it#channel-11401
+#EXTINF:-1 tvg-id="DAZN3.it" tvg-name="DAZN3" tvg-logo="https://guidatv.sky.it/logo/681dazn3_Dark_Fit.png" tvg-chno="216" channel-number="216",DAZN3
+https://guidatv.sky.it#channel-11849
+#EXTINF:-1 tvg-id="DAZN4.it" tvg-name="DAZN4" tvg-logo="https://guidatv.sky.it/logo/682dazn4_Dark_Fit.png" tvg-chno="217" channel-number="217",DAZN4
+https://guidatv.sky.it#channel-11850
+#EXTINF:-1 tvg-id="EQUtv.it" tvg-name="EQUtv" tvg-logo="https://guidatv.sky.it/logo/5439equtv_Dark_Fit.png?checksum=820b91bb-c879-4464-a232-12ce5bfd8ba5" tvg-chno="220" channel-number="220",EQUtv
+https://guidatv.sky.it#channel-8293
+#EXTINF:-1 tvg-id="Horse.TV.HD.it" tvg-name="Horse TV HD" tvg-logo="https://guidatv.sky.it/logo/5290horsetvhd_Dark_Fit.png?checksum=823636264fb45f2797610ea87dc21dac" tvg-chno="221" channel-number="221",Horse TV HD
+https://guidatv.sky.it#channel-6611
+#EXTINF:-1 tvg-id="RAI.Sport.it" tvg-name="RAI Sport" tvg-logo="https://guidatv.sky.it/logo/807raisport_Dark_Fit.png" tvg-chno="227" channel-number="227",RAI Sport
+https://guidatv.sky.it#channel-807
+#EXTINF:-1 tvg-id="Sport.TV.it" tvg-name="Sport TV" tvg-logo="https://guidatv.sky.it/logo/445sporttv_Dark_Fit.png" tvg-chno="228" channel-number="228",Sport TV
+https://guidatv.sky.it#channel-7587
+#EXTINF:-1 tvg-id="Milan.TV.it" tvg-name="Milan TV" tvg-logo="https://guidatv.sky.it/logo/261milantv_Dark_Fit.png?checksum=5fd4db7c2105183d1684cb388d3e9a3f" tvg-chno="230" channel-number="230",Milan TV
+https://guidatv.sky.it#channel-9513
+#EXTINF:-1 tvg-id="Inter.TV.it" tvg-name="Inter TV" tvg-logo="https://guidatv.sky.it/logo/487intertv_Dark_Fit.png?checksum=bb975964a81a33784cd85d6089e6a634" tvg-chno="232" channel-number="232",Inter TV
+https://guidatv.sky.it#channel-9893
+#EXTINF:-1 tvg-id="CACCIA.e.Pesca.it" tvg-name="CACCIA e Pesca" tvg-logo="https://guidatv.sky.it/logo/344cacciaepesca_Dark_Fit.png?checksum=153baa96e7093a68e7ee601279bdb7b1" tvg-chno="235" channel-number="235",CACCIA e Pesca
+https://guidatv.sky.it#channel-520
+#EXTINF:-1 tvg-id="Caccia.e.PESCA.it" tvg-name="Caccia e PESCA" tvg-logo="https://guidatv.sky.it/logo/350cacciaepesca_Dark_Fit.png?checksum=6638cdb0a1ba833182e4f5987048b3f8" tvg-chno="236" channel-number="236",Caccia e PESCA
+https://guidatv.sky.it#channel-6220
+#EXTINF:-1 tvg-id="Sky.Sport251.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/917skysport_Dark_Fit.png?checksum=5b1ad201-03b6-4a88-bdd3-eda9e3cead6a" tvg-chno="251" channel-number="251",Sky Sport
+https://guidatv.sky.it#channel-11497
+#EXTINF:-1 tvg-id="Sky.Sport252.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/951skysport_Dark_Fit.png?checksum=3ae492a2-cc17-4c0e-a40f-b4ed73b6761d" tvg-chno="252" channel-number="252",Sky Sport
+https://guidatv.sky.it#channel-11496
+#EXTINF:-1 tvg-id="Sky.Sport253.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/233233_Dark_Fit.png?checksum=80e6da20-c7d0-46ce-99cf-26be73c1a781" tvg-chno="253" channel-number="253",Sky Sport
+https://guidatv.sky.it#channel-11494
+#EXTINF:-1 tvg-id="Sky.Sport254.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/234skysport_Dark_Fit.png?checksum=adbe075a-954b-4d6c-a938-571e3008491e" tvg-chno="254" channel-number="254",Sky Sport
+https://guidatv.sky.it#channel-11490
+#EXTINF:-1 tvg-id="Sky.Sport255.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/910skysport_Dark_Fit.png?checksum=81ea4c26-4c01-467f-a7c1-5c30e6bfbc6f" tvg-chno="255" channel-number="255",Sky Sport
+https://guidatv.sky.it#channel-11491
+#EXTINF:-1 tvg-id="Sky.Sport256.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/912skysport_Dark_Fit.png?checksum=6f69fe01-457c-45ac-bb6e-3c21a4be2f7f" tvg-chno="256" channel-number="256",Sky Sport
+https://guidatv.sky.it#channel-11492
+#EXTINF:-1 tvg-id="Sky.Sport257.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/775skysport_Dark_Fit.png?checksum=abd03636-41d5-4df0-b031-c536f23192a1" tvg-chno="257" channel-number="257",Sky Sport
+https://guidatv.sky.it#channel-11386
+#EXTINF:-1 tvg-id="Sky.Sport258.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/772skysport_Dark_Fit.png?checksum=d0c93561-9994-490d-878b-57a6d673d9ce" tvg-chno="258" channel-number="258",Sky Sport
+https://guidatv.sky.it#channel-9046
+#EXTINF:-1 tvg-id="Sky.Sport259.it" tvg-name="Sky Sport" tvg-logo="https://guidatv.sky.it/logo/613skysport_Dark_Fit.png?checksum=3ce7cc28-34ea-4d9d-9c0a-40a4bac90fa5" tvg-chno="259" channel-number="259",Sky Sport
+https://guidatv.sky.it#channel-8613
+#EXTINF:-1 tvg-id="Sky.Calcio.10.it" tvg-name="Sky Calcio 10" tvg-logo="https://guidatv.sky.it/logo/615skycalcio10_Dark_Fit.png" tvg-chno="260" channel-number="260",Sky Calcio 10
+https://guidatv.sky.it#channel-615
+#EXTINF:-1 tvg-id="Sky.Calcio.11.it" tvg-name="Sky Calcio 11" tvg-logo="https://guidatv.sky.it/logo/617skycalcio11_Dark_Fit.png" tvg-chno="261" channel-number="261",Sky Calcio 11
+https://guidatv.sky.it#channel-617
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.it" tvg-name="Sky Cinema Uno" tvg-logo="https://guidatv.sky.it/logo/202skycinemauno_Dark_Fit.png?checksum=8a5e7998-b741-4dcc-ace9-bb87c429c469" tvg-chno="301" channel-number="301",Sky Cinema Uno
+https://guidatv.sky.it#channel-9044
+#EXTINF:-1 tvg-id="Sky.Cinema.Stories.it" tvg-name="Sky Cinema Stories" tvg-logo="https://guidatv.sky.it/logo/564skycinemastories_Dark_Fit.png?checksum=c1fca71e-efec-4337-b75f-9a68dbc6a4a9" tvg-chno="302" channel-number="302",Sky Cinema Stories
+https://guidatv.sky.it#channel-9034
+#EXTINF:-1 tvg-id="Sky.Cinema.Collection.it" tvg-name="Sky Cinema Collection" tvg-logo="https://guidatv.sky.it/logo/204skycinemacollection_Dark_Fit.png?checksum=822d9282-8e45-47b2-80c3-2d70013277cc" tvg-chno="303" channel-number="303",Sky Cinema Collection
+https://guidatv.sky.it#channel-9047
+#EXTINF:-1 tvg-id="Sky.Cinema.Family.it" tvg-name="Sky Cinema Family" tvg-logo="https://guidatv.sky.it/logo/255skycinemafamily_Dark_Fit.png?checksum=4090eef8-5133-4c0c-b518-47504b399aeb" tvg-chno="304" channel-number="304",Sky Cinema Family
+https://guidatv.sky.it#channel-9042
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.it" tvg-name="Sky Cinema Action" tvg-logo="https://guidatv.sky.it/logo/206skycinemaaction_Dark_Fit.png?checksum=b0517e12-f8d4-47ad-bc66-15c8775d2236" tvg-chno="305" channel-number="305",Sky Cinema Action
+https://guidatv.sky.it#channel-9050
+#EXTINF:-1 tvg-id="Sky.Cinema.Suspense.it" tvg-name="Sky Cinema Suspense" tvg-logo="https://guidatv.sky.it/logo/47skycinemasuspense_Dark_Fit.png?checksum=40d160b0-8adb-497a-b23d-135d8e030195" tvg-chno="306" channel-number="306",Sky Cinema Suspense
+https://guidatv.sky.it#channel-10515
+#EXTINF:-1 tvg-id="Sky.Cinema.Comedy.it" tvg-name="Sky Cinema Comedy" tvg-logo="https://guidatv.sky.it/logo/30skycinemacomedy_Dark_Fit.png?checksum=2b2decef-8126-4cf5-af2e-1752cd2b8c4b" tvg-chno="307" channel-number="307",Sky Cinema Comedy
+https://guidatv.sky.it#channel-9039
+#EXTINF:-1 tvg-id="Sky.Cinema.Romance.it" tvg-name="Sky Cinema Romance" tvg-logo="https://guidatv.sky.it/logo/231skycinemaromance_Dark_Fit.png?checksum=a0032c56-ccf1-451f-83b1-79f58173ef88" tvg-chno="308" channel-number="308",Sky Cinema Romance
+https://guidatv.sky.it#channel-9055
+#EXTINF:-1 tvg-id="Sky.Cinema.Drama.it" tvg-name="Sky Cinema Drama" tvg-logo="https://guidatv.sky.it/logo/769skycinemadrama_Dark_Fit.png?checksum=38dff21b-0559-4cd6-b79d-7a3afd0f237d" tvg-chno="309" channel-number="309",Sky Cinema Drama
+https://guidatv.sky.it#channel-10518
+#EXTINF:-1 tvg-id="Sky.Cinema.Uno.+24.it" tvg-name="Sky Cinema Uno +24" tvg-logo="https://guidatv.sky.it/logo/224skycinemauno24_Dark_Fit.png?checksum=bd2aa3ca-7f86-4585-a0b8-d80d3623418d" tvg-chno="310" channel-number="310",Sky Cinema Uno +24
+https://guidatv.sky.it#channel-9037
+#EXTINF:-1 tvg-id="Iris.HD.it" tvg-name="Iris HD" tvg-logo="https://guidatv.sky.it/logo/5436irishd_Dark_Fit.png?checksum=dd860730-a67a-4841-adf8-0ad22cf62054" tvg-chno="325" channel-number="325",Iris HD
+https://guidatv.sky.it#channel-10467
+#EXTINF:-1 tvg-id="Cine34.HD.it" tvg-name="Cine34 HD" tvg-logo="https://guidatv.sky.it/logo/5481cine34hd_Dark_Fit.png?checksum=287c5762-90e6-4bc5-9753-13524cb674bf" tvg-chno="327" channel-number="327",Cine34 HD
+https://guidatv.sky.it#channel-10893
+#EXTINF:-1 tvg-id="Sky.Arte.it" tvg-name="Sky Arte" tvg-logo="https://guidatv.sky.it/logo/75skyarte_Dark_Fit.png?checksum=4ed9431f-34e1-4843-a8b7-375e8dd91e57" tvg-chno="400" channel-number="400",Sky Arte
+https://guidatv.sky.it#channel-7767
+#EXTINF:-1 tvg-id="Sky.Documentaries.it" tvg-name="Sky Documentaries" tvg-logo="https://guidatv.sky.it/logo/698skydocumentaries_Dark_Fit.png?checksum=2b559be9-2ae6-48ae-b0cd-2ba8ff999bd5" tvg-chno="402" channel-number="402",Sky Documentaries
+https://guidatv.sky.it#channel-11241
+#EXTINF:-1 tvg-id="Sky.Documentaries.+1.HD.it" tvg-name="Sky Documentaries +1 HD" tvg-logo="https://guidatv.sky.it/logo/934skydocumentaries1hd_Dark_Fit.png?checksum=124da1e4-c644-481e-9184-b35553bbc2f0" tvg-chno="403" channel-number="403",Sky Documentaries +1 HD
+https://guidatv.sky.it#channel-11243
+#EXTINF:-1 tvg-id="Sky.Nature.it" tvg-name="Sky Nature" tvg-logo="https://guidatv.sky.it/logo/710skynature_Dark_Fit.png?checksum=488dcb7b-46c7-415b-a47b-f1ecbbf9adff" tvg-chno="404" channel-number="404",Sky Nature
+https://guidatv.sky.it#channel-11245
+#EXTINF:-1 tvg-id="Sky.Crime.it" tvg-name="Sky Crime" tvg-logo="https://guidatv.sky.it/logo/128skycrime_Dark_Fit.png?checksum=71fa0f4e-e982-440b-9682-f95ee2342cc8" tvg-chno="405" channel-number="405",Sky Crime
+https://guidatv.sky.it#channel-11216
+#EXTINF:-1 tvg-id="Sky.Adventure.it" tvg-name="Sky Adventure" tvg-logo="https://guidatv.sky.it/logo/962skyadventure_Dark_Fit.png?checksum=2f25309d-a7b6-48a7-b156-c5ffce9d9418" tvg-chno="407" channel-number="407",Sky Adventure
+https://guidatv.sky.it#channel-11890
+#EXTINF:-1 tvg-id="History.it" tvg-name="History" tvg-logo="https://guidatv.sky.it/logo/513history_Dark_Fit.png?checksum=e13f1942-1f18-4256-8bb1-fc73a1b98c36" tvg-chno="409" channel-number="409",History
+https://guidatv.sky.it#channel-9101
+#EXTINF:-1 tvg-id="Gambero.Rosso.HD.it" tvg-name="Gambero Rosso HD" tvg-logo="https://guidatv.sky.it/logo/228gamberorossohd_Dark_Fit.png?checksum=b62c411c1a166b2f10cf1e4639ac31a0" tvg-chno="415" channel-number="415",Gambero Rosso HD
+https://guidatv.sky.it#channel-9099
+#EXTINF:-1 tvg-id="Focus.HD.it" tvg-name="Focus HD" tvg-logo="https://guidatv.sky.it/logo/5447focushd_Dark_Fit.png?checksum=4033b2db-53ba-4015-be04-fa76cad3a195" tvg-chno="416" channel-number="416",Focus HD
+https://guidatv.sky.it#channel-10470
+#EXTINF:-1 tvg-id="Food.Network.HD.it" tvg-name="Food Network HD" tvg-logo="https://guidatv.sky.it/logo/722foodnetworkhd_Dark_Fit.png?checksum=ad349263c802fa2f2a3815f96c1da266" tvg-chno="417" channel-number="417",Food Network HD
+https://guidatv.sky.it#channel-12123
+#EXTINF:-1 tvg-id="HGTV.HD.it" tvg-name="HGTV HD" tvg-logo="https://guidatv.sky.it/logo/4334hgtvhd_Dark_Fit.png" tvg-chno="418" channel-number="418",HGTV HD
+https://guidatv.sky.it#channel-12127
+#EXTINF:-1 tvg-id="_Discovery.Turbo.HD.it" tvg-name="_Discovery Turbo HD" tvg-logo="https://guidatv.sky.it/logo/3659discoveryturbohd_Dark_Fit.png" tvg-chno="419" channel-number="419",_Discovery Turbo HD
+https://guidatv.sky.it#channel-12131
+#EXTINF:-1 tvg-id="VALUE.24.TV.it" tvg-name="VALUE 24 TV" tvg-logo="https://guidatv.sky.it/logo/5524value24tv_Dark_Fit.png?checksum=ee465cce-d9e2-45e7-9eda-8eb0d5610bd9" tvg-chno="490" channel-number="490",VALUE 24 TV
+https://guidatv.sky.it#channel-11712
+#EXTINF:-1 tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://guidatv.sky.it/logo/521skytg24_Dark_Fit.png?checksum=9eecfd33-2e87-46c8-b1d5-79cf22f8113e" tvg-chno="500" channel-number="500",Sky TG24
+https://guidatv.sky.it#channel-9117
+#EXTINF:-1 tvg-id="Sky.Meteo24.it" tvg-name="Sky Meteo24" tvg-logo="https://guidatv.sky.it/logo/321skymeteo24_Dark_Fit.png?checksum=bdfbddc7-a20d-4c4b-afe6-ab5dc9ff02c4" tvg-chno="502" channel-number="502",Sky Meteo24
+https://guidatv.sky.it#channel-321
+#EXTINF:-1 tvg-id="TG24PrimoPiano.it" tvg-name="TG24PrimoPiano" tvg-logo="https://guidatv.sky.it/logo/328tg24primopiano_Dark_Fit.png?checksum=d67ccaf8-2d55-4557-9d5f-e2fb0e645d6f" tvg-chno="503" channel-number="503",TG24PrimoPiano
+https://guidatv.sky.it#channel-6510
+#EXTINF:-1 tvg-id="Class.CNBC.it" tvg-name="Class CNBC" tvg-logo="https://guidatv.sky.it/logo/433classcnbc_Dark_Fit.png?checksum=ad15571a-30b8-4336-ab6c-6ce67c39e756" tvg-chno="507" channel-number="507",Class CNBC
+https://guidatv.sky.it#channel-308
+#EXTINF:-1 tvg-id="Rai.News.24.it" tvg-name="Rai News 24" tvg-logo="https://guidatv.sky.it/logo/895rainews24_Dark_Fit.png" tvg-chno="508" channel-number="508",Rai News 24
+https://guidatv.sky.it#channel-895
+#EXTINF:-1 tvg-id="TgCom24.HD.it" tvg-name="TgCom24 HD" tvg-logo="https://guidatv.sky.it/logo/5411tgcom24hd_Dark_Fit.png?checksum=473bb8b0-031d-494e-ab84-baffb65ebd83" tvg-chno="509" channel-number="509",TgCom24 HD
+https://guidatv.sky.it#channel-10473
+#EXTINF:-1 tvg-id="TRM.h24.it" tvg-name="TRM h24" tvg-logo="https://guidatv.sky.it/logo/5421trmh24_Dark_Fit.png?checksum=3ee3445be554ecc99d0da871c495057e" tvg-chno="519" channel-number="519",TRM h24
+https://guidatv.sky.it#channel-9013
+#EXTINF:-1 tvg-id="San.Marino.RTV.it" tvg-name="San Marino RTV" tvg-logo="https://guidatv.sky.it/logo/5407sanmarinortv_Dark_Fit.png?checksum=06c3a0e3-d1ee-44bc-b50b-ef0d9d258f3c" tvg-chno="520" channel-number="520",San Marino RTV
+https://guidatv.sky.it#channel-6861
+#EXTINF:-1 tvg-id="Euronews.it" tvg-name="Euronews" tvg-logo="https://guidatv.sky.it/logo/801euronews_Dark_Fit.png?checksum=838c4753d245bc12398f9201cb93fa32" tvg-chno="521" channel-number="521",Euronews
+https://guidatv.sky.it#channel-801
+#EXTINF:-1 tvg-id="Sky.News.it" tvg-name="Sky News" tvg-logo="https://guidatv.sky.it/logo/108skynews_Dark_Fit.png?checksum=0eeb0296-0e79-4872-9b4b-de212dafa318" tvg-chno="522" channel-number="522",Sky News
+https://guidatv.sky.it#channel-445
+#EXTINF:-1 tvg-id="Fox.News.it" tvg-name="Fox News" tvg-logo="https://guidatv.sky.it/logo/103foxnews_Dark_Fit.png" tvg-chno="523" channel-number="523",Fox News
+https://guidatv.sky.it#channel-446
+#EXTINF:-1 tvg-id="CNN.Intl..it" tvg-name="CNN Intl." tvg-logo="https://guidatv.sky.it/logo/211cnnintl_Dark_Fit.png?checksum=9b32c1b66584bbd6a1e1ff740832e9b0" tvg-chno="526" channel-number="526",CNN Intl.
+https://guidatv.sky.it#channel-312
+#EXTINF:-1 tvg-id="Fox.Business.it" tvg-name="Fox Business" tvg-logo="https://guidatv.sky.it/logo/544foxbusiness_Dark_Fit.png?checksum=a5000f5a853556b4ec8fa81ba8ebc49d" tvg-chno="527" channel-number="527",Fox Business
+https://guidatv.sky.it#channel-6741
+#EXTINF:-1 tvg-id="CNBC.HD.it" tvg-name="CNBC HD" tvg-logo="https://guidatv.sky.it/logo/245cnbchd_Dark_Fit.png?checksum=93cf9101-ff85-42dd-8df5-a45f5f023eb7" tvg-chno="528" channel-number="528",CNBC HD
+https://guidatv.sky.it#channel-10713
+#EXTINF:-1 tvg-id="Bloomberg.it" tvg-name="Bloomberg" tvg-logo="https://guidatv.sky.it/logo/5256bloomberg_Dark_Fit.png?checksum=5a34539b3dd28c9896600b11443c4499" tvg-chno="529" channel-number="529",Bloomberg
+https://guidatv.sky.it#channel-349
+#EXTINF:-1 tvg-id="BBC.World.News.it" tvg-name="BBC World News" tvg-logo="https://guidatv.sky.it/logo/891bbcworldnews_Dark_Fit.png?checksum=1cea25b6-7bb0-4341-8131-c2ccd3663773" tvg-chno="530" channel-number="530",BBC World News
+https://guidatv.sky.it#channel-891
+#EXTINF:-1 tvg-id="France.24.English.HD.it" tvg-name="France 24 English HD" tvg-logo="https://guidatv.sky.it/logo/5296france24englishhd_Dark_Fit.png?checksum=19a1afb854c82083a56fa52df0314262" tvg-chno="531" channel-number="531",France 24 English HD
+https://guidatv.sky.it#channel-7968
+#EXTINF:-1 tvg-id="Al.Jazeera.Intl..HD.it" tvg-name="Al Jazeera Intl. HD" tvg-logo="https://guidatv.sky.it/logo/5113aljazeeraintlhd_Dark_Fit.png?checksum=5156473432ae2f2087010729e216d04d" tvg-chno="532" channel-number="532",Al Jazeera Intl. HD
+https://guidatv.sky.it#channel-5113
+#EXTINF:-1 tvg-id="NHK.World.TV.HD.it" tvg-name="NHK World TV HD" tvg-logo="https://guidatv.sky.it/logo/5297nhkworldtvhd_Dark_Fit.png?checksum=850b553d-ddc3-4b00-b8f9-c7a36f436076" tvg-chno="533" channel-number="533",NHK World TV HD
+https://guidatv.sky.it#channel-6862
+#EXTINF:-1 tvg-id="France.24.Francais.HD.it" tvg-name="France 24 Francais HD" tvg-logo="https://guidatv.sky.it/logo/5119france24francaishd_Dark_Fit.png?checksum=4c392aa5ac1031cf85fac4cf4b221a50" tvg-chno="541" channel-number="541",France 24 Francais HD
+https://guidatv.sky.it#channel-5119
+#EXTINF:-1 tvg-id="DeAKids.it" tvg-name="DeAKids" tvg-logo="https://guidatv.sky.it/logo/460deakids_Dark_Fit.png?checksum=0d706c05-294d-443e-aabb-eb8997157a32" tvg-chno="601" channel-number="601",DeAKids
+https://guidatv.sky.it#channel-460
+#EXTINF:-1 tvg-id="Nick.Jr.it" tvg-name="Nick Jr" tvg-logo="https://guidatv.sky.it/logo/424nickjr_Dark_Fit.png?checksum=888d7b93d39b68714e414336cdb7ebd5" tvg-chno="603" channel-number="603",Nick Jr
+https://guidatv.sky.it#channel-461
+#EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://guidatv.sky.it/logo/320nickelodeon_Dark_Fit.png?checksum=b3341710a4c547732edfcd2773b3be9b" tvg-chno="605" channel-number="605",Nickelodeon
+https://guidatv.sky.it#channel-320
+#EXTINF:-1 tvg-id="Cartoon.Network.it" tvg-name="Cartoon Network" tvg-logo="https://guidatv.sky.it/logo/258cartoonnetwork_Dark_Fit.png?checksum=ff59700d-aaea-4db7-96d3-ba42afa633d0" tvg-chno="607" channel-number="607",Cartoon Network
+https://guidatv.sky.it#channel-9693
+#EXTINF:-1 tvg-id="Boomerang.it" tvg-name="Boomerang" tvg-logo="https://guidatv.sky.it/logo/367boomerang_Dark_Fit.png?checksum=0671910302f4ecae3e6359bf65b54dfe" tvg-chno="609" channel-number="609",Boomerang
+https://guidatv.sky.it#channel-472
+#EXTINF:-1 tvg-id="Boomerang.+1.it" tvg-name="Boomerang +1" tvg-logo="https://guidatv.sky.it/logo/343boomerang1_Dark_Fit.png?checksum=dd0c06f2d9efa6c6122b3c15722327be" tvg-chno="610" channel-number="610",Boomerang +1
+https://guidatv.sky.it#channel-479
+#EXTINF:-1 tvg-id="DeAJunior.it" tvg-name="DeAJunior" tvg-logo="https://guidatv.sky.it/logo/313deajunior_Dark_Fit.png?checksum=a8d99384-74cd-44eb-aba4-52e7b2eb8833" tvg-chno="623" channel-number="623",DeAJunior
+https://guidatv.sky.it#channel-7427
+#EXTINF:-1 tvg-id="Super!.it" tvg-name="Super!" tvg-logo="https://guidatv.sky.it/logo/421super_Dark_Fit.png?checksum=5a98271501bc0b96c110fcc1ef2f3e87" tvg-chno="625" channel-number="625",Super!
+https://guidatv.sky.it#channel-6460
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://guidatv.sky.it/logo/466k2_Dark_Fit.png?checksum=a270a174199274e37b779bddc20d9e2c" tvg-chno="626" channel-number="626",K2
+https://guidatv.sky.it#channel-12129
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://guidatv.sky.it/logo/418frisbee_Dark_Fit.png" tvg-chno="627" channel-number="627",Frisbee
+https://guidatv.sky.it#channel-12130
+#EXTINF:-1 tvg-id="MTV.Music.it" tvg-name="MTV Music" tvg-logo="https://guidatv.sky.it/logo/428mtvmusic_Dark_Fit.png?checksum=45c6d0879889ea6beaf733b7a0062286" tvg-chno="704" channel-number="704",MTV Music
+https://guidatv.sky.it#channel-528
+#EXTINF:-1 tvg-id="Deejay.TV.it" tvg-name="Deejay TV" tvg-logo="https://guidatv.sky.it/logo/304deejaytv_Dark_Fit.png?checksum=f2afc01361fba95c375eeff83abd8014" tvg-chno="714" channel-number="714",Deejay TV
+https://guidatv.sky.it#channel-462
+#EXTINF:-1 tvg-id="Radio.Monte.Carlo.it" tvg-name="Radio Monte Carlo" tvg-logo="https://guidatv.sky.it/logo/5415radiomontecarlo_Dark_Fit.png?checksum=ccbf468d612272fa90432896c46737bd" tvg-chno="716" channel-number="716",Radio Monte Carlo
+https://guidatv.sky.it#channel-10993
+#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-name="Virgin Radio" tvg-logo="https://guidatv.sky.it/logo/5426virginradio_Dark_Fit.png?checksum=cc546229-d2f5-4e6e-ae1f-ce7e54d7618f" tvg-chno="717" channel-number="717",Virgin Radio
+https://guidatv.sky.it#channel-11344
+#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia TV HD" tvg-logo="https://guidatv.sky.it/logo/5454radioitaliatvhd_Dark_Fit.png?checksum=4f454261-8130-4220-b45e-440c53eb5ade" tvg-chno="725" channel-number="725",Radio Italia TV HD
+https://guidatv.sky.it#channel-9833
+#EXTINF:-1 tvg-id="Radio.Italia.Live.it" tvg-name="Radio Italia Live" tvg-logo="https://guidatv.sky.it/logo/5438radioitalialive_Dark_Fit.png" tvg-chno="726" channel-number="726",Radio Italia Live
+https://guidatv.sky.it#channel-10033
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-name="RADIONORBA TV" tvg-logo="https://guidatv.sky.it/logo/5430radionorbatv_Dark_Fit.png?checksum=8a9cba6d66990139118d8a12f3ce73da" tvg-chno="730" channel-number="730",RADIONORBA TV
+https://guidatv.sky.it#channel-8213
+#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5 HD" tvg-logo="https://guidatv.sky.it/logo/812rtl1025hd_Dark_Fit.png?checksum=abbc96b26d53d6eadc8fc7d148e7c3d7" tvg-chno="736" channel-number="736",RTL 102.5 HD
+https://guidatv.sky.it#channel-6885
+#EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it" tvg-name="RADIOFRECCIA HD" tvg-logo="https://guidatv.sky.it/logo/5465radiofrecciahd_Dark_Fit.png?checksum=ff8642c2c006dee959e9d32a5bc9421b" tvg-chno="738" channel-number="738",RADIOFRECCIA HD
+https://guidatv.sky.it#channel-10616
+#EXTINF:-1 tvg-id="Rai.4.it" tvg-name="Rai 4" tvg-logo="https://guidatv.sky.it/logo/9008rai4_Dark_Fit.png?checksum=ba5fd8920e250be5150ec56369c2b835" tvg-chno="5021" channel-number="5021",Rai 4
+https://guidatv.sky.it#channel-6622
+#EXTINF:-1 tvg-id="Rai.5.it" tvg-name="Rai 5" tvg-logo="https://guidatv.sky.it/logo/9019rai5_Dark_Fit.png?checksum=e44a0f01f202cb78f4af4261c8c262e4" tvg-chno="5023" channel-number="5023",Rai 5
+https://guidatv.sky.it#channel-6607
+#EXTINF:-1 tvg-id="Rai.Movie.it" tvg-name="Rai Movie" tvg-logo="https://guidatv.sky.it/logo/9018raimovie_Dark_Fit.png?checksum=fc1399345bfd0b6144b1025a298ad2c5" tvg-chno="5024" channel-number="5024",Rai Movie
+https://guidatv.sky.it#channel-6608
+#EXTINF:-1 tvg-id="Rai.Premium.it" tvg-name="Rai Premium" tvg-logo="https://guidatv.sky.it/logo/9020raipremium_Dark_Fit.png?checksum=14d382dfc7f0b3709557011ad75edd72" tvg-chno="5025" channel-number="5025",Rai Premium
+https://guidatv.sky.it#channel-6623
+#EXTINF:-1 tvg-id="LA7CINEMA.it" tvg-name="LA7CINEMA" tvg-logo="https://guidatv.sky.it/logo/9024la7cinema_Dark_Fit.png" tvg-chno="5029" channel-number="5029",LA7CINEMA
+https://guidatv.sky.it#channel-6624
+#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://guidatv.sky.it/logo/9014boing_Dark_Fit.png?checksum=c4d0b12b8755d08c5d817e5e5ea045d7" tvg-chno="5040" channel-number="5040",Boing
+https://guidatv.sky.it#channel-6628
+#EXTINF:-1 tvg-id="Rai.Gulp.it" tvg-name="Rai Gulp" tvg-logo="https://guidatv.sky.it/logo/9038raigulp_Dark_Fit.png?checksum=4ee1f93ceb93dba9b8d821861bb7e6d1" tvg-chno="5042" channel-number="5042",Rai Gulp
+https://guidatv.sky.it#channel-6629
+#EXTINF:-1 tvg-id="Rai.Yoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://guidatv.sky.it/logo/9016raiyoyo_Dark_Fit.png?checksum=b5bfdd4eddc3c172c60c9b5802885729" tvg-chno="5043" channel-number="5043",Rai Yoyo
+https://guidatv.sky.it#channel-6609
+#EXTINF:-1 tvg-id="CARTOONITO.DTT.it" tvg-name="CARTOONITO DTT" tvg-logo="https://guidatv.sky.it/logo/9041cartoonitodtt_Dark_Fit.png?checksum=7a74a654bbc6a33c0fbdae5032e2df92" tvg-chno="5046" channel-number="5046",CARTOONITO DTT
+https://guidatv.sky.it#channel-8132
+#EXTINF:-1 tvg-id="Rai.Storia.it" tvg-name="Rai Storia" tvg-logo="https://guidatv.sky.it/logo/9037raistoria_Dark_Fit.png?checksum=c14af33585495fc78e2a28cd14536a75" tvg-chno="5054" channel-number="5054",Rai Storia
+https://guidatv.sky.it#channel-6630
