@@ -449,8 +449,8 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22322/broadcasts/day/0?channelPosition=224
 #EXTINF:-1 tvg-id="CANAL+.EXTRA.8.HD.fr" tvg-name="CANAL+ EXTRA 8 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22384/ncplus-ouah/CHN43FB/extra8-y-hm" tvg-chno="345" channel-number="345",CANAL+ EXTRA 8 HD
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22384/broadcasts/day/0?channelPosition=225
-#EXTINF:-1 tvg-id="CANAL+.EXTRA.9.fr" tvg-name="CANAL+ EXTRA 9" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21463/ncplus-ouah/CHN43FB/CExtra9_1200x900-4NmJ" tvg-chno="346" channel-number="346",CANAL+ EXTRA 9
-https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/21463/broadcasts/day/0?channelPosition=226
+#EXTINF:-1 tvg-id="CANAL+.EXTRA.9.HD.fr" tvg-name="CANAL+ EXTRA 9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22385/ncplus-ouah/CHN43FB/extra9-8sb4" tvg-chno="346" channel-number="346",CANAL+ EXTRA 9 HD
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22385/broadcasts/day/0?channelPosition=226
 #EXTINF:-1 tvg-id="CANAL+.EXTRA.10.HD.fr" tvg-name="CANAL+ EXTRA 10 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22386/ncplus-ouah/CHN43FB/CExtra10_1200x900-VcBN-JAoe" tvg-chno="347" channel-number="347",CANAL+ EXTRA 10 HD
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22386/broadcasts/day/0?channelPosition=227
 #EXTINF:-1 tvg-id="CANAL+.EXTRA.11.HD.fr" tvg-name="CANAL+ EXTRA 11 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22387/ncplus-ouah/CHN43FB/CExtra11_1200x900-qiF6-AlMn" tvg-chno="348" channel-number="348",CANAL+ EXTRA 11 HD
