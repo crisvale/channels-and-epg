@@ -267,7 +267,7 @@ https://orangetv.orange.es/epg?channel=11119
 https://orangetv.orange.es/epg?channel=1088
 #EXTINF:-1 tvg-id="TR3CE.es" tvg-name="TR3CE" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_7b5bfe03e4ac4f998eb4419bf.png" tvg-chno="190" channel-number="190",TR3CE
 https://orangetv.orange.es/epg?channel=1017
-#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="El Toro TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/EL_TORO_TV_176x122.png" tvg-chno="191" channel-number="191",El Toro TV
+#EXTINF:-1 tvg-id="El.Toro.TV.es" tvg-name="El Toro TV" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EL_TORO_TV_176x122.png" tvg-chno="191" channel-number="191",El Toro TV
 https://orangetv.orange.es/epg?channel=11049
 #EXTINF:-1 tvg-id="Telemadrid.INT.es" tvg-name="Telemadrid INT" tvg-logo="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/TELEMADRID_INT_176x122.png" tvg-chno="192" channel-number="192",Telemadrid INT
 https://orangetv.orange.es/epg?channel=12050
