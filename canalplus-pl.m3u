@@ -185,7 +185,7 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20285/broadcasts/day/0?channelPosition=92
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.HD.fr" tvg-name="NATIONAL GEOGRAPHIC HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20646/CHN43FB/National_Geographic_HD_640_480_0503.png" tvg-chno="129" channel-number="129",NATIONAL GEOGRAPHIC HD
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20646/broadcasts/day/0?channelPosition=93
-#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20768/CHN43FB/National_Geographic_WILD_640_480_0503.png" tvg-chno="130" channel-number="130",NAT GEO WILD HD
+#EXTINF:-1 tvg-id="NAT.GEO.WILD.HD.fr" tvg-name="NAT GEO WILD HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20768/ncplus-ouah/CHN43FB/Nat_Geo_Wild_logo-A1hL" tvg-chno="130" channel-number="130",NAT GEO WILD HD
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20768/broadcasts/day/0?channelPosition=94
 #EXTINF:-1 tvg-id="BBC.EARTH.fr" tvg-name="BBC EARTH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20786/ncplus-ouah/CHN43FB/BBC_earth_black" tvg-chno="131" channel-number="131",BBC EARTH
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20786/broadcasts/day/0?channelPosition=95
@@ -195,7 +195,7 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22311/broadcasts/day/0?channelPosition=97
 #EXTINF:-1 tvg-id="TVP.HISTORIA.fr" tvg-name="TVP HISTORIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20713/ncplus-ouah/CHN43FB/TVP_Historia_logo.svg-4Ggr" tvg-chno="134" channel-number="134",TVP HISTORIA
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20713/broadcasts/day/0?channelPosition=98
-#EXTINF:-1 tvg-id="NAT.GEO.PEOPLE.HD.fr" tvg-name="NAT GEO PEOPLE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20867/ncplus-ouah/CHN43FB/79449568" tvg-chno="135" channel-number="135",NAT GEO PEOPLE HD
+#EXTINF:-1 tvg-id="NAT.GEO.PEOPLE.HD.fr" tvg-name="NAT GEO PEOPLE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20867/ncplus-ouah/CHN43FB/NatGeo_People_logo-cUf0" tvg-chno="135" channel-number="135",NAT GEO PEOPLE HD
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20867/broadcasts/day/0?channelPosition=99
 #EXTINF:-1 tvg-id="HISTORY.HD.fr" tvg-name="HISTORY HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20814/ncplus-ouah/CHN43FB/History" tvg-chno="136" channel-number="136",HISTORY HD
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20814/broadcasts/day/0?channelPosition=100
