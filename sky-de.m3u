@@ -1,9 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="13th.Street.HD.de" tvg-name="13th Street HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/116_sky_logo_13thstreethd_b.png" tvg-chno="1" channel-number="1",13th Street HD
 https://www.sky.de/tvguide/13th-street-hd-c116
-#EXTINF:-1 tvg-id="AXN.Black.HD.de" tvg-name="AXN Black HD" tvg-logo="" tvg-chno="2" channel-number="2",AXN Black HD
+#EXTINF:-1 tvg-id="AXN.Black.HD.de" tvg-name="AXN Black HD" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/axn/stationLogo_20230829.png" tvg-chno="2" channel-number="2",AXN Black HD
 https://www.sky.de/tvguide-7599#channel-1241
-#EXTINF:-1 tvg-id="AXN.White.HD.de" tvg-name="AXN White HD" tvg-logo="" tvg-chno="3" channel-number="3",AXN White HD
+#EXTINF:-1 tvg-id="AXN.White.HD.de" tvg-name="AXN White HD" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sony-tv/stationLogo_20230829.png" tvg-chno="3" channel-number="3",AXN White HD
 https://www.sky.de/tvguide-7599#channel-1242
 #EXTINF:-1 tvg-id="Beate.Uhse.HD.de" tvg-name="Beate Uhse HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/690_sky_logo_beateuhse-hd_tvguide.png" tvg-chno="4" channel-number="4",Beate Uhse HD
 https://www.sky.de/tvguide/beate-uhse-tv-c690
@@ -157,7 +157,5 @@ https://www.sky.de/tvguide/universal-channel-hd-c172
 https://www.sky.de/tvguide/warner-tv-comedy-hd-c522
 #EXTINF:-1 tvg-id="Warner.TV.Film.de" tvg-name="Warner TV Film" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/762_sky_logo_tntfilm.png" tvg-chno="79" channel-number="79",Warner TV Film
 https://www.sky.de/tvguide/warner-tv-film-c762
-#EXTINF:-1 tvg-id="Warner.TV.Film.HD.de" tvg-name="Warner TV Film HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/689_sky_logo_tntfilm_tvguide.png" tvg-chno="80" channel-number="80",Warner TV Film HD
-https://www.sky.de/tvguide/warner-tv-film-hd-c689
 #EXTINF:-1 tvg-id="Warner.TV.Serie.HD.de" tvg-name="Warner TV Serie HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/6_sky_logo_tntseriehd.png" tvg-chno="81" channel-number="81",Warner TV Serie HD
 https://www.sky.de/tvguide/warner-tv-serie-hd-c6
