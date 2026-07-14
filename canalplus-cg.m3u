@@ -9,697 +9,707 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a5
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180018/broadcasts/day/0?channelPosition=4
 #EXTINF:-1 tvg-id="INFOSPORT+.fr" tvg-name="INFOSPORT+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50138/canal-ouah/CHN43FB/infosportfb" tvg-chno="10" channel-number="10",INFOSPORT+
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180306/broadcasts/day/0?channelPosition=5
+#EXTINF:-1 tvg-id="CANAL+.SPORT.1.fr" tvg-name="CANAL+ SPORT 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180625/canal-ouah/CHN43FB/CANALSPORT1_640x480-Copie-BcOp" tvg-chno="11" channel-number="11",CANAL+ SPORT 1
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180625/broadcasts/day/0?channelPosition=6
 #EXTINF:-1 tvg-id="CANAL+.SPORT.2.fr" tvg-name="CANAL+ SPORT 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180124/canal-ouah/CHN43FB/CANALSPORT2_640x480-Copie-Lkew" tvg-chno="12" channel-number="12",CANAL+ SPORT 2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180124/broadcasts/day/0?channelPosition=6
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180124/broadcasts/day/0?channelPosition=7
 #EXTINF:-1 tvg-id="CANAL+.SPORT.3.fr" tvg-name="CANAL+ SPORT 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180149/canal-ouah/CHN43FB/CANALSPORT3_640x480-Copie-K76P" tvg-chno="13" channel-number="13",CANAL+ SPORT 3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180149/broadcasts/day/0?channelPosition=7
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180149/broadcasts/day/0?channelPosition=8
 #EXTINF:-1 tvg-id="CANAL+.SPORT.4.fr" tvg-name="CANAL+ SPORT 4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180393/canal-ouah/CHN43FB/CANALSPORT4_640x480-Copie-h9hW" tvg-chno="14" channel-number="14",CANAL+ SPORT 4
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180393/broadcasts/day/0?channelPosition=8
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180393/broadcasts/day/0?channelPosition=9
 #EXTINF:-1 tvg-id="CANAL+.SPORT.5.fr" tvg-name="CANAL+ SPORT 5" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180394/canal-ouah/CHN43FB/CANALSPORT5_640x480-Copie-m-Z4" tvg-chno="15" channel-number="15",CANAL+ SPORT 5
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180394/broadcasts/day/0?channelPosition=9
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180394/broadcasts/day/0?channelPosition=10
 #EXTINF:-1 tvg-id="C+.MAGIC.C.HD.fr" tvg-name="C+ MAGIC C HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180302/canal-ouah/CHN43FB/CANALMAGIC_640x480AFRIQUE-IjDz" tvg-chno="21" channel-number="21",C+ MAGIC C HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180302/broadcasts/day/0?channelPosition=10
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180302/broadcasts/day/0?channelPosition=11
 #EXTINF:-1 tvg-id="CANAL+.ACTION.CENTRE.fr" tvg-name="CANAL+ ACTION CENTRE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180626/canal-ouah/CHN43FB/CANALACTION_640x480-Copie-dxUS" tvg-chno="22" channel-number="22",CANAL+ ACTION CENTRE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180626/broadcasts/day/0?channelPosition=11
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180626/broadcasts/day/0?channelPosition=12
 #EXTINF:-1 tvg-id="CANAL+.FAMILY.CENTRE.fr" tvg-name="CANAL+ FAMILY CENTRE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180144/canal-ouah/CHN43FB/CANALFAMILY_640x480-Copie-h7xN" tvg-chno="23" channel-number="23",CANAL+ FAMILY CENTRE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180144/broadcasts/day/0?channelPosition=12
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180144/broadcasts/day/0?channelPosition=13
 #EXTINF:-1 tvg-id="CANAL+.PREMIERE.CENTRE.fr" tvg-name="CANAL+ PREMIERE CENTRE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180129/canal-ouah/CHN43FB/CANALPREMIERE_640x480-Copie-1Uza" tvg-chno="24" channel-number="24",CANAL+ PREMIERE CENTRE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180129/broadcasts/day/0?channelPosition=13
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180129/broadcasts/day/0?channelPosition=14
 #EXTINF:-1 tvg-id="C+CINEMA.HD.fr" tvg-name="C+CINEMA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180125/canal-ouah/CHN43FB/CANALCINEMA_640x480-Copie-0kd0" tvg-chno="25" channel-number="25",C+CINEMA HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180125/broadcasts/day/0?channelPosition=14
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180125/broadcasts/day/0?channelPosition=15
 #EXTINF:-1 tvg-id="VOIR+.fr" tvg-name="VOIR+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180215/canal-ouah/CHN43FB/VOIR_PLUS_FB_myCANAL_640x480" tvg-chno="30" channel-number="30",VOIR+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180215/broadcasts/day/0?channelPosition=15
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180215/broadcasts/day/0?channelPosition=16
 #EXTINF:-1 tvg-id="NOVELAS.(Cameroun).fr" tvg-name="NOVELAS (Cameroun)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180971/canal-ouah/CHN43FB/NOVELAS_640x480-57eG" tvg-chno="31" channel-number="31",NOVELAS (Cameroun)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180971/broadcasts/day/0?channelPosition=20
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180971/broadcasts/day/0?channelPosition=21
 #EXTINF:-1 tvg-id="A+.fr" tvg-name="A+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/97810198" tvg-chno="32" channel-number="32",A+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180335/broadcasts/day/0?channelPosition=22
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180335/broadcasts/day/0?channelPosition=24
 #EXTINF:-1 tvg-id="ACTION.HD.fr" tvg-name="ACTION HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180244/canal-ouah/CHN43FB/ACTION_myCANAL_640x480-oNW5" tvg-chno="33" channel-number="33",ACTION HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180244/broadcasts/day/0?channelPosition=23
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180244/broadcasts/day/0?channelPosition=25
 #EXTINF:-1 tvg-id="RTL9.HD.fr" tvg-name="RTL9 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180243/canal-ouah/CHN43FB/RTL9_myCANAL_640x480-NW9S" tvg-chno="34" channel-number="34",RTL9 HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180243/broadcasts/day/0?channelPosition=24
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180243/broadcasts/day/0?channelPosition=26
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180067/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-o1yx" tvg-chno="35" channel-number="35",TFX
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180067/broadcasts/day/0?channelPosition=25
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180067/broadcasts/day/0?channelPosition=27
 #EXTINF:-1 tvg-id="SUNU.YEUF.fr" tvg-name="SUNU YEUF" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180710/canal-ouah/CHN43FB/SUNUYEUF640x480" tvg-chno="36" channel-number="36",SUNU YEUF
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180710/broadcasts/day/0?channelPosition=26
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180710/broadcasts/day/0?channelPosition=28
 #EXTINF:-1 tvg-id="ZACU.TV.fr" tvg-name="ZACU TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180005/canal-ouah/CHN43FB/ZACUTV_myCANAL_640x480" tvg-chno="37" channel-number="37",ZACU TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180005/broadcasts/day/0?channelPosition=27
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180005/broadcasts/day/0?channelPosition=29
 #EXTINF:-1 tvg-id="MABOKE.TV.fr" tvg-name="MABOKE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180973/canal-ouah/CHN43FB/myCANAL_MABOKETV_640x4801" tvg-chno="38" channel-number="38",MABOKE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180973/broadcasts/day/0?channelPosition=28
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180973/broadcasts/day/0?channelPosition=30
 #EXTINF:-1 tvg-id="MANDEKA.HD.fr" tvg-name="MANDEKA HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180252/canal-ouah/CHN43FB/MANDEKA_640x480-7V8G" tvg-chno="39" channel-number="39",MANDEKA HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180252/broadcasts/day/0?channelPosition=29
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180252/broadcasts/day/0?channelPosition=31
 #EXTINF:-1 tvg-id="PULAAGU.HD.fr" tvg-name="PULAAGU HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180253/canal-ouah/CHN43FB/PULAAGU_640x480-5xyL" tvg-chno="40" channel-number="40",PULAAGU HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180253/broadcasts/day/0?channelPosition=30
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180253/broadcasts/day/0?channelPosition=32
 #EXTINF:-1 tvg-id="LA.GUINEE.FE.HD.fr" tvg-name="LA GUINEE FE HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180254/canal-ouah/CHN43FB/LAGUINEEFE_BASELINE_640x4801-Jxrz" tvg-chno="41" channel-number="41",LA GUINEE FE HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180254/broadcasts/day/0?channelPosition=31
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180254/broadcasts/day/0?channelPosition=33
 #EXTINF:-1 tvg-id="TV5.MONDE.(Afrique).fr" tvg-name="TV5 MONDE (Afrique)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180105/canal-ouah/CHN43FB/TV5MONDEAFRIQUE_640x480-SLr8" tvg-chno="42" channel-number="42",TV5 MONDE (Afrique)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180105/broadcasts/day/0?channelPosition=32
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180105/broadcasts/day/0?channelPosition=34
 #EXTINF:-1 tvg-id="NOLLYWOOD.EPIC.fr" tvg-name="NOLLYWOOD EPIC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180600/canal-ouah/CHN43FB/NOLLYWOODTVEPIC_POURFONDBLANC_640x480" tvg-chno="44" channel-number="44",NOLLYWOOD EPIC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180600/broadcasts/day/0?channelPosition=33
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180600/broadcasts/day/0?channelPosition=35
 #EXTINF:-1 tvg-id="NOLLYWOOD.TV.fr" tvg-name="NOLLYWOOD TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180270/canal-ouah/CHN43FB/Nollywood_FB" tvg-chno="45" channel-number="45",NOLLYWOOD TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180270/broadcasts/day/0?channelPosition=34
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180270/broadcasts/day/0?channelPosition=36
 #EXTINF:-1 tvg-id="PASSION.BOLLYWOOD.fr" tvg-name="PASSION BOLLYWOOD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180311/canal-ouah/CHN43FB/PASSIONBOLLYWOOD_640x480-Copie-EFiz" tvg-chno="46" channel-number="46",PASSION BOLLYWOOD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180311/broadcasts/day/0?channelPosition=35
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180311/broadcasts/day/0?channelPosition=37
 #EXTINF:-1 tvg-id="ZEE.MAGIC.fr" tvg-name="ZEE MAGIC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180396/canal-ouah/CHN43FB/ZMAGIC_640x480-U141" tvg-chno="47" channel-number="47",ZEE MAGIC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180396/broadcasts/day/0?channelPosition=36
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180396/broadcasts/day/0?channelPosition=38
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180003/canal-ouah/CHN43FB/AB1_NOIR_640x480-qJQn" tvg-chno="48" channel-number="48",AB1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180003/broadcasts/day/0?channelPosition=37
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180003/broadcasts/day/0?channelPosition=39
 #EXTINF:-1 tvg-id="SCIFI.fr" tvg-name="SCIFI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180078/canal-ouah/CHN43FB/SCIFI_ONLIGHT_640x480-6EQo" tvg-chno="50" channel-number="50",SCIFI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180078/broadcasts/day/0?channelPosition=38
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180078/broadcasts/day/0?channelPosition=40
 #EXTINF:-1 tvg-id="MANGAS.fr" tvg-name="MANGAS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180059/canal-ouah/CHN43FB/CHN43FB_40025_20220711" tvg-chno="52" channel-number="52",MANGAS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180059/broadcasts/day/0?channelPosition=39
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180059/broadcasts/day/0?channelPosition=41
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180098/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-sB44" tvg-chno="53" channel-number="53",TMC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180098/broadcasts/day/0?channelPosition=40
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180098/broadcasts/day/0?channelPosition=42
 #EXTINF:-1 tvg-id="13EME.RUE.fr" tvg-name="13EME RUE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180001/canal-ouah/CHN43FB/13RUE_FB_myCANAL_640x480" tvg-chno="66" channel-number="66",13EME RUE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180001/broadcasts/day/0?channelPosition=41
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180001/broadcasts/day/0?channelPosition=43
 #EXTINF:-1 tvg-id="TF1.SERIES.FILMS.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180613/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-7Jb4" tvg-chno="67" channel-number="67",TF1 SERIES FILMS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180613/broadcasts/day/0?channelPosition=42
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180613/broadcasts/day/0?channelPosition=44
 #EXTINF:-1 tvg-id="SERIE.CLUB.fr" tvg-name="SERIE CLUB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56805531" tvg-chno="71" channel-number="71",SERIE CLUB
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180080/broadcasts/day/0?channelPosition=43
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180080/broadcasts/day/0?channelPosition=45
 #EXTINF:-1 tvg-id="CANAL.EVENEMENT.AFRIQUE.fr" tvg-name="CANAL EVENEMENT AFRIQUE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180245/canal-ouah/CHN43FB/CANAL_EVENEMENT_myCANAL_640x480-0und" tvg-chno="89" channel-number="89",CANAL EVENEMENT AFRIQUE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180245/broadcasts/day/0?channelPosition=44
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180245/broadcasts/day/0?channelPosition=46
 #EXTINF:-1 tvg-id="AFRICA.24.SPORT.fr" tvg-name="AFRICA 24 SPORT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180009/canal-ouah/CHN43FB/AFRICA24SPORT_myCANAL_640x480" tvg-chno="99" channel-number="99",AFRICA 24 SPORT
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180009/broadcasts/day/0?channelPosition=45
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180009/broadcasts/day/0?channelPosition=47
 #EXTINF:-1 tvg-id="SPORT.EVENT.1.HD.fr" tvg-name="SPORT EVENT 1 HD" tvg-logo="" tvg-chno="106" channel-number="106",SPORT EVENT 1 HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180426/broadcasts/day/0?channelPosition=46
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180426/broadcasts/day/0?channelPosition=48
 #EXTINF:-1 tvg-id="SPORT.EVENT.2.HD.fr" tvg-name="SPORT EVENT 2 HD" tvg-logo="" tvg-chno="107" channel-number="107",SPORT EVENT 2 HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180429/broadcasts/day/0?channelPosition=47
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180429/broadcasts/day/0?channelPosition=49
 #EXTINF:-1 tvg-id="SPORT.EN.FRANCE.fr" tvg-name="SPORT EN FRANCE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180310/canal-ouah/CHN43FB/SPORTENFRANCE_BLEU_640x480-Cdbz-ARLW" tvg-chno="108" channel-number="108",SPORT EN FRANCE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180310/broadcasts/day/0?channelPosition=48
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180310/broadcasts/day/0?channelPosition=50
 #EXTINF:-1 tvg-id="NBA.TV.fr" tvg-name="NBA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180555/canal-ouah/CHN43FB/NBATVAFRICA_ONLIGHT_640x480-x48v" tvg-chno="109" channel-number="109",NBA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180555/broadcasts/day/0?channelPosition=49
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180555/broadcasts/day/0?channelPosition=51
 #EXTINF:-1 tvg-id="SS.FOOTBALL.PLUS.HD.fr" tvg-name="SS FOOTBALL PLUS HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180304/canal-ouah/CHN43FB/SUPERSPORT_FOOTBALLPLUS_640x480-IxKG" tvg-chno="110" channel-number="110",SS FOOTBALL PLUS HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180304/broadcasts/day/0?channelPosition=50
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180304/broadcasts/day/0?channelPosition=52
 #EXTINF:-1 tvg-id="SS.FOOTBALL.HD.fr" tvg-name="SS FOOTBALL HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180305/canal-ouah/CHN43FB/SUPERSPORT_FOOTBALL_640x480-IPlb" tvg-chno="111" channel-number="111",SS FOOTBALL HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180305/broadcasts/day/0?channelPosition=51
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180305/broadcasts/day/0?channelPosition=53
 #EXTINF:-1 tvg-id="SS.LA.LIGA.fr" tvg-name="SS LA LIGA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180794/canal-ouah/CHN43FB/SUPERSPORTFWCCENTRAL_640x480-K9nC" tvg-chno="112" channel-number="112",SS LA LIGA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180794/broadcasts/day/0?channelPosition=52
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180794/broadcasts/day/0?channelPosition=54
 #EXTINF:-1 tvg-id="SS.EPL.fr" tvg-name="SS EPL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180793/canal-ouah/CHN43FB/SUPERSPORTFWCEXTRA_640x480-GjMz" tvg-chno="113" channel-number="113",SS EPL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180793/broadcasts/day/0?channelPosition=53
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180793/broadcasts/day/0?channelPosition=55
 #EXTINF:-1 tvg-id="AUTOMOTO.fr" tvg-name="AUTOMOTO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79135433" tvg-chno="118" channel-number="118",AUTOMOTO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180565/broadcasts/day/0?channelPosition=54
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180565/broadcasts/day/0?channelPosition=56
 #EXTINF:-1 tvg-id="TREK.fr" tvg-name="TREK" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180566/canal-ouah/CHN43FB/TREK_myCANAL_640x480" tvg-chno="127" channel-number="127",TREK
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180566/broadcasts/day/0?channelPosition=55
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180566/broadcasts/day/0?channelPosition=57
 #EXTINF:-1 tvg-id="GOLF+.HD.fr" tvg-name="GOLF+ HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180400/canal-ouah/CHN43FB/GOLF_640x480-5jVM" tvg-chno="128" channel-number="128",GOLF+ HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180400/broadcasts/day/0?channelPosition=56
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180400/broadcasts/day/0?channelPosition=58
+#EXTINF:-1 tvg-id="TELETOON+.fr" tvg-name="TELETOON+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56805504" tvg-chno="140" channel-number="140",TELETOON+
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180148/broadcasts/day/0?channelPosition=59
+#EXTINF:-1 tvg-id="PIWI+.fr" tvg-name="PIWI+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56805502" tvg-chno="141" channel-number="141",PIWI+
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180128/broadcasts/day/0?channelPosition=60
 #EXTINF:-1 tvg-id="PITCHOUN.AFRICA.fr" tvg-name="PITCHOUN AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180082/canal-ouah/CHN43FB/PITCHOUNKIDSMUSICAFRICA_myCANAL_640x4801" tvg-chno="142" channel-number="142",PITCHOUN AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180082/broadcasts/day/0?channelPosition=57
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180082/broadcasts/day/0?channelPosition=61
 #EXTINF:-1 tvg-id="TIVI5.MONDE.fr" tvg-name="TIVI5 MONDE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180545/canal-ouah/CHN43FB/TIVI5MONDE_myCANAL_640x480" tvg-chno="143" channel-number="143",TIVI5 MONDE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180545/broadcasts/day/0?channelPosition=58
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180545/broadcasts/day/0?channelPosition=62
 #EXTINF:-1 tvg-id="GULLI.BIL.ARABI.fr" tvg-name="GULLI BIL ARABI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180319/canal-ouah/CHN43FB/GULLIBILARABI_640x480-Copie-yPqR" tvg-chno="144" channel-number="144",GULLI BIL ARABI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180319/broadcasts/day/0?channelPosition=59
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180319/broadcasts/day/0?channelPosition=63
 #EXTINF:-1 tvg-id="C+.KIDS.fr" tvg-name="C+ KIDS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180312/canal-ouah/CHN43FB/CANALKIDS_640x480-Copie-rVga" tvg-chno="148" channel-number="148",C+ KIDS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180312/broadcasts/day/0?channelPosition=60
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180312/broadcasts/day/0?channelPosition=64
 #EXTINF:-1 tvg-id="GULLI.AFRICA.fr" tvg-name="GULLI AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180367/canal-ouah/CHN43FB/myCANAL_GULLIAFRICA_640x480" tvg-chno="149" channel-number="149",GULLI AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180367/broadcasts/day/0?channelPosition=61
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180367/broadcasts/day/0?channelPosition=65
 #EXTINF:-1 tvg-id="NICKELODEON.GLOBAL.fr" tvg-name="NICKELODEON GLOBAL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180247/canal-ouah/CHN43FB/NICKELODEON_640x480-Copie-gUUp" tvg-chno="150" channel-number="150",NICKELODEON GLOBAL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180247/broadcasts/day/0?channelPosition=62
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180247/broadcasts/day/0?channelPosition=66
 #EXTINF:-1 tvg-id="NICKELODEON.JR.fr" tvg-name="NICKELODEON JR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180941/canal-ouah/CHN43FB/CHN43FB_593_20240205-EdCm-P8wV" tvg-chno="151" channel-number="151",NICKELODEON JR
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180941/broadcasts/day/0?channelPosition=63
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180941/broadcasts/day/0?channelPosition=67
 #EXTINF:-1 tvg-id="LUDIKIDS.OI.fr" tvg-name="LUDIKIDS OI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180931/canal-ouah/CHN43FB/LUDIKIDS_myCANAL_640x480" tvg-chno="152" channel-number="152",LUDIKIDS OI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180931/broadcasts/day/0?channelPosition=64
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180931/broadcasts/day/0?channelPosition=68
 #EXTINF:-1 tvg-id="CARTOON.NETWORK.fr" tvg-name="CARTOON NETWORK" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180331/canal-ouah/CHN43FB/56805471-nlxX" tvg-chno="153" channel-number="153",CARTOON NETWORK
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180331/broadcasts/day/0?channelPosition=65
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180331/broadcasts/day/0?channelPosition=69
 #EXTINF:-1 tvg-id="TIJI.fr" tvg-name="TIJI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180097/canal-ouah/CHN43FB/Tiji" tvg-chno="162" channel-number="162",TIJI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180097/broadcasts/day/0?channelPosition=66
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180097/broadcasts/day/0?channelPosition=70
 #EXTINF:-1 tvg-id="CARTOONITO.fr" tvg-name="CARTOONITO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180332/canal-ouah/CHN43FB/CHN43FB_1096_20240611-8ZPL-6HUo" tvg-chno="166" channel-number="166",CARTOONITO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180332/broadcasts/day/0?channelPosition=67
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180332/broadcasts/day/0?channelPosition=71
 #EXTINF:-1 tvg-id="BOOMERANG.fr" tvg-name="BOOMERANG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180333/canal-ouah/CHN43FB/CHN43FB_530_20240611--u7J--eQD" tvg-chno="167" channel-number="167",BOOMERANG
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180333/broadcasts/day/0?channelPosition=68
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180333/broadcasts/day/0?channelPosition=72
 #EXTINF:-1 tvg-id="NATHAN+.fr" tvg-name="NATHAN+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180959/canal-ouah/CHN43FB/NATHAN_myCANAL_640x480" tvg-chno="170" channel-number="170",NATHAN+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180959/broadcasts/day/0?channelPosition=69
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180959/broadcasts/day/0?channelPosition=73
 #EXTINF:-1 tvg-id="EDUCA.TV.fr" tvg-name="EDUCA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180256/canal-ouah/CHN43FB/EDUCATV_640x4802-h6_B" tvg-chno="171" channel-number="171",EDUCA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180256/broadcasts/day/0?channelPosition=70
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180256/broadcasts/day/0?channelPosition=74
 #EXTINF:-1 tvg-id="SCIENCE.ET.VIE.TV.fr" tvg-name="SCIENCE ET VIE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56805458" tvg-chno="177" channel-number="177",SCIENCE ET VIE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180373/broadcasts/day/0?channelPosition=71
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180373/broadcasts/day/0?channelPosition=75
 #EXTINF:-1 tvg-id="MUSEUM.TV.fr" tvg-name="MUSEUM TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/74311296" tvg-chno="181" channel-number="181",MUSEUM TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180670/broadcasts/day/0?channelPosition=72
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180670/broadcasts/day/0?channelPosition=76
 #EXTINF:-1 tvg-id="HISTOIRE.TV.fr" tvg-name="HISTOIRE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180158/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-1692" tvg-chno="185" channel-number="185",HISTOIRE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180158/broadcasts/day/0?channelPosition=73
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180158/broadcasts/day/0?channelPosition=77
 #EXTINF:-1 tvg-id="TOUTE.L.HISTOIRE.fr" tvg-name="TOUTE L HISTOIRE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/25437096" tvg-chno="186" channel-number="186",TOUTE L HISTOIRE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180727/broadcasts/day/0?channelPosition=74
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180727/broadcasts/day/0?channelPosition=78
+#EXTINF:-1 tvg-id="PLANETE+.fr" tvg-name="PLANETE+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180072/canal-ouah/CHN43FB/Planete_FN" tvg-chno="190" channel-number="190",PLANETE+
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180072/broadcasts/day/0?channelPosition=79
 #EXTINF:-1 tvg-id="USHUAÏA.TV.fr" tvg-name="USHUAÏA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180138/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-Y3-C" tvg-chno="191" channel-number="191",USHUAÏA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180138/broadcasts/day/0?channelPosition=75
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180138/broadcasts/day/0?channelPosition=80
 #EXTINF:-1 tvg-id="CANAL+.DOCS.fr" tvg-name="CANAL+ DOCS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180980/canal-ouah/CHN43FB/CANALDOCS_640x480-Copie-BFuy" tvg-chno="194" channel-number="194",CANAL+ DOCS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180980/broadcasts/day/0?channelPosition=76
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180980/broadcasts/day/0?channelPosition=81
 #EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.fr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180334/canal-ouah/CHN43FB/CHN43FB_174_20240611-uIxM-5BKA" tvg-chno="195" channel-number="195",DISCOVERY CHANNEL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180334/broadcasts/day/0?channelPosition=77
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180334/broadcasts/day/0?channelPosition=82
 #EXTINF:-1 tvg-id="CRIME.DISTRICT.fr" tvg-name="CRIME DISTRICT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180760/canal-ouah/CHN43FB/CRIMEDISTRICT_myCANAL_640x480" tvg-chno="196" channel-number="196",CRIME DISTRICT
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180760/broadcasts/day/0?channelPosition=78
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180760/broadcasts/day/0?channelPosition=83
 #EXTINF:-1 tvg-id="ANIMAUX.fr" tvg-name="ANIMAUX" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54237818" tvg-chno="197" channel-number="197",ANIMAUX
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180759/broadcasts/day/0?channelPosition=79
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180759/broadcasts/day/0?channelPosition=84
 #EXTINF:-1 tvg-id="MIEUX.fr" tvg-name="MIEUX" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180365/canal-ouah/CHN43FB/CHN43FB_1181_20251013-FYdq-HwtQ" tvg-chno="198" channel-number="198",MIEUX
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180365/broadcasts/day/0?channelPosition=80
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180365/broadcasts/day/0?channelPosition=85
 #EXTINF:-1 tvg-id="LOVE.NATURE.fr" tvg-name="LOVE NATURE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180401/canal-ouah/CHN43FB/LOVENATURE_ONLIGHT_640x480-UYMY" tvg-chno="199" channel-number="199",LOVE NATURE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180401/broadcasts/day/0?channelPosition=81
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180401/broadcasts/day/0?channelPosition=86
 #EXTINF:-1 tvg-id="PLANETE+.AVENTURE.fr" tvg-name="PLANETE+ AVENTURE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180073/canal-ouah/CHN43FB/PlaneteAventure_FB" tvg-chno="200" channel-number="200",PLANETE+ AVENTURE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180073/broadcasts/day/0?channelPosition=82
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180073/broadcasts/day/0?channelPosition=87
 #EXTINF:-1 tvg-id="PLANETE+.CRIME.fr" tvg-name="PLANETE+ CRIME" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180142/canal-ouah/CHN43FB/PlaneteCrime_FB" tvg-chno="201" channel-number="201",PLANETE+ CRIME
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180142/broadcasts/day/0?channelPosition=83
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180142/broadcasts/day/0?channelPosition=88
 #EXTINF:-1 tvg-id="DISCOVERY.INVESTIGATION.fr" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180350/canal-ouah/CHN43FB/CHN43FB_1098_20240611-nQTl-QtoU-4hId" tvg-chno="202" channel-number="202",DISCOVERY INVESTIGATION
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180350/broadcasts/day/0?channelPosition=84
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180350/broadcasts/day/0?channelPosition=89
 #EXTINF:-1 tvg-id="BBC.EARTH.fr" tvg-name="BBC EARTH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50962/canal-ouah/CHN43FB/BBCEARTH_640x480-Ot-j" tvg-chno="203" channel-number="203",BBC EARTH
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180417/broadcasts/day/0?channelPosition=85
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180417/broadcasts/day/0?channelPosition=90
 #EXTINF:-1 tvg-id="BLOOMBERG.ORIGINALS.(fermé).fr" tvg-name="BLOOMBERG ORIGINALS (fermé)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180255/canal-ouah/CHN43FB/MicrosoftTeams-image2-LzS9" tvg-chno="204" channel-number="204",BLOOMBERG ORIGINALS (fermé)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180255/broadcasts/day/0?channelPosition=86
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180255/broadcasts/day/0?channelPosition=91
 #EXTINF:-1 tvg-id="BRAVO.fr" tvg-name="BRAVO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50421/canal-ouah/CHN43FB/BRAVO_640x480-eP_h" tvg-chno="212" channel-number="212",BRAVO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180036/broadcasts/day/0?channelPosition=87
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180036/broadcasts/day/0?channelPosition=92
 #EXTINF:-1 tvg-id="AFRICA.24.INFINITY.fr" tvg-name="AFRICA 24 INFINITY" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180006/canal-ouah/CHN43FB/AFRICA24INFINITY_myCANAL_640x480" tvg-chno="215" channel-number="215",AFRICA 24 INFINITY
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180006/broadcasts/day/0?channelPosition=88
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180006/broadcasts/day/0?channelPosition=93
 #EXTINF:-1 tvg-id="VOX.AFRICA.fr" tvg-name="VOX AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180193/canal-ouah/CHN43FB/VOXAFRICAPOURFB_myCANAL_640x480" tvg-chno="216" channel-number="216",VOX AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180193/broadcasts/day/0?channelPosition=89
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180193/broadcasts/day/0?channelPosition=94
 #EXTINF:-1 tvg-id="GLOBAL.AFRICA.fr" tvg-name="GLOBAL AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50549/canal-ouah/CHN43FB/GLOBALAFRICATELESUD_640x480-041J" tvg-chno="217" channel-number="217",GLOBAL AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180002/broadcasts/day/0?channelPosition=90
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180002/broadcasts/day/0?channelPosition=95
 #EXTINF:-1 tvg-id="AFRICABLE.fr" tvg-name="AFRICABLE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180166/canal-ouah/CHN43FB/AFRICABLE_myCANAL_640x480" tvg-chno="218" channel-number="218",AFRICABLE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180166/broadcasts/day/0?channelPosition=91
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180166/broadcasts/day/0?channelPosition=96
 #EXTINF:-1 tvg-id="SUD.1ERE.fr" tvg-name="SUD 1ERE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180828/canal-ouah/CHN43FB/SUDPREMIERE_myCANAL_640x480" tvg-chno="219" channel-number="219",SUD 1ERE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180828/broadcasts/day/0?channelPosition=92
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180828/broadcasts/day/0?channelPosition=97
 #EXTINF:-1 tvg-id="CUISINES.fr" tvg-name="CUISINES" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180711/canal-ouah/CHN43FB/CUISINES_FB_myCANAL_640x480" tvg-chno="224" channel-number="224",CUISINES
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180711/broadcasts/day/0?channelPosition=93
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180711/broadcasts/day/0?channelPosition=98
 #EXTINF:-1 tvg-id="MTV.France.fr" tvg-name="MTV France" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56805481" tvg-chno="226" channel-number="226",MTV France
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180065/broadcasts/day/0?channelPosition=94
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180065/broadcasts/day/0?channelPosition=99
 #EXTINF:-1 tvg-id="MTV.LEBANON.fr" tvg-name="MTV LEBANON" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180081/canal-ouah/CHN43FB/MTVLEBANON_myCANAL_640x4801" tvg-chno="228" channel-number="228",MTV LEBANON
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180081/broadcasts/day/0?channelPosition=95
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180081/broadcasts/day/0?channelPosition=100
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180095/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-Zni0" tvg-chno="229" channel-number="229",TF1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180095/broadcasts/day/0?channelPosition=96
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180095/broadcasts/day/0?channelPosition=101
 #EXTINF:-1 tvg-id="France.2.INT.fr" tvg-name="France 2 INT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180057/canal-ouah/CHN43FB/67030357" tvg-chno="230" channel-number="230",France 2 INT
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180057/broadcasts/day/0?channelPosition=97
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180057/broadcasts/day/0?channelPosition=102
 #EXTINF:-1 tvg-id="FRANCE.3.fr" tvg-name="FRANCE 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180045/canal-ouah/CHN43FB/France3_FB" tvg-chno="231" channel-number="231",FRANCE 3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180045/broadcasts/day/0?channelPosition=98
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180045/broadcasts/day/0?channelPosition=103
 #EXTINF:-1 tvg-id="M6.INTERNATIONAL.fr" tvg-name="M6 INTERNATIONAL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180712/canal-ouah/CHN43FB/M6_640x4801-lU-N" tvg-chno="232" channel-number="232",M6 INTERNATIONAL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180712/broadcasts/day/0?channelPosition=99
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180712/broadcasts/day/0?channelPosition=104
 #EXTINF:-1 tvg-id="FRANCE.5.fr" tvg-name="FRANCE 5" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180046/canal-ouah/CHN43FB/France5_FB" tvg-chno="235" channel-number="235",FRANCE 5
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180046/broadcasts/day/0?channelPosition=100
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180046/broadcasts/day/0?channelPosition=105
 #EXTINF:-1 tvg-id="ARTE.France.fr" tvg-name="ARTE France" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/56805507" tvg-chno="236" channel-number="236",ARTE France
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180007/broadcasts/day/0?channelPosition=101
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180007/broadcasts/day/0?channelPosition=106
 #EXTINF:-1 tvg-id="AFRICA.24.fr" tvg-name="AFRICA 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180168/canal-ouah/CHN43FB/AFRICA24_myCANAL_640x480" tvg-chno="249" channel-number="249",AFRICA 24
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180168/broadcasts/day/0?channelPosition=102
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180168/broadcasts/day/0?channelPosition=107
 #EXTINF:-1 tvg-id="FRANCE.24.fr" tvg-name="FRANCE 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/18808522" tvg-chno="250" channel-number="250",FRANCE 24
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180114/broadcasts/day/0?channelPosition=103
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180114/broadcasts/day/0?channelPosition=108
 #EXTINF:-1 tvg-id="AL.JAZEERA.fr" tvg-name="AL JAZEERA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180277/canal-ouah/CHN43FB/ALJAZEERA_myCANAL_640x4801-rOMd" tvg-chno="251" channel-number="251",AL JAZEERA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180277/broadcasts/day/0?channelPosition=104
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180277/broadcasts/day/0?channelPosition=109
 #EXTINF:-1 tvg-id="AFRICA.24.ENGLISH.fr" tvg-name="AFRICA 24 ENGLISH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180012/canal-ouah/CHN43FB/AFRICA24ENGLISH_myCANAL_640x480" tvg-chno="254" channel-number="254",AFRICA 24 ENGLISH
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180012/broadcasts/day/0?channelPosition=105
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180012/broadcasts/day/0?channelPosition=110
 #EXTINF:-1 tvg-id="AFRIKINFO.TV.fr" tvg-name="AFRIKINFO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180083/canal-ouah/CHN43FB/AFRIKINFOTV_640x480" tvg-chno="256" channel-number="256",AFRIKINFO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180083/broadcasts/day/0?channelPosition=106
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180083/broadcasts/day/0?channelPosition=111
 #EXTINF:-1 tvg-id="NHK.WORLD.JAPAN.(fermé).fr" tvg-name="NHK WORLD JAPAN (fermé)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180307/canal-ouah/CHN43FB/NHKWOLRDJAPAN_640x480-X5dt" tvg-chno="257" channel-number="257",NHK WORLD JAPAN (fermé)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180307/broadcasts/day/0?channelPosition=107
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180307/broadcasts/day/0?channelPosition=112
 #EXTINF:-1 tvg-id="CNN.fr" tvg-name="CNN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180329/canal-ouah/CHN43FB/13455768-6fAi" tvg-chno="263" channel-number="263",CNN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180329/broadcasts/day/0?channelPosition=108
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180329/broadcasts/day/0?channelPosition=113
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-name="CNEWS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/64697148" tvg-chno="264" channel-number="264",CNEWS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180048/broadcasts/day/0?channelPosition=109
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180048/broadcasts/day/0?channelPosition=114
 #EXTINF:-1 tvg-id="EURONEWS.fr" tvg-name="EURONEWS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180040/canal-ouah/CHN43FB/EURONEWS2023_myCANAL_640x480" tvg-chno="265" channel-number="265",EURONEWS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180040/broadcasts/day/0?channelPosition=110
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180040/broadcasts/day/0?channelPosition=115
 #EXTINF:-1 tvg-id="CNBC.AFRICA.fr" tvg-name="CNBC AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180571/canal-ouah/CHN43FB/CNBCAFRICA_ONLIGHT_640x4801-2AE_" tvg-chno="266" channel-number="266",CNBC AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180571/broadcasts/day/0?channelPosition=111
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180571/broadcasts/day/0?channelPosition=116
 #EXTINF:-1 tvg-id="CNEWS.PRIME.(fermé).fr" tvg-name="CNEWS PRIME (fermé)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180405/canal-ouah/CHN43FB/CNEWSPRIME_640x480-X8sC" tvg-chno="267" channel-number="267",CNEWS PRIME (fermé)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180405/broadcasts/day/0?channelPosition=112
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180405/broadcasts/day/0?channelPosition=117
 #EXTINF:-1 tvg-id="EUROPE.1.TV.(fermé).fr" tvg-name="EUROPE 1 TV (fermé)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180406/canal-ouah/CHN43FB/EUROPE1_TV_640x480-IZVg" tvg-chno="268" channel-number="268",EUROPE 1 TV (fermé)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180406/broadcasts/day/0?channelPosition=113
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180406/broadcasts/day/0?channelPosition=118
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180054/canal-ouah/CHN43FB/CHN43FN_282_07162024-gjNZ-DSDU-rkkx" tvg-chno="273" channel-number="273",LCI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180054/broadcasts/day/0?channelPosition=114
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180054/broadcasts/day/0?channelPosition=119
 #EXTINF:-1 tvg-id="BLOOMBERG.TV.fr" tvg-name="BLOOMBERG TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180840/canal-ouah/CHN43FB/BLOOMBERGTV_NOIR_myCANAL_640x480" tvg-chno="274" channel-number="274",BLOOMBERG TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180840/broadcasts/day/0?channelPosition=115
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180840/broadcasts/day/0?channelPosition=120
 #EXTINF:-1 tvg-id="BBC.NEWS.fr" tvg-name="BBC NEWS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180008/canal-ouah/CHN43FB/BBCNEWS_POURFB_myCANAL_640x480" tvg-chno="275" channel-number="275",BBC NEWS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180008/broadcasts/day/0?channelPosition=116
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180008/broadcasts/day/0?channelPosition=121
+#EXTINF:-1 tvg-id="TRACE.AFRICA.AFRIQUE.fr" tvg-name="TRACE AFRICA AFRIQUE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180214/canal-ouah/CHN43FB/MicrosoftTeams-image3" tvg-chno="290" channel-number="290",TRACE AFRICA AFRIQUE
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180214/broadcasts/day/0?channelPosition=122
 #EXTINF:-1 tvg-id="TRACE.TERANGA.fr" tvg-name="TRACE TERANGA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180714/canal-ouah/CHN43FB/TRACETERANGA_myCANAL_640x480" tvg-chno="291" channel-number="291",TRACE TERANGA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180714/broadcasts/day/0?channelPosition=117
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180714/broadcasts/day/0?channelPosition=123
 #EXTINF:-1 tvg-id="TRACE.MBOA.fr" tvg-name="TRACE MBOA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180266/canal-ouah/CHN43FB/TRACEMBOA_myCANAL_640x480" tvg-chno="292" channel-number="292",TRACE MBOA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180266/broadcasts/day/0?channelPosition=118
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180266/broadcasts/day/0?channelPosition=124
 #EXTINF:-1 tvg-id="TRACE.KITOKO.fr" tvg-name="TRACE KITOKO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180621/canal-ouah/CHN43FB/TRACEKITOKO_myCANAL640x480" tvg-chno="293" channel-number="293",TRACE KITOKO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180621/broadcasts/day/0?channelPosition=119
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180621/broadcasts/day/0?channelPosition=125
 #EXTINF:-1 tvg-id="TRACE.GOSPEL.fr" tvg-name="TRACE GOSPEL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180620/canal-ouah/CHN43FB/TRACEGOSPEL_myCANAL_640x480" tvg-chno="294" channel-number="294",TRACE GOSPEL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180620/broadcasts/day/0?channelPosition=120
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180620/broadcasts/day/0?channelPosition=126
 #EXTINF:-1 tvg-id="TRACE.IVOIRE.fr" tvg-name="TRACE IVOIRE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180370/canal-ouah/CHN43FB/TRACEIVOIRE_640x480-2WgP" tvg-chno="295" channel-number="295",TRACE IVOIRE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180370/broadcasts/day/0?channelPosition=121
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180370/broadcasts/day/0?channelPosition=127
 #EXTINF:-1 tvg-id="BBLACK.AFRICA.fr" tvg-name="BBLACK AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180327/canal-ouah/CHN43FB/BBLACKAFRICA_NOIR_myCANAL_640x480" tvg-chno="296" channel-number="296",BBLACK AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180327/broadcasts/day/0?channelPosition=122
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180327/broadcasts/day/0?channelPosition=128
 #EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/72588096" tvg-chno="300" channel-number="300",CSTAR
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180217/broadcasts/day/0?channelPosition=123
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180217/broadcasts/day/0?channelPosition=129
 #EXTINF:-1 tvg-id="TRACE.Urban.Afrique.fr" tvg-name="TRACE Urban Afrique" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180186/canal-ouah/CHN43FB/TRACEURBAN_myCANAL_640x480" tvg-chno="303" channel-number="303",TRACE Urban Afrique
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180186/broadcasts/day/0?channelPosition=124
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180186/broadcasts/day/0?channelPosition=130
 #EXTINF:-1 tvg-id="EUROPE.2.POP.TV.fr" tvg-name="EUROPE 2 POP TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180366/canal-ouah/CHN43FB/CHN43FB_723_20251001-CjT21-2mPO" tvg-chno="304" channel-number="304",EUROPE 2 POP TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180366/broadcasts/day/0?channelPosition=125
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180366/broadcasts/day/0?channelPosition=131
 #EXTINF:-1 tvg-id="MEZZO.(fermé).fr" tvg-name="MEZZO (fermé)" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180063/canal-ouah/CHN43FB/NEW_MEZZO_FN_BLANC_myCANAL_640x480" tvg-chno="306" channel-number="306",MEZZO (fermé)
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180063/broadcasts/day/0?channelPosition=126
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180063/broadcasts/day/0?channelPosition=132
 #EXTINF:-1 tvg-id="MELODY.D'AFRIQUE.fr" tvg-name="MELODY D'AFRIQUE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180265/canal-ouah/CHN43FB/MELODY_D_AFRIQUE_myCANAL_640x480" tvg-chno="307" channel-number="307",MELODY D'AFRIQUE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180265/broadcasts/day/0?channelPosition=127
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180265/broadcasts/day/0?channelPosition=133
 #EXTINF:-1 tvg-id="EVANGILE.TV.fr" tvg-name="EVANGILE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180084/canal-ouah/CHN43FB/EVANGILETV_myCANAL_640x4801" tvg-chno="312" channel-number="312",EVANGILE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180084/broadcasts/day/0?channelPosition=128
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180084/broadcasts/day/0?channelPosition=134
 #EXTINF:-1 tvg-id="ALBAYANE.fr" tvg-name="ALBAYANE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180776/canal-ouah/CHN43FB/ALBAYANE_myCANAL_640x480" tvg-chno="313" channel-number="313",ALBAYANE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180776/broadcasts/day/0?channelPosition=129
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180776/broadcasts/day/0?channelPosition=135
 #EXTINF:-1 tvg-id="ECCLESIA.TV.fr" tvg-name="ECCLESIA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180974/canal-ouah/CHN43FB/ECCLESIATV_myCANAL_640x480" tvg-chno="314" channel-number="314",ECCLESIA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180974/broadcasts/day/0?channelPosition=130
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180974/broadcasts/day/0?channelPosition=136
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180278/canal-ouah/CHN43FB/KTO" tvg-chno="315" channel-number="315",KTO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180278/broadcasts/day/0?channelPosition=131
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180278/broadcasts/day/0?channelPosition=137
 #EXTINF:-1 tvg-id="IQRAA.fr" tvg-name="IQRAA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180279/canal-ouah/CHN43FB/IQRAA_myCANAL_640x480" tvg-chno="316" channel-number="316",IQRAA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180279/broadcasts/day/0?channelPosition=132
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180279/broadcasts/day/0?channelPosition=138
 #EXTINF:-1 tvg-id="EMCI.fr" tvg-name="EMCI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180673/canal-ouah/CHN43FB/EMCITV_myCANAL_640x480" tvg-chno="317" channel-number="317",EMCI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180673/broadcasts/day/0?channelPosition=133
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180673/broadcasts/day/0?channelPosition=139
 #EXTINF:-1 tvg-id="BENIE.TV.fr" tvg-name="BENIE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180325/canal-ouah/CHN43FB/BENIETV_ONLIGHT_640x480-Lwl-" tvg-chno="318" channel-number="318",BENIE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180325/broadcasts/day/0?channelPosition=134
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180325/broadcasts/day/0?channelPosition=140
 #EXTINF:-1 tvg-id="LMTV.fr" tvg-name="LMTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180323/canal-ouah/CHN43FB/LMTV_myCANAL_640x480" tvg-chno="319" channel-number="319",LMTV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180323/broadcasts/day/0?channelPosition=135
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180323/broadcasts/day/0?channelPosition=141
 #EXTINF:-1 tvg-id="ESPERANCE.TV.fr" tvg-name="ESPERANCE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180295/canal-ouah/CHN43FB/ESPERANCETV_CIV_ONLIGHT_640x480-wUTh" tvg-chno="320" channel-number="320",ESPERANCE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180295/broadcasts/day/0?channelPosition=136
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180295/broadcasts/day/0?channelPosition=142
 #EXTINF:-1 tvg-id="LUMEN.CHRISTI.fr" tvg-name="LUMEN CHRISTI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180342/canal-ouah/CHN43FB/LUMENCHRISTITVCATHOLIQUE_BENIN_640x480-BveV" tvg-chno="321" channel-number="321",LUMEN CHRISTI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180342/broadcasts/day/0?channelPosition=137
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180342/broadcasts/day/0?channelPosition=143
 #EXTINF:-1 tvg-id="RTI.1.fr" tvg-name="RTI 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180171/canal-ouah/CHN43FB/RTI1_myCANAL_640x480" tvg-chno="330" channel-number="330",RTI 1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180171/broadcasts/day/0?channelPosition=138
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180171/broadcasts/day/0?channelPosition=144
 #EXTINF:-1 tvg-id="RTI2.fr" tvg-name="RTI2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180271/canal-ouah/CHN43FB/New_RTI2_myCANAL_640x480" tvg-chno="331" channel-number="331",RTI2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180271/broadcasts/day/0?channelPosition=139
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180271/broadcasts/day/0?channelPosition=145
 #EXTINF:-1 tvg-id="LA3.fr" tvg-name="LA3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180761/canal-ouah/CHN43FB/New_LA3_myCANAL_640x480" tvg-chno="332" channel-number="332",LA3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180761/broadcasts/day/0?channelPosition=140
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180761/broadcasts/day/0?channelPosition=146
 #EXTINF:-1 tvg-id="NCI.fr" tvg-name="NCI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180715/canal-ouah/CHN43FB/NCI_myCANAL_640x480" tvg-chno="333" channel-number="333",NCI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180715/broadcasts/day/0?channelPosition=141
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180715/broadcasts/day/0?channelPosition=147
 #EXTINF:-1 tvg-id="A+.IVOIRE.Antenne.fr" tvg-name="A+ IVOIRE Antenne" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180681/canal-ouah/CHN43FB/AIVOIRE" tvg-chno="334" channel-number="334",A+ IVOIRE Antenne
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180681/broadcasts/day/0?channelPosition=142
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180681/broadcasts/day/0?channelPosition=148
 #EXTINF:-1 tvg-id="LIFE.TV.fr" tvg-name="LIFE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180762/canal-ouah/CHN43FB/LIFETV_myCANAL_640x480" tvg-chno="335" channel-number="335",LIFE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180762/broadcasts/day/0?channelPosition=143
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180762/broadcasts/day/0?channelPosition=149
 #EXTINF:-1 tvg-id="7INFO.fr" tvg-name="7INFO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180829/canal-ouah/CHN43FB/7INFO_NOIR_myCANAL_640x480" tvg-chno="336" channel-number="336",7INFO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180829/broadcasts/day/0?channelPosition=144
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180829/broadcasts/day/0?channelPosition=150
 #EXTINF:-1 tvg-id="REFLET.TV.fr" tvg-name="REFLET TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180085/canal-ouah/CHN43FB/REFLETTV_POURFB_640x480" tvg-chno="337" channel-number="337",REFLET TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180085/broadcasts/day/0?channelPosition=145
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180085/broadcasts/day/0?channelPosition=151
 #EXTINF:-1 tvg-id="IVOIRE.TV.Music.fr" tvg-name="IVOIRE TV Music" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180580/canal-ouah/CHN43FB/IVOIRETVMUSIC_myCANAL_640x480" tvg-chno="338" channel-number="338",IVOIRE TV Music
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180580/broadcasts/day/0?channelPosition=146
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180580/broadcasts/day/0?channelPosition=152
 #EXTINF:-1 tvg-id="DNTV.fr" tvg-name="DNTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180359/canal-ouah/CHN43FB/DNTV_640x480-mvwJ" tvg-chno="339" channel-number="339",DNTV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180359/broadcasts/day/0?channelPosition=147
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180359/broadcasts/day/0?channelPosition=153
 #EXTINF:-1 tvg-id="RTS.fr" tvg-name="RTS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180076/canal-ouah/CHN43FB/RTS1_myCANAL_640x480" tvg-chno="345" channel-number="345",RTS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180076/broadcasts/day/0?channelPosition=148
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180076/broadcasts/day/0?channelPosition=154
 #EXTINF:-1 tvg-id="2STV.fr" tvg-name="2STV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180122/canal-ouah/CHN43FB/2STV_myCANAL_640x480" tvg-chno="346" channel-number="346",2STV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180122/broadcasts/day/0?channelPosition=149
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180122/broadcasts/day/0?channelPosition=155
 #EXTINF:-1 tvg-id="TFM.fr" tvg-name="TFM" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180234/canal-ouah/CHN43FB/TFM_myCANAL_640x480" tvg-chno="347" channel-number="347",TFM
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180234/broadcasts/day/0?channelPosition=150
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180234/broadcasts/day/0?channelPosition=156
 #EXTINF:-1 tvg-id="SEN.TV.fr" tvg-name="SEN TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180377/canal-ouah/CHN43FB/SENTV_640x480-J11I" tvg-chno="348" channel-number="348",SEN TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180377/broadcasts/day/0?channelPosition=151
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180377/broadcasts/day/0?channelPosition=157
 #EXTINF:-1 tvg-id="WALF.TV.fr" tvg-name="WALF TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180572/canal-ouah/CHN43FB/WALFTV_myCANAL_640x480" tvg-chno="349" channel-number="349",WALF TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180572/broadcasts/day/0?channelPosition=152
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180572/broadcasts/day/0?channelPosition=158
 #EXTINF:-1 tvg-id="RTS.2.fr" tvg-name="RTS 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180666/canal-ouah/CHN43FB/RTS2_myCANAL_640x480-0" tvg-chno="350" channel-number="350",RTS 2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180666/broadcasts/day/0?channelPosition=153
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180666/broadcasts/day/0?channelPosition=159
 #EXTINF:-1 tvg-id="GTV.fr" tvg-name="GTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180318/canal-ouah/CHN43FB/GTV_640x480-Copie-_DqX" tvg-chno="351" channel-number="351",GTV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180318/broadcasts/day/0?channelPosition=154
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180318/broadcasts/day/0?channelPosition=160
 #EXTINF:-1 tvg-id="TELEMUSIK.SENEGAL.fr" tvg-name="TELEMUSIK SENEGAL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180088/canal-ouah/CHN43FB/TELEMUSIK_640x480-9duA" tvg-chno="352" channel-number="352",TELEMUSIK SENEGAL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180088/broadcasts/day/0?channelPosition=155
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180088/broadcasts/day/0?channelPosition=161
 #EXTINF:-1 tvg-id="LERAL.TV.fr" tvg-name="LERAL TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180015/canal-ouah/CHN43FB/LERALTV_myCANAL_640x480" tvg-chno="353" channel-number="353",LERAL TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180015/broadcasts/day/0?channelPosition=156
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180015/broadcasts/day/0?channelPosition=162
 #EXTINF:-1 tvg-id="LAMP.FALL.TV.fr" tvg-name="LAMP FALL TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180921/canal-ouah/CHN43FB/LAMPFALL_myCANAL_640x480" tvg-chno="354" channel-number="354",LAMP FALL TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180921/broadcasts/day/0?channelPosition=157
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180921/broadcasts/day/0?channelPosition=163
 #EXTINF:-1 tvg-id="ASFIYAHI.fr" tvg-name="ASFIYAHI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180612/canal-ouah/CHN43FB/ASFIYAHITV_myCANAL_640x480" tvg-chno="355" channel-number="355",ASFIYAHI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180612/broadcasts/day/0?channelPosition=158
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180612/broadcasts/day/0?channelPosition=164
 #EXTINF:-1 tvg-id="TOUBA.TV.fr" tvg-name="TOUBA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180087/canal-ouah/CHN43FB/TOUBATV_SENEGAL_ONLIGHT_640x480-jsdS" tvg-chno="356" channel-number="356",TOUBA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180087/broadcasts/day/0?channelPosition=159
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180087/broadcasts/day/0?channelPosition=165
 #EXTINF:-1 tvg-id="MOURCHID.TV.fr" tvg-name="MOURCHID TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180089/canal-ouah/CHN43FB/MOURCHIDTV_640x480-Jpf1" tvg-chno="357" channel-number="357",MOURCHID TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180089/broadcasts/day/0?channelPosition=160
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180089/broadcasts/day/0?channelPosition=166
 #EXTINF:-1 tvg-id="AL.MOURIDIYYAH.TV.fr" tvg-name="AL MOURIDIYYAH TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180091/canal-ouah/CHN43FB/ALMOURIDIYYAHTV_640x480-Ve_G" tvg-chno="358" channel-number="358",AL MOURIDIYYAH TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180091/broadcasts/day/0?channelPosition=161
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180091/broadcasts/day/0?channelPosition=167
 #EXTINF:-1 tvg-id="MALIKIA.TV.fr" tvg-name="MALIKIA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180092/canal-ouah/CHN43FB/MALIKIATV_640x480" tvg-chno="359" channel-number="359",MALIKIA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180092/broadcasts/day/0?channelPosition=162
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180092/broadcasts/day/0?channelPosition=168
 #EXTINF:-1 tvg-id="FULBE.fr" tvg-name="FULBE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180094/canal-ouah/CHN43FB/RTF_640x480" tvg-chno="360" channel-number="360",FULBE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180094/broadcasts/day/0?channelPosition=163
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180094/broadcasts/day/0?channelPosition=169
 #EXTINF:-1 tvg-id="LUTTE.TV.fr" tvg-name="LUTTE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180351/canal-ouah/CHN43FB/LUTTETV_640x480-7tOw" tvg-chno="361" channel-number="361",LUTTE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180351/broadcasts/day/0?channelPosition=164
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180351/broadcasts/day/0?channelPosition=170
 #EXTINF:-1 tvg-id="ITV.fr" tvg-name="ITV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180722/canal-ouah/CHN43FB/ITV_myCANAL_640x480" tvg-chno="363" channel-number="363",ITV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180722/broadcasts/day/0?channelPosition=165
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180722/broadcasts/day/0?channelPosition=171
 #EXTINF:-1 tvg-id="7TV.fr" tvg-name="7TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180190/canal-ouah/CHN43FB/7TV_640x480-Hkxr" tvg-chno="364" channel-number="364",7TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180190/broadcasts/day/0?channelPosition=166
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180190/broadcasts/day/0?channelPosition=172
 #EXTINF:-1 tvg-id="ORTM1.fr" tvg-name="ORTM1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180069/canal-ouah/CHN43FB/ORTM1_myCANAL_640x480" tvg-chno="375" channel-number="375",ORTM1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180069/broadcasts/day/0?channelPosition=167
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180069/broadcasts/day/0?channelPosition=173
 #EXTINF:-1 tvg-id="ORTM2.fr" tvg-name="ORTM2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180397/canal-ouah/CHN43FB/ORTM2_myCANAL_640x480" tvg-chno="376" channel-number="376",ORTM2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180397/broadcasts/day/0?channelPosition=168
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180397/broadcasts/day/0?channelPosition=174
 #EXTINF:-1 tvg-id="CHERIFLA.TV.fr" tvg-name="CHERIFLA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180669/canal-ouah/CHN43FB/CHERIFLATV_myCANAL_640x480" tvg-chno="377" channel-number="377",CHERIFLA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180669/broadcasts/day/0?channelPosition=169
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180669/broadcasts/day/0?channelPosition=175
 #EXTINF:-1 tvg-id="TM1.fr" tvg-name="TM1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180723/canal-ouah/CHN43FB/TM1MALI_myCANAL_640x480" tvg-chno="378" channel-number="378",TM1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180723/broadcasts/day/0?channelPosition=170
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180723/broadcasts/day/0?channelPosition=176
 #EXTINF:-1 tvg-id="RENOUVEAU.TV.fr" tvg-name="RENOUVEAU TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180778/canal-ouah/CHN43FB/RENOUVEAUTV_myCANAL_640x480" tvg-chno="379" channel-number="379",RENOUVEAU TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180778/broadcasts/day/0?channelPosition=171
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180778/broadcasts/day/0?channelPosition=177
 #EXTINF:-1 tvg-id="ALAFIA.TV.fr" tvg-name="ALAFIA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180922/canal-ouah/CHN43FB/ALAFIATV_NOIR_myCANAL_640x480" tvg-chno="380" channel-number="380",ALAFIA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180922/broadcasts/day/0?channelPosition=172
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180922/broadcasts/day/0?channelPosition=178
 #EXTINF:-1 tvg-id="MANDE.TV.fr" tvg-name="MANDE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180585/canal-ouah/CHN43FB/MANDETV_myCANAL_640x480" tvg-chno="381" channel-number="381",MANDE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180585/broadcasts/day/0?channelPosition=173
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180585/broadcasts/day/0?channelPosition=179
 #EXTINF:-1 tvg-id="JOLIBA.fr" tvg-name="JOLIBA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180527/canal-ouah/CHN43FB/JOLIBATVNEWS_myCANAL_640x480" tvg-chno="382" channel-number="382",JOLIBA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180527/broadcasts/day/0?channelPosition=174
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180527/broadcasts/day/0?channelPosition=180
 #EXTINF:-1 tvg-id="NIETA.TV.fr" tvg-name="NIETA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180643/canal-ouah/CHN43FB/NIETA_TV_myCANAL_640x480" tvg-chno="383" channel-number="383",NIETA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180643/broadcasts/day/0?channelPosition=175
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180643/broadcasts/day/0?channelPosition=181
 #EXTINF:-1 tvg-id="KAYES.TV.fr" tvg-name="KAYES TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180096/canal-ouah/CHN43FB/KAYESTV_640x480" tvg-chno="384" channel-number="384",KAYES TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180096/broadcasts/day/0?channelPosition=176
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180096/broadcasts/day/0?channelPosition=182
 #EXTINF:-1 tvg-id="SUNNA.TV.SAVANA.fr" tvg-name="SUNNA TV SAVANA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180100/canal-ouah/CHN43FB/SUNNATVSAVANA_640x480" tvg-chno="385" channel-number="385",SUNNA TV SAVANA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180100/broadcasts/day/0?channelPosition=177
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180100/broadcasts/day/0?channelPosition=183
 #EXTINF:-1 tvg-id="M7.fr" tvg-name="M7" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50869/canal-ouah/CHN43FB/M7TV_MALI_ONLIGHT_640x480-6Idx" tvg-chno="386" channel-number="386",M7
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180257/broadcasts/day/0?channelPosition=178
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180257/broadcasts/day/0?channelPosition=184
 #EXTINF:-1 tvg-id="AES.TV.HD.fr" tvg-name="AES TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180407/canal-ouah/CHN43FB/AES_SAHEL_640x480-xiJv" tvg-chno="387" channel-number="387",AES TV HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180407/broadcasts/day/0?channelPosition=179
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180407/broadcasts/day/0?channelPosition=185
 #EXTINF:-1 tvg-id="ADVANCE.TV.fr" tvg-name="ADVANCE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180438/canal-ouah/CHN43FB/ADVANCETV_MALI_640x480-rRzv" tvg-chno="388" channel-number="388",ADVANCE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180438/broadcasts/day/0?channelPosition=180
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180438/broadcasts/day/0?channelPosition=186
 #EXTINF:-1 tvg-id="RTG1.fr" tvg-name="RTG1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180202/canal-ouah/CHN43FB/RTGGUINEE_640x480-Copie-7qBj" tvg-chno="400" channel-number="400",RTG1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180202/broadcasts/day/0?channelPosition=181
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180202/broadcasts/day/0?channelPosition=187
 #EXTINF:-1 tvg-id="RTG2.fr" tvg-name="RTG2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180017/canal-ouah/CHN43FB/RTG2GUINEE_640x480-Copie-lVsu" tvg-chno="401" channel-number="401",RTG2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180017/broadcasts/day/0?channelPosition=182
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180017/broadcasts/day/0?channelPosition=188
 #EXTINF:-1 tvg-id="PARLEMENT.TV.fr" tvg-name="PARLEMENT TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50930/canal-ouah/CHN43FB/PARLEMENTTV_640x480-zamY" tvg-chno="402" channel-number="402",PARLEMENT TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180348/broadcasts/day/0?channelPosition=183
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180348/broadcasts/day/0?channelPosition=189
 #EXTINF:-1 tvg-id="KALAC.TV.fr" tvg-name="KALAC TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180640/canal-ouah/CHN43FB/KALACTV_myCANAL_640x480" tvg-chno="406" channel-number="406",KALAC TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180640/broadcasts/day/0?channelPosition=184
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180640/broadcasts/day/0?channelPosition=190
 #EXTINF:-1 tvg-id="KABACK.TV.fr" tvg-name="KABACK TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180019/canal-ouah/CHN43FB/KABACKTV_myCANAL_640x480" tvg-chno="407" channel-number="407",KABACK TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180019/broadcasts/day/0?channelPosition=185
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180019/broadcasts/day/0?channelPosition=191
 #EXTINF:-1 tvg-id="TELE.24.fr" tvg-name="TELE 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180446/canal-ouah/CHN43FB/TELE24_GUINEE_ONLIGHT_640x480-fIVU" tvg-chno="409" channel-number="409",TELE 24
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180446/broadcasts/day/0?channelPosition=186
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180446/broadcasts/day/0?channelPosition=192
 #EXTINF:-1 tvg-id="CAVI.MEDIAS.fr" tvg-name="CAVI MEDIAS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50907/canal-ouah/CHN43FB/CAVITV_640x480-Copie-qSS_" tvg-chno="410" channel-number="410",CAVI MEDIAS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180313/broadcasts/day/0?channelPosition=187
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180313/broadcasts/day/0?channelPosition=193
 #EXTINF:-1 tvg-id="WEST.AFRICA.TV.fr" tvg-name="WEST AFRICA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50908/canal-ouah/CHN43FB/WESTAFRICATV_640x480-Copie-8cCq" tvg-chno="411" channel-number="411",WEST AFRICA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180314/broadcasts/day/0?channelPosition=188
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180314/broadcasts/day/0?channelPosition=194
 #EXTINF:-1 tvg-id="CIS.TV.fr" tvg-name="CIS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180602/canal-ouah/CHN43FB/CISTV_myCANAL_640x480" tvg-chno="412" channel-number="412",CIS TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180602/broadcasts/day/0?channelPosition=189
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180602/broadcasts/day/0?channelPosition=195
 #EXTINF:-1 tvg-id="ESPACE.TV.fr" tvg-name="ESPACE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180425/canal-ouah/CHN43FB/ESPACETV_myCANAL_640x480" tvg-chno="413" channel-number="413",ESPACE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180425/broadcasts/day/0?channelPosition=190
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180425/broadcasts/day/0?channelPosition=196
 #EXTINF:-1 tvg-id="EVASION.TV.fr" tvg-name="EVASION TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180398/canal-ouah/CHN43FB/EVASIONGUINEE_myCANAL_640x480" tvg-chno="414" channel-number="414",EVASION TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180398/broadcasts/day/0?channelPosition=191
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180398/broadcasts/day/0?channelPosition=197
 #EXTINF:-1 tvg-id="GMD.TV.fr" tvg-name="GMD TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50972/canal-ouah/CHN43FB/GMD_640x480-l13l" tvg-chno="415" channel-number="415",GMD TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180347/broadcasts/day/0?channelPosition=192
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180347/broadcasts/day/0?channelPosition=198
 #EXTINF:-1 tvg-id="RTB.fr" tvg-name="RTB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50513/CHN43FB/rtb.jpg" tvg-chno="420" channel-number="420",RTB
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180121/broadcasts/day/0?channelPosition=193
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180121/broadcasts/day/0?channelPosition=199
 #EXTINF:-1 tvg-id="RTB.ZENITH.fr" tvg-name="RTB ZENITH" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180060/canal-ouah/CHN43FB/RTBZENITH_myCANAL_640x480" tvg-chno="421" channel-number="421",RTB ZENITH
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180060/broadcasts/day/0?channelPosition=194
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180060/broadcasts/day/0?channelPosition=200
 #EXTINF:-1 tvg-id="RTB.3.fr" tvg-name="RTB 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180258/canal-ouah/CHN43FB/RTB3_640x480-JPkl" tvg-chno="422" channel-number="422",RTB 3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180258/broadcasts/day/0?channelPosition=195
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180258/broadcasts/day/0?channelPosition=201
 #EXTINF:-1 tvg-id="BF1.TV.fr" tvg-name="BF1 TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180337/canal-ouah/CHN43FB/BF1_640x480" tvg-chno="423" channel-number="423",BF1 TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180337/broadcasts/day/0?channelPosition=196
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180337/broadcasts/day/0?channelPosition=202
 #EXTINF:-1 tvg-id="IMPACT.TV.fr" tvg-name="IMPACT TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180386/canal-ouah/CHN43FB/IMPACTTV_640x480-Xp_X" tvg-chno="424" channel-number="424",IMPACT TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180386/broadcasts/day/0?channelPosition=197
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180386/broadcasts/day/0?channelPosition=203
 #EXTINF:-1 tvg-id="BURKINA.INFO.fr" tvg-name="BURKINA INFO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180556/canal-ouah/CHN43FB/BURKINAINFO_myCANAL_640x480" tvg-chno="425" channel-number="425",BURKINA INFO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180556/broadcasts/day/0?channelPosition=198
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180556/broadcasts/day/0?channelPosition=204
 #EXTINF:-1 tvg-id="3TV.fr" tvg-name="3TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180623/canal-ouah/CHN43FB/3TV_myCANAL_640x480" tvg-chno="426" channel-number="426",3TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180623/broadcasts/day/0?channelPosition=199
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180623/broadcasts/day/0?channelPosition=205
 #EXTINF:-1 tvg-id="SAVANE.TV.fr" tvg-name="SAVANE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180664/canal-ouah/CHN43FB/SAVANETV_myCANAL_640x480" tvg-chno="427" channel-number="427",SAVANE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180664/broadcasts/day/0?channelPosition=200
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180664/broadcasts/day/0?channelPosition=206
 #EXTINF:-1 tvg-id="CANAL.3.BURKINA.fr" tvg-name="CANAL 3 BURKINA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180795/canal-ouah/CHN43FB/CANAL3BURKINA_myCANAL_640x480" tvg-chno="429" channel-number="429",CANAL 3 BURKINA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180795/broadcasts/day/0?channelPosition=201
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180795/broadcasts/day/0?channelPosition=207
 #EXTINF:-1 tvg-id="TV.AL.HOUDA.fr" tvg-name="TV AL HOUDA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180259/canal-ouah/CHN43FB/ALHOUDATV_640x4801-j9uv" tvg-chno="432" channel-number="432",TV AL HOUDA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180259/broadcasts/day/0?channelPosition=202
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180259/broadcasts/day/0?channelPosition=208
 #EXTINF:-1 tvg-id="TV.TOGO.fr" tvg-name="TV TOGO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180272/canal-ouah/CHN43FB/TVT_myCANAL_640x480" tvg-chno="435" channel-number="435",TV TOGO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180272/broadcasts/day/0?channelPosition=203
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180272/broadcasts/day/0?channelPosition=209
 #EXTINF:-1 tvg-id="TV2.fr" tvg-name="TV2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50934/canal-ouah/CHN43FN/tv2hu-zDqK" tvg-chno="436" channel-number="436",TV2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180353/broadcasts/day/0?channelPosition=204
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180353/broadcasts/day/0?channelPosition=210
 #EXTINF:-1 tvg-id="PYRAMIDE.TV.fr" tvg-name="PYRAMIDE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180352/canal-ouah/CHN43FB/PYRAMIDETV_TOGO_ONLIGHT_640x480-KfzS" tvg-chno="437" channel-number="437",PYRAMIDE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180352/broadcasts/day/0?channelPosition=205
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180352/broadcasts/day/0?channelPosition=211
 #EXTINF:-1 tvg-id="RTDS.fr" tvg-name="RTDS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180779/canal-ouah/CHN43FB/RTDS_640x480-uTGT" tvg-chno="438" channel-number="438",RTDS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180779/broadcasts/day/0?channelPosition=206
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180779/broadcasts/day/0?channelPosition=212
 #EXTINF:-1 tvg-id="ONE.TV.fr" tvg-name="ONE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180404/canal-ouah/CHN43FB/ONETV_TOGO_myCANAL_640x480" tvg-chno="439" channel-number="439",ONE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180404/broadcasts/day/0?channelPosition=207
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180404/broadcasts/day/0?channelPosition=213
 #EXTINF:-1 tvg-id="SOS.DOCTEUR.TV.fr" tvg-name="SOS DOCTEUR TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180976/canal-ouah/CHN43FB/SOSDOCTEURTV_myCANAL_640x480" tvg-chno="440" channel-number="440",SOS DOCTEUR TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180976/broadcasts/day/0?channelPosition=208
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180976/broadcasts/day/0?channelPosition=214
 #EXTINF:-1 tvg-id="TV7.fr" tvg-name="TV7" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180763/canal-ouah/CHN43FB/TV7_640x480-jk_u" tvg-chno="441" channel-number="441",TV7
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180763/broadcasts/day/0?channelPosition=209
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180763/broadcasts/day/0?channelPosition=215
 #EXTINF:-1 tvg-id="BENIN.TV.HD.fr" tvg-name="BENIN TV HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180207/canal-ouah/CHN43FN/BENINTV_640x480-2k7s" tvg-chno="450" channel-number="450",BENIN TV HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180207/broadcasts/day/0?channelPosition=210
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180207/broadcasts/day/0?channelPosition=216
 #EXTINF:-1 tvg-id="BENIN.TV.ALAFIA.fr" tvg-name="BENIN TV ALAFIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180357/canal-ouah/CHN43FB/BENINTVALAFIA_ONLIGHT_640x480-W6Hd" tvg-chno="451" channel-number="451",BENIN TV ALAFIA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180357/broadcasts/day/0?channelPosition=211
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180357/broadcasts/day/0?channelPosition=217
 #EXTINF:-1 tvg-id="A+.BENIN.fr" tvg-name="A+ BENIN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180074/canal-ouah/CHN43FB/ABENIN_myCANAL_640x480" tvg-chno="453" channel-number="453",A+ BENIN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180074/broadcasts/day/0?channelPosition=212
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180074/broadcasts/day/0?channelPosition=218
 #EXTINF:-1 tvg-id="CANAL.3.BENIN.fr" tvg-name="CANAL 3 BENIN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180546/canal-ouah/CHN43FB/C3BENIN_myCANAL_640x480-Copie" tvg-chno="454" channel-number="454",CANAL 3 BENIN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180546/broadcasts/day/0?channelPosition=213
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180546/broadcasts/day/0?channelPosition=219
 #EXTINF:-1 tvg-id="TVC.fr" tvg-name="TVC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180923/canal-ouah/CHN43FB/TVCBENIN_myCANAL_640x480" tvg-chno="455" channel-number="455",TVC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180923/broadcasts/day/0?channelPosition=214
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180923/broadcasts/day/0?channelPosition=220
 #EXTINF:-1 tvg-id="E-TELEVISION.fr" tvg-name="E-TELEVISION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180421/canal-ouah/CHN43FB/ETELE_myCANAL_640x480" tvg-chno="456" channel-number="456",E-TELEVISION
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180421/broadcasts/day/0?channelPosition=215
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180421/broadcasts/day/0?channelPosition=221
 #EXTINF:-1 tvg-id="EDEN.TV.fr" tvg-name="EDEN TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180107/canal-ouah/CHN43FB/EDENTV_myCANAL_640x4801" tvg-chno="457" channel-number="457",EDEN TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180107/broadcasts/day/0?channelPosition=216
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180107/broadcasts/day/0?channelPosition=222
 #EXTINF:-1 tvg-id="LIPTAKO.TV.fr" tvg-name="LIPTAKO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180178/canal-ouah/CHN43FB/LIPTAKO_TV_640x480" tvg-chno="465" channel-number="465",LIPTAKO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180178/broadcasts/day/0?channelPosition=217
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180178/broadcasts/day/0?channelPosition=223
 #EXTINF:-1 tvg-id="SARAOUNIA.TV.fr" tvg-name="SARAOUNIA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180238/canal-ouah/CHN43FB/SARAOUNIATV_myCANAL_640x480" tvg-chno="466" channel-number="466",SARAOUNIA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180238/broadcasts/day/0?channelPosition=218
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180238/broadcasts/day/0?channelPosition=224
 #EXTINF:-1 tvg-id="TELE.SAHEL.fr" tvg-name="TELE SAHEL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180274/canal-ouah/CHN43FB/TELESAHEL_ORTN_myCANAL_640x480" tvg-chno="467" channel-number="467",TELE SAHEL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180274/broadcasts/day/0?channelPosition=219
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180274/broadcasts/day/0?channelPosition=225
 #EXTINF:-1 tvg-id="DOUNIA.fr" tvg-name="DOUNIA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180924/canal-ouah/CHN43FB/DOUNIATV_myCANAL_640x480" tvg-chno="468" channel-number="468",DOUNIA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180924/broadcasts/day/0?channelPosition=220
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180924/broadcasts/day/0?channelPosition=226
 #EXTINF:-1 tvg-id="BONFEREY.fr" tvg-name="BONFEREY" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180925/canal-ouah/CHN43FB/BONFEREY_myCANAL_640x480" tvg-chno="469" channel-number="469",BONFEREY
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180925/broadcasts/day/0?channelPosition=221
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180925/broadcasts/day/0?channelPosition=227
 #EXTINF:-1 tvg-id="TENERE.fr" tvg-name="TENERE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180111/canal-ouah/CHN43FB/RTT_640x480-mEV-" tvg-chno="470" channel-number="470",TENERE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180111/broadcasts/day/0?channelPosition=222
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180111/broadcasts/day/0?channelPosition=228
 #EXTINF:-1 tvg-id="LABARI.fr" tvg-name="LABARI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180112/canal-ouah/CHN43FB/LABARI_640x480" tvg-chno="471" channel-number="471",LABARI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180112/broadcasts/day/0?channelPosition=223
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180112/broadcasts/day/0?channelPosition=229
 #EXTINF:-1 tvg-id="SAIRA.MOVIES.fr" tvg-name="SAIRA MOVIES" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180439/canal-ouah/CHN43FB/SAIRAMOVIES_640x480-H2LX" tvg-chno="472" channel-number="472",SAIRA MOVIES
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180439/broadcasts/day/0?channelPosition=224
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180439/broadcasts/day/0?channelPosition=230
 #EXTINF:-1 tvg-id="AREWA.24.fr" tvg-name="AREWA 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180686/canal-ouah/CHN43FB/AREWA24_myCANAL_640x480" tvg-chno="480" channel-number="480",AREWA 24
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180686/broadcasts/day/0?channelPosition=225
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180686/broadcasts/day/0?channelPosition=231
 #EXTINF:-1 tvg-id="SUNNA.TV.ZARMA.fr" tvg-name="SUNNA TV ZARMA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180262/canal-ouah/CHN43FB/SUNNATV2_640x480-qm-V" tvg-chno="482" channel-number="482",SUNNA TV ZARMA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180262/broadcasts/day/0?channelPosition=226
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180262/broadcasts/day/0?channelPosition=232
 #EXTINF:-1 tvg-id="TAURARUWA.fr" tvg-name="TAURARUWA" tvg-logo="" tvg-chno="483" channel-number="483",TAURARUWA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180263/broadcasts/day/0?channelPosition=227
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180263/broadcasts/day/0?channelPosition=233
 #EXTINF:-1 tvg-id="AFRICA.MAGIC.HAUSA.fr" tvg-name="AFRICA MAGIC HAUSA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180360/canal-ouah/CHN43FB/AFRICAMAGICHAUSA_ONLIGHT_640x480-h1js" tvg-chno="484" channel-number="484",AFRICA MAGIC HAUSA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180360/broadcasts/day/0?channelPosition=228
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180360/broadcasts/day/0?channelPosition=234
 #EXTINF:-1 tvg-id="AFRICA.MAGIC.YORUBA.fr" tvg-name="AFRICA MAGIC YORUBA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180361/canal-ouah/CHN43FB/AFRICAMAGICYORUBA_ONLIGHT_640x480-jsX6" tvg-chno="485" channel-number="485",AFRICA MAGIC YORUBA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180361/broadcasts/day/0?channelPosition=229
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180361/broadcasts/day/0?channelPosition=235
 #EXTINF:-1 tvg-id="PRC.fr" tvg-name="PRC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180343/canal-ouah/CHN43FB/PRCTV_CAMEROUN_640x480-uPhM" tvg-chno="500" channel-number="500",PRC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180343/broadcasts/day/0?channelPosition=230
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180343/broadcasts/day/0?channelPosition=236
 #EXTINF:-1 tvg-id="CRTV.fr" tvg-name="CRTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180010/canal-ouah/CHN43FB/CRTV_myCANAL_640x480" tvg-chno="501" channel-number="501",CRTV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180010/broadcasts/day/0?channelPosition=231
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180010/broadcasts/day/0?channelPosition=237
 #EXTINF:-1 tvg-id="CANAL.2.INTER.fr" tvg-name="CANAL 2 INTER" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180172/canal-ouah/CHN43FB/CANAL2_myCANAL_640x480" tvg-chno="502" channel-number="502",CANAL 2 INTER
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180172/broadcasts/day/0?channelPosition=232
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180172/broadcasts/day/0?channelPosition=238
 #EXTINF:-1 tvg-id="STV.fr" tvg-name="STV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50531/CHN43FB/STV_FB.png" tvg-chno="503" channel-number="503",STV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180192/broadcasts/day/0?channelPosition=233
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180192/broadcasts/day/0?channelPosition=239
 #EXTINF:-1 tvg-id="EQUINOXE.TV.fr" tvg-name="EQUINOXE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180170/canal-ouah/CHN43FB/myCANAL_EQUINOXETV_640x480" tvg-chno="504" channel-number="504",EQUINOXE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180170/broadcasts/day/0?channelPosition=234
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180170/broadcasts/day/0?channelPosition=240
 #EXTINF:-1 tvg-id="CRTV.SPORT.fr" tvg-name="CRTV SPORT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180717/canal-ouah/CHN43FB/CRTVSPORTS_myCANAL_640x480" tvg-chno="506" channel-number="506",CRTV SPORT
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180717/broadcasts/day/0?channelPosition=235
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180717/broadcasts/day/0?channelPosition=241
 #EXTINF:-1 tvg-id="CRTV.NEWS.fr" tvg-name="CRTV NEWS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180668/canal-ouah/CHN43FB/CRTVNEWS_myCANAL_640x480" tvg-chno="507" channel-number="507",CRTV NEWS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180668/broadcasts/day/0?channelPosition=236
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180668/broadcasts/day/0?channelPosition=242
 #EXTINF:-1 tvg-id="INFO.TV.fr" tvg-name="INFO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180025/canal-ouah/CHN43FB/INFOTV_myCANAL_640x480" tvg-chno="508" channel-number="508",INFO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180025/broadcasts/day/0?channelPosition=237
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180025/broadcasts/day/0?channelPosition=243
 #EXTINF:-1 tvg-id="LTM.fr" tvg-name="LTM" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180573/canal-ouah/CHN43FB/LTM_myCANAL_640x480" tvg-chno="509" channel-number="509",LTM
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180573/broadcasts/day/0?channelPosition=238
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180573/broadcasts/day/0?channelPosition=244
 #EXTINF:-1 tvg-id="MY.MEDIA.PRIME.fr" tvg-name="MY MEDIA PRIME" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180372/canal-ouah/CHN43FB/MEDIAPRIME_myCANAL_640x480" tvg-chno="510" channel-number="510",MY MEDIA PRIME
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180372/broadcasts/day/0?channelPosition=239
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180372/broadcasts/day/0?channelPosition=245
 #EXTINF:-1 tvg-id="CANAL.2.MOVIES.fr" tvg-name="CANAL 2 MOVIES" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180671/canal-ouah/CHN43FB/CANAL2MOVIES_myCANAL_640x480" tvg-chno="511" channel-number="511",CANAL 2 MOVIES
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180671/broadcasts/day/0?channelPosition=240
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180671/broadcasts/day/0?channelPosition=246
 #EXTINF:-1 tvg-id="CAM10.fr" tvg-name="CAM10" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180026/canal-ouah/CHN43FB/CAM10_myCANAL_640x480" tvg-chno="512" channel-number="512",CAM10
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180026/broadcasts/day/0?channelPosition=241
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180026/broadcasts/day/0?channelPosition=247
 #EXTINF:-1 tvg-id="DBS.fr" tvg-name="DBS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180027/canal-ouah/CHN43FB/DBS_myCANAL_640x480" tvg-chno="513" channel-number="513",DBS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180027/broadcasts/day/0?channelPosition=242
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180027/broadcasts/day/0?channelPosition=248
 #EXTINF:-1 tvg-id="GALAXIE.TELE.fr" tvg-name="GALAXIE TELE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180113/canal-ouah/CHN43FB/GALAXIETV_myCANAL_640x4801" tvg-chno="514" channel-number="514",GALAXIE TELE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180113/broadcasts/day/0?channelPosition=243
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180113/broadcasts/day/0?channelPosition=249
 #EXTINF:-1 tvg-id="BALAFON.TV.fr" tvg-name="BALAFON TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180115/canal-ouah/CHN43FB/BALAFONTV_POURFB_myCANAL_640x480" tvg-chno="515" channel-number="515",BALAFON TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180115/broadcasts/day/0?channelPosition=244
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180115/broadcasts/day/0?channelPosition=250
 #EXTINF:-1 tvg-id="DASH.TV.fr" tvg-name="DASH TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180117/canal-ouah/CHN43FB/DASHTVNEWS_POURFB_myCANAL_640x480" tvg-chno="516" channel-number="516",DASH TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180117/broadcasts/day/0?channelPosition=245
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180117/broadcasts/day/0?channelPosition=251
 #EXTINF:-1 tvg-id="RTVC.fr" tvg-name="RTVC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180418/canal-ouah/CHN43FB/RTVC_BLANC_640x480-i7U1" tvg-chno="517" channel-number="517",RTVC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180418/broadcasts/day/0?channelPosition=246
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180418/broadcasts/day/0?channelPosition=252
 #EXTINF:-1 tvg-id="SUN+.TV.fr" tvg-name="SUN+ TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180267/canal-ouah/CHN43FB/SUNTV_640x4801-X_US" tvg-chno="518" channel-number="518",SUN+ TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180267/broadcasts/day/0?channelPosition=247
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180267/broadcasts/day/0?channelPosition=253
 #EXTINF:-1 tvg-id="MSI.TV.fr" tvg-name="MSI TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180619/canal-ouah/CHN43FB/MEDIASPORTSINFO_VERTICAL_ONLIGHT_640x480-BywD" tvg-chno="519" channel-number="519",MSI TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180619/broadcasts/day/0?channelPosition=248
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180619/broadcasts/day/0?channelPosition=254
 #EXTINF:-1 tvg-id="BNEWS.fr" tvg-name="BNEWS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50910/canal-ouah/CHN43FB/BNEWS1_640x480-Copie-sHg7" tvg-chno="520" channel-number="520",BNEWS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180321/broadcasts/day/0?channelPosition=249
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180321/broadcasts/day/0?channelPosition=255
 #EXTINF:-1 tvg-id="TVCA.fr" tvg-name="TVCA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50579/CHN43FB/TV-CA_FB.png" tvg-chno="530" channel-number="530",TVCA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180339/broadcasts/day/0?channelPosition=250
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180339/broadcasts/day/0?channelPosition=256
 #EXTINF:-1 tvg-id="VISION.4.RCA.fr" tvg-name="VISION 4 RCA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180682/canal-ouah/CHN43FB/VISION4RCA_myCANAL_640x480" tvg-chno="531" channel-number="531",VISION 4 RCA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180682/broadcasts/day/0?channelPosition=251
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180682/broadcasts/day/0?channelPosition=257
 #EXTINF:-1 tvg-id="ASONGA.TV.fr" tvg-name="ASONGA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180378/canal-ouah/CHN43FB/ASONGATV_myCANAL_640x480" tvg-chno="535" channel-number="535",ASONGA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180378/broadcasts/day/0?channelPosition=252
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180378/broadcasts/day/0?channelPosition=258
 #EXTINF:-1 tvg-id="TVGE.fr" tvg-name="TVGE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180927/canal-ouah/CHN43FB/TVGEPOURFB_myCANAL_640x480" tvg-chno="536" channel-number="536",TVGE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180927/broadcasts/day/0?channelPosition=253
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180927/broadcasts/day/0?channelPosition=259
 #EXTINF:-1 tvg-id="TGB.fr" tvg-name="TGB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180499/canal-ouah/CHN43FB/TGB_myCANAL_640x480" tvg-chno="540" channel-number="540",TGB
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180499/broadcasts/day/0?channelPosition=254
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180499/broadcasts/day/0?channelPosition=260
 #EXTINF:-1 tvg-id="GABON.1ERE.fr" tvg-name="GABON 1ERE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180187/canal-ouah/CHN43FB/GABON1ERE_myCANAL_640x480" tvg-chno="550" channel-number="550",GABON 1ERE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180187/broadcasts/day/0?channelPosition=255
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180187/broadcasts/day/0?channelPosition=261
 #EXTINF:-1 tvg-id="GABON.24.fr" tvg-name="GABON 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180427/canal-ouah/CHN43FB/GABON24_NEW_myCANAL_640x480" tvg-chno="551" channel-number="551",GABON 24
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180427/broadcasts/day/0?channelPosition=256
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180427/broadcasts/day/0?channelPosition=262
 #EXTINF:-1 tvg-id="GABON.CULTURE.fr" tvg-name="GABON CULTURE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180830/canal-ouah/CHN43FB/GABONCULTURE_myCANAL_640x480" tvg-chno="552" channel-number="552",GABON CULTURE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180830/broadcasts/day/0?channelPosition=257
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180830/broadcasts/day/0?channelPosition=263
 #EXTINF:-1 tvg-id="TV+.AFRIQUE.fr" tvg-name="TV+ AFRIQUE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180268/canal-ouah/CHN43FB/TVAFRIQUE_640x4801-41Uh" tvg-chno="553" channel-number="553",TV+ AFRIQUE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180268/broadcasts/day/0?channelPosition=258
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180268/broadcasts/day/0?channelPosition=264
 #EXTINF:-1 tvg-id="JESUS.24.TV.fr" tvg-name="JESUS 24 TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180344/canal-ouah/CHN43FB/JESUS24_GABON_640x480-Z42r" tvg-chno="554" channel-number="554",JESUS 24 TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180344/broadcasts/day/0?channelPosition=259
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180344/broadcasts/day/0?channelPosition=265
 #EXTINF:-1 tvg-id="TELE.CONGO.fr" tvg-name="TELE CONGO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180204/canal-ouah/CHN43FB/TELECONGO_640x480-u-3F" tvg-chno="565" channel-number="565",TELE CONGO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180204/broadcasts/day/0?channelPosition=260
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180204/broadcasts/day/0?channelPosition=266
 #EXTINF:-1 tvg-id="DRTV.fr" tvg-name="DRTV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180383/canal-ouah/CHN43FB/DRTVINTERNATIONAL_myCANAL_640x480" tvg-chno="566" channel-number="566",DRTV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180383/broadcasts/day/0?channelPosition=261
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180383/broadcasts/day/0?channelPosition=267
 #EXTINF:-1 tvg-id="VOX.TV.fr" tvg-name="VOX TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180561/canal-ouah/CHN43FB/VOXTVCONGO_myCANAL_640x480" tvg-chno="567" channel-number="567",VOX TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180561/broadcasts/day/0?channelPosition=262
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180561/broadcasts/day/0?channelPosition=268
 #EXTINF:-1 tvg-id="LUX.TV.fr" tvg-name="LUX TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180639/canal-ouah/CHN43FB/LUXTV_myCANAL_640x480" tvg-chno="568" channel-number="568",LUX TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180639/broadcasts/day/0?channelPosition=263
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180639/broadcasts/day/0?channelPosition=269
 #EXTINF:-1 tvg-id="CDIRECT.fr" tvg-name="CDIRECT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180765/canal-ouah/CHN43FB/CDIRECT_myCANAL_640x480" tvg-chno="569" channel-number="569",CDIRECT
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180765/broadcasts/day/0?channelPosition=264
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180765/broadcasts/day/0?channelPosition=270
 #EXTINF:-1 tvg-id="GO.TV.fr" tvg-name="GO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180102/canal-ouah/CHN43FB/GOTV_640x480" tvg-chno="570" channel-number="570",GO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180102/broadcasts/day/0?channelPosition=265
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180102/broadcasts/day/0?channelPosition=271
 #EXTINF:-1 tvg-id="TPT+.fr" tvg-name="TPT+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180213/canal-ouah/CHN43FB/TPT_640x480" tvg-chno="571" channel-number="571",TPT+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180213/broadcasts/day/0?channelPosition=266
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180213/broadcasts/day/0?channelPosition=272
 #EXTINF:-1 tvg-id="MCR.TV.fr" tvg-name="MCR TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180412/canal-ouah/CHN43FB/MCRTV_myCANAL_640x480" tvg-chno="572" channel-number="572",MCR TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180412/broadcasts/day/0?channelPosition=267
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180412/broadcasts/day/0?channelPosition=273
 #EXTINF:-1 tvg-id="NCA.fr" tvg-name="NCA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180349/canal-ouah/CHN43FB/NCATV_CONGO_ONLIGHT_640x480-823e" tvg-chno="573" channel-number="573",NCA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180349/broadcasts/day/0?channelPosition=268
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180349/broadcasts/day/0?channelPosition=274
 #EXTINF:-1 tvg-id="RTNC.fr" tvg-name="RTNC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180208/canal-ouah/CHN43FB/RTNC_POURFB_640x480-KFoj" tvg-chno="580" channel-number="580",RTNC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180208/broadcasts/day/0?channelPosition=269
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180208/broadcasts/day/0?channelPosition=275
 #EXTINF:-1 tvg-id="B-ONE.fr" tvg-name="B-ONE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180273/canal-ouah/CHN43FB/BONE_NOIR_myCANAL_640x480" tvg-chno="581" channel-number="581",B-ONE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180273/broadcasts/day/0?channelPosition=270
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180273/broadcasts/day/0?channelPosition=276
 #EXTINF:-1 tvg-id="ANTENNE.A.fr" tvg-name="ANTENNE A" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180322/canal-ouah/CHN43FB/ANTENNE_A_FB_myCANAL_640x480" tvg-chno="582" channel-number="582",ANTENNE A
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180322/broadcasts/day/0?channelPosition=271
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180322/broadcasts/day/0?channelPosition=277
 #EXTINF:-1 tvg-id="DIGITAL.CONGO.fr" tvg-name="DIGITAL CONGO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180380/canal-ouah/CHN43FB/DIGITALCONGO_myCANAL_640x480" tvg-chno="583" channel-number="583",DIGITAL CONGO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180380/broadcasts/day/0?channelPosition=272
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180380/broadcasts/day/0?channelPosition=278
 #EXTINF:-1 tvg-id="TELE.50.fr" tvg-name="TELE 50" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180381/canal-ouah/CHN43FB/TELE50_myCANAL_640x480" tvg-chno="584" channel-number="584",TELE 50
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180381/broadcasts/day/0?channelPosition=273
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180381/broadcasts/day/0?channelPosition=279
 #EXTINF:-1 tvg-id="MOLIERE.TV.fr" tvg-name="MOLIERE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180665/canal-ouah/CHN43FB/MOLIERETV_myCANAL_640x480" tvg-chno="585" channel-number="585",MOLIERE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180665/broadcasts/day/0?channelPosition=274
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180665/broadcasts/day/0?channelPosition=280
 #EXTINF:-1 tvg-id="EDUC.TV.fr" tvg-name="EDUC TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50913/canal-ouah/CHN43FB/EDUCTV_RDC_640x480-Copie-HKdA" tvg-chno="586" channel-number="586",EDUC TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180140/broadcasts/day/0?channelPosition=275
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180140/broadcasts/day/0?channelPosition=281
 #EXTINF:-1 tvg-id="BOSOLO.TV.fr" tvg-name="BOSOLO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180030/canal-ouah/CHN43FB/BOSOLOTV_myCANAL_640x480" tvg-chno="588" channel-number="588",BOSOLO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180030/broadcasts/day/0?channelPosition=276
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180030/broadcasts/day/0?channelPosition=282
 #EXTINF:-1 tvg-id="SENSATION.TV.fr" tvg-name="SENSATION TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180236/canal-ouah/CHN43FB/SENSATIONTV_NOIR_640x480-MlDZ" tvg-chno="589" channel-number="589",SENSATION TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180236/broadcasts/day/0?channelPosition=277
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180236/broadcasts/day/0?channelPosition=283
 #EXTINF:-1 tvg-id="RATELKI.fr" tvg-name="RATELKI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180164/canal-ouah/CHN43FB/RATELKI_FB_myCANAL_640x480" tvg-chno="591" channel-number="591",RATELKI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180164/broadcasts/day/0?channelPosition=278
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180164/broadcasts/day/0?channelPosition=284
 #EXTINF:-1 tvg-id="RTCE.fr" tvg-name="RTCE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180031/canal-ouah/CHN43FB/RTCE_myCANAL_640x480" tvg-chno="592" channel-number="592",RTCE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180031/broadcasts/day/0?channelPosition=279
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180031/broadcasts/day/0?channelPosition=285
 #EXTINF:-1 tvg-id="UNIVERS.TV.fr" tvg-name="UNIVERS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180581/canal-ouah/CHN43FB/LOGO_UNIVERS_TV_myCANAL_640x480-m2fT" tvg-chno="593" channel-number="593",UNIVERS TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180581/broadcasts/day/0?channelPosition=280
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180581/broadcasts/day/0?channelPosition=286
 #EXTINF:-1 tvg-id="MAAJABU.TV.fr" tvg-name="MAAJABU TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180276/canal-ouah/CHN43FB/MAAJABU_POURFB_640x480-c6eG" tvg-chno="594" channel-number="594",MAAJABU TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180276/broadcasts/day/0?channelPosition=281
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180276/broadcasts/day/0?channelPosition=287
 #EXTINF:-1 tvg-id="RTGA.fr" tvg-name="RTGA" tvg-logo="" tvg-chno="595" channel-number="595",RTGA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180282/broadcasts/day/0?channelPosition=282
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180282/broadcasts/day/0?channelPosition=288
 #EXTINF:-1 tvg-id="CONGO.26.fr" tvg-name="CONGO 26" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180283/canal-ouah/CHN43FB/CONGO26_640x480-4b1g" tvg-chno="596" channel-number="596",CONGO 26
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180283/broadcasts/day/0?channelPosition=283
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180283/broadcasts/day/0?channelPosition=289
 #EXTINF:-1 tvg-id="RTVS.1.fr" tvg-name="RTVS 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50969/canal-ouah/CHN43FB/RTVS1_640x480-5jbc" tvg-chno="597" channel-number="597",RTVS 1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180422/broadcasts/day/0?channelPosition=284
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180422/broadcasts/day/0?channelPosition=290
 #EXTINF:-1 tvg-id="PAROLE.ETERNELLE.TV.fr" tvg-name="PAROLE ETERNELLE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/50971/canal-ouah/CHN43FB/PAROLEETERNELLETV_640x480--gfX" tvg-chno="598" channel-number="598",PAROLE ETERNELLE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180424/broadcasts/day/0?channelPosition=285
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180424/broadcasts/day/0?channelPosition=291
 #EXTINF:-1 tvg-id="MIKUBA.TV.fr" tvg-name="MIKUBA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180929/canal-ouah/CHN43FB/MIKUBA_myCANAL_640x480" tvg-chno="600" channel-number="600",MIKUBA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180929/broadcasts/day/0?channelPosition=286
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180929/broadcasts/day/0?channelPosition=292
 #EXTINF:-1 tvg-id="NYOTA.fr" tvg-name="NYOTA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180428/canal-ouah/CHN43FB/NIOTATV_myCANAL_640x480" tvg-chno="601" channel-number="601",NYOTA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180428/broadcasts/day/0?channelPosition=287
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180428/broadcasts/day/0?channelPosition=293
 #EXTINF:-1 tvg-id="MALAIKA.TV.fr" tvg-name="MALAIKA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180032/canal-ouah/CHN43FB/MALAIKAPOURFB_myCANAL_640x480" tvg-chno="602" channel-number="602",MALAIKA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180032/broadcasts/day/0?channelPosition=288
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180032/broadcasts/day/0?channelPosition=294
 #EXTINF:-1 tvg-id="MWANGAZA.fr" tvg-name="MWANGAZA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180440/canal-ouah/CHN43FB/MWANGAZATV_640x480-11A6" tvg-chno="604" channel-number="604",MWANGAZA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180440/broadcasts/day/0?channelPosition=289
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180440/broadcasts/day/0?channelPosition=295
 #EXTINF:-1 tvg-id="HOREB.TV.fr" tvg-name="HOREB TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180064/canal-ouah/CHN43FB/HOREBTV_myCANAL_640x480" tvg-chno="615" channel-number="615",HOREB TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180064/broadcasts/day/0?channelPosition=290
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180064/broadcasts/day/0?channelPosition=296
 #EXTINF:-1 tvg-id="SINEMA.ZETU.fr" tvg-name="SINEMA ZETU" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180047/canal-ouah/CHN43FB/SINEMAZETU_myCANAL_640x480" tvg-chno="620" channel-number="620",SINEMA ZETU
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180047/broadcasts/day/0?channelPosition=291
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180047/broadcasts/day/0?channelPosition=297
 #EXTINF:-1 tvg-id="KTN.fr" tvg-name="KTN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180068/canal-ouah/CHN43FB/KTNNEWS_myCANAL_640x480" tvg-chno="621" channel-number="621",KTN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180068/broadcasts/day/0?channelPosition=292
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180068/broadcasts/day/0?channelPosition=298
 #EXTINF:-1 tvg-id="MADI.TV.fr" tvg-name="MADI TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180972/canal-ouah/CHN43FB/MADITVPOURFB_myCANAL_640x480" tvg-chno="622" channel-number="622",MADI TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180972/broadcasts/day/0?channelPosition=293
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180972/broadcasts/day/0?channelPosition=299
 #EXTINF:-1 tvg-id="MAISHA.MAGIC.EAST.fr" tvg-name="MAISHA MAGIC EAST" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180362/canal-ouah/CHN43FB/MAISHAMAGICEAST_ONLIGHT_640x480-Oolg" tvg-chno="623" channel-number="623",MAISHA MAGIC EAST
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180362/broadcasts/day/0?channelPosition=294
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180362/broadcasts/day/0?channelPosition=300
 #EXTINF:-1 tvg-id="MAISHA.MAGIC.PLUS.fr" tvg-name="MAISHA MAGIC PLUS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180363/canal-ouah/CHN43FB/MAISHAMAGICPLUS_ONLIGHT_640x480-i7lv" tvg-chno="624" channel-number="624",MAISHA MAGIC PLUS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180363/broadcasts/day/0?channelPosition=295
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180363/broadcasts/day/0?channelPosition=301
 #EXTINF:-1 tvg-id="MAISHA.MAGIC.BONGO.fr" tvg-name="MAISHA MAGIC BONGO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180408/canal-ouah/CHN43FB/MAISHAMAGICBONGO_ONLIGHT_640x4801-nChA" tvg-chno="625" channel-number="625",MAISHA MAGIC BONGO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180408/broadcasts/day/0?channelPosition=296
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180408/broadcasts/day/0?channelPosition=302
 #EXTINF:-1 tvg-id="CITIZEN.TELEVISION.fr" tvg-name="CITIZEN TELEVISION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180052/canal-ouah/CHN43FB/CITIZENTELEVISION_640x480-ORR-" tvg-chno="626" channel-number="626",CITIZEN TELEVISION
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180052/broadcasts/day/0?channelPosition=297
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180052/broadcasts/day/0?channelPosition=303
 #EXTINF:-1 tvg-id="RWANDA.TV.fr" tvg-name="RWANDA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180251/canal-ouah/CHN43FB/RWANDATV_myCANAL_640x480" tvg-chno="630" channel-number="630",RWANDA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180251/broadcasts/day/0?channelPosition=298
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180251/broadcasts/day/0?channelPosition=304
 #EXTINF:-1 tvg-id="TV10.fr" tvg-name="TV10" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180326/canal-ouah/CHN43FB/TV10RWANDA_myCANAL_640x480" tvg-chno="631" channel-number="631",TV10
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180326/broadcasts/day/0?channelPosition=299
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180326/broadcasts/day/0?channelPosition=305
 #EXTINF:-1 tvg-id="KC2.fr" tvg-name="KC2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180747/canal-ouah/CHN43FB/KC2_myCANAL_640x480" tvg-chno="632" channel-number="632",KC2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180747/broadcasts/day/0?channelPosition=300
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180747/broadcasts/day/0?channelPosition=306
 #EXTINF:-1 tvg-id="TV1.fr" tvg-name="TV1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180748/canal-ouah/CHN43FB/TV1RWANDA_myCANAL_640x480" tvg-chno="633" channel-number="633",TV1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180748/broadcasts/day/0?channelPosition=301
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180748/broadcasts/day/0?channelPosition=307
 #EXTINF:-1 tvg-id="TV.O.fr" tvg-name="TV O" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180749/canal-ouah/CHN43FB/AUTHENTICTV_myCANAL_640x480" tvg-chno="634" channel-number="634",TV O
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180749/broadcasts/day/0?channelPosition=302
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180749/broadcasts/day/0?channelPosition=308
 #EXTINF:-1 tvg-id="FLASH.TV.fr" tvg-name="FLASH TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180750/canal-ouah/CHN43FB/FLASHTV_myCANAL_640x480" tvg-chno="635" channel-number="635",FLASH TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180750/broadcasts/day/0?channelPosition=303
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180750/broadcasts/day/0?channelPosition=309
 #EXTINF:-1 tvg-id="ISANGO.STAR.TV.fr" tvg-name="ISANGO STAR TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180751/canal-ouah/CHN43FB/ISANGOTV_myCANAL_640x480" tvg-chno="636" channel-number="636",ISANGO STAR TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180751/broadcasts/day/0?channelPosition=304
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180751/broadcasts/day/0?channelPosition=310
 #EXTINF:-1 tvg-id="BTN.TV.fr" tvg-name="BTN TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180753/canal-ouah/CHN43FB/BTN_myCANAL_640x480" tvg-chno="638" channel-number="638",BTN TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180753/broadcasts/day/0?channelPosition=305
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180753/broadcasts/day/0?channelPosition=311
 #EXTINF:-1 tvg-id="PACIS.TV.fr" tvg-name="PACIS TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180371/canal-ouah/CHN43FB/PACISTV_myCANAL_640x480" tvg-chno="639" channel-number="639",PACIS TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180371/broadcasts/day/0?channelPosition=306
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180371/broadcasts/day/0?channelPosition=312
 #EXTINF:-1 tvg-id="ISIBO.TV.fr" tvg-name="ISIBO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180123/canal-ouah/CHN43FB/ISIBOTV_640x480" tvg-chno="641" channel-number="641",ISIBO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180123/broadcasts/day/0?channelPosition=307
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180123/broadcasts/day/0?channelPosition=313
 #EXTINF:-1 tvg-id="ISHUSHO.TV.fr" tvg-name="ISHUSHO TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180284/canal-ouah/CHN43FB/ISHUSHOTV_640x4801-XsOw" tvg-chno="642" channel-number="642",ISHUSHO TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180284/broadcasts/day/0?channelPosition=308
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180284/broadcasts/day/0?channelPosition=314
 #EXTINF:-1 tvg-id="BCN.TV.fr" tvg-name="BCN TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180354/canal-ouah/CHN43FB/BCN_RWANDA_640x480-lwqt" tvg-chno="643" channel-number="643",BCN TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180354/broadcasts/day/0?channelPosition=309
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180354/broadcasts/day/0?channelPosition=315
 #EXTINF:-1 tvg-id="BRIK.TV.fr" tvg-name="BRIK TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180355/canal-ouah/CHN43FB/BRIKTV_RWANDA_ONLIGHT_640x480-C_yI" tvg-chno="644" channel-number="644",BRIK TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180355/broadcasts/day/0?channelPosition=310
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180355/broadcasts/day/0?channelPosition=316
 #EXTINF:-1 tvg-id="TNT.Africa.fr" tvg-name="TNT Africa" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180757/canal-ouah/CHN43FB/TNTAFRICA_myCANAL_640x480" tvg-chno="648" channel-number="648",TNT Africa
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180757/broadcasts/day/0?channelPosition=311
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180757/broadcasts/day/0?channelPosition=317
 #EXTINF:-1 tvg-id="CARTOON.NETWORK.Africa.SA.fr" tvg-name="CARTOON NETWORK Africa SA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180756/canal-ouah/CHN43FB/Cartoon_Network_FB" tvg-chno="649" channel-number="649",CARTOON NETWORK Africa SA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180756/broadcasts/day/0?channelPosition=312
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180756/broadcasts/day/0?channelPosition=318
 #EXTINF:-1 tvg-id="RTNB.fr" tvg-name="RTNB" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180716/canal-ouah/CHN43FB/RTNB_myCANAL_640x480" tvg-chno="660" channel-number="660",RTNB
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180716/broadcasts/day/0?channelPosition=313
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180716/broadcasts/day/0?channelPosition=319
 #EXTINF:-1 tvg-id="HTV.BURUNDI.fr" tvg-name="HTV BURUNDI" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180119/canal-ouah/CHN43FB/HERITAGETV_640x480" tvg-chno="662" channel-number="662",HTV BURUNDI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180119/broadcasts/day/0?channelPosition=314
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180119/broadcasts/day/0?channelPosition=320
 #EXTINF:-1 tvg-id="BUJA.TV.fr" tvg-name="BUJA TV" tvg-logo="" tvg-chno="663" channel-number="663",BUJA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180296/broadcasts/day/0?channelPosition=315
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180296/broadcasts/day/0?channelPosition=321
 #EXTINF:-1 tvg-id="Bukedde.TV.fr" tvg-name="Bukedde TV" tvg-logo="" tvg-chno="665" channel-number="665",Bukedde TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180037/broadcasts/day/0?channelPosition=316
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180037/broadcasts/day/0?channelPosition=322
 #EXTINF:-1 tvg-id="TV.TCHAD.fr" tvg-name="TV TCHAD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180275/canal-ouah/CHN43FB/TELE_TCHAD_myCANAL_640x480" tvg-chno="670" channel-number="670",TV TCHAD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180275/broadcasts/day/0?channelPosition=317
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180275/broadcasts/day/0?channelPosition=323
 #EXTINF:-1 tvg-id="ELECTRON.TV.fr" tvg-name="ELECTRON TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180387/canal-ouah/CHN43FB/ELEKTRON_myCANAL_640x480" tvg-chno="671" channel-number="671",ELECTRON TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180387/broadcasts/day/0?channelPosition=318
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180387/broadcasts/day/0?channelPosition=324
 #EXTINF:-1 tvg-id="SAHARA.TV.fr" tvg-name="SAHARA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180700/canal-ouah/CHN43FB/SAHARATV_myCANAL_640x480" tvg-chno="672" channel-number="672",SAHARA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180700/broadcasts/day/0?channelPosition=319
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180700/broadcasts/day/0?channelPosition=325
 #EXTINF:-1 tvg-id="TCHAD.INFOS.fr" tvg-name="TCHAD INFOS" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180079/canal-ouah/CHN43FB/TCHADINFOTV_myCANAL_640x4801-TvVb" tvg-chno="673" channel-number="673",TCHAD INFOS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180079/broadcasts/day/0?channelPosition=320
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180079/broadcasts/day/0?channelPosition=326
 #EXTINF:-1 tvg-id="TCHAD.24.fr" tvg-name="TCHAD 24" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180146/canal-ouah/CHN43FB/TCHAD24_640x480-UanX" tvg-chno="674" channel-number="674",TCHAD 24
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180146/broadcasts/day/0?channelPosition=321
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180146/broadcasts/day/0?channelPosition=327
 #EXTINF:-1 tvg-id="TOUMAI.TV.fr" tvg-name="TOUMAI TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180233/canal-ouah/CHN43FB/TOUMAITV_640x480" tvg-chno="675" channel-number="675",TOUMAI TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180233/broadcasts/day/0?channelPosition=322
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180233/broadcasts/day/0?channelPosition=328
 #EXTINF:-1 tvg-id="MRTV.fr" tvg-name="MRTV" tvg-logo="" tvg-chno="676" channel-number="676",MRTV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180285/broadcasts/day/0?channelPosition=323
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180285/broadcasts/day/0?channelPosition=329
 #EXTINF:-1 tvg-id="CHIF.TV.fr" tvg-name="CHIF TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180286/canal-ouah/CHN43FB/CHIFTV_640x480-GTh7" tvg-chno="677" channel-number="677",CHIF TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180286/broadcasts/day/0?channelPosition=324
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180286/broadcasts/day/0?channelPosition=330
 #EXTINF:-1 tvg-id="AL.NASSR.fr" tvg-name="AL NASSR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180356/canal-ouah/CHN43FB/ALNASSRTVTCHAD_640x480-B-n1" tvg-chno="678" channel-number="678",AL NASSR
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180356/broadcasts/day/0?channelPosition=325
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180356/broadcasts/day/0?channelPosition=331
 #EXTINF:-1 tvg-id="TV.MAURITANIE.fr" tvg-name="TV MAURITANIE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180384/canal-ouah/CHN43FB/TVMAURITANIE_myCANAL_640x480" tvg-chno="685" channel-number="685",TV MAURITANIE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180384/broadcasts/day/0?channelPosition=326
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180384/broadcasts/day/0?channelPosition=332
 #EXTINF:-1 tvg-id="CHINGUIT.TV.fr" tvg-name="CHINGUIT TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180126/canal-ouah/CHN43FB/CHINGUIT_640x480" tvg-chno="686" channel-number="686",CHINGUIT TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180126/broadcasts/day/0?channelPosition=327
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180126/broadcasts/day/0?channelPosition=333
 #EXTINF:-1 tvg-id="ELWATANIYA.TV.fr" tvg-name="ELWATANIYA TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180127/canal-ouah/CHN43FB/ELWATANIA_640x480" tvg-chno="687" channel-number="687",ELWATANIYA TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180127/broadcasts/day/0?channelPosition=328
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180127/broadcasts/day/0?channelPosition=334
 #EXTINF:-1 tvg-id="2M.fr" tvg-name="2M" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180320/canal-ouah/CHN43FB/2MTV_640x480-Copie-A4NS" tvg-chno="690" channel-number="690",2M
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180320/broadcasts/day/0?channelPosition=329
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180320/broadcasts/day/0?channelPosition=335
 #EXTINF:-1 tvg-id="ZEE.ALWAN.fr" tvg-name="ZEE ALWAN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180375/canal-ouah/CHN43FB/LOGO_ZAlwan_myCANAL_640x480-UWmz" tvg-chno="692" channel-number="692",ZEE ALWAN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180375/broadcasts/day/0?channelPosition=330
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180375/broadcasts/day/0?channelPosition=336
 #EXTINF:-1 tvg-id="RTD.fr" tvg-name="RTD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180399/canal-ouah/CHN43FB/RTD_myCANAL_640x480" tvg-chno="695" channel-number="695",RTD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180399/broadcasts/day/0?channelPosition=331
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180399/broadcasts/day/0?channelPosition=337
 #EXTINF:-1 tvg-id="FRANCE.24.EN.fr" tvg-name="FRANCE 24 EN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180317/canal-ouah/CHN43FB/france24eng-0-AhtL" tvg-chno="704" channel-number="704",FRANCE 24 EN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180317/broadcasts/day/0?channelPosition=332
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180317/broadcasts/day/0?channelPosition=338
 #EXTINF:-1 tvg-id="AL.JAZEERA.ENG.fr" tvg-name="AL JAZEERA ENG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180297/canal-ouah/CHN43FB/FN-Dinc" tvg-chno="708" channel-number="708",AL JAZEERA ENG
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180297/broadcasts/day/0?channelPosition=333
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180297/broadcasts/day/0?channelPosition=339
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.ENG.fr" tvg-name="NATIONAL GEOGRAPHIC ENG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180409/canal-ouah/CHN43FB/NATIONALGEOGRAPHIC_BLANC_640x480-Hf5x" tvg-chno="709" channel-number="709",NATIONAL GEOGRAPHIC ENG
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180409/broadcasts/day/0?channelPosition=334
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180409/broadcasts/day/0?channelPosition=340
 #EXTINF:-1 tvg-id="BRAVO.ENG.fr" tvg-name="BRAVO ENG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180780/canal-ouah/CHN43FB/BRAVO_640x480-DV_v" tvg-chno="710" channel-number="710",BRAVO ENG
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180780/broadcasts/day/0?channelPosition=335
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180780/broadcasts/day/0?channelPosition=341
 #EXTINF:-1 tvg-id="TELEMUNDO.fr" tvg-name="TELEMUNDO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180782/canal-ouah/CHN43FB/TELEMUNDOPOURFB_myCANAL_640x480" tvg-chno="711" channel-number="711",TELEMUNDO
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180782/broadcasts/day/0?channelPosition=336
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180782/broadcasts/day/0?channelPosition=342
 #EXTINF:-1 tvg-id="ZEE.WORLD.fr" tvg-name="ZEE WORLD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180784/canal-ouah/CHN43FB/ZEEWORLD_myCANAL_640x480" tvg-chno="712" channel-number="712",ZEE WORLD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180784/broadcasts/day/0?channelPosition=337
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180784/broadcasts/day/0?channelPosition=343
 #EXTINF:-1 tvg-id="AFRICA.MAGIC.EPIC.fr" tvg-name="AFRICA MAGIC EPIC" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180783/canal-ouah/CHN43FB/AFRICAMAGICEPIC_ONLIGHT_640x480-t5Bi" tvg-chno="713" channel-number="713",AFRICA MAGIC EPIC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180783/broadcasts/day/0?channelPosition=338
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180783/broadcasts/day/0?channelPosition=344
 #EXTINF:-1 tvg-id="NICKELODEON.JR.ENG.fr" tvg-name="NICKELODEON JR ENG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180786/canal-ouah/CHN43FB/NICKELODEONJUNIOR_640x480-9bw8" tvg-chno="714" channel-number="714",NICKELODEON JR ENG
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180786/broadcasts/day/0?channelPosition=339
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180786/broadcasts/day/0?channelPosition=345
 #EXTINF:-1 tvg-id="NICKELODEON.ENG.fr" tvg-name="NICKELODEON ENG" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180785/canal-ouah/CHN43FB/NICKELODEON_640x480-Copie-Az2v" tvg-chno="715" channel-number="715",NICKELODEON ENG
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180785/broadcasts/day/0?channelPosition=340
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180785/broadcasts/day/0?channelPosition=346
 #EXTINF:-1 tvg-id="AFRICA.MAGIC.SHOWCASE.fr" tvg-name="AFRICA MAGIC SHOWCASE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180788/canal-ouah/CHN43FB/AFRICAMAGICSHOWCASE_ONLIGHT_640x480-dgYd" tvg-chno="716" channel-number="716",AFRICA MAGIC SHOWCASE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180788/broadcasts/day/0?channelPosition=341
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180788/broadcasts/day/0?channelPosition=347
 #EXTINF:-1 tvg-id="UNIVERSAL.fr" tvg-name="UNIVERSAL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180299/canal-ouah/CHN43FB/UNIVERSALTV_640x4802-AlR9" tvg-chno="717" channel-number="717",UNIVERSAL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180299/broadcasts/day/0?channelPosition=342
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180299/broadcasts/day/0?channelPosition=348
 #EXTINF:-1 tvg-id="MNET.MOVIES.3.fr" tvg-name="MNET MOVIES 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180790/canal-ouah/CHN43FB/MOVIES3POURFB_myCANAL_640x480" tvg-chno="718" channel-number="718",MNET MOVIES 3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180790/broadcasts/day/0?channelPosition=343
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180790/broadcasts/day/0?channelPosition=349
 #EXTINF:-1 tvg-id="MNET.MOVIES.4.fr" tvg-name="MNET MOVIES 4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180791/canal-ouah/CHN43FB/MOVIES4POURFB_myCANAL_640x480" tvg-chno="719" channel-number="719",MNET MOVIES 4
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180791/broadcasts/day/0?channelPosition=344
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180791/broadcasts/day/0?channelPosition=350
 #EXTINF:-1 tvg-id="STUDIO.UNIVERSAL.fr" tvg-name="STUDIO UNIVERSAL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180410/canal-ouah/CHN43FB/STUDIOUNIVERSAL_ONLIGHT_640x480-U3IU" tvg-chno="720" channel-number="720",STUDIO UNIVERSAL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180410/broadcasts/day/0?channelPosition=345
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180410/broadcasts/day/0?channelPosition=351
 #EXTINF:-1 tvg-id="SS.WWE.fr" tvg-name="SS WWE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180382/canal-ouah/CHN43FB/LOGO_WWE_myCANAL_640x480-Uy6c" tvg-chno="725" channel-number="725",SS WWE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180382/broadcasts/day/0?channelPosition=346
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180382/broadcasts/day/0?channelPosition=352
 #EXTINF:-1 tvg-id="SUPERSPORT.ACTION.fr" tvg-name="SUPERSPORT ACTION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180413/canal-ouah/CHN43FB/SUPERSPORT_ACTION_640x480-6dQv" tvg-chno="726" channel-number="726",SUPERSPORT ACTION
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180413/broadcasts/day/0?channelPosition=347
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180413/broadcasts/day/0?channelPosition=353
 #EXTINF:-1 tvg-id="SS.AFRICA.2.HD.fr" tvg-name="SS AFRICA 2 HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180423/canal-ouah/CHN43FB/SUPERSPORTAFRICA2_640x480-LIg8" tvg-chno="727" channel-number="727",SS AFRICA 2 HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180423/broadcasts/day/0?channelPosition=348
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180423/broadcasts/day/0?channelPosition=354
 #EXTINF:-1 tvg-id="DORCEL.TV.AFRICA.fr" tvg-name="DORCEL TV AFRICA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180702/canal-ouah/CHN43FB/DORCELTVAFRICA_POURFB_RVB" tvg-chno="740" channel-number="740",DORCEL TV AFRICA
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180702/broadcasts/day/0?channelPosition=349
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180702/broadcasts/day/0?channelPosition=355
 #EXTINF:-1 tvg-id="PENTHOUSE.BLACK.fr" tvg-name="PENTHOUSE BLACK" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180652/canal-ouah/CHN43FB/penthouse_black_fb" tvg-chno="741" channel-number="741",PENTHOUSE BLACK
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180652/broadcasts/day/0?channelPosition=350
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180652/broadcasts/day/0?channelPosition=356
 #EXTINF:-1 tvg-id="DORCEL.TV.fr" tvg-name="DORCEL TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21522963" tvg-chno="742" channel-number="742",DORCEL TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180154/broadcasts/day/0?channelPosition=351
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180154/broadcasts/day/0?channelPosition=357
 #EXTINF:-1 tvg-id="VIXEN.fr" tvg-name="VIXEN" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180934/canal-ouah/CHN43FB/vixen_fb" tvg-chno="743" channel-number="743",VIXEN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180934/broadcasts/day/0?channelPosition=352
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180934/broadcasts/day/0?channelPosition=358
 #EXTINF:-1 tvg-id="XXL.fr" tvg-name="XXL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/25437094" tvg-chno="744" channel-number="744",XXL
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180110/broadcasts/day/0?channelPosition=353
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180110/broadcasts/day/0?channelPosition=359
 #EXTINF:-1 tvg-id="HUSTLER.HD.fr" tvg-name="HUSTLER HD" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180103/canal-ouah/CHN43FB/HUSTLERTVHD_myCANAL_640x480-eleQ" tvg-chno="745" channel-number="745",HUSTLER HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180103/broadcasts/day/0?channelPosition=354
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180103/broadcasts/day/0?channelPosition=360
 #EXTINF:-1 tvg-id="PRIVATE.TV.fr" tvg-name="PRIVATE TV" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180211/canal-ouah/CHN43FB/PRIVATEHD_NOIR_2024_640x480-F-KR" tvg-chno="746" channel-number="746",PRIVATE TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180211/broadcasts/day/0?channelPosition=355
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180211/broadcasts/day/0?channelPosition=361
 #EXTINF:-1 tvg-id="TEST.AFRIQUE.fr" tvg-name="TEST AFRIQUE" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180364/canal-ouah/CHN43FB/CHN43FB_174_20240611-uIxM-5BKA-nvyA-XAQH" tvg-chno="750" channel-number="750",TEST AFRIQUE
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180364/broadcasts/day/0?channelPosition=356
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180364/broadcasts/day/0?channelPosition=362
 #EXTINF:-1 tvg-id="TEST.19.fr" tvg-name="TEST 19" tvg-logo="" tvg-chno="830" channel-number="830",TEST 19
-https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180416/broadcasts/day/0?channelPosition=357
+https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180416/broadcasts/day/0?channelPosition=363
