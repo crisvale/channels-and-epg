@@ -193,7 +193,7 @@ https://guidatv.sky.it#channel-10470
 https://guidatv.sky.it#channel-12123
 #EXTINF:-1 tvg-id="HGTV.HD.it" tvg-name="HGTV HD" tvg-logo="https://guidatv.sky.it/logo/4334hgtvhd_Dark_Fit.png" tvg-chno="418" channel-number="418",HGTV HD
 https://guidatv.sky.it#channel-12127
-#EXTINF:-1 tvg-id="_Discovery.Turbo.HD.it" tvg-name="_Discovery Turbo HD" tvg-logo="https://guidatv.sky.it/logo/3659discoveryturbohd_Dark_Fit.png" tvg-chno="419" channel-number="419",_Discovery Turbo HD
+#EXTINF:-1 tvg-id="Discovery.Turbo.it" tvg-name="Discovery Turbo" tvg-logo="https://guidatv.sky.it/logo/3659discoveryturbo_Dark_Fit.png?checksum=6e92f61f-9cfc-4885-bb5f-b15e7266939e" tvg-chno="419" channel-number="419",Discovery Turbo
 https://guidatv.sky.it#channel-12131
 #EXTINF:-1 tvg-id="VALUE.24.TV.it" tvg-name="VALUE 24 TV" tvg-logo="https://guidatv.sky.it/logo/5524value24tv_Dark_Fit.png?checksum=ee465cce-d9e2-45e7-9eda-8eb0d5610bd9" tvg-chno="490" channel-number="490",VALUE 24 TV
 https://guidatv.sky.it#channel-11712
