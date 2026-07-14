@@ -49,6 +49,8 @@ https://www.movistarplus.es/canal/a-punt?id=apunt
 https://www.movistarplus.es/canal/33?id=can33
 #EXTINF:-1 tvg-id="Andalucía.TV.es" tvg-name="Andalucía TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ANDATV.png" tvg-chno="10" channel-number="10",Andalucía TV
 https://www.movistarplus.es/canal/andalucia-tv?id=andatv
+#EXTINF:-1 tvg-id="Atlántico.TV.es" tvg-name="Atlántico TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATLAT.png" tvg-chno="10" channel-number="10",Atlántico TV
+https://www.movistarplus.es/canal/atlantico-tv?id=atlat
 #EXTINF:-1 tvg-id="La.Ocho.TV.es" tvg-name="La Ocho TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MEDITE.png" tvg-chno="10" channel-number="10",La Ocho TV
 https://www.movistarplus.es/canal/la-ocho-tv?id=medite
 #EXTINF:-1 tvg-id="La.Otra.es" tvg-name="La Otra" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/OTRA.png" tvg-chno="10" channel-number="10",La Otra
