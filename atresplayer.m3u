@@ -1,0 +1,37 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_2025/sombreado/Antena3_tiny.png" tvg-chno="1" channel-number="1",Antena 3
+https://www.atresplayer.com/directos/antena3/
+#EXTINF:-1 tvg-id="laSexta.es" tvg-name="laSexta" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/LaSexta_tiny.png" tvg-chno="2" channel-number="2",laSexta
+https://www.atresplayer.com/directos/lasexta/
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Neox_tiny.png" tvg-chno="3" channel-number="3",Neox
+https://www.atresplayer.com/directos/neox/
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Nova_tiny.png" tvg-chno="4" channel-number="4",Nova
+https://www.atresplayer.com/directos/nova/
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Mega_tiny.png" tvg-chno="5" channel-number="5",Mega
+https://www.atresplayer.com/directos/mega/
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/A3S_tiny.png" tvg-chno="6" channel-number="6",Atreseries
+https://www.atresplayer.com/directos/atreseries/
+#EXTINF:-1 tvg-id="Flooxer.es" tvg-name="Flooxer" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png" tvg-chno="7" channel-number="7",Flooxer
+https://www.atresplayer.com/directos/canal-flooxer/
+#EXTINF:-1 tvg-id="Clásicos.es" tvg-name="Clásicos" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" tvg-chno="8" channel-number="8",Clásicos
+https://www.atresplayer.com/directos/clasicos/
+#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" tvg-chno="9" channel-number="9",Kidz
+https://www.atresplayer.com/directos/canal-kidz/
+#EXTINF:-1 tvg-id="Aquí.no.hay.quién.viva.es" tvg-name="Aquí no hay quién viva" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" tvg-chno="10" channel-number="10",Aquí no hay quién viva
+https://www.atresplayer.com/directos/aqui-no-hay-quien-viva/
+#EXTINF:-1 tvg-id="El.Hormiguero.es" tvg-name="El Hormiguero" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/HORMIGUERO.png" tvg-chno="11" channel-number="11",El Hormiguero
+https://www.atresplayer.com/directos/el-hormiguero/
+#EXTINF:-1 tvg-id="Equipo.de.investigación.es" tvg-name="Equipo de investigación" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/EQUIPO_DE_INVESTIGACION.png" tvg-chno="12" channel-number="12",Equipo de investigación
+https://www.atresplayer.com/directos/equipo-de-investigacion/
+#EXTINF:-1 tvg-id="FoQ.es" tvg-name="FoQ" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/FOQ.png" tvg-chno="13" channel-number="13",FoQ
+https://www.atresplayer.com/directos/foq/
+#EXTINF:-1 tvg-id="El.club.de.la.comedia.es" tvg-name="El club de la comedia" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png" tvg-chno="14" channel-number="14",El club de la comedia
+https://www.atresplayer.com/directos/el-club-de-la-comedia/
+#EXTINF:-1 tvg-id="Multicine.es" tvg-name="Multicine" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" tvg-chno="15" channel-number="15",Multicine
+https://www.atresplayer.com/directos/multicine/
+#EXTINF:-1 tvg-id="Comedia.es" tvg-name="Comedia" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" tvg-chno="16" channel-number="16",Comedia
+https://www.atresplayer.com/directos/comedia/
+#EXTINF:-1 tvg-id="Mentes.inquietas.es" tvg-name="Mentes inquietas" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" tvg-chno="17" channel-number="17",Mentes inquietas
+https://www.atresplayer.com/directos/mentes-inquietas/
+#EXTINF:-1 tvg-id="atresplayer.PREMIUM.es" tvg-name="atresplayer PREMIUM" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" tvg-chno="18" channel-number="18",atresplayer PREMIUM
+https://www.atresplayer.com/directos/atresplayer-premium/
