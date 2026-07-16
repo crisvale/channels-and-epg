@@ -241,6 +241,8 @@ https://guidatv.sky.it#channel-5119
 https://guidatv.sky.it#channel-460
 #EXTINF:-1 tvg-id="Nick.Jr.it" tvg-name="Nick Jr" tvg-logo="https://guidatv.sky.it/logo/424nickjr_Dark_Fit.png?checksum=888d7b93d39b68714e414336cdb7ebd5" tvg-chno="603" channel-number="603",Nick Jr
 https://guidatv.sky.it#channel-461
+#EXTINF:-1 tvg-id="Disney.Jr.it" tvg-name="Disney Jr" tvg-logo="https://guidatv.sky.it/logo/581disneyjr_Dark_Fit.png" tvg-chno="604" channel-number="604",Disney Jr
+https://guidatv.sky.it#channel-11974
 #EXTINF:-1 tvg-id="Nickelodeon.it" tvg-name="Nickelodeon" tvg-logo="https://guidatv.sky.it/logo/320nickelodeon_Dark_Fit.png?checksum=b3341710a4c547732edfcd2773b3be9b" tvg-chno="605" channel-number="605",Nickelodeon
 https://guidatv.sky.it#channel-320
 #EXTINF:-1 tvg-id="Cartoon.Network.it" tvg-name="Cartoon Network" tvg-logo="https://guidatv.sky.it/logo/258cartoonnetwork_Dark_Fit.png?checksum=ff59700d-aaea-4db7-96d3-ba42afa633d0" tvg-chno="607" channel-number="607",Cartoon Network
@@ -265,7 +267,7 @@ https://guidatv.sky.it#channel-462
 https://guidatv.sky.it#channel-10993
 #EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-name="Virgin Radio" tvg-logo="https://guidatv.sky.it/logo/5426virginradio_Dark_Fit.png?checksum=cc546229-d2f5-4e6e-ae1f-ce7e54d7618f" tvg-chno="717" channel-number="717",Virgin Radio
 https://guidatv.sky.it#channel-11344
-#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia TV HD" tvg-logo="https://guidatv.sky.it/logo/5454radioitaliatvhd_Dark_Fit.png?checksum=4f454261-8130-4220-b45e-440c53eb5ade" tvg-chno="725" channel-number="725",Radio Italia TV HD
+#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="Radio Italia TV HD" tvg-logo="https://guidatv.sky.it/logo/5454radioitaliatvhd_Dark_Fit.png?checksum=02b93f6a-2253-417e-ac78-a5132fa1dce5" tvg-chno="725" channel-number="725",Radio Italia TV HD
 https://guidatv.sky.it#channel-9833
 #EXTINF:-1 tvg-id="Radio.Italia.Live.it" tvg-name="Radio Italia Live" tvg-logo="https://guidatv.sky.it/logo/5438radioitalialive_Dark_Fit.png" tvg-chno="726" channel-number="726",Radio Italia Live
 https://guidatv.sky.it#channel-10033
