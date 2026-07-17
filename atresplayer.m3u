@@ -1,37 +1,37 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2024/07/17/8A489B72-3E7F-448F-B9E9-D9014C144BF4/1920x1080.jpg" tvg-chno="1" channel-number="1",Antena 3
+#EXTINF:-1 tvg-id="Antena.3.es" tvg-name="Antena 3" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_2025/sombreado/Antena3_tiny.png" tvg-chno="1" channel-number="1",Antena 3
 https://www.atresplayer.com/directos/antena3/
-#EXTINF:-1 tvg-id="Aquí.no.hay.quién.viva.es" tvg-name="Aquí no hay quién viva" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/26/0A553DAC-69E3-4C72-8F99-18AB469D1C0B/1920x1080.jpg" tvg-chno="10" channel-number="10",Aquí no hay quién viva
+#EXTINF:-1 tvg-id="Aquí.no.hay.quién.viva.es" tvg-name="Aquí no hay quién viva" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" tvg-chno="10" channel-number="10",Aquí no hay quién viva
 https://www.atresplayer.com/directos/aqui-no-hay-quien-viva/
-#EXTINF:-1 tvg-id="El.Hormiguero.es" tvg-name="El Hormiguero" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2025/08/27/C9D672B0-0473-4443-8E54-BA679B7E1194/1920x1080.jpg" tvg-chno="11" channel-number="11",El Hormiguero
+#EXTINF:-1 tvg-id="El.Hormiguero.es" tvg-name="El Hormiguero" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/HORMIGUERO.png" tvg-chno="11" channel-number="11",El Hormiguero
 https://www.atresplayer.com/directos/el-hormiguero/
-#EXTINF:-1 tvg-id="Equipo.de.investigación.es" tvg-name="Equipo de investigación" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/01/13/9A4DB204-ACB2-43EA-AB6C-6C85A29A7F9D/1920x1080.jpg" tvg-chno="12" channel-number="12",Equipo de investigación
+#EXTINF:-1 tvg-id="Equipo.de.investigación.es" tvg-name="Equipo de investigación" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/EQUIPO_DE_INVESTIGACION.png" tvg-chno="12" channel-number="12",Equipo de investigación
 https://www.atresplayer.com/directos/equipo-de-investigacion/
-#EXTINF:-1 tvg-id="FoQ.es" tvg-name="FoQ" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/26/3B25F0BE-D0E0-41FE-A8A5-28EC60A33C27/1920x1080.jpg" tvg-chno="13" channel-number="13",FoQ
+#EXTINF:-1 tvg-id="FoQ.es" tvg-name="FoQ" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/FOQ.png" tvg-chno="13" channel-number="13",FoQ
 https://www.atresplayer.com/directos/foq/
-#EXTINF:-1 tvg-id="El.club.de.la.comedia.es" tvg-name="El club de la comedia" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/07/04/0CD6D2EC-AD84-4D24-9824-38FE16CCBB90/1920x1080.jpg" tvg-chno="14" channel-number="14",El club de la comedia
+#EXTINF:-1 tvg-id="El.club.de.la.comedia.es" tvg-name="El club de la comedia" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png" tvg-chno="14" channel-number="14",El club de la comedia
 https://www.atresplayer.com/directos/el-club-de-la-comedia/
-#EXTINF:-1 tvg-id="Multicine.es" tvg-name="Multicine" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/04/20/679DF6E9-D4B6-4D0A-BC22-6E2BCD8D1875/1920x1080.jpg" tvg-chno="15" channel-number="15",Multicine
+#EXTINF:-1 tvg-id="Multicine.es" tvg-name="Multicine" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" tvg-chno="15" channel-number="15",Multicine
 https://www.atresplayer.com/directos/multicine/
-#EXTINF:-1 tvg-id="Comedia.es" tvg-name="Comedia" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/02/A9136D16-A21E-4751-9B38-D6FE80A5C517/1920x1080.jpg" tvg-chno="16" channel-number="16",Comedia
+#EXTINF:-1 tvg-id="Comedia.es" tvg-name="Comedia" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" tvg-chno="16" channel-number="16",Comedia
 https://www.atresplayer.com/directos/comedia/
-#EXTINF:-1 tvg-id="Mentes.inquietas.es" tvg-name="Mentes inquietas" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2026/03/23/F48AF5DF-E510-475E-80A0-0B08DE515EF1/1920x1080.jpg" tvg-chno="17" channel-number="17",Mentes inquietas
+#EXTINF:-1 tvg-id="Mentes.inquietas.es" tvg-name="Mentes inquietas" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" tvg-chno="17" channel-number="17",Mentes inquietas
 https://www.atresplayer.com/directos/mentes-inquietas/
-#EXTINF:-1 tvg-id="atresplayer.PREMIUM.es" tvg-name="atresplayer PREMIUM" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2023/06/19/B6CD738C-E498-4EDB-BF9A-954DDC9812FE/1920x1080.jpg" tvg-chno="18" channel-number="18",atresplayer PREMIUM
+#EXTINF:-1 tvg-id="atresplayer.PREMIUM.es" tvg-name="atresplayer PREMIUM" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" tvg-chno="18" channel-number="18",atresplayer PREMIUM
 https://www.atresplayer.com/directos/atresplayer-premium/
-#EXTINF:-1 tvg-id="laSexta.es" tvg-name="laSexta" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages02/2025/01/14/F881D8BB-2852-4B18-8494-9DA49C1D971C/1920x1080.jpg" tvg-chno="2" channel-number="2",laSexta
+#EXTINF:-1 tvg-id="laSexta.es" tvg-name="laSexta" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/LaSexta_tiny.png" tvg-chno="2" channel-number="2",laSexta
 https://www.atresplayer.com/directos/lasexta/
-#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2022/10/26/DC94D97C-5687-441F-9C10-98D218385096/1920x1080.jpg" tvg-chno="3" channel-number="3",Neox
+#EXTINF:-1 tvg-id="Neox.es" tvg-name="Neox" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Neox_tiny.png" tvg-chno="3" channel-number="3",Neox
 https://www.atresplayer.com/directos/neox/
-#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2025/10/14/929E4DA2-675A-430D-94BC-9449C83F54CB/1920x1080.jpg" tvg-chno="4" channel-number="4",Nova
+#EXTINF:-1 tvg-id="Nova.es" tvg-name="Nova" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Nova_tiny.png" tvg-chno="4" channel-number="4",Nova
 https://www.atresplayer.com/directos/nova/
-#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/26/5F0D761A-08CC-4F6B-84A4-EFD6D16A7142/1920x1080.jpg" tvg-chno="5" channel-number="5",Mega
+#EXTINF:-1 tvg-id="Mega.es" tvg-name="Mega" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Mega_tiny.png" tvg-chno="5" channel-number="5",Mega
 https://www.atresplayer.com/directos/mega/
-#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/23/D30BDE85-F609-44D8-85FB-CEB1D0B8A491/1920x1080.jpg" tvg-chno="6" channel-number="6",Atreseries
+#EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/A3S_tiny.png" tvg-chno="6" channel-number="6",Atreseries
 https://www.atresplayer.com/directos/atreseries/
-#EXTINF:-1 tvg-id="Flooxer.es" tvg-name="Flooxer" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2021/10/06/E111ECE4-AC6A-4843-9B9C-35E7532F8DEF/1920x1080.jpg" tvg-chno="7" channel-number="7",Flooxer
+#EXTINF:-1 tvg-id="Flooxer.es" tvg-name="Flooxer" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png" tvg-chno="7" channel-number="7",Flooxer
 https://www.atresplayer.com/directos/canal-flooxer/
-#EXTINF:-1 tvg-id="Clásicos.es" tvg-name="Clásicos" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/06/28/7DB5746D-D25C-4B51-8B28-36AB1C4B0C99/1920x1080.jpg" tvg-chno="8" channel-number="8",Clásicos
+#EXTINF:-1 tvg-id="Clásicos.es" tvg-name="Clásicos" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" tvg-chno="8" channel-number="8",Clásicos
 https://www.atresplayer.com/directos/clasicos/
-#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" tvg-logo="https://imagenes.atresplayer.com/atp/clipping/cmsimages01/2023/07/04/D47344F0-D59F-4DD8-AE44-A5B50E52BD69/1920x1080.jpg" tvg-chno="9" channel-number="9",Kidz
+#EXTINF:-1 tvg-id="Kidz.es" tvg-name="Kidz" tvg-logo="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" tvg-chno="9" channel-number="9",Kidz
 https://www.atresplayer.com/directos/canal-kidz/
