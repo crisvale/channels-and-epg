@@ -179,8 +179,6 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f4
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/530/broadcasts/day/0?channelPosition=90
 #EXTINF:-1 tvg-id="TELETOON+.fr" tvg-name="TELETOON+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21523014" tvg-chno="137" channel-number="137",TELETOON+
 https://www.canalplus.com/chaines/teletoon
-#EXTINF:-1 tvg-id="TELETOON+.fr" tvg-name="TELETOON+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21523015" tvg-chno="138" channel-number="138",TELETOON+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/582/broadcasts/day/0?channelPosition=92
 #EXTINF:-1 tvg-id="CARTOON.NETWORK.fr" tvg-name="CARTOON NETWORK" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/502/canal-ouah/CHN43FB/CHN43FB_502_20240611-MB1a" tvg-chno="141" channel-number="141",CARTOON NETWORK
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/502/broadcasts/day/0?channelPosition=93
 #EXTINF:-1 tvg-id="NICKELODEON.fr" tvg-name="NICKELODEON" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/591/canal-ouah/CHN43FB/CHN43FB_591_20240806-tvHD" tvg-chno="142" channel-number="142",NICKELODEON
@@ -535,13 +533,9 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f4
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/94/broadcasts/day/0?channelPosition=268
 #EXTINF:-1 tvg-id="TEST17.fr" tvg-name="TEST17" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/95/canal-ouah/CHN43FB/test17-yQTn" tvg-chno="817" channel-number="817",TEST17
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/95/broadcasts/day/0?channelPosition=269
-#EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="CANAL+" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/573/canal-ouah/CHN43FB/CHN43FB_573_29012021" tvg-chno="870" channel-number="870",CANAL+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/573/broadcasts/day/0?channelPosition=270
 #EXTINF:-1 tvg-id="CANAL+.FOOT.BARSAT.fr" tvg-name="CANAL+ FOOT BARSAT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1045/canal-ouah/CHN43FB/CHN43FB_1045_20220727" tvg-chno="871" channel-number="871",CANAL+ FOOT BARSAT
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1045/broadcasts/day/0?channelPosition=271
 #EXTINF:-1 tvg-id="CANAL+.SPORT.360.BARSAT.fr" tvg-name="CANAL+ SPORT 360 BARSAT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1048/canal-ouah/CHN43FB/CHN43FB_1048_20220727" tvg-chno="872" channel-number="872",CANAL+ SPORT 360 BARSAT
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1048/broadcasts/day/0?channelPosition=272
-#EXTINF:-1 tvg-id="CANAL+.SPORT.fr" tvg-name="CANAL+ SPORT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/574/canal-ouah/CHN43FB/CHN43FB_574_date" tvg-chno="873" channel-number="873",CANAL+ SPORT
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/574/broadcasts/day/0?channelPosition=273
 #EXTINF:-1 tvg-id="CANAL+.MODE.EVENT.fr" tvg-name="CANAL+ MODE EVENT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1001/canal-ouah/CHN43FB/CHN43FB_301_29082023-qrbM" tvg-chno="900" channel-number="900",CANAL+ MODE EVENT
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1001/broadcasts/day/0?channelPosition=274
