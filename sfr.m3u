@@ -1,915 +1,915 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/7/4/15305472.jpg" tvg-chno="1" channel-number="1",TF1
-https://www.canalplus.com/chaines/mytf1
-#EXTINF:-1 tvg-id="France.2.fr" tvg-name="France 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/1/5/15522518.jpg" tvg-chno="2" channel-number="2",France 2
-https://www.canalplus.com/chaines/france-2/
-#EXTINF:-1 tvg-id="France.3.fr" tvg-name="France 3" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="3" channel-number="3",France 3
-https://www.canalplus.com/chaines/france-3/
-#EXTINF:-1 tvg-id="France.4.fr" tvg-name="France 4" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/4/3/15186344.jpg" tvg-chno="4" channel-number="4",France 4
-https://www.canalplus.com/chaines/france-4/
-#EXTINF:-1 tvg-id="France.5.fr" tvg-name="France 5" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/1/7/15183717.jpg" tvg-chno="5" channel-number="5",France 5
-https://www.canalplus.com/chaines/france-5/
-#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/9/15525961.jpg" tvg-chno="6" channel-number="6",M6
-https://www.canalplus.com/chaines/m6/
-#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/5/15304569.jpg" tvg-chno="7" channel-number="7",Arte
-https://www.canalplus.com/chaines/arte/
-#EXTINF:-1 tvg-id="LCP-AN-PS.fr" tvg-name="LCP-AN-PS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/2/2/15227225.jpg" tvg-chno="8" channel-number="8",LCP-AN-PS
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png" tvg-chno="1" channel-number="1",TF1
+https://tv.sfr.fr/direct-tv/tf1
+#EXTINF:-1 tvg-id="France.2.fr" tvg-name="France 2" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_2_color.png" tvg-chno="2" channel-number="2",France 2
+https://tv.sfr.fr/direct-tv/france-2
+#EXTINF:-1 tvg-id="France.3.fr" tvg-name="France 3" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_3_color.png" tvg-chno="3" channel-number="3",France 3
+https://tv.sfr.fr/direct-tv/france-3
+#EXTINF:-1 tvg-id="France.4.fr" tvg-name="France 4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_4_color.png" tvg-chno="4" channel-number="4",France 4
+https://tv.sfr.fr/direct-tv/france-4
+#EXTINF:-1 tvg-id="France.5.fr" tvg-name="France 5" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_5_color.png" tvg-chno="5" channel-number="5",France 5
+https://tv.sfr.fr/direct-tv/france-5
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/M6100x100fondgris.png" tvg-chno="6" channel-number="6",M6
+https://tv.sfr.fr/direct-tv/m6
+#EXTINF:-1 tvg-id="Arte.fr" tvg-name="Arte" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_color.png" tvg-chno="7" channel-number="7",Arte
+https://tv.sfr.fr/direct-tv/arte
+#EXTINF:-1 tvg-id="LCP-AN-PS.fr" tvg-name="LCP-AN-PS" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LCP100x100.png" tvg-chno="8" channel-number="8",LCP-AN-PS
 https://tv.sfr.fr/direct-tv/lcp-an-ps
-#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/4/8/15192840.jpg" tvg-chno="9" channel-number="9",W9
-https://www.canalplus.com/chaines/w9/
-#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/1/1/15254116.jpg" tvg-chno="10" channel-number="10",TMC
-https://www.canalplus.com/chaines-apps/chaines/mytf1/pid131512-tmc.html
-#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/5/15305539.jpg" tvg-chno="11" channel-number="11",TFX
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/570/broadcasts/day/0?channelPosition=57
-#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/7/2/15290272.jpg" tvg-chno="12" channel-number="12",Gulli
-https://www.canalplus.com/chaines/gulli
-#EXTINF:-1 tvg-id="BFM.TV.fr" tvg-name="BFM TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/8/4/15179482.jpg" tvg-chno="13" channel-number="13",BFM TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/633/broadcasts/day/0?channelPosition=108
-#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/3/15181348.jpg" tvg-chno="14" channel-number="14",CNews
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/480/broadcasts/day/0?channelPosition=107
-#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/7/0/15186074.jpg" tvg-chno="15" channel-number="15",LCI
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/553/broadcasts/day/0?channelPosition=109
-#EXTINF:-1 tvg-id="franceinfo:.fr" tvg-name="franceinfo:" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/8/9/15183986.jpg" tvg-chno="16" channel-number="16",franceinfo:
-https://www.canalplus.com/chaines/franceinfo/
-#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/4/15213408.jpg" tvg-chno="17" channel-number="17",CStar
-https://www.canalplus.com/chaines/cstar/
-#EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/5/8/15272858.jpg" tvg-chno="18" channel-number="18",T18
-https://www.canalplus.com/chaines/t18/
-#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/1/9/15305916.jpg" tvg-chno="19" channel-number="19",NOVO19
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1168/broadcasts/day/0?channelPosition=60
-#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="TF1 Séries-Films" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/6/5/15254566.jpg" tvg-chno="20" channel-number="20",TF1 Séries-Films
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/W9_color.png" tvg-chno="9" channel-number="9",W9
+https://tv.sfr.fr/direct-tv/w9
+#EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TMC_color.png" tvg-chno="10" channel-number="10",TMC
+https://tv.sfr.fr/direct-tv/tmc
+#EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFX_color.png" tvg-chno="11" channel-number="11",TFX
+https://tv.sfr.fr/direct-tv/tfx
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="Gulli" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GULLI100x100.png" tvg-chno="12" channel-number="12",Gulli
+https://tv.sfr.fr/direct-tv/gulli
+#EXTINF:-1 tvg-id="BFM.TV.fr" tvg-name="BFM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMTVV3100x100couleur.png" tvg-chno="13" channel-number="13",BFM TV
+https://tv.sfr.fr/direct-tv/bfm-tv
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="CNews" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNews_color.png" tvg-chno="14" channel-number="14",CNews
+https://tv.sfr.fr/direct-tv/cnews
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/LCI_color.png" tvg-chno="15" channel-number="15",LCI
+https://tv.sfr.fr/direct-tv/lci
+#EXTINF:-1 tvg-id="franceinfo:.fr" tvg-name="franceinfo:" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/franceinfoblack100x100.png" tvg-chno="16" channel-number="16",franceinfo:
+https://tv.sfr.fr/direct-tv/franceinfo
+#EXTINF:-1 tvg-id="CStar.fr" tvg-name="CStar" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CStar_color.png" tvg-chno="17" channel-number="17",CStar
+https://tv.sfr.fr/direct-tv/cstar
+#EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/T18100x100.png" tvg-chno="18" channel-number="18",T18
+https://tv.sfr.fr/direct-tv/t18
+#EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Novo19100x100.png" tvg-chno="19" channel-number="19",NOVO19
+https://tv.sfr.fr/direct-tv/novo19
+#EXTINF:-1 tvg-id="TF1.Séries-Films.fr" tvg-name="TF1 Séries-Films" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_Series_Films_color.png" tvg-chno="20" channel-number="20",TF1 Séries-Films
 https://tv.sfr.fr/direct-tv/tf1-series-films
-#EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" tvg-name="La chaine l’Équipe" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/3/8/15186832.jpg" tvg-chno="21" channel-number="21",La chaine l’Équipe
+#EXTINF:-1 tvg-id="La.chaine.l’Équipe.fr" tvg-name="La chaine l’Équipe" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/L_Equipe_color.png" tvg-chno="21" channel-number="21",La chaine l’Équipe
 https://tv.sfr.fr/direct-tv/la-chaine-lequipe
-#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/2/3/15200321.jpg" tvg-chno="22" channel-number="22",6ter
-https://www.canalplus.com/chaines/6ter/
-#EXTINF:-1 tvg-id="RMC.STORY.fr" tvg-name="RMC STORY" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/4/3/15305347.jpg" tvg-chno="23" channel-number="23",RMC STORY
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/571/broadcasts/day/0?channelPosition=62
-#EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-name="RMC Découverte" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/6/8/15195864.jpg" tvg-chno="24" channel-number="24",RMC Découverte
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="6ter" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/6ter_color.png" tvg-chno="22" channel-number="22",6ter
+https://tv.sfr.fr/direct-tv/6ter
+#EXTINF:-1 tvg-id="RMC.STORY.fr" tvg-name="RMC STORY" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSTORY100x100.png" tvg-chno="23" channel-number="23",RMC STORY
+https://tv.sfr.fr/direct-tv/rmc-story
+#EXTINF:-1 tvg-id="RMC.Découverte.fr" tvg-name="RMC Découverte" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCDECOUVERTE100x100.png" tvg-chno="24" channel-number="24",RMC Découverte
 https://tv.sfr.fr/direct-tv/rmc-decouverte
-#EXTINF:-1 tvg-id="RMC.Life.fr" tvg-name="RMC Life" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/6/6/15304663.jpg" tvg-chno="25" channel-number="25",RMC Life
-https://www.canalplus.com/chaines/cherie-25/
-#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="i24 news" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/1/2/15224218.jpg" tvg-chno="28" channel-number="28",i24 news
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/362/broadcasts/day/0?channelPosition=121
-#EXTINF:-1 tvg-id="BFM.Business.fr" tvg-name="BFM Business" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/8/15203871.jpg" tvg-chno="31" channel-number="31",BFM Business
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/645/broadcasts/day/0?channelPosition=118
-#EXTINF:-1 tvg-id="TECH.&amp;.CO.fr" tvg-name="TECH &amp; CO" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15176769.jpg" tvg-chno="32" channel-number="32",TECH &amp; CO
+#EXTINF:-1 tvg-id="RMC.Life.fr" tvg-name="RMC Life" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoRMCLife2L100x100.jpg" tvg-chno="25" channel-number="25",RMC Life
+https://tv.sfr.fr/direct-tv/rmc-life
+#EXTINF:-1 tvg-id="i24.news.fr" tvg-name="i24 news" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/i24_news_color.png" tvg-chno="28" channel-number="28",i24 news
+https://tv.sfr.fr/direct-tv/i24-news
+#EXTINF:-1 tvg-id="BFM.Business.fr" tvg-name="BFM Business" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Business_color.png" tvg-chno="31" channel-number="31",BFM Business
+https://tv.sfr.fr/direct-tv/bfm-business
+#EXTINF:-1 tvg-id="TECH.&amp;.CO.fr" tvg-name="TECH &amp; CO" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100COLORTECHCO.png" tvg-chno="32" channel-number="32",TECH &amp; CO
 https://tv.sfr.fr/direct-tv/tech-co
-#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-name="RMC Sport 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/0/5/15282503.jpg" tvg-chno="33" channel-number="33",RMC Sport 1
+#EXTINF:-1 tvg-id="RMC.Sport.1.fr" tvg-name="RMC Sport 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" tvg-chno="33" channel-number="33",RMC Sport 1
 https://tv.sfr.fr/direct-tv/rmc-sport-1
-#EXTINF:-1 tvg-id="SFR.ACTU.fr" tvg-name="SFR ACTU" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/1/15178188.jpg" tvg-chno="36" channel-number="36",SFR ACTU
+#EXTINF:-1 tvg-id="SFR.ACTU.fr" tvg-name="SFR ACTU" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFRActu100100Couleur003.png" tvg-chno="36" channel-number="36",SFR ACTU
 https://tv.sfr.fr/direct-tv/sfr-actu
-#EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="CANAL+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/2/7/15179724.jpg" tvg-chno="40" channel-number="40",CANAL+
-https://www.canalplus.com/chaines/canalplus/
-#EXTINF:-1 tvg-id="Paris.Première.fr" tvg-name="Paris Première" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/1/15305149.jpg" tvg-chno="41" channel-number="41",Paris Première
+#EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="CANAL+" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png" tvg-chno="40" channel-number="40",CANAL+
+https://tv.sfr.fr/direct-tv/canal
+#EXTINF:-1 tvg-id="Paris.Première.fr" tvg-name="Paris Première" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png" tvg-chno="41" channel-number="41",Paris Première
 https://tv.sfr.fr/direct-tv/paris-premiere
-#EXTINF:-1 tvg-id="Téva.fr" tvg-name="Téva" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/3/15192300.jpg" tvg-chno="42" channel-number="42",Téva
+#EXTINF:-1 tvg-id="Téva.fr" tvg-name="Téva" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Teva_color.png" tvg-chno="42" channel-number="42",Téva
 https://tv.sfr.fr/direct-tv/teva
-#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/2/1/15248129.jpg" tvg-chno="43" channel-number="43",RTL9
-https://www.canalplus.com/chaines/rtl9
-#EXTINF:-1 tvg-id="TV.Breizh.fr" tvg-name="TV Breizh" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/3/2/15192234.jpg" tvg-chno="44" channel-number="44",TV Breizh
-https://www.canalplus.com/chaines/tv-breizh
-#EXTINF:-1 tvg-id="TV5.Monde.fr" tvg-name="TV5 Monde" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/9/3/15468395.jpg" tvg-chno="45" channel-number="45",TV5 Monde
-https://www.canalplus.com/chaines/TV5MONDE/
-#EXTINF:-1 tvg-id="France.24.fr" tvg-name="France 24" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/8/5/15184587.jpg" tvg-chno="47" channel-number="47",France 24
-https://www.canalplus.com/chaines/france-24/
-#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/9/15220906.jpg" tvg-chno="48" channel-number="48",Euronews
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/324/broadcasts/day/0?channelPosition=115
-#EXTINF:-1 tvg-id="RMC.Alerte.Secours.fr" tvg-name="RMC Alerte Secours" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/4/8/15194841.jpg" tvg-chno="49" channel-number="49",RMC Alerte Secours
+#EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RTL9100x100.png" tvg-chno="43" channel-number="43",RTL9
+https://tv.sfr.fr/direct-tv/rtl9
+#EXTINF:-1 tvg-id="TV.Breizh.fr" tvg-name="TV Breizh" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TVBreizh100x100.png" tvg-chno="44" channel-number="44",TV Breizh
+https://tv.sfr.fr/direct-tv/tv-breizh
+#EXTINF:-1 tvg-id="TV5.Monde.fr" tvg-name="TV5 Monde" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV5_Monde_color.png" tvg-chno="45" channel-number="45",TV5 Monde
+https://tv.sfr.fr/direct-tv/tv5-monde
+#EXTINF:-1 tvg-id="France.24.fr" tvg-name="France 24" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_24_color.png" tvg-chno="47" channel-number="47",France 24
+https://tv.sfr.fr/direct-tv/france-24
+#EXTINF:-1 tvg-id="Euronews.fr" tvg-name="Euronews" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EURONEWS100x100.png" tvg-chno="48" channel-number="48",Euronews
+https://tv.sfr.fr/direct-tv/euronews
+#EXTINF:-1 tvg-id="RMC.Alerte.Secours.fr" tvg-name="RMC Alerte Secours" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCALERTESECOURS100x100couleur.png" tvg-chno="49" channel-number="49",RMC Alerte Secours
 https://tv.sfr.fr/direct-tv/rmc-alerte-secours
-#EXTINF:-1 tvg-id="13ème.rue.fr" tvg-name="13ème rue" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/2/2/15198222.jpg" tvg-chno="50" channel-number="50",13ème rue
+#EXTINF:-1 tvg-id="13ème.rue.fr" tvg-name="13ème rue" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/13eme_rue_color.png" tvg-chno="50" channel-number="50",13ème rue
 https://tv.sfr.fr/direct-tv/13eme-rue
-#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/2/6/15228628.jpg" tvg-chno="51" channel-number="51",SciFi
+#EXTINF:-1 tvg-id="SciFi.fr" tvg-name="SciFi" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SciFi100x100.png" tvg-chno="51" channel-number="51",SciFi
 https://tv.sfr.fr/direct-tv/scifi
-#EXTINF:-1 tvg-id="Bravo.fr" tvg-name="Bravo" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15219006.jpg" tvg-chno="52" channel-number="52",Bravo
+#EXTINF:-1 tvg-id="Bravo.fr" tvg-name="Bravo" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Bravo100x100.png" tvg-chno="52" channel-number="52",Bravo
 https://tv.sfr.fr/direct-tv/bravo
-#EXTINF:-1 tvg-id="Discovery.Investigation.fr" tvg-name="Discovery Investigation" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/7/15304762.jpg" tvg-chno="53" channel-number="53",Discovery Investigation
+#EXTINF:-1 tvg-id="Discovery.Investigation.fr" tvg-name="Discovery Investigation" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ID100x100.png" tvg-chno="53" channel-number="53",Discovery Investigation
 https://tv.sfr.fr/direct-tv/discovery-investigation
-#EXTINF:-1 tvg-id="TLC.fr" tvg-name="TLC" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/8/7/15304782.jpg" tvg-chno="54" channel-number="54",TLC
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1097/broadcasts/day/0?channelPosition=54
-#EXTINF:-1 tvg-id="WARNER.TV.fr" tvg-name="WARNER TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/8/4/15266480.jpg" tvg-chno="55" channel-number="55",WARNER TV
-https://www.canalplus.com/chaines/warner-tv
-#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/9/0/15526096.jpg" tvg-chno="56" channel-number="56",MTV
-https://www.canalplus.com/chaines/mtv
-#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/2/2/15175224.jpg" tvg-chno="57" channel-number="57",MCM
-https://www.canalplus.com/chaines/mcm
-#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/1/7/15177713.jpg" tvg-chno="58" channel-number="58",AB1
-https://www.canalplus.com/chaines/ab1
-#EXTINF:-1 tvg-id="SERIE.CLUB.fr" tvg-name="SERIE CLUB" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/2/15191212.jpg" tvg-chno="59" channel-number="59",SERIE CLUB
-https://www.canalplus.com/chaines/serieclub
-#EXTINF:-1 tvg-id="Warner.TV.Next.fr" tvg-name="Warner TV Next" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/4/7/15305742.jpg" tvg-chno="62" channel-number="62",Warner TV Next
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1095/broadcasts/day/0?channelPosition=105
-#EXTINF:-1 tvg-id="Comedy.Central.fr" tvg-name="Comedy Central" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/9/15304948.jpg" tvg-chno="63" channel-number="63",Comedy Central
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/806/broadcasts/day/0?channelPosition=102
-#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/8/15270849.jpg" tvg-chno="92" channel-number="92",BFM2
+#EXTINF:-1 tvg-id="TLC.fr" tvg-name="TLC" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TLC100x100couleur.png" tvg-chno="54" channel-number="54",TLC
+https://tv.sfr.fr/direct-tv/tlc
+#EXTINF:-1 tvg-id="WARNER.TV.fr" tvg-name="WARNER TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/WarnerFond100x100.png" tvg-chno="55" channel-number="55",WARNER TV
+https://tv.sfr.fr/direct-tv/warner-tv
+#EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MTVLOGOCOULEUR100x100.png" tvg-chno="56" channel-number="56",MTV
+https://tv.sfr.fr/direct-tv/mtv
+#EXTINF:-1 tvg-id="MCM.fr" tvg-name="MCM" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/MCM_color.png" tvg-chno="57" channel-number="57",MCM
+https://tv.sfr.fr/direct-tv/mcm
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AB1100x100Noir.png" tvg-chno="58" channel-number="58",AB1
+https://tv.sfr.fr/direct-tv/ab1
+#EXTINF:-1 tvg-id="SERIE.CLUB.fr" tvg-name="SERIE CLUB" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/SERIE_CLUB_color.png" tvg-chno="59" channel-number="59",SERIE CLUB
+https://tv.sfr.fr/direct-tv/serie-club
+#EXTINF:-1 tvg-id="Warner.TV.Next.fr" tvg-name="Warner TV Next" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/WB-Next_100x100.png" tvg-chno="62" channel-number="62",Warner TV Next
+https://tv.sfr.fr/direct-tv/warner-tv-next
+#EXTINF:-1 tvg-id="Comedy.Central.fr" tvg-name="Comedy Central" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Comedy_Central_color.png" tvg-chno="63" channel-number="63",Comedy Central
+https://tv.sfr.fr/direct-tv/comedy-central
+#EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFM2100x100Gris.png" tvg-chno="92" channel-number="92",BFM2
 https://tv.sfr.fr/direct-tv/bfm2
-#EXTINF:-1 tvg-id="RMC.Talk.Info.fr" tvg-name="RMC Talk Info" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/0/2/15188201.jpg" tvg-chno="94" channel-number="94",RMC Talk Info
+#EXTINF:-1 tvg-id="RMC.Talk.Info.fr" tvg-name="RMC Talk Info" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCTalkInfo100x100couleur.png" tvg-chno="94" channel-number="94",RMC Talk Info
 https://tv.sfr.fr/direct-tv/rmc-talk-info
-#EXTINF:-1 tvg-id="BFM.Grands.Reportages.fr" tvg-name="BFM Grands Reportages" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/2/4/15195429.jpg" tvg-chno="95" channel-number="95",BFM Grands Reportages
+#EXTINF:-1 tvg-id="BFM.Grands.Reportages.fr" tvg-name="BFM Grands Reportages" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMGrandsReportages100x100couleur.png" tvg-chno="95" channel-number="95",BFM Grands Reportages
 https://tv.sfr.fr/direct-tv/bfm-grands-reportages
-#EXTINF:-1 tvg-id="Brut..fr" tvg-name="Brut." tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/7/15273706.jpg" tvg-chno="96" channel-number="96",Brut.
+#EXTINF:-1 tvg-id="Brut..fr" tvg-name="Brut." tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/brut-100x100.png" tvg-chno="96" channel-number="96",Brut.
 https://tv.sfr.fr/direct-tv/brut
-#EXTINF:-1 tvg-id="EUROPE.1.TV.fr" tvg-name="EUROPE 1 TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="97" channel-number="97",EUROPE 1 TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1173/broadcasts/day/0?channelPosition=113
-#EXTINF:-1 tvg-id="CNEWS.PRIME.fr" tvg-name="CNEWS PRIME" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/9/1/15273198.jpg" tvg-chno="98" channel-number="98",CNEWS PRIME
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1172/broadcasts/day/0?channelPosition=112
-#EXTINF:-1 tvg-id="RMC.Sport.Access.fr" tvg-name="RMC Sport Access" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/2/6/15187625.jpg" tvg-chno="106" channel-number="106",RMC Sport Access
+#EXTINF:-1 tvg-id="EUROPE.1.TV.fr" tvg-name="EUROPE 1 TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoEurope1100x100.png" tvg-chno="97" channel-number="97",EUROPE 1 TV
+https://tv.sfr.fr/direct-tv/europe-1-tv
+#EXTINF:-1 tvg-id="CNEWS.PRIME.fr" tvg-name="CNEWS PRIME" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CNewsPrime100x100.png" tvg-chno="98" channel-number="98",CNEWS PRIME
+https://tv.sfr.fr/direct-tv/cnews-prime
+#EXTINF:-1 tvg-id="RMC.Sport.Access.fr" tvg-name="RMC Sport Access" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportAccess100x100couleur.png" tvg-chno="106" channel-number="106",RMC Sport Access
 https://tv.sfr.fr/direct-tv/rmc-sport-access
-#EXTINF:-1 tvg-id="AFTER.FOOT.TV.fr" tvg-name="AFTER FOOT TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/9/9/15269993.jpg" tvg-chno="107" channel-number="107",AFTER FOOT TV
+#EXTINF:-1 tvg-id="AFTER.FOOT.TV.fr" tvg-name="AFTER FOOT TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AFTERFOOT100x100.png" tvg-chno="107" channel-number="107",AFTER FOOT TV
 https://tv.sfr.fr/direct-tv/after-foot-tv
-#EXTINF:-1 tvg-id="RMC.Mecanic.fr" tvg-name="RMC Mecanic" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/6/9/15269968.jpg" tvg-chno="108" channel-number="108",RMC Mecanic
+#EXTINF:-1 tvg-id="RMC.Mecanic.fr" tvg-name="RMC Mecanic" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMECANIC100x100couleur.png" tvg-chno="108" channel-number="108",RMC Mecanic
 https://tv.sfr.fr/direct-tv/rmc-mecanic
-#EXTINF:-1 tvg-id="RMC.Sport.Live.2.fr" tvg-name="RMC Sport Live 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/5/7/15187751.jpg" tvg-chno="112" channel-number="112",RMC Sport Live 2
+#EXTINF:-1 tvg-id="RMC.Sport.Live.2.fr" tvg-name="RMC Sport Live 2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportLive2100x100COULEUR.png" tvg-chno="112" channel-number="112",RMC Sport Live 2
 https://tv.sfr.fr/direct-tv/rmc-sport-live-2
-#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN SPORTS 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/15178880.jpg" tvg-chno="115" channel-number="115",beIN SPORTS 1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/381/broadcasts/day/0?channelPosition=39
-#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN SPORTS 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/8/8/15178880.jpg" tvg-chno="116" channel-number="116",beIN SPORTS 2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/384/broadcasts/day/0?channelPosition=40
-#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN SPORTS 3" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/8/1/15179185.jpg" tvg-chno="117" channel-number="117",beIN SPORTS 3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/516/broadcasts/day/0?channelPosition=41
-#EXTINF:-1 tvg-id="LIGUE.1+.fr" tvg-name="LIGUE 1+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/3/5/15276531.jpg" tvg-chno="118" channel-number="118",LIGUE 1+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus
-#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/6/0/15217067.jpg" tvg-chno="119" channel-number="119",Equidia
-https://www.canalplus.com/chaines/equidia
-#EXTINF:-1 tvg-id="MGG.TV.fr" tvg-name="MGG TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/0/15218088.jpg" tvg-chno="121" channel-number="121",MGG TV
+#EXTINF:-1 tvg-id="beIN.SPORTS.1.fr" tvg-name="beIN SPORTS 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_1_color.png" tvg-chno="115" channel-number="115",beIN SPORTS 1
+https://tv.sfr.fr/direct-tv/bein-sports-1
+#EXTINF:-1 tvg-id="beIN.SPORTS.2.fr" tvg-name="beIN SPORTS 2" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" tvg-chno="116" channel-number="116",beIN SPORTS 2
+https://tv.sfr.fr/direct-tv/bein-sports-2
+#EXTINF:-1 tvg-id="beIN.SPORTS.3.fr" tvg-name="beIN SPORTS 3" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" tvg-chno="117" channel-number="117",beIN SPORTS 3
+https://tv.sfr.fr/direct-tv/bein-sports-3
+#EXTINF:-1 tvg-id="LIGUE.1+.fr" tvg-name="LIGUE 1+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue1Bleu100x100.png" tvg-chno="118" channel-number="118",LIGUE 1+
+https://tv.sfr.fr/direct-tv/ligue-1
+#EXTINF:-1 tvg-id="Equidia.fr" tvg-name="Equidia" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Equidia_color.png" tvg-chno="119" channel-number="119",Equidia
+https://tv.sfr.fr/direct-tv/equidia
+#EXTINF:-1 tvg-id="MGG.TV.fr" tvg-name="MGG TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MGGTVvertical100x100.png" tvg-chno="121" channel-number="121",MGG TV
 https://tv.sfr.fr/direct-tv/mgg-tv
-#EXTINF:-1 tvg-id="Automoto.la.chaine.fr" tvg-name="Automoto la chaine" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/4/2/15203247.jpg" tvg-chno="125" channel-number="125",Automoto la chaine
-https://www.canalplus.com/chaines/automoto
-#EXTINF:-1 tvg-id="Journal.du.Golf.TV.fr" tvg-name="Journal du Golf TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/2/15180288.jpg" tvg-chno="128" channel-number="128",Journal du Golf TV
+#EXTINF:-1 tvg-id="Automoto.la.chaine.fr" tvg-name="Automoto la chaine" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Automoto_color.png" tvg-chno="125" channel-number="125",Automoto la chaine
+https://tv.sfr.fr/direct-tv/automoto-la-chaine
+#EXTINF:-1 tvg-id="Journal.du.Golf.TV.fr" tvg-name="Journal du Golf TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/JournalduGolf100x100.png" tvg-chno="128" channel-number="128",Journal du Golf TV
 https://tv.sfr.fr/direct-tv/journal-du-golf-tv
-#EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="Sport en France" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/9/5/15519597.jpg" tvg-chno="129" channel-number="129",Sport en France
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1080/broadcasts/day/0?channelPosition=47
-#EXTINF:-1 tvg-id="OLPLAY.fr" tvg-name="OLPLAY" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/7/3/15369378.jpg" tvg-chno="130" channel-number="130",OLPLAY
+#EXTINF:-1 tvg-id="Sport.en.France.fr" tvg-name="Sport en France" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sport_en_France_color.png" tvg-chno="129" channel-number="129",Sport en France
+https://tv.sfr.fr/direct-tv/sport-en-france
+#EXTINF:-1 tvg-id="OLPLAY.fr" tvg-name="OLPLAY" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/olplay100x100color.png" tvg-chno="130" channel-number="130",OLPLAY
 https://tv.sfr.fr/direct-tv/olplay
-#EXTINF:-1 tvg-id="OCS.fr" tvg-name="OCS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/7/7/15304779.jpg" tvg-chno="146" channel-number="146",OCS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/322/broadcasts/day/0?channelPosition=21
-#EXTINF:-1 tvg-id="CINE+.frisson.fr" tvg-name="CINE+ frisson" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15269362.jpg" tvg-chno="147" channel-number="147",CINE+ frisson
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/398/broadcasts/day/0?channelPosition=22
-#EXTINF:-1 tvg-id="CINE+.émotion.fr" tvg-name="CINE+ émotion" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/0/8/15210805.jpg" tvg-chno="148" channel-number="148",CINE+ émotion
+#EXTINF:-1 tvg-id="OCS.fr" tvg-name="OCS" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/OCS100x100.png" tvg-chno="146" channel-number="146",OCS
+https://tv.sfr.fr/direct-tv/ocs
+#EXTINF:-1 tvg-id="CINE+.frisson.fr" tvg-name="CINE+ frisson" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CineFrisson100x100.png" tvg-chno="147" channel-number="147",CINE+ frisson
+https://tv.sfr.fr/direct-tv/cine-frisson
+#EXTINF:-1 tvg-id="CINE+.émotion.fr" tvg-name="CINE+ émotion" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CineEmotion100x100.png" tvg-chno="148" channel-number="148",CINE+ émotion
 https://tv.sfr.fr/direct-tv/cine-emotion
-#EXTINF:-1 tvg-id="CINE+.family.fr" tvg-name="CINE+ family" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/6/5/15180564.jpg" tvg-chno="149" channel-number="149",CINE+ family
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/533/broadcasts/day/0?channelPosition=24
-#EXTINF:-1 tvg-id="CINE+.festival.fr" tvg-name="CINE+ festival" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/4/6/15304644.jpg" tvg-chno="150" channel-number="150",CINE+ festival
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/532/broadcasts/day/0?channelPosition=25
-#EXTINF:-1 tvg-id="CINE+.classic.fr" tvg-name="CINE+ classic" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/9/5/15211593.jpg" tvg-chno="151" channel-number="151",CINE+ classic
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/531/broadcasts/day/0?channelPosition=26
-#EXTINF:-1 tvg-id="Drive.In.Movie.Channel.fr" tvg-name="Drive In Movie Channel" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/7/9/15176970.jpg" tvg-chno="160" channel-number="160",Drive In Movie Channel
+#EXTINF:-1 tvg-id="CINE+.family.fr" tvg-name="CINE+ family" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CineFamily100x100.png" tvg-chno="149" channel-number="149",CINE+ family
+https://tv.sfr.fr/direct-tv/cine-family
+#EXTINF:-1 tvg-id="CINE+.festival.fr" tvg-name="CINE+ festival" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CineFestival100x100.png" tvg-chno="150" channel-number="150",CINE+ festival
+https://tv.sfr.fr/direct-tv/cine-festival
+#EXTINF:-1 tvg-id="CINE+.classic.fr" tvg-name="CINE+ classic" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CineClassic100x100.png" tvg-chno="151" channel-number="151",CINE+ classic
+https://tv.sfr.fr/direct-tv/cine-classic
+#EXTINF:-1 tvg-id="Drive.In.Movie.Channel.fr" tvg-name="Drive In Movie Channel" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/DriveInMovieChannel100x100.png" tvg-chno="160" channel-number="160",Drive In Movie Channel
 https://tv.sfr.fr/direct-tv/drive-in-movie-channel
-#EXTINF:-1 tvg-id="Ciné.Western+.fr" tvg-name="Ciné Western+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/2/3/15273321.jpg" tvg-chno="161" channel-number="161",Ciné Western+
+#EXTINF:-1 tvg-id="Ciné.Western+.fr" tvg-name="Ciné Western+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CineWestern100x100.png" tvg-chno="161" channel-number="161",Ciné Western+
 https://tv.sfr.fr/direct-tv/cine-western
-#EXTINF:-1 tvg-id="TCM.Cinéma.fr" tvg-name="TCM Cinéma" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/1/2/15254211.jpg" tvg-chno="162" channel-number="162",TCM Cinéma
+#EXTINF:-1 tvg-id="TCM.Cinéma.fr" tvg-name="TCM Cinéma" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TCM100x100.png" tvg-chno="162" channel-number="162",TCM Cinéma
 https://tv.sfr.fr/direct-tv/tcm-cinema
-#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/4/7/15200745.jpg" tvg-chno="163" channel-number="163",Action
-https://www.canalplus.com/chaines/action
-#EXTINF:-1 tvg-id="INSOMNIA.fr" tvg-name="INSOMNIA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15178006.jpg" tvg-chno="164" channel-number="164",INSOMNIA
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="Action" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Action_color.png" tvg-chno="163" channel-number="163",Action
+https://tv.sfr.fr/direct-tv/action
+#EXTINF:-1 tvg-id="INSOMNIA.fr" tvg-name="INSOMNIA" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/INSOMNIA100x100.png" tvg-chno="164" channel-number="164",INSOMNIA
 https://tv.sfr.fr/direct-tv/insomnia
-#EXTINF:-1 tvg-id="RMC.WOW.fr" tvg-name="RMC WOW" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/7/3/15270376.jpg" tvg-chno="167" channel-number="167",RMC WOW
+#EXTINF:-1 tvg-id="RMC.WOW.fr" tvg-name="RMC WOW" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCWOW100x100couleur.png" tvg-chno="167" channel-number="167",RMC WOW
 https://tv.sfr.fr/direct-tv/rmc-wow
-#EXTINF:-1 tvg-id="RMC.Mystère.fr" tvg-name="RMC Mystère" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/4/7/15270740.jpg" tvg-chno="168" channel-number="168",RMC Mystère
+#EXTINF:-1 tvg-id="RMC.Mystère.fr" tvg-name="RMC Mystère" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMystere100x100couleur.png" tvg-chno="168" channel-number="168",RMC Mystère
 https://tv.sfr.fr/direct-tv/rmc-mystere
-#EXTINF:-1 tvg-id="J'irai.dormir.chez.vous.fr" tvg-name="J'irai dormir chez vous" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/5/15269571.jpg" tvg-chno="169" channel-number="169",J'irai dormir chez vous
+#EXTINF:-1 tvg-id="J'irai.dormir.chez.vous.fr" tvg-name="J'irai dormir chez vous" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCJDCV100x100couleur.png" tvg-chno="169" channel-number="169",J'irai dormir chez vous
 https://tv.sfr.fr/direct-tv/jirai-dormir-chez-vous
-#EXTINF:-1 tvg-id="Discovery.Channel.fr" tvg-name="Discovery Channel" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/3/3/15184334.jpg" tvg-chno="170" channel-number="170",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.fr" tvg-name="Discovery Channel" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Discovery_Channel_color.png" tvg-chno="170" channel-number="170",Discovery Channel
 https://tv.sfr.fr/direct-tv/discovery-channel
-#EXTINF:-1 tvg-id="Mieux.fr" tvg-name="Mieux" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/2/9/15272926.jpg" tvg-chno="171" channel-number="171",Mieux
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1181/broadcasts/day/0?channelPosition=84
-#EXTINF:-1 tvg-id="Ushuaia.TV.fr" tvg-name="Ushuaia TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/9/0/15258098.jpg" tvg-chno="173" channel-number="173",Ushuaia TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ushuaia
-#EXTINF:-1 tvg-id="TREK.fr" tvg-name="TREK" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/9/5/15305591.jpg" tvg-chno="174" channel-number="174",TREK
+#EXTINF:-1 tvg-id="Mieux.fr" tvg-name="Mieux" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/mieux100x100.png" tvg-chno="171" channel-number="171",Mieux
+https://tv.sfr.fr/direct-tv/mieux
+#EXTINF:-1 tvg-id="Ushuaia.TV.fr" tvg-name="Ushuaia TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Ushuaia_TV_color.png" tvg-chno="173" channel-number="173",Ushuaia TV
+https://tv.sfr.fr/direct-tv/ushuaia-tv
+#EXTINF:-1 tvg-id="TREK.fr" tvg-name="TREK" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TREK_color.png" tvg-chno="174" channel-number="174",TREK
 https://tv.sfr.fr/direct-tv/trek
-#EXTINF:-1 tvg-id="Crime.District.fr" tvg-name="Crime District" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/1/1/15264110.jpg" tvg-chno="175" channel-number="175",Crime District
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_CrimeDistrict
-#EXTINF:-1 tvg-id="Marmiton.TV.fr" tvg-name="Marmiton TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/7/5/15182572.jpg" tvg-chno="176" channel-number="176",Marmiton TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_marmiton_tv
-#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/1/8/15226819.jpg" tvg-chno="177" channel-number="177",Histoire
+#EXTINF:-1 tvg-id="Crime.District.fr" tvg-name="Crime District" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFCRIMEDISCTRICT100x100.png" tvg-chno="175" channel-number="175",Crime District
+https://tv.sfr.fr/direct-tv/crime-district
+#EXTINF:-1 tvg-id="Marmiton.TV.fr" tvg-name="Marmiton TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MarmitonTV100x100.png" tvg-chno="176" channel-number="176",Marmiton TV
+https://tv.sfr.fr/direct-tv/marmiton-tv
+#EXTINF:-1 tvg-id="Histoire.fr" tvg-name="Histoire" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Histoire_color.png" tvg-chno="177" channel-number="177",Histoire
 https://tv.sfr.fr/direct-tv/histoire
-#EXTINF:-1 tvg-id="Toute.l'Histoire.fr" tvg-name="Toute l'Histoire" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/5/7/15252756.jpg" tvg-chno="178" channel-number="178",Toute l'Histoire
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/620/broadcasts/day/0?channelPosition=75
-#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/2/7/15226728.jpg" tvg-chno="179" channel-number="179",KTO
+#EXTINF:-1 tvg-id="Toute.l'Histoire.fr" tvg-name="Toute l'Histoire" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Toute_l_Histoire_color.png" tvg-chno="178" channel-number="178",Toute l'Histoire
+https://tv.sfr.fr/direct-tv/toute-lhistoire
+#EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/KTO100x100.png" tvg-chno="179" channel-number="179",KTO
 https://tv.sfr.fr/direct-tv/kto
-#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/3/0/15202033.jpg" tvg-chno="180" channel-number="180",Animaux
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/503/broadcasts/day/0?channelPosition=81
-#EXTINF:-1 tvg-id="Chasse.et.Pêche.fr" tvg-name="Chasse et Pêche" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/4/1/15209145.jpg" tvg-chno="181" channel-number="181",Chasse et Pêche
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="Animaux" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Animaux_color.png" tvg-chno="180" channel-number="180",Animaux
+https://tv.sfr.fr/direct-tv/animaux
+#EXTINF:-1 tvg-id="Chasse.et.Pêche.fr" tvg-name="Chasse et Pêche" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Chasse_et_Peche_color.png" tvg-chno="181" channel-number="181",Chasse et Pêche
 https://tv.sfr.fr/direct-tv/chasse-et-peche
-#EXTINF:-1 tvg-id="Science.et.Vie.TV.fr" tvg-name="Science et Vie TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/9/0/15247090.jpg" tvg-chno="182" channel-number="182",Science et Vie TV
+#EXTINF:-1 tvg-id="Science.et.Vie.TV.fr" tvg-name="Science et Vie TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Science_et_Vie_TV_color.png" tvg-chno="182" channel-number="182",Science et Vie TV
 https://tv.sfr.fr/direct-tv/science-et-vie-tv
-#EXTINF:-1 tvg-id="Luxe.TV.fr" tvg-name="Luxe TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/9/8/15182897.jpg" tvg-chno="183" channel-number="183",Luxe TV
+#EXTINF:-1 tvg-id="Luxe.TV.fr" tvg-name="Luxe TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Luxe_TV_color.png" tvg-chno="183" channel-number="183",Luxe TV
 https://tv.sfr.fr/direct-tv/luxe-tv
-#EXTINF:-1 tvg-id="Fashion.TV.fr" tvg-name="Fashion TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/7/1/15201176.jpg" tvg-chno="184" channel-number="184",Fashion TV
+#EXTINF:-1 tvg-id="Fashion.TV.fr" tvg-name="Fashion TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Fashion_TV_color.png" tvg-chno="184" channel-number="184",Fashion TV
 https://tv.sfr.fr/direct-tv/fashion-tv
-#EXTINF:-1 tvg-id="Men's.Up.TV.fr" tvg-name="Men's Up TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/1/15183149.jpg" tvg-chno="185" channel-number="185",Men's Up TV
+#EXTINF:-1 tvg-id="Men's.Up.TV.fr" tvg-name="Men's Up TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Mens_Up_TV_color.png" tvg-chno="185" channel-number="185",Men's Up TV
 https://tv.sfr.fr/direct-tv/mens-up-tv
-#EXTINF:-1 tvg-id="L'Esprit.Sorcier.TV.fr" tvg-name="L'Esprit Sorcier TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/4/0/15276043.jpg" tvg-chno="186" channel-number="186",L'Esprit Sorcier TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_esprit_sorcier_tv
-#EXTINF:-1 tvg-id="My.Zen.TV.fr" tvg-name="My Zen TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/2/1/15237123.jpg" tvg-chno="187" channel-number="187",My Zen TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_myzentv
-#EXTINF:-1 tvg-id="MUSEUM.TV.fr" tvg-name="MUSEUM TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/5/9/15236959.jpg" tvg-chno="191" channel-number="191",MUSEUM TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_museum_channel
-#EXTINF:-1 tvg-id="EXPLORE.fr" tvg-name="EXPLORE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/7/6/15190672.jpg" tvg-chno="193" channel-number="193",EXPLORE
+#EXTINF:-1 tvg-id="L'Esprit.Sorcier.TV.fr" tvg-name="L'Esprit Sorcier TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EspritSorcier100x100.png" tvg-chno="186" channel-number="186",L'Esprit Sorcier TV
+https://tv.sfr.fr/direct-tv/lesprit-sorcier-tv
+#EXTINF:-1 tvg-id="My.Zen.TV.fr" tvg-name="My Zen TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/myzentv-100x100.png" tvg-chno="187" channel-number="187",My Zen TV
+https://tv.sfr.fr/direct-tv/my-zen-tv
+#EXTINF:-1 tvg-id="MUSEUM.TV.fr" tvg-name="MUSEUM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MUSEUMTV100x100.png" tvg-chno="191" channel-number="191",MUSEUM TV
+https://tv.sfr.fr/direct-tv/museum-tv
+#EXTINF:-1 tvg-id="EXPLORE.fr" tvg-name="EXPLORE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EXPLORE100x100.png" tvg-chno="193" channel-number="193",EXPLORE
 https://tv.sfr.fr/direct-tv/explore
-#EXTINF:-1 tvg-id="Le.Figaro.TV.fr" tvg-name="Le Figaro TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/3/3/15271334.jpg" tvg-chno="194" channel-number="194",Le Figaro TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_le_figaro_tv_national
-#EXTINF:-1 tvg-id="KITCHEN.MANIA.fr" tvg-name="KITCHEN MANIA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/4/1/15200141.jpg" tvg-chno="196" channel-number="196",KITCHEN MANIA
+#EXTINF:-1 tvg-id="Le.Figaro.TV.fr" tvg-name="Le Figaro TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/FigaroTV100x100.png" tvg-chno="194" channel-number="194",Le Figaro TV
+https://tv.sfr.fr/direct-tv/le-figaro-tv
+#EXTINF:-1 tvg-id="KITCHEN.MANIA.fr" tvg-name="KITCHEN MANIA" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/KitchenMania100x100.png" tvg-chno="196" channel-number="196",KITCHEN MANIA
 https://tv.sfr.fr/direct-tv/kitchen-mania
-#EXTINF:-1 tvg-id="Top.Santé.TV.fr" tvg-name="Top Santé TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/2/3/15271321.jpg" tvg-chno="197" channel-number="197",Top Santé TV
+#EXTINF:-1 tvg-id="Top.Santé.TV.fr" tvg-name="Top Santé TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TopSante100x100.png" tvg-chno="197" channel-number="197",Top Santé TV
 https://tv.sfr.fr/direct-tv/top-sante-tv
-#EXTINF:-1 tvg-id="Maison.&amp;.Travaux.TV.fr" tvg-name="Maison &amp; Travaux TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/5/15187599.jpg" tvg-chno="198" channel-number="198",Maison &amp; Travaux TV
+#EXTINF:-1 tvg-id="Maison.&amp;.Travaux.TV.fr" tvg-name="Maison &amp; Travaux TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MaisonTravaux100x100.png" tvg-chno="198" channel-number="198",Maison &amp; Travaux TV
 https://tv.sfr.fr/direct-tv/maison-travaux-tv
-#EXTINF:-1 tvg-id="Auto.Plus.TV.fr" tvg-name="Auto Plus TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/5/15180549.jpg" tvg-chno="199" channel-number="199",Auto Plus TV
+#EXTINF:-1 tvg-id="Auto.Plus.TV.fr" tvg-name="Auto Plus TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AutoPlus100x100.png" tvg-chno="199" channel-number="199",Auto Plus TV
 https://tv.sfr.fr/direct-tv/auto-plus-tv
-#EXTINF:-1 tvg-id="Nickelodeon.Junior.fr" tvg-name="Nickelodeon Junior" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/15252008.jpg" tvg-chno="200" channel-number="200",Nickelodeon Junior
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nickelodeon_junior
-#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/7/2/15205279.jpg" tvg-chno="201" channel-number="201",Boomerang
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/530/broadcasts/day/0?channelPosition=90
-#EXTINF:-1 tvg-id="Boomerang.+1.fr" tvg-name="Boomerang +1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/3/3/15205336.jpg" tvg-chno="202" channel-number="202",Boomerang +1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_boomerang_1
-#EXTINF:-1 tvg-id="TIJI.fr" tvg-name="TIJI" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15176769.jpg" tvg-chno="203" channel-number="203",TIJI
-https://www.canalplus.com/chaines/tiji
-#EXTINF:-1 tvg-id="DREAMWORKS.fr" tvg-name="DREAMWORKS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/1/7/15269719.jpg" tvg-chno="204" channel-number="204",DREAMWORKS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_dreamworks
-#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/5/0/15234053.jpg" tvg-chno="205" channel-number="205",Nickelodeon
-https://www.canalplus.com/chaines/nickelodeon/
-#EXTINF:-1 tvg-id="Nickelodeon+1.fr" tvg-name="Nickelodeon+1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15238769.jpg" tvg-chno="206" channel-number="206",Nickelodeon+1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/680/broadcasts/day/0?channelPosition=95
-#EXTINF:-1 tvg-id="CANAL.J.fr" tvg-name="CANAL J" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15176769.jpg" tvg-chno="210" channel-number="210",CANAL J
-https://www.canalplus.com/chaines/canal-j
-#EXTINF:-1 tvg-id="Cartoon.Network.fr" tvg-name="Cartoon Network" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/1/0/15210010.jpg" tvg-chno="211" channel-number="211",Cartoon Network
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/502/broadcasts/day/0?channelPosition=93
-#EXTINF:-1 tvg-id="NickToons.fr" tvg-name="NickToons" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/4/8/15239840.jpg" tvg-chno="212" channel-number="212",NickToons
-https://www.canalplus.com/chaines/NickToons
-#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/8/2/15250285.jpg" tvg-chno="213" channel-number="213",Cartoonito
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1096/broadcasts/day/0?channelPosition=89
-#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/4/7/15227746.jpg" tvg-chno="231" channel-number="231",Mangas
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/613/broadcasts/day/0?channelPosition=103
-#EXTINF:-1 tvg-id="Lucky.Jack.fr" tvg-name="Lucky Jack" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/6/9/15197966.jpg" tvg-chno="234" channel-number="234",Lucky Jack
+#EXTINF:-1 tvg-id="Nickelodeon.Junior.fr" tvg-name="Nickelodeon Junior" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NickJr100x100.png" tvg-chno="200" channel-number="200",Nickelodeon Junior
+https://tv.sfr.fr/direct-tv/nickelodeon-junior
+#EXTINF:-1 tvg-id="Boomerang.fr" tvg-name="Boomerang" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Boomerang_color.png" tvg-chno="201" channel-number="201",Boomerang
+https://tv.sfr.fr/direct-tv/boomerang
+#EXTINF:-1 tvg-id="Boomerang.+1.fr" tvg-name="Boomerang +1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Boomerang_1_color.png" tvg-chno="202" channel-number="202",Boomerang +1
+https://tv.sfr.fr/direct-tv/boomerang-1
+#EXTINF:-1 tvg-id="TIJI.fr" tvg-name="TIJI" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TIJI100x100.png" tvg-chno="203" channel-number="203",TIJI
+https://tv.sfr.fr/direct-tv/tiji
+#EXTINF:-1 tvg-id="DREAMWORKS.fr" tvg-name="DREAMWORKS" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/DREAMWORKS100x100.png" tvg-chno="204" channel-number="204",DREAMWORKS
+https://tv.sfr.fr/direct-tv/dreamworks
+#EXTINF:-1 tvg-id="Nickelodeon.fr" tvg-name="Nickelodeon" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Nickelodeon100x100Couleur.png" tvg-chno="205" channel-number="205",Nickelodeon
+https://tv.sfr.fr/direct-tv/nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon+1.fr" tvg-name="Nickelodeon+1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Nickelodeon_1_color.png" tvg-chno="206" channel-number="206",Nickelodeon+1
+https://tv.sfr.fr/direct-tv/nickelodeon-1
+#EXTINF:-1 tvg-id="CANAL.J.fr" tvg-name="CANAL J" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CANAL100x100.png" tvg-chno="210" channel-number="210",CANAL J
+https://tv.sfr.fr/direct-tv/canal-j
+#EXTINF:-1 tvg-id="Cartoon.Network.fr" tvg-name="Cartoon Network" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Cartoon_Network_color.png" tvg-chno="211" channel-number="211",Cartoon Network
+https://tv.sfr.fr/direct-tv/cartoon-network
+#EXTINF:-1 tvg-id="NickToons.fr" tvg-name="NickToons" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Nicktoons100x100.png" tvg-chno="212" channel-number="212",NickToons
+https://tv.sfr.fr/direct-tv/nicktoons
+#EXTINF:-1 tvg-id="Cartoonito.fr" tvg-name="Cartoonito" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CARTOONITO100x100Couleur.png" tvg-chno="213" channel-number="213",Cartoonito
+https://tv.sfr.fr/direct-tv/cartoonito
+#EXTINF:-1 tvg-id="Mangas.fr" tvg-name="Mangas" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoManga100x100.png" tvg-chno="231" channel-number="231",Mangas
+https://tv.sfr.fr/direct-tv/mangas
+#EXTINF:-1 tvg-id="Lucky.Jack.fr" tvg-name="Lucky Jack" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Lucky_Jack_color.png" tvg-chno="234" channel-number="234",Lucky Jack
 https://tv.sfr.fr/direct-tv/lucky-jack
-#EXTINF:-1 tvg-id="Astrocenter.TV.fr" tvg-name="Astrocenter TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/3/1/15225130.jpg" tvg-chno="235" channel-number="235",Astrocenter TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/632/broadcasts/day/0?channelPosition=131
-#EXTINF:-1 tvg-id="EUROPE.2.POP.TV.fr" tvg-name="EUROPE 2 POP TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/15182971.jpg" tvg-chno="251" channel-number="251",EUROPE 2 POP TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_cstarhits
-#EXTINF:-1 tvg-id="M6.Music.fr" tvg-name="M6 Music" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/9/15227948.jpg" tvg-chno="254" channel-number="254",M6 Music
-https://www.canalplus.com/chaines/m6-music
-#EXTINF:-1 tvg-id="RFM.TV.fr" tvg-name="RFM TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/0/4/15188403.jpg" tvg-chno="255" channel-number="255",RFM TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/557/broadcasts/day/0?channelPosition=127
-#EXTINF:-1 tvg-id="NRJ.Hits.fr" tvg-name="NRJ Hits" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/4/15233409.jpg" tvg-chno="256" channel-number="256",NRJ Hits
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/569/broadcasts/day/0?channelPosition=125
-#EXTINF:-1 tvg-id="Trace.Latina.fr" tvg-name="Trace Latina" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/3/8/15192832.jpg" tvg-chno="257" channel-number="257",Trace Latina
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_latina
-#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/2/2/15279227.jpg" tvg-chno="260" channel-number="260",Mezzo
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/560/broadcasts/day/0?channelPosition=129
-#EXTINF:-1 tvg-id="Mezzo.Live.HD.fr" tvg-name="Mezzo Live HD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/8/3/15230382.jpg" tvg-chno="261" channel-number="261",Mezzo Live HD
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/268/broadcasts/day/0?channelPosition=130
-#EXTINF:-1 tvg-id="MELODY.TV.fr" tvg-name="MELODY TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/1/2/15231215.jpg" tvg-chno="262" channel-number="262",MELODY TV
+#EXTINF:-1 tvg-id="Astrocenter.TV.fr" tvg-name="Astrocenter TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Astrocenter_TV_color.png" tvg-chno="235" channel-number="235",Astrocenter TV
+https://tv.sfr.fr/direct-tv/astrocenter-tv
+#EXTINF:-1 tvg-id="EUROPE.2.POP.TV.fr" tvg-name="EUROPE 2 POP TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EUROPE2POPTV100x100.png" tvg-chno="251" channel-number="251",EUROPE 2 POP TV
+https://tv.sfr.fr/direct-tv/europe-2-pop-tv
+#EXTINF:-1 tvg-id="M6.Music.fr" tvg-name="M6 Music" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/M6_Music_color.png" tvg-chno="254" channel-number="254",M6 Music
+https://tv.sfr.fr/direct-tv/m6-music
+#EXTINF:-1 tvg-id="RFM.TV.fr" tvg-name="RFM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RFM_TV_color.png" tvg-chno="255" channel-number="255",RFM TV
+https://tv.sfr.fr/direct-tv/rfm-tv
+#EXTINF:-1 tvg-id="NRJ.Hits.fr" tvg-name="NRJ Hits" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NRJ_Hits_color.png" tvg-chno="256" channel-number="256",NRJ Hits
+https://tv.sfr.fr/direct-tv/nrj-hits
+#EXTINF:-1 tvg-id="Trace.Latina.fr" tvg-name="Trace Latina" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TRACELATINA100x100.png" tvg-chno="257" channel-number="257",Trace Latina
+https://tv.sfr.fr/direct-tv/trace-latina
+#EXTINF:-1 tvg-id="Mezzo.fr" tvg-name="Mezzo" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Mezzo100x100fondblanc.png" tvg-chno="260" channel-number="260",Mezzo
+https://tv.sfr.fr/direct-tv/mezzo
+#EXTINF:-1 tvg-id="Mezzo.Live.HD.fr" tvg-name="Mezzo Live HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MezzoLive100x100fondblanc.png" tvg-chno="261" channel-number="261",Mezzo Live HD
+https://tv.sfr.fr/direct-tv/mezzo-live-hd
+#EXTINF:-1 tvg-id="MELODY.TV.fr" tvg-name="MELODY TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/MELODY_TV_color.png" tvg-chno="262" channel-number="262",MELODY TV
 https://tv.sfr.fr/direct-tv/melody-tv
-#EXTINF:-1 tvg-id="Trace.Urban.fr" tvg-name="Trace Urban" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/9/15254948.jpg" tvg-chno="263" channel-number="263",Trace Urban
-https://www.canalplus.com/chaines/trace-urban
-#EXTINF:-1 tvg-id="Trace.Toca.fr" tvg-name="Trace Toca" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/8/6/15195680.jpg" tvg-chno="264" channel-number="264",Trace Toca
+#EXTINF:-1 tvg-id="Trace.Urban.fr" tvg-name="Trace Urban" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Trace_Urban_color.png" tvg-chno="263" channel-number="263",Trace Urban
+https://tv.sfr.fr/direct-tv/trace-urban
+#EXTINF:-1 tvg-id="Trace.Toca.fr" tvg-name="Trace Toca" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Trace_Toca_color.png" tvg-chno="264" channel-number="264",Trace Toca
 https://tv.sfr.fr/direct-tv/trace-toca
-#EXTINF:-1 tvg-id="TRACE.CARIBBEAN.fr" tvg-name="TRACE CARIBBEAN" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/8/0/15254083.jpg" tvg-chno="265" channel-number="265",TRACE CARIBBEAN
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_tropical
-#EXTINF:-1 tvg-id="Trace.Gospel.fr" tvg-name="Trace Gospel" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/6/3/15254364.jpg" tvg-chno="266" channel-number="266",Trace Gospel
+#EXTINF:-1 tvg-id="TRACE.CARIBBEAN.fr" tvg-name="TRACE CARIBBEAN" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TRACE_CARIBBEAN_color.png" tvg-chno="265" channel-number="265",TRACE CARIBBEAN
+https://tv.sfr.fr/direct-tv/trace-caribbean
+#EXTINF:-1 tvg-id="Trace.Gospel.fr" tvg-name="Trace Gospel" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Trace_Gospel_color.png" tvg-chno="266" channel-number="266",Trace Gospel
 https://tv.sfr.fr/direct-tv/trace-gospel
-#EXTINF:-1 tvg-id="BBLACK.Classik.fr" tvg-name="BBLACK Classik" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/8/15192804.jpg" tvg-chno="267" channel-number="267",BBLACK Classik
+#EXTINF:-1 tvg-id="BBLACK.Classik.fr" tvg-name="BBLACK Classik" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BBLACK_CLASSIK_color.png" tvg-chno="267" channel-number="267",BBLACK Classik
 https://tv.sfr.fr/direct-tv/bblack-classik
-#EXTINF:-1 tvg-id="BBLACK.Caribbean.fr" tvg-name="BBLACK Caribbean" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/4/9/15182944.jpg" tvg-chno="268" channel-number="268",BBLACK Caribbean
+#EXTINF:-1 tvg-id="BBLACK.Caribbean.fr" tvg-name="BBLACK Caribbean" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BBLACK_CARIBBEAN_color.png" tvg-chno="268" channel-number="268",BBLACK Caribbean
 https://tv.sfr.fr/direct-tv/bblack-caribbean
-#EXTINF:-1 tvg-id="BBLACK.Africa.fr" tvg-name="BBLACK Africa" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/4/9/15182941.jpg" tvg-chno="269" channel-number="269",BBLACK Africa
+#EXTINF:-1 tvg-id="BBLACK.Africa.fr" tvg-name="BBLACK Africa" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BBLACK_AFRICA_color.png" tvg-chno="269" channel-number="269",BBLACK Africa
 https://tv.sfr.fr/direct-tv/bblack-africa
-#EXTINF:-1 tvg-id="Melody.d'Afrique.fr" tvg-name="Melody d'Afrique" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/3/15231399.jpg" tvg-chno="272" channel-number="272",Melody d'Afrique
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_melodyafr
-#EXTINF:-1 tvg-id="BFM.Lyon.fr" tvg-name="BFM Lyon" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/8/8/15203886.jpg" tvg-chno="281" channel-number="281",BFM Lyon
+#EXTINF:-1 tvg-id="Melody.d'Afrique.fr" tvg-name="Melody d'Afrique" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Melody_d_Afrique_color.png" tvg-chno="272" channel-number="272",Melody d'Afrique
+https://tv.sfr.fr/direct-tv/melody-dafrique
+#EXTINF:-1 tvg-id="BFM.Lyon.fr" tvg-name="BFM Lyon" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Lyon_color.png" tvg-chno="281" channel-number="281",BFM Lyon
 https://tv.sfr.fr/direct-tv/bfm-lyon
-#EXTINF:-1 tvg-id="BFM.Grand.Lille.fr" tvg-name="BFM Grand Lille" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/8/8/15203882.jpg" tvg-chno="282" channel-number="282",BFM Grand Lille
+#EXTINF:-1 tvg-id="BFM.Grand.Lille.fr" tvg-name="BFM Grand Lille" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlille-100x100.png" tvg-chno="282" channel-number="282",BFM Grand Lille
 https://tv.sfr.fr/direct-tv/bfm-grand-lille
-#EXTINF:-1 tvg-id="BFM.Grand.Littoral.fr" tvg-name="BFM Grand Littoral" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/8/8/15203882.jpg" tvg-chno="283" channel-number="283",BFM Grand Littoral
+#EXTINF:-1 tvg-id="BFM.Grand.Littoral.fr" tvg-name="BFM Grand Littoral" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/bfmgrandlittoral-100x100.png" tvg-chno="283" channel-number="283",BFM Grand Littoral
 https://tv.sfr.fr/direct-tv/bfm-grand-littoral
-#EXTINF:-1 tvg-id="BFM.MARSEILLE.PROVENCE.fr" tvg-name="BFM MARSEILLE PROVENCE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/0/7/15263705.jpg" tvg-chno="284" channel-number="284",BFM MARSEILLE PROVENCE
+#EXTINF:-1 tvg-id="BFM.MARSEILLE.PROVENCE.fr" tvg-name="BFM MARSEILLE PROVENCE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMMARSEILLEPROV100x100.png" tvg-chno="284" channel-number="284",BFM MARSEILLE PROVENCE
 https://tv.sfr.fr/direct-tv/bfm-marseille-provence
-#EXTINF:-1 tvg-id="BFM.NICE.COTE.D'AZUR.fr" tvg-name="BFM NICE COTE D'AZUR" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/1/4/15263414.jpg" tvg-chno="285" channel-number="285",BFM NICE COTE D'AZUR
+#EXTINF:-1 tvg-id="BFM.NICE.COTE.D'AZUR.fr" tvg-name="BFM NICE COTE D'AZUR" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMNICECOTEDAZUR100x100.png" tvg-chno="285" channel-number="285",BFM NICE COTE D'AZUR
 https://tv.sfr.fr/direct-tv/bfm-nice-cote-dazur
-#EXTINF:-1 tvg-id="BFM.TOULON.VAR.fr" tvg-name="BFM TOULON VAR" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/5/15262504.jpg" tvg-chno="286" channel-number="286",BFM TOULON VAR
+#EXTINF:-1 tvg-id="BFM.TOULON.VAR.fr" tvg-name="BFM TOULON VAR" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NEUFBFMTOULONVAR100x100.png" tvg-chno="286" channel-number="286",BFM TOULON VAR
 https://tv.sfr.fr/direct-tv/bfm-toulon-var
-#EXTINF:-1 tvg-id="BFM.DICI.ALPES.DU.SUD.fr" tvg-name="BFM DICI ALPES DU SUD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/0/5/15262502.jpg" tvg-chno="287" channel-number="287",BFM DICI ALPES DU SUD
+#EXTINF:-1 tvg-id="BFM.DICI.ALPES.DU.SUD.fr" tvg-name="BFM DICI ALPES DU SUD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIALPESDUSUD100x100.png" tvg-chno="287" channel-number="287",BFM DICI ALPES DU SUD
 https://tv.sfr.fr/direct-tv/bfm-dici-alpes-du-sud
-#EXTINF:-1 tvg-id="BFM.DICI.HAUTE-PROVENCE.fr" tvg-name="BFM DICI HAUTE-PROVENCE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/5/15262504.jpg" tvg-chno="288" channel-number="288",BFM DICI HAUTE-PROVENCE
+#EXTINF:-1 tvg-id="BFM.DICI.HAUTE-PROVENCE.fr" tvg-name="BFM DICI HAUTE-PROVENCE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMDICIHAUTEPROVENCE100x100.png" tvg-chno="288" channel-number="288",BFM DICI HAUTE-PROVENCE
 https://tv.sfr.fr/direct-tv/bfm-dici-haute-provence
-#EXTINF:-1 tvg-id="BFM.ALSACE.fr" tvg-name="BFM ALSACE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/4/9/15264944.jpg" tvg-chno="289" channel-number="289",BFM ALSACE
+#EXTINF:-1 tvg-id="BFM.ALSACE.fr" tvg-name="BFM ALSACE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMALSACE100x100.png" tvg-chno="289" channel-number="289",BFM ALSACE
 https://tv.sfr.fr/direct-tv/bfm-alsace
-#EXTINF:-1 tvg-id="BFM.NORMANDIE.fr" tvg-name="BFM NORMANDIE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/6/7/15192765.jpg" tvg-chno="290" channel-number="290",BFM NORMANDIE
+#EXTINF:-1 tvg-id="BFM.NORMANDIE.fr" tvg-name="BFM NORMANDIE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BFMNORMANDIE100x100COULEUR.png" tvg-chno="290" channel-number="290",BFM NORMANDIE
 https://tv.sfr.fr/direct-tv/bfm-normandie
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-name="beIN SPORTS MAX 4" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/6/6/15208664.jpg" tvg-chno="300" channel-number="300",beIN SPORTS MAX 4
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/596/broadcasts/day/0?channelPosition=190
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-name="beIN SPORTS MAX 5" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/8/15444804.jpg" tvg-chno="301" channel-number="301",beIN SPORTS MAX 5
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/597/broadcasts/day/0?channelPosition=191
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-name="beIN SPORTS MAX 6" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/2/15179209.jpg" tvg-chno="302" channel-number="302",beIN SPORTS MAX 6
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/598/broadcasts/day/0?channelPosition=192
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN SPORTS MAX 7" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/2/15179209.jpg" tvg-chno="303" channel-number="303",beIN SPORTS MAX 7
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/599/broadcasts/day/0?channelPosition=193
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-name="beIN SPORTS MAX 8" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/2/15179209.jpg" tvg-chno="304" channel-number="304",beIN SPORTS MAX 8
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/603/broadcasts/day/0?channelPosition=194
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-name="beIN SPORTS MAX 9" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/2/15179209.jpg" tvg-chno="305" channel-number="305",beIN SPORTS MAX 9
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/604/broadcasts/day/0?channelPosition=195
-#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-name="beIN SPORTS MAX 10" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/2/15179209.jpg" tvg-chno="306" channel-number="306",beIN SPORTS MAX 10
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/605/broadcasts/day/0?channelPosition=196
-#EXTINF:-1 tvg-id="RMC.Sport.Live.3.fr" tvg-name="RMC Sport Live 3" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/0/0/15193003.jpg" tvg-chno="316" channel-number="316",RMC Sport Live 3
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.4.fr" tvg-name="beIN SPORTS MAX 4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_4_color.png" tvg-chno="300" channel-number="300",beIN SPORTS MAX 4
+https://tv.sfr.fr/direct-tv/bein-sports-max-4
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.5.fr" tvg-name="beIN SPORTS MAX 5" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_5_color.png" tvg-chno="301" channel-number="301",beIN SPORTS MAX 5
+https://tv.sfr.fr/direct-tv/bein-sports-max-5
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.6.fr" tvg-name="beIN SPORTS MAX 6" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_6_color.png" tvg-chno="302" channel-number="302",beIN SPORTS MAX 6
+https://tv.sfr.fr/direct-tv/bein-sports-max-6
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.7.fr" tvg-name="beIN SPORTS MAX 7" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_7_color.png" tvg-chno="303" channel-number="303",beIN SPORTS MAX 7
+https://tv.sfr.fr/direct-tv/bein-sports-max-7
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.8.fr" tvg-name="beIN SPORTS MAX 8" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_8_color.png" tvg-chno="304" channel-number="304",beIN SPORTS MAX 8
+https://tv.sfr.fr/direct-tv/bein-sports-max-8
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.9.fr" tvg-name="beIN SPORTS MAX 9" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_9_color.png" tvg-chno="305" channel-number="305",beIN SPORTS MAX 9
+https://tv.sfr.fr/direct-tv/bein-sports-max-9
+#EXTINF:-1 tvg-id="beIN.SPORTS.MAX.10.fr" tvg-name="beIN SPORTS MAX 10" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_10_color.png" tvg-chno="306" channel-number="306",beIN SPORTS MAX 10
+https://tv.sfr.fr/direct-tv/bein-sports-max-10
+#EXTINF:-1 tvg-id="RMC.Sport.Live.3.fr" tvg-name="RMC Sport Live 3" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE3100x100.png" tvg-chno="316" channel-number="316",RMC Sport Live 3
 https://tv.sfr.fr/direct-tv/rmc-sport-live-3
-#EXTINF:-1 tvg-id="RMC.Sport.Live.4.fr" tvg-name="RMC Sport Live 4" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/6/1/15193168.jpg" tvg-chno="317" channel-number="317",RMC Sport Live 4
+#EXTINF:-1 tvg-id="RMC.Sport.Live.4.fr" tvg-name="RMC Sport Live 4" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE4100x100.png" tvg-chno="317" channel-number="317",RMC Sport Live 4
 https://tv.sfr.fr/direct-tv/rmc-sport-live-4
-#EXTINF:-1 tvg-id="LIGUE.1+.2.fr" tvg-name="LIGUE 1+ 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/8/15272839.jpg" tvg-chno="321" channel-number="321",LIGUE 1+ 2
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_2
-#EXTINF:-1 tvg-id="LIGUE.1+.3.fr" tvg-name="LIGUE 1+ 3" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/5/0/15273053.jpg" tvg-chno="322" channel-number="322",LIGUE 1+ 3
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_3
-#EXTINF:-1 tvg-id="LIGUE.1+.4.fr" tvg-name="LIGUE 1+ 4" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/5/1/15273154.jpg" tvg-chno="323" channel-number="323",LIGUE 1+ 4
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_4
-#EXTINF:-1 tvg-id="LIGUE.1+.5.fr" tvg-name="LIGUE 1+ 5" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/4/15272481.jpg" tvg-chno="324" channel-number="324",LIGUE 1+ 5
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_5
-#EXTINF:-1 tvg-id="LIGUE.1+.6.fr" tvg-name="LIGUE 1+ 6" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/4/15272499.jpg" tvg-chno="325" channel-number="325",LIGUE 1+ 6
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_6
-#EXTINF:-1 tvg-id="LIGUE.1+.7.fr" tvg-name="LIGUE 1+ 7" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/9/5/15272595.jpg" tvg-chno="326" channel-number="326",LIGUE 1+ 7
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_7
-#EXTINF:-1 tvg-id="LIGUE.1+.8.fr" tvg-name="LIGUE 1+ 8" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/8/4/15272489.jpg" tvg-chno="327" channel-number="327",LIGUE 1+ 8
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_8
-#EXTINF:-1 tvg-id="LIGUE.1+.9.fr" tvg-name="LIGUE 1+ 9" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/2/5/15272520.jpg" tvg-chno="328" channel-number="328",LIGUE 1+ 9
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_9
-#EXTINF:-1 tvg-id="LIGUE.1+.10.fr" tvg-name="LIGUE 1+ 10" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/7/15272700.jpg" tvg-chno="329" channel-number="329",LIGUE 1+ 10
+#EXTINF:-1 tvg-id="LIGUE.1+.2.fr" tvg-name="LIGUE 1+ 2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue12Bleu100x100.png" tvg-chno="321" channel-number="321",LIGUE 1+ 2
+https://tv.sfr.fr/direct-tv/ligue-1-2
+#EXTINF:-1 tvg-id="LIGUE.1+.3.fr" tvg-name="LIGUE 1+ 3" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue13Bleu100x100.png" tvg-chno="322" channel-number="322",LIGUE 1+ 3
+https://tv.sfr.fr/direct-tv/ligue-1-3
+#EXTINF:-1 tvg-id="LIGUE.1+.4.fr" tvg-name="LIGUE 1+ 4" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue14Bleu100x100.png" tvg-chno="323" channel-number="323",LIGUE 1+ 4
+https://tv.sfr.fr/direct-tv/ligue-1-4
+#EXTINF:-1 tvg-id="LIGUE.1+.5.fr" tvg-name="LIGUE 1+ 5" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue15Bleu100x100.png" tvg-chno="324" channel-number="324",LIGUE 1+ 5
+https://tv.sfr.fr/direct-tv/ligue-1-5
+#EXTINF:-1 tvg-id="LIGUE.1+.6.fr" tvg-name="LIGUE 1+ 6" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue16Bleu100x100.png" tvg-chno="325" channel-number="325",LIGUE 1+ 6
+https://tv.sfr.fr/direct-tv/ligue-1-6
+#EXTINF:-1 tvg-id="LIGUE.1+.7.fr" tvg-name="LIGUE 1+ 7" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue17Bleu100x100.png" tvg-chno="326" channel-number="326",LIGUE 1+ 7
+https://tv.sfr.fr/direct-tv/ligue-1-7
+#EXTINF:-1 tvg-id="LIGUE.1+.8.fr" tvg-name="LIGUE 1+ 8" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue18Bleu100x100.png" tvg-chno="327" channel-number="327",LIGUE 1+ 8
+https://tv.sfr.fr/direct-tv/ligue-1-8
+#EXTINF:-1 tvg-id="LIGUE.1+.9.fr" tvg-name="LIGUE 1+ 9" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue19Bleu100x100.png" tvg-chno="328" channel-number="328",LIGUE 1+ 9
+https://tv.sfr.fr/direct-tv/ligue-1-9
+#EXTINF:-1 tvg-id="LIGUE.1+.10.fr" tvg-name="LIGUE 1+ 10" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue110Bleu100x100.png" tvg-chno="329" channel-number="329",LIGUE 1+ 10
 https://tv.sfr.fr/direct-tv/ligue-1-10
-#EXTINF:-1 tvg-id="+.d’Afrique.fr" tvg-name="+ d’Afrique" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15178006.jpg" tvg-chno="390" channel-number="390",+ d’Afrique
+#EXTINF:-1 tvg-id="+.d’Afrique.fr" tvg-name="+ d’Afrique" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/PLUSDAFRIQUE100x100Couleur.png" tvg-chno="390" channel-number="390",+ d’Afrique
 https://tv.sfr.fr/direct-tv/dafrique
-#EXTINF:-1 tvg-id="France.3.-.Alpes.fr" tvg-name="France 3 - Alpes" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="431" channel-number="431",France 3 - Alpes
+#EXTINF:-1 tvg-id="France.3.-.Alpes.fr" tvg-name="France 3 - Alpes" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alpes-Color.jpg" tvg-chno="431" channel-number="431",France 3 - Alpes
 https://tv.sfr.fr/direct-tv/france-3-alpes
-#EXTINF:-1 tvg-id="France.3.-.Alsace.fr" tvg-name="France 3 - Alsace" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="432" channel-number="432",France 3 - Alsace
+#EXTINF:-1 tvg-id="France.3.-.Alsace.fr" tvg-name="France 3 - Alsace" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Alsace-Color.jpg" tvg-chno="432" channel-number="432",France 3 - Alsace
 https://tv.sfr.fr/direct-tv/france-3-alsace
-#EXTINF:-1 tvg-id="France.3.-.Aquitaine.fr" tvg-name="France 3 - Aquitaine" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="433" channel-number="433",France 3 - Aquitaine
+#EXTINF:-1 tvg-id="France.3.-.Aquitaine.fr" tvg-name="France 3 - Aquitaine" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Aquitaine-Color.jpg" tvg-chno="433" channel-number="433",France 3 - Aquitaine
 https://tv.sfr.fr/direct-tv/france-3-aquitaine
-#EXTINF:-1 tvg-id="France.3.-.Auvergne.fr" tvg-name="France 3 - Auvergne" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="434" channel-number="434",France 3 - Auvergne
+#EXTINF:-1 tvg-id="France.3.-.Auvergne.fr" tvg-name="France 3 - Auvergne" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Auvergne-Color.jpg" tvg-chno="434" channel-number="434",France 3 - Auvergne
 https://tv.sfr.fr/direct-tv/france-3-auvergne
-#EXTINF:-1 tvg-id="France.3.-.Basse-Normandie.fr" tvg-name="France 3 - Basse-Normandie" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="435" channel-number="435",France 3 - Basse-Normandie
+#EXTINF:-1 tvg-id="France.3.-.Basse-Normandie.fr" tvg-name="France 3 - Basse-Normandie" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg" tvg-chno="435" channel-number="435",France 3 - Basse-Normandie
 https://tv.sfr.fr/direct-tv/france-3-basse-normandie
-#EXTINF:-1 tvg-id="France.3.-.Bourgogne.fr" tvg-name="France 3 - Bourgogne" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="436" channel-number="436",France 3 - Bourgogne
+#EXTINF:-1 tvg-id="France.3.-.Bourgogne.fr" tvg-name="France 3 - Bourgogne" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bourgogne-Color.jpg" tvg-chno="436" channel-number="436",France 3 - Bourgogne
 https://tv.sfr.fr/direct-tv/france-3-bourgogne
-#EXTINF:-1 tvg-id="France.3.-.Bretagne.fr" tvg-name="France 3 - Bretagne" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="437" channel-number="437",France 3 - Bretagne
+#EXTINF:-1 tvg-id="France.3.-.Bretagne.fr" tvg-name="France 3 - Bretagne" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Bretagne-Color.jpg" tvg-chno="437" channel-number="437",France 3 - Bretagne
 https://tv.sfr.fr/direct-tv/france-3-bretagne
-#EXTINF:-1 tvg-id="France.3.-.Centre.fr" tvg-name="France 3 - Centre" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="438" channel-number="438",France 3 - Centre
+#EXTINF:-1 tvg-id="France.3.-.Centre.fr" tvg-name="France 3 - Centre" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/France3CenCouleur.jpg" tvg-chno="438" channel-number="438",France 3 - Centre
 https://tv.sfr.fr/direct-tv/france-3-centre
-#EXTINF:-1 tvg-id="France.3.-.Champagne-Ardenne.fr" tvg-name="France 3 - Champagne-Ardenne" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="439" channel-number="439",France 3 - Champagne-Ardenne
+#EXTINF:-1 tvg-id="France.3.-.Champagne-Ardenne.fr" tvg-name="France 3 - Champagne-Ardenne" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Champagne-Ardenne-Color.jpg" tvg-chno="439" channel-number="439",France 3 - Champagne-Ardenne
 https://tv.sfr.fr/direct-tv/france-3-champagne-ardenne
-#EXTINF:-1 tvg-id="France.3.-.Via.Stella.fr" tvg-name="France 3 - Via Stella" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/1/1/15369110.jpg" tvg-chno="440" channel-number="440",France 3 - Via Stella
+#EXTINF:-1 tvg-id="France.3.-.Via.Stella.fr" tvg-name="France 3 - Via Stella" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Corse-Color.jpg" tvg-chno="440" channel-number="440",France 3 - Via Stella
 https://tv.sfr.fr/direct-tv/france-3-via-stella
-#EXTINF:-1 tvg-id="France.3.-.Côte.d'Azur.fr" tvg-name="France 3 - Côte d'Azur" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="441" channel-number="441",France 3 - Côte d'Azur
+#EXTINF:-1 tvg-id="France.3.-.Côte.d'Azur.fr" tvg-name="France 3 - Côte d'Azur" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Cote-Azur-Color.jpg" tvg-chno="441" channel-number="441",France 3 - Côte d'Azur
 https://tv.sfr.fr/direct-tv/france-3-cote-dazur
-#EXTINF:-1 tvg-id="France.3.-.Franche-Comté.fr" tvg-name="France 3 - Franche-Comté" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="442" channel-number="442",France 3 - Franche-Comté
+#EXTINF:-1 tvg-id="France.3.-.Franche-Comté.fr" tvg-name="France 3 - Franche-Comté" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Franche-Comte-Color.jpg" tvg-chno="442" channel-number="442",France 3 - Franche-Comté
 https://tv.sfr.fr/direct-tv/france-3-franche-comte
-#EXTINF:-1 tvg-id="France.3.-.Haute-Normandie.fr" tvg-name="France 3 - Haute-Normandie" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="443" channel-number="443",France 3 - Haute-Normandie
+#EXTINF:-1 tvg-id="France.3.-.Haute-Normandie.fr" tvg-name="France 3 - Haute-Normandie" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Normandie-Color.jpg" tvg-chno="443" channel-number="443",France 3 - Haute-Normandie
 https://tv.sfr.fr/direct-tv/france-3-haute-normandie
-#EXTINF:-1 tvg-id="France.3.-.Languedoc.fr" tvg-name="France 3 - Languedoc" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="444" channel-number="444",France 3 - Languedoc
+#EXTINF:-1 tvg-id="France.3.-.Languedoc.fr" tvg-name="France 3 - Languedoc" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Languedoc-Roussillon-Color.jpg" tvg-chno="444" channel-number="444",France 3 - Languedoc
 https://tv.sfr.fr/direct-tv/france-3-languedoc
-#EXTINF:-1 tvg-id="France.3.-.Limousin.fr" tvg-name="France 3 - Limousin" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="445" channel-number="445",France 3 - Limousin
+#EXTINF:-1 tvg-id="France.3.-.Limousin.fr" tvg-name="France 3 - Limousin" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Limousin-Color.jpg" tvg-chno="445" channel-number="445",France 3 - Limousin
 https://tv.sfr.fr/direct-tv/france-3-limousin
-#EXTINF:-1 tvg-id="France.3.-.Lorraine.fr" tvg-name="France 3 - Lorraine" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="446" channel-number="446",France 3 - Lorraine
+#EXTINF:-1 tvg-id="France.3.-.Lorraine.fr" tvg-name="France 3 - Lorraine" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Lorraine-Color.jpg" tvg-chno="446" channel-number="446",France 3 - Lorraine
 https://tv.sfr.fr/direct-tv/france-3-lorraine
-#EXTINF:-1 tvg-id="France.3.-.Midi-Pyrénées.fr" tvg-name="France 3 - Midi-Pyrénées" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="447" channel-number="447",France 3 - Midi-Pyrénées
+#EXTINF:-1 tvg-id="France.3.-.Midi-Pyrénées.fr" tvg-name="France 3 - Midi-Pyrénées" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Midi-Pyrenees-Color.jpg" tvg-chno="447" channel-number="447",France 3 - Midi-Pyrénées
 https://tv.sfr.fr/direct-tv/france-3-midi-pyrenees
-#EXTINF:-1 tvg-id="France.3.-.Nord.Pas-de-Calais.fr" tvg-name="France 3 - Nord Pas-de-Calais" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="448" channel-number="448",France 3 - Nord Pas-de-Calais
+#EXTINF:-1 tvg-id="France.3.-.Nord.Pas-de-Calais.fr" tvg-name="France 3 - Nord Pas-de-Calais" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nord-pas-de-Calais-Color.jpg" tvg-chno="448" channel-number="448",France 3 - Nord Pas-de-Calais
 https://tv.sfr.fr/direct-tv/france-3-nord-pas-de-calais
-#EXTINF:-1 tvg-id="France.3.-.Paris.Ile-de-France.fr" tvg-name="France 3 - Paris Ile-de-France" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="449" channel-number="449",France 3 - Paris Ile-de-France
+#EXTINF:-1 tvg-id="France.3.-.Paris.Ile-de-France.fr" tvg-name="France 3 - Paris Ile-de-France" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Paris-IdF-Color.jpg" tvg-chno="449" channel-number="449",France 3 - Paris Ile-de-France
 https://tv.sfr.fr/direct-tv/france-3-paris-ile-de-france
-#EXTINF:-1 tvg-id="France.3.-.Pays.de.Loire.fr" tvg-name="France 3 - Pays de Loire" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="450" channel-number="450",France 3 - Pays de Loire
+#EXTINF:-1 tvg-id="France.3.-.Pays.de.Loire.fr" tvg-name="France 3 - Pays de Loire" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Pyas-de-la-Loire-Color.jpg" tvg-chno="450" channel-number="450",France 3 - Pays de Loire
 https://tv.sfr.fr/direct-tv/france-3-pays-de-loire
-#EXTINF:-1 tvg-id="France.3.-.Picardie.fr" tvg-name="France 3 - Picardie" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="451" channel-number="451",France 3 - Picardie
+#EXTINF:-1 tvg-id="France.3.-.Picardie.fr" tvg-name="France 3 - Picardie" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Picardie-Color.jpg" tvg-chno="451" channel-number="451",France 3 - Picardie
 https://tv.sfr.fr/direct-tv/france-3-picardie
-#EXTINF:-1 tvg-id="France.3.-.Poitou-Charentes.fr" tvg-name="France 3 - Poitou-Charentes" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="452" channel-number="452",France 3 - Poitou-Charentes
+#EXTINF:-1 tvg-id="France.3.-.Poitou-Charentes.fr" tvg-name="France 3 - Poitou-Charentes" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Poitou-Charentes-Color.jpg" tvg-chno="452" channel-number="452",France 3 - Poitou-Charentes
 https://tv.sfr.fr/direct-tv/france-3-poitou-charentes
-#EXTINF:-1 tvg-id="France.3.-.Provence.Alpes.fr" tvg-name="France 3 - Provence Alpes" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="453" channel-number="453",France 3 - Provence Alpes
+#EXTINF:-1 tvg-id="France.3.-.Provence.Alpes.fr" tvg-name="France 3 - Provence Alpes" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Provence-Alpes-Color.jpg" tvg-chno="453" channel-number="453",France 3 - Provence Alpes
 https://tv.sfr.fr/direct-tv/france-3-provence-alpes
-#EXTINF:-1 tvg-id="France.3.-.Rhône-Alpes.fr" tvg-name="France 3 - Rhône-Alpes" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15304892.jpg" tvg-chno="454" channel-number="454",France 3 - Rhône-Alpes
+#EXTINF:-1 tvg-id="France.3.-.Rhône-Alpes.fr" tvg-name="France 3 - Rhône-Alpes" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Rhone-Alpes-Color.jpg" tvg-chno="454" channel-number="454",France 3 - Rhône-Alpes
 https://tv.sfr.fr/direct-tv/france-3-rhone-alpes
-#EXTINF:-1 tvg-id="France.3.Nouvelle.Aquitaine.fr" tvg-name="France 3 Nouvelle Aquitaine" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/9/5/15251597.jpg" tvg-chno="455" channel-number="455",France 3 Nouvelle Aquitaine
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/998/broadcasts/day/0?channelPosition=222
-#EXTINF:-1 tvg-id="France.3.-.Corse.fr" tvg-name="France 3 - Corse" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/3/2/15271236.jpg" tvg-chno="456" channel-number="456",France 3 - Corse
+#EXTINF:-1 tvg-id="France.3.Nouvelle.Aquitaine.fr" tvg-name="France 3 Nouvelle Aquitaine" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France-3-Nouvelle-Aquitaine-Color.jpg" tvg-chno="455" channel-number="455",France 3 Nouvelle Aquitaine
+https://tv.sfr.fr/direct-tv/france-3-nouvelle-aquitaine
+#EXTINF:-1 tvg-id="France.3.-.Corse.fr" tvg-name="France 3 - Corse" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/FR3CORSE100x100.png" tvg-chno="456" channel-number="456",France 3 - Corse
 https://tv.sfr.fr/direct-tv/france-3-corse
-#EXTINF:-1 tvg-id="Canal.21.fr" tvg-name="Canal 21" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/3/8/15186830.jpg" tvg-chno="457" channel-number="457",Canal 21
+#EXTINF:-1 tvg-id="Canal.21.fr" tvg-name="Canal 21" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_21_color.png" tvg-chno="457" channel-number="457",Canal 21
 https://tv.sfr.fr/direct-tv/canal-21
-#EXTINF:-1 tvg-id="20.Minutes.TV.fr" tvg-name="20 Minutes TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/1/15225112.jpg" tvg-chno="461" channel-number="461",20 Minutes TV
+#EXTINF:-1 tvg-id="20.Minutes.TV.fr" tvg-name="20 Minutes TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/20MinutesTV100x100.png" tvg-chno="461" channel-number="461",20 Minutes TV
 https://tv.sfr.fr/direct-tv/20-minutes-tv
-#EXTINF:-1 tvg-id="Télé.Bocal.fr" tvg-name="Télé Bocal" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/5/9/15183957.jpg" tvg-chno="464" channel-number="464",Télé Bocal
+#EXTINF:-1 tvg-id="Télé.Bocal.fr" tvg-name="Télé Bocal" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tele_Bocal_color.png" tvg-chno="464" channel-number="464",Télé Bocal
 https://tv.sfr.fr/direct-tv/tele-bocal
-#EXTINF:-1 tvg-id="vià93.fr" tvg-name="vià93" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/3/15181361.jpg" tvg-chno="467" channel-number="467",vià93
+#EXTINF:-1 tvg-id="vià93.fr" tvg-name="vià93" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Via93100x100.png" tvg-chno="467" channel-number="467",vià93
 https://tv.sfr.fr/direct-tv/via93
-#EXTINF:-1 tvg-id="Figaro.TV.IDF.fr" tvg-name="Figaro TV IDF" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="468" channel-number="468",Figaro TV IDF
+#EXTINF:-1 tvg-id="Figaro.TV.IDF.fr" tvg-name="Figaro TV IDF" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LEFIGARO100x100couleur.png" tvg-chno="468" channel-number="468",Figaro TV IDF
 https://tv.sfr.fr/direct-tv/figaro-tv-idf
-#EXTINF:-1 tvg-id="TV78.fr" tvg-name="TV78" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/5/9/15183958.jpg" tvg-chno="469" channel-number="469",TV78
+#EXTINF:-1 tvg-id="TV78.fr" tvg-name="TV78" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TV78100x100COULEUR.png" tvg-chno="469" channel-number="469",TV78
 https://tv.sfr.fr/direct-tv/tv78
-#EXTINF:-1 tvg-id="Lyon.Capitale.TV.fr" tvg-name="Lyon Capitale TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/3/2/15175233.jpg" tvg-chno="476" channel-number="476",Lyon Capitale TV
+#EXTINF:-1 tvg-id="Lyon.Capitale.TV.fr" tvg-name="Lyon Capitale TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/lyoncapitaletv1100x100couleur.png" tvg-chno="476" channel-number="476",Lyon Capitale TV
 https://tv.sfr.fr/direct-tv/lyon-capitale-tv
-#EXTINF:-1 tvg-id="TG+.fr" tvg-name="TG+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/9/1/15200197.jpg" tvg-chno="477" channel-number="477",TG+
+#EXTINF:-1 tvg-id="TG+.fr" tvg-name="TG+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/tg-100x100.png" tvg-chno="477" channel-number="477",TG+
 https://tv.sfr.fr/direct-tv/tg
-#EXTINF:-1 tvg-id="TL7.fr" tvg-name="TL7" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/6/1/15193163.jpg" tvg-chno="478" channel-number="478",TL7
+#EXTINF:-1 tvg-id="TL7.fr" tvg-name="TL7" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TL7_Saint_etienne_color.png" tvg-chno="478" channel-number="478",TL7
 https://tv.sfr.fr/direct-tv/tl7
-#EXTINF:-1 tvg-id="8.Mont.Blanc.fr" tvg-name="8 Mont Blanc" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/7/0/15186074.jpg" tvg-chno="480" channel-number="480",8 Mont Blanc
+#EXTINF:-1 tvg-id="8.Mont.Blanc.fr" tvg-name="8 Mont Blanc" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/8_Mont_Blanc_color.png" tvg-chno="480" channel-number="480",8 Mont Blanc
 https://tv.sfr.fr/direct-tv/8-mont-blanc
-#EXTINF:-1 tvg-id="IL.TV.fr" tvg-name="IL TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="481" channel-number="481",IL TV
+#EXTINF:-1 tvg-id="IL.TV.fr" tvg-name="IL TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ILTV100x100V2.png" tvg-chno="481" channel-number="481",IL TV
 https://tv.sfr.fr/direct-tv/il-tv
-#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/7/15192773.jpg" tvg-chno="482" channel-number="482",ASTV
+#EXTINF:-1 tvg-id="ASTV.fr" tvg-name="ASTV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ASTV100x100couleuir.png" tvg-chno="482" channel-number="482",ASTV
 https://tv.sfr.fr/direct-tv/astv
-#EXTINF:-1 tvg-id="MATÉLÉ.fr" tvg-name="MATÉLÉ" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/1/2/15527214.jpg" tvg-chno="489" channel-number="489",MATÉLÉ
+#EXTINF:-1 tvg-id="MATÉLÉ.fr" tvg-name="MATÉLÉ" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/matele-100x100.png" tvg-chno="489" channel-number="489",MATÉLÉ
 https://tv.sfr.fr/direct-tv/matele
-#EXTINF:-1 tvg-id="7.A.LIMOGES.fr" tvg-name="7 A LIMOGES" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/7/15192773.jpg" tvg-chno="490" channel-number="490",7 A LIMOGES
+#EXTINF:-1 tvg-id="7.A.LIMOGES.fr" tvg-name="7 A LIMOGES" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/7aLimoges100x100.png" tvg-chno="490" channel-number="490",7 A LIMOGES
 https://tv.sfr.fr/direct-tv/7-a-limoges
-#EXTINF:-1 tvg-id="TV7.Bordeaux.fr" tvg-name="TV7 Bordeaux" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/4/4/15194447.jpg" tvg-chno="491" channel-number="491",TV7 Bordeaux
+#EXTINF:-1 tvg-id="TV7.Bordeaux.fr" tvg-name="TV7 Bordeaux" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV7_Bordeaux_color.png" tvg-chno="491" channel-number="491",TV7 Bordeaux
 https://tv.sfr.fr/direct-tv/tv7-bordeaux
-#EXTINF:-1 tvg-id="TVPI.fr" tvg-name="TVPI" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15183362.jpg" tvg-chno="492" channel-number="492",TVPI
+#EXTINF:-1 tvg-id="TVPI.fr" tvg-name="TVPI" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Tvpilogojaunealpha100x100.png" tvg-chno="492" channel-number="492",TVPI
 https://tv.sfr.fr/direct-tv/tvpi
-#EXTINF:-1 tvg-id="KANALDUDE.fr" tvg-name="KANALDUDE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/4/15195448.jpg" tvg-chno="496" channel-number="496",KANALDUDE
+#EXTINF:-1 tvg-id="KANALDUDE.fr" tvg-name="KANALDUDE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Kanaldude100x100fondblanc.png" tvg-chno="496" channel-number="496",KANALDUDE
 https://tv.sfr.fr/direct-tv/kanaldude
-#EXTINF:-1 tvg-id="TV2COM.fr" tvg-name="TV2COM" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15183362.jpg" tvg-chno="501" channel-number="501",TV2COM
+#EXTINF:-1 tvg-id="TV2COM.fr" tvg-name="TV2COM" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100tv2com.png" tvg-chno="501" channel-number="501",TV2COM
 https://tv.sfr.fr/direct-tv/tv2com
-#EXTINF:-1 tvg-id="NA.TV.fr" tvg-name="NA TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15187071.jpg" tvg-chno="504" channel-number="504",NA TV
+#EXTINF:-1 tvg-id="NA.TV.fr" tvg-name="NA TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NATV100x100couleur.png" tvg-chno="504" channel-number="504",NA TV
 https://tv.sfr.fr/direct-tv/na-tv
-#EXTINF:-1 tvg-id="Canal.32.fr" tvg-name="Canal 32" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/2/5/15195525.jpg" tvg-chno="505" channel-number="505",Canal 32
+#EXTINF:-1 tvg-id="Canal.32.fr" tvg-name="Canal 32" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_32_color.png" tvg-chno="505" channel-number="505",Canal 32
 https://tv.sfr.fr/direct-tv/canal-32
-#EXTINF:-1 tvg-id="Moselle.TV.fr" tvg-name="Moselle TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15176769.jpg" tvg-chno="506" channel-number="506",Moselle TV
+#EXTINF:-1 tvg-id="Moselle.TV.fr" tvg-name="Moselle TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MoselleTV100x100.png" tvg-chno="506" channel-number="506",Moselle TV
 https://tv.sfr.fr/direct-tv/moselle-tv
-#EXTINF:-1 tvg-id="Puissance.TV.fr" tvg-name="Puissance TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15176769.jpg" tvg-chno="507" channel-number="507",Puissance TV
+#EXTINF:-1 tvg-id="Puissance.TV.fr" tvg-name="Puissance TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/PUISSANCETV100x100.png" tvg-chno="507" channel-number="507",Puissance TV
 https://tv.sfr.fr/direct-tv/puissance-tv
-#EXTINF:-1 tvg-id="Canal.Schilick.fr" tvg-name="Canal Schilick" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15183362.jpg" tvg-chno="509" channel-number="509",Canal Schilick
+#EXTINF:-1 tvg-id="Canal.Schilick.fr" tvg-name="Canal Schilick" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CanalSchilick100x100.png" tvg-chno="509" channel-number="509",Canal Schilick
 https://tv.sfr.fr/direct-tv/canal-schilick
-#EXTINF:-1 tvg-id="TVMonaco.fr" tvg-name="TVMonaco" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/9/8/15305898.jpg" tvg-chno="511" channel-number="511",TVMonaco
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1076/broadcasts/day/0?channelPosition=82
-#EXTINF:-1 tvg-id="Mosaïk.Cristal.fr" tvg-name="Mosaïk Cristal" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15183362.jpg" tvg-chno="512" channel-number="512",Mosaïk Cristal
+#EXTINF:-1 tvg-id="TVMonaco.fr" tvg-name="TVMonaco" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TVMonaco100x100.png" tvg-chno="511" channel-number="511",TVMonaco
+https://tv.sfr.fr/direct-tv/tvmonaco
+#EXTINF:-1 tvg-id="Mosaïk.Cristal.fr" tvg-name="Mosaïk Cristal" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Mosaik_color.png" tvg-chno="512" channel-number="512",Mosaïk Cristal
 https://tv.sfr.fr/direct-tv/mosaik-cristal
-#EXTINF:-1 tvg-id="TV8.Moselle-Est.fr" tvg-name="TV8 Moselle-Est" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/7/15192773.jpg" tvg-chno="513" channel-number="513",TV8 Moselle-Est
+#EXTINF:-1 tvg-id="TV8.Moselle-Est.fr" tvg-name="TV8 Moselle-Est" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV8_Moselle_Est_color.png" tvg-chno="513" channel-number="513",TV8 Moselle-Est
 https://tv.sfr.fr/direct-tv/tv8-moselle-est
-#EXTINF:-1 tvg-id="Vosges.tv.fr" tvg-name="Vosges tv" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/7/2/15257270.jpg" tvg-chno="514" channel-number="514",Vosges tv
+#EXTINF:-1 tvg-id="Vosges.tv.fr" tvg-name="Vosges tv" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/VOSGES100x100couleur.png" tvg-chno="514" channel-number="514",Vosges tv
 https://tv.sfr.fr/direct-tv/vosges-tv
-#EXTINF:-1 tvg-id="Cannes.Lérins.TV.fr" tvg-name="Cannes Lérins TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/8/9/15182984.jpg" tvg-chno="515" channel-number="515",Cannes Lérins TV
+#EXTINF:-1 tvg-id="Cannes.Lérins.TV.fr" tvg-name="Cannes Lérins TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CannesLerins100x100.png" tvg-chno="515" channel-number="515",Cannes Lérins TV
 https://tv.sfr.fr/direct-tv/cannes-lerins-tv
-#EXTINF:-1 tvg-id="Maritima.TV.fr" tvg-name="Maritima TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="520" channel-number="520",Maritima TV
+#EXTINF:-1 tvg-id="Maritima.TV.fr" tvg-name="Maritima TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MaritimaTV100x100.png" tvg-chno="520" channel-number="520",Maritima TV
 https://tv.sfr.fr/direct-tv/maritima-tv
-#EXTINF:-1 tvg-id="MAURIENNE.TV.fr" tvg-name="MAURIENNE TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15183362.jpg" tvg-chno="522" channel-number="522",MAURIENNE TV
+#EXTINF:-1 tvg-id="MAURIENNE.TV.fr" tvg-name="MAURIENNE TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/mauriennetv100x100.png" tvg-chno="522" channel-number="522",MAURIENNE TV
 https://tv.sfr.fr/direct-tv/maurienne-tv
-#EXTINF:-1 tvg-id="Angers.télé.fr" tvg-name="Angers télé" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="523" channel-number="523",Angers télé
+#EXTINF:-1 tvg-id="Angers.télé.fr" tvg-name="Angers télé" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AngersTV100x100.png" tvg-chno="523" channel-number="523",Angers télé
 https://tv.sfr.fr/direct-tv/angers-tele
-#EXTINF:-1 tvg-id="Télénantes.fr" tvg-name="Télénantes" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/8/8/15182883.jpg" tvg-chno="524" channel-number="524",Télénantes
+#EXTINF:-1 tvg-id="Télénantes.fr" tvg-name="Télénantes" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Telenantes_color.png" tvg-chno="524" channel-number="524",Télénantes
 https://tv.sfr.fr/direct-tv/telenantes
-#EXTINF:-1 tvg-id="TV.Vendée.fr" tvg-name="TV Vendée" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/7/15176769.jpg" tvg-chno="525" channel-number="525",TV Vendée
+#EXTINF:-1 tvg-id="TV.Vendée.fr" tvg-name="TV Vendée" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV_Vendee_color.png" tvg-chno="525" channel-number="525",TV Vendée
 https://tv.sfr.fr/direct-tv/tv-vendee
-#EXTINF:-1 tvg-id="LMtv.Sarthe.fr" tvg-name="LMtv Sarthe" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/15178694.jpg" tvg-chno="526" channel-number="526",LMtv Sarthe
+#EXTINF:-1 tvg-id="LMtv.Sarthe.fr" tvg-name="LMtv Sarthe" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LMTV100x100.png" tvg-chno="526" channel-number="526",LMtv Sarthe
 https://tv.sfr.fr/direct-tv/lmtv-sarthe
-#EXTINF:-1 tvg-id="TEBEO.fr" tvg-name="TEBEO" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15183362.jpg" tvg-chno="529" channel-number="529",TEBEO
+#EXTINF:-1 tvg-id="TEBEO.fr" tvg-name="TEBEO" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TEBEOcolor1.png" tvg-chno="529" channel-number="529",TEBEO
 https://tv.sfr.fr/direct-tv/tebeo
-#EXTINF:-1 tvg-id="TV.RENNES.35.fr" tvg-name="TV RENNES 35" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/1/0/15182017.jpg" tvg-chno="530" channel-number="530",TV RENNES 35
+#EXTINF:-1 tvg-id="TV.RENNES.35.fr" tvg-name="TV RENNES 35" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TVRennes35100x100couleur.png" tvg-chno="530" channel-number="530",TV RENNES 35
 https://tv.sfr.fr/direct-tv/tv-rennes-35
-#EXTINF:-1 tvg-id="Val.de.Loire.TV.fr" tvg-name="Val de Loire TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/2/7/15255720.jpg" tvg-chno="533" channel-number="533",Val de Loire TV
+#EXTINF:-1 tvg-id="Val.de.Loire.TV.fr" tvg-name="Val de Loire TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TVTOURS100x100.png" tvg-chno="533" channel-number="533",Val de Loire TV
 https://tv.sfr.fr/direct-tv/val-de-loire-tv
-#EXTINF:-1 tvg-id="Bip.TV.fr" tvg-name="Bip TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/9/7/15207796.jpg" tvg-chno="534" channel-number="534",Bip TV
+#EXTINF:-1 tvg-id="Bip.TV.fr" tvg-name="Bip TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BIPTV100x100couleur.png" tvg-chno="534" channel-number="534",Bip TV
 https://tv.sfr.fr/direct-tv/bip-tv
-#EXTINF:-1 tvg-id="ZOUK.TV.fr" tvg-name="ZOUK TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="536" channel-number="536",ZOUK TV
+#EXTINF:-1 tvg-id="ZOUK.TV.fr" tvg-name="ZOUK TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/ZOUK_TV_color.png" tvg-chno="536" channel-number="536",ZOUK TV
 https://tv.sfr.fr/direct-tv/zouk-tv
-#EXTINF:-1 tvg-id="Télé.Paese.fr" tvg-name="Télé Paese" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="537" channel-number="537",Télé Paese
+#EXTINF:-1 tvg-id="Télé.Paese.fr" tvg-name="Télé Paese" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tele_Paese_color.png" tvg-chno="537" channel-number="537",Télé Paese
 https://tv.sfr.fr/direct-tv/tele-paese
-#EXTINF:-1 tvg-id="CNN.International.fr" tvg-name="CNN International" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/5/6/15211656.jpg" tvg-chno="541" channel-number="541",CNN International
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_cnn
-#EXTINF:-1 tvg-id="BBC.NEWS.fr" tvg-name="BBC NEWS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/3/4/15203438.jpg" tvg-chno="542" channel-number="542",BBC NEWS
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/589/broadcasts/day/0?channelPosition=116
-#EXTINF:-1 tvg-id="France.24.Anglais.fr" tvg-name="France 24 Anglais" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/1/15220169.jpg" tvg-chno="543" channel-number="543",France 24 Anglais
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france24_eng
-#EXTINF:-1 tvg-id="CNBC.Europe.fr" tvg-name="CNBC Europe" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/2/8/15209822.jpg" tvg-chno="544" channel-number="544",CNBC Europe
+#EXTINF:-1 tvg-id="CNN.International.fr" tvg-name="CNN International" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CNN_International_color.png" tvg-chno="541" channel-number="541",CNN International
+https://tv.sfr.fr/direct-tv/cnn-international
+#EXTINF:-1 tvg-id="BBC.NEWS.fr" tvg-name="BBC NEWS" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/BBCNews100x100.png" tvg-chno="542" channel-number="542",BBC NEWS
+https://tv.sfr.fr/direct-tv/bbc-news
+#EXTINF:-1 tvg-id="France.24.Anglais.fr" tvg-name="France 24 Anglais" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_24_English_color.png" tvg-chno="543" channel-number="543",France 24 Anglais
+https://tv.sfr.fr/direct-tv/france-24-anglais
+#EXTINF:-1 tvg-id="CNBC.Europe.fr" tvg-name="CNBC Europe" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CNBC100x100.png" tvg-chno="544" channel-number="544",CNBC Europe
 https://tv.sfr.fr/direct-tv/cnbc-europe
-#EXTINF:-1 tvg-id="Bloomberg.PAN-European.fr" tvg-name="Bloomberg PAN-European" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/7/9/15204975.jpg" tvg-chno="545" channel-number="545",Bloomberg PAN-European
+#EXTINF:-1 tvg-id="Bloomberg.PAN-European.fr" tvg-name="Bloomberg PAN-European" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Bloomberg_PAN_European_color.png" tvg-chno="545" channel-number="545",Bloomberg PAN-European
 https://tv.sfr.fr/direct-tv/bloomberg-pan-european
-#EXTINF:-1 tvg-id="Al.Jazeera.English.fr" tvg-name="Al Jazeera English" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/1/1/15201110.jpg" tvg-chno="546" channel-number="546",Al Jazeera English
+#EXTINF:-1 tvg-id="Al.Jazeera.English.fr" tvg-name="Al Jazeera English" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Jazeera_English_color.png" tvg-chno="546" channel-number="546",Al Jazeera English
 https://tv.sfr.fr/direct-tv/al-jazeera-english
-#EXTINF:-1 tvg-id="i24.News.Anglais.fr" tvg-name="i24 News Anglais" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/15195874.jpg" tvg-chno="547" channel-number="547",i24 News Anglais
+#EXTINF:-1 tvg-id="i24.News.Anglais.fr" tvg-name="i24 News Anglais" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/I24_NEWS_ENGLISH_color.png" tvg-chno="547" channel-number="547",i24 News Anglais
 https://tv.sfr.fr/direct-tv/i24-news-anglais
-#EXTINF:-1 tvg-id="NHK.WORLD-JAPAN.fr" tvg-name="NHK WORLD-JAPAN" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/6/8/15231865.jpg" tvg-chno="548" channel-number="548",NHK WORLD-JAPAN
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/654/broadcasts/day/0?channelPosition=256
-#EXTINF:-1 tvg-id="Sky.News.fr" tvg-name="Sky News" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="549" channel-number="549",Sky News
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_skynews
-#EXTINF:-1 tvg-id="TGCOM24.fr" tvg-name="TGCOM24" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/2/9/15228920.jpg" tvg-chno="550" channel-number="550",TGCOM24
+#EXTINF:-1 tvg-id="NHK.WORLD-JAPAN.fr" tvg-name="NHK WORLD-JAPAN" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NHK_WORLD_JAPAN_color.png" tvg-chno="548" channel-number="548",NHK WORLD-JAPAN
+https://tv.sfr.fr/direct-tv/nhk-world-japan
+#EXTINF:-1 tvg-id="Sky.News.fr" tvg-name="Sky News" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sky_News_color.png" tvg-chno="549" channel-number="549",Sky News
+https://tv.sfr.fr/direct-tv/sky-news
+#EXTINF:-1 tvg-id="TGCOM24.fr" tvg-name="TGCOM24" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoTGCOM100x100couleur.png" tvg-chno="550" channel-number="550",TGCOM24
 https://tv.sfr.fr/direct-tv/tgcom24
-#EXTINF:-1 tvg-id="i24.News.Arabe.fr" tvg-name="i24 News Arabe" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/7/8/15195874.jpg" tvg-chno="555" channel-number="555",i24 News Arabe
+#EXTINF:-1 tvg-id="i24.News.Arabe.fr" tvg-name="i24 News Arabe" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/I24_NEWS_ARABIC_color.png" tvg-chno="555" channel-number="555",i24 News Arabe
 https://tv.sfr.fr/direct-tv/i24-news-arabe
-#EXTINF:-1 tvg-id="France.24.Arabe.fr" tvg-name="France 24 Arabe" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/5/15194509.jpg" tvg-chno="556" channel-number="556",France 24 Arabe
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/272/broadcasts/day/0?channelPosition=246
-#EXTINF:-1 tvg-id="Al.Jazeera.fr" tvg-name="Al Jazeera" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="557" channel-number="557",Al Jazeera
+#EXTINF:-1 tvg-id="France.24.Arabe.fr" tvg-name="France 24 Arabe" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/France_24_Arabic_color.png" tvg-chno="556" channel-number="556",France 24 Arabe
+https://tv.sfr.fr/direct-tv/france-24-arabe
+#EXTINF:-1 tvg-id="Al.Jazeera.fr" tvg-name="Al Jazeera" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Jazeera_color.png" tvg-chno="557" channel-number="557",Al Jazeera
 https://tv.sfr.fr/direct-tv/al-jazeera
-#EXTINF:-1 tvg-id="Medi1TV.fr" tvg-name="Medi1TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="558" channel-number="558",Medi1TV
+#EXTINF:-1 tvg-id="Medi1TV.fr" tvg-name="Medi1TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Medi1TV_color.png" tvg-chno="558" channel-number="558",Medi1TV
 https://tv.sfr.fr/direct-tv/medi1tv
-#EXTINF:-1 tvg-id="AL.ARABIYA.fr" tvg-name="AL ARABIYA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="559" channel-number="559",AL ARABIYA
+#EXTINF:-1 tvg-id="AL.ARABIYA.fr" tvg-name="AL ARABIYA" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AlArabiya100x100.png" tvg-chno="559" channel-number="559",AL ARABIYA
 https://tv.sfr.fr/direct-tv/al-arabiya
-#EXTINF:-1 tvg-id="Echourouk.TV.fr" tvg-name="Echourouk TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/5/9/15183958.jpg" tvg-chno="560" channel-number="560",Echourouk TV
+#EXTINF:-1 tvg-id="Echourouk.TV.fr" tvg-name="Echourouk TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Echourouk_TV_color.png" tvg-chno="560" channel-number="560",Echourouk TV
 https://tv.sfr.fr/direct-tv/echourouk-tv
-#EXTINF:-1 tvg-id="Ennahar.TV.fr" tvg-name="Ennahar TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="561" channel-number="561",Ennahar TV
+#EXTINF:-1 tvg-id="Ennahar.TV.fr" tvg-name="Ennahar TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Ennahar_TV_color.png" tvg-chno="561" channel-number="561",Ennahar TV
 https://tv.sfr.fr/direct-tv/ennahar-tv
-#EXTINF:-1 tvg-id="SIC.Noticias.fr" tvg-name="SIC Noticias" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="567" channel-number="567",SIC Noticias
+#EXTINF:-1 tvg-id="SIC.Noticias.fr" tvg-name="SIC Noticias" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SICNoticias100x100Couleur.png" tvg-chno="567" channel-number="567",SIC Noticias
 https://tv.sfr.fr/direct-tv/sic-noticias
-#EXTINF:-1 tvg-id="Canal.11.fr" tvg-name="Canal 11" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/6/2/15297264.jpg" tvg-chno="568" channel-number="568",Canal 11
+#EXTINF:-1 tvg-id="Canal.11.fr" tvg-name="Canal 11" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Channel11100x100fondblanc.png" tvg-chno="568" channel-number="568",Canal 11
 https://tv.sfr.fr/direct-tv/canal-11
-#EXTINF:-1 tvg-id="Rai.News.24.fr" tvg-name="Rai News 24" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/3/15241362.jpg" tvg-chno="571" channel-number="571",Rai News 24
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_rai_news_24
-#EXTINF:-1 tvg-id="France.24.Espanol.fr" tvg-name="France 24 Espanol" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/6/5/15194566.jpg" tvg-chno="573" channel-number="573",France 24 Espanol
+#EXTINF:-1 tvg-id="Rai.News.24.fr" tvg-name="Rai News 24" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rainews24100x100.png" tvg-chno="571" channel-number="571",Rai News 24
+https://tv.sfr.fr/direct-tv/rai-news-24
+#EXTINF:-1 tvg-id="France.24.Espanol.fr" tvg-name="France 24 Espanol" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/FR24esp100x100.png" tvg-chno="573" channel-number="573",France 24 Espanol
 https://tv.sfr.fr/direct-tv/france-24-espanol
-#EXTINF:-1 tvg-id="24h.fr" tvg-name="24h" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/0/2/15205201.jpg" tvg-chno="574" channel-number="574",24h
+#EXTINF:-1 tvg-id="24h.fr" tvg-name="24h" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/24H_TVE_color.png" tvg-chno="574" channel-number="574",24h
 https://tv.sfr.fr/direct-tv/24h
-#EXTINF:-1 tvg-id="TVE.fr" tvg-name="TVE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/4/9/15259946.jpg" tvg-chno="575" channel-number="575",TVE
+#EXTINF:-1 tvg-id="TVE.fr" tvg-name="TVE" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVEI_color.png" tvg-chno="575" channel-number="575",TVE
 https://tv.sfr.fr/direct-tv/tve
-#EXTINF:-1 tvg-id="DW-TV.fr" tvg-name="DW-TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/8/7/15215783.jpg" tvg-chno="578" channel-number="578",DW-TV
+#EXTINF:-1 tvg-id="DW-TV.fr" tvg-name="DW-TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/DW_TV_color.png" tvg-chno="578" channel-number="578",DW-TV
 https://tv.sfr.fr/direct-tv/dw-tv
-#EXTINF:-1 tvg-id="WELT.fr" tvg-name="WELT" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="579" channel-number="579",WELT
+#EXTINF:-1 tvg-id="WELT.fr" tvg-name="WELT" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/WELT_color.png" tvg-chno="579" channel-number="579",WELT
 https://tv.sfr.fr/direct-tv/welt
-#EXTINF:-1 tvg-id="TVN24.fr" tvg-name="TVN24" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="583" channel-number="583",TVN24
+#EXTINF:-1 tvg-id="TVN24.fr" tvg-name="TVN24" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVN24_color.png" tvg-chno="583" channel-number="583",TVN24
 https://tv.sfr.fr/direct-tv/tvn24
-#EXTINF:-1 tvg-id="Record.News.fr" tvg-name="Record News" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="586" channel-number="586",Record News
+#EXTINF:-1 tvg-id="Record.News.fr" tvg-name="Record News" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Record_News_color.png" tvg-chno="586" channel-number="586",Record News
 https://tv.sfr.fr/direct-tv/record-news
-#EXTINF:-1 tvg-id="CGTN.fr" tvg-name="CGTN" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/15212738.jpg" tvg-chno="592" channel-number="592",CGTN
+#EXTINF:-1 tvg-id="CGTN.fr" tvg-name="CGTN" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CGTN_color.png" tvg-chno="592" channel-number="592",CGTN
 https://tv.sfr.fr/direct-tv/cgtn
-#EXTINF:-1 tvg-id="Africa.24.fr" tvg-name="Africa 24" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="595" channel-number="595",Africa 24
+#EXTINF:-1 tvg-id="Africa.24.fr" tvg-name="Africa 24" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Africa_24_color.png" tvg-chno="595" channel-number="595",Africa 24
 https://tv.sfr.fr/direct-tv/africa-24
-#EXTINF:-1 tvg-id="Canal2.fr" tvg-name="Canal2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/5/0/15178052.jpg" tvg-chno="597" channel-number="597",Canal2
+#EXTINF:-1 tvg-id="Canal2.fr" tvg-name="Canal2" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal2_color.png" tvg-chno="597" channel-number="597",Canal2
 https://tv.sfr.fr/direct-tv/canal2
-#EXTINF:-1 tvg-id="V+.fr" tvg-name="V+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/8/15178806.jpg" tvg-chno="602" channel-number="602",V+
+#EXTINF:-1 tvg-id="V+.fr" tvg-name="V+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/V100x100.png" tvg-chno="602" channel-number="602",V+
 https://tv.sfr.fr/direct-tv/v
-#EXTINF:-1 tvg-id="Porto.Canal.fr" tvg-name="Porto Canal" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/15178181.jpg" tvg-chno="604" channel-number="604",Porto Canal
+#EXTINF:-1 tvg-id="Porto.Canal.fr" tvg-name="Porto Canal" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Porto_Canal_color.png" tvg-chno="604" channel-number="604",Porto Canal
 https://tv.sfr.fr/direct-tv/porto-canal
-#EXTINF:-1 tvg-id="Local.Visao.fr" tvg-name="Local Visao" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/9/9/15202993.jpg" tvg-chno="605" channel-number="605",Local Visao
+#EXTINF:-1 tvg-id="Local.Visao.fr" tvg-name="Local Visao" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Local_Visao_color.png" tvg-chno="605" channel-number="605",Local Visao
 https://tv.sfr.fr/direct-tv/local-visao
-#EXTINF:-1 tvg-id="Benfica.TV.fr" tvg-name="Benfica TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/6/15388660.jpg" tvg-chno="608" channel-number="608",Benfica TV
+#EXTINF:-1 tvg-id="Benfica.TV.fr" tvg-name="Benfica TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Benfica_TV_color.png" tvg-chno="608" channel-number="608",Benfica TV
 https://tv.sfr.fr/direct-tv/benfica-tv
-#EXTINF:-1 tvg-id="A.BOLA.TV.fr" tvg-name="A BOLA TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/1/4/15200417.jpg" tvg-chno="609" channel-number="609",A BOLA TV
+#EXTINF:-1 tvg-id="A.BOLA.TV.fr" tvg-name="A BOLA TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/A_BOLA_TV_color.png" tvg-chno="609" channel-number="609",A BOLA TV
 https://tv.sfr.fr/direct-tv/a-bola-tv
-#EXTINF:-1 tvg-id="TV.Record.Europa.fr" tvg-name="TV Record Europa" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="612" channel-number="612",TV Record Europa
+#EXTINF:-1 tvg-id="TV.Record.Europa.fr" tvg-name="TV Record Europa" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV_Record_Europa_color.png" tvg-chno="612" channel-number="612",TV Record Europa
 https://tv.sfr.fr/direct-tv/tv-record-europa
-#EXTINF:-1 tvg-id="RTP.Noticias.fr" tvg-name="RTP Noticias" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/2/15245204.jpg" tvg-chno="616" channel-number="616",RTP Noticias
+#EXTINF:-1 tvg-id="RTP.Noticias.fr" tvg-name="RTP Noticias" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RTP100x1002.png" tvg-chno="616" channel-number="616",RTP Noticias
 https://tv.sfr.fr/direct-tv/rtp-noticias
-#EXTINF:-1 tvg-id="TVI.Internacional.fr" tvg-name="TVI Internacional" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/0/0/15256003.jpg" tvg-chno="620" channel-number="620",TVI Internacional
+#EXTINF:-1 tvg-id="TVI.Internacional.fr" tvg-name="TVI Internacional" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVI_Internacional_color.png" tvg-chno="620" channel-number="620",TVI Internacional
 https://tv.sfr.fr/direct-tv/tvi-internacional
-#EXTINF:-1 tvg-id="SIC.Internacional.fr" tvg-name="SIC Internacional" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/15178181.jpg" tvg-chno="621" channel-number="621",SIC Internacional
+#EXTINF:-1 tvg-id="SIC.Internacional.fr" tvg-name="SIC Internacional" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SICInter100x100Couleur.png" tvg-chno="621" channel-number="621",SIC Internacional
 https://tv.sfr.fr/direct-tv/sic-internacional
-#EXTINF:-1 tvg-id="Canal.Q.fr" tvg-name="Canal Q" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/0/4/15201405.jpg" tvg-chno="622" channel-number="622",Canal Q
+#EXTINF:-1 tvg-id="Canal.Q.fr" tvg-name="Canal Q" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Q_color.png" tvg-chno="622" channel-number="622",Canal Q
 https://tv.sfr.fr/direct-tv/canal-q
-#EXTINF:-1 tvg-id="RTP.Mundo.fr" tvg-name="RTP Mundo" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/7/7/15246779.jpg" tvg-chno="624" channel-number="624",RTP Mundo
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_rtpi
-#EXTINF:-1 tvg-id="Rai.Uno.fr" tvg-name="Rai Uno" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/8/15276808.jpg" tvg-chno="626" channel-number="626",Rai Uno
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1083/broadcasts/day/0?channelPosition=248
-#EXTINF:-1 tvg-id="Rai.Due.fr" tvg-name="Rai Due" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/2/1/15425128.jpg" tvg-chno="627" channel-number="627",Rai Due
+#EXTINF:-1 tvg-id="RTP.Mundo.fr" tvg-name="RTP Mundo" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rtp-mundo-100x100.png" tvg-chno="624" channel-number="624",RTP Mundo
+https://tv.sfr.fr/direct-tv/rtp-mundo
+#EXTINF:-1 tvg-id="Rai.Uno.fr" tvg-name="Rai Uno" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rai1100x100.png" tvg-chno="626" channel-number="626",Rai Uno
+https://tv.sfr.fr/direct-tv/rai-uno
+#EXTINF:-1 tvg-id="Rai.Due.fr" tvg-name="Rai Due" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rai2100x100.png" tvg-chno="627" channel-number="627",Rai Due
 https://tv.sfr.fr/direct-tv/rai-due
-#EXTINF:-1 tvg-id="Rai.Tre.fr" tvg-name="Rai Tre" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/5/7/15241759.jpg" tvg-chno="628" channel-number="628",Rai Tre
+#EXTINF:-1 tvg-id="Rai.Tre.fr" tvg-name="Rai Tre" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rai3100x100.png" tvg-chno="628" channel-number="628",Rai Tre
 https://tv.sfr.fr/direct-tv/rai-tre
-#EXTINF:-1 tvg-id="RAI.SCUOLA.fr" tvg-name="RAI SCUOLA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/0/4/15248409.jpg" tvg-chno="629" channel-number="629",RAI SCUOLA
+#EXTINF:-1 tvg-id="RAI.SCUOLA.fr" tvg-name="RAI SCUOLA" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/rai-scuola-100x100-couleur.png" tvg-chno="629" channel-number="629",RAI SCUOLA
 https://tv.sfr.fr/direct-tv/rai-scuola
-#EXTINF:-1 tvg-id="RAI.STORIA.fr" tvg-name="RAI STORIA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/5/15445562.jpg" tvg-chno="630" channel-number="630",RAI STORIA
+#EXTINF:-1 tvg-id="RAI.STORIA.fr" tvg-name="RAI STORIA" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/rai-storia-100x100-couleur.png" tvg-chno="630" channel-number="630",RAI STORIA
 https://tv.sfr.fr/direct-tv/rai-storia
-#EXTINF:-1 tvg-id="Rai.Italia.fr" tvg-name="Rai Italia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/8/3/15526386.jpg" tvg-chno="632" channel-number="632",Rai Italia
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_rai_italia
-#EXTINF:-1 tvg-id="Mediaset.Italia.fr" tvg-name="Mediaset Italia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/1/6/15424614.jpg" tvg-chno="636" channel-number="636",Mediaset Italia
+#EXTINF:-1 tvg-id="Rai.Italia.fr" tvg-name="Rai Italia" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RaiItalia100x100.png" tvg-chno="632" channel-number="632",Rai Italia
+https://tv.sfr.fr/direct-tv/rai-italia
+#EXTINF:-1 tvg-id="Mediaset.Italia.fr" tvg-name="Mediaset Italia" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/mediasetitalia100x100.png" tvg-chno="636" channel-number="636",Mediaset Italia
 https://tv.sfr.fr/direct-tv/mediaset-italia
-#EXTINF:-1 tvg-id="REAL.MADRID.TV.fr" tvg-name="REAL MADRID TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/4/6/15203647.jpg" tvg-chno="645" channel-number="645",REAL MADRID TV
+#EXTINF:-1 tvg-id="REAL.MADRID.TV.fr" tvg-name="REAL MADRID TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RealMadridTV100x100couleur.png" tvg-chno="645" channel-number="645",REAL MADRID TV
 https://tv.sfr.fr/direct-tv/real-madrid-tv
-#EXTINF:-1 tvg-id="STAR.TVE.fr" tvg-name="STAR TVE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/1/15178188.jpg" tvg-chno="646" channel-number="646",STAR TVE
+#EXTINF:-1 tvg-id="STAR.TVE.fr" tvg-name="STAR TVE" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/StarTVE100x100.png" tvg-chno="646" channel-number="646",STAR TVE
 https://tv.sfr.fr/direct-tv/star-tve
-#EXTINF:-1 tvg-id="Antena.3.fr" tvg-name="Antena 3" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/7/15177760.jpg" tvg-chno="647" channel-number="647",Antena 3
+#EXTINF:-1 tvg-id="Antena.3.fr" tvg-name="Antena 3" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Antena_3_color.png" tvg-chno="647" channel-number="647",Antena 3
 https://tv.sfr.fr/direct-tv/antena-3
-#EXTINF:-1 tvg-id="Atres.Series.fr" tvg-name="Atres Series" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/1/9/15176917.jpg" tvg-chno="648" channel-number="648",Atres Series
+#EXTINF:-1 tvg-id="Atres.Series.fr" tvg-name="Atres Series" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Atres_Series_color.png" tvg-chno="648" channel-number="648",Atres Series
 https://tv.sfr.fr/direct-tv/atres-series
-#EXTINF:-1 tvg-id="ALL.FLAMENCO_.fr" tvg-name="ALL FLAMENCO_" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15187071.jpg" tvg-chno="650" channel-number="650",ALL FLAMENCO_
+#EXTINF:-1 tvg-id="ALL.FLAMENCO_.fr" tvg-name="ALL FLAMENCO_" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AllFlamenco100x100.png" tvg-chno="650" channel-number="650",ALL FLAMENCO_
 https://tv.sfr.fr/direct-tv/all-flamenco
-#EXTINF:-1 tvg-id="TVG.EUROPA.fr" tvg-name="TVG EUROPA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/0/15204004.jpg" tvg-chno="651" channel-number="651",TVG EUROPA
+#EXTINF:-1 tvg-id="TVG.EUROPA.fr" tvg-name="TVG EUROPA" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVG_EUROPA_color.png" tvg-chno="651" channel-number="651",TVG EUROPA
 https://tv.sfr.fr/direct-tv/tvg-europa
-#EXTINF:-1 tvg-id="TV3.Catalunya.fr" tvg-name="TV3 Catalunya" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="652" channel-number="652",TV3 Catalunya
+#EXTINF:-1 tvg-id="TV3.Catalunya.fr" tvg-name="TV3 Catalunya" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV3_Catalunya_color.png" tvg-chno="652" channel-number="652",TV3 Catalunya
 https://tv.sfr.fr/direct-tv/tv3-catalunya
 #EXTINF:-1 tvg-id="ETB1.ON.fr" tvg-name="ETB1 ON" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/etb1on-100x100.png" tvg-chno="655" channel-number="655",ETB1 ON
 https://tv.sfr.fr/direct-tv/etb1-on
-#EXTINF:-1 tvg-id="TELE.MADRID.fr" tvg-name="TELE MADRID" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/2/2/15259227.jpg" tvg-chno="657" channel-number="657",TELE MADRID
+#EXTINF:-1 tvg-id="TELE.MADRID.fr" tvg-name="TELE MADRID" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TeleMadrid100x100couleur.png" tvg-chno="657" channel-number="657",TELE MADRID
 https://tv.sfr.fr/direct-tv/tele-madrid
-#EXTINF:-1 tvg-id="ANDALUCIA.TV.fr" tvg-name="ANDALUCIA TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/5/3/15198351.jpg" tvg-chno="658" channel-number="658",ANDALUCIA TV
+#EXTINF:-1 tvg-id="ANDALUCIA.TV.fr" tvg-name="ANDALUCIA TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AndaluciaTV100x100.png" tvg-chno="658" channel-number="658",ANDALUCIA TV
 https://tv.sfr.fr/direct-tv/andalucia-tv
-#EXTINF:-1 tvg-id="Boomerang.Anglais.fr" tvg-name="Boomerang Anglais" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/2/15178249.jpg" tvg-chno="664" channel-number="664",Boomerang Anglais
+#EXTINF:-1 tvg-id="Boomerang.Anglais.fr" tvg-name="Boomerang Anglais" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Boomerang100x100.png" tvg-chno="664" channel-number="664",Boomerang Anglais
 https://tv.sfr.fr/direct-tv/boomerang-anglais
-#EXTINF:-1 tvg-id="FilmBox.Arthouse.fr" tvg-name="FilmBox Arthouse" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/0/4/15527405.jpg" tvg-chno="665" channel-number="665",FilmBox Arthouse
+#EXTINF:-1 tvg-id="FilmBox.Arthouse.fr" tvg-name="FilmBox Arthouse" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/FILMBOX100x100.png" tvg-chno="665" channel-number="665",FilmBox Arthouse
 https://tv.sfr.fr/direct-tv/filmbox-arthouse
-#EXTINF:-1 tvg-id="TCM.Anglais.fr" tvg-name="TCM Anglais" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/5/15178500.jpg" tvg-chno="666" channel-number="666",TCM Anglais
+#EXTINF:-1 tvg-id="TCM.Anglais.fr" tvg-name="TCM Anglais" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TCM100x100.png" tvg-chno="666" channel-number="666",TCM Anglais
 https://tv.sfr.fr/direct-tv/tcm-anglais
-#EXTINF:-1 tvg-id="TinyTeen.fr" tvg-name="TinyTeen" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/1/6/15270616.jpg" tvg-chno="667" channel-number="667",TinyTeen
+#EXTINF:-1 tvg-id="TinyTeen.fr" tvg-name="TinyTeen" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TinyTeen100x100.png" tvg-chno="667" channel-number="667",TinyTeen
 https://tv.sfr.fr/direct-tv/tinyteen
-#EXTINF:-1 tvg-id="Lang.Lab.fr" tvg-name="Lang Lab" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/7/5/15270575.jpg" tvg-chno="668" channel-number="668",Lang Lab
+#EXTINF:-1 tvg-id="Lang.Lab.fr" tvg-name="Lang Lab" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LangLab100x100.png" tvg-chno="668" channel-number="668",Lang Lab
 https://tv.sfr.fr/direct-tv/lang-lab
-#EXTINF:-1 tvg-id="Lingo.Toons.fr" tvg-name="Lingo Toons" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/8/5/15270583.jpg" tvg-chno="669" channel-number="669",Lingo Toons
+#EXTINF:-1 tvg-id="Lingo.Toons.fr" tvg-name="Lingo Toons" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LingoToons100x100.png" tvg-chno="669" channel-number="669",Lingo Toons
 https://tv.sfr.fr/direct-tv/lingo-toons
-#EXTINF:-1 tvg-id="DocuBox.HD.fr" tvg-name="DocuBox HD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/1/3/15236319.jpg" tvg-chno="670" channel-number="670",DocuBox HD
+#EXTINF:-1 tvg-id="DocuBox.HD.fr" tvg-name="DocuBox HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/DOCUBOX100x100.png" tvg-chno="670" channel-number="670",DocuBox HD
 https://tv.sfr.fr/direct-tv/docubox-hd
-#EXTINF:-1 tvg-id="FashionBox.HD.fr" tvg-name="FashionBox HD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/0/9/15305901.jpg" tvg-chno="671" channel-number="671",FashionBox HD
+#EXTINF:-1 tvg-id="FashionBox.HD.fr" tvg-name="FashionBox HD" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/FASHION100x100.png" tvg-chno="671" channel-number="671",FashionBox HD
 https://tv.sfr.fr/direct-tv/fashionbox-hd
-#EXTINF:-1 tvg-id="Das.Erste.fr" tvg-name="Das Erste" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/3/8/15304836.jpg" tvg-chno="672" channel-number="672",Das Erste
+#EXTINF:-1 tvg-id="Das.Erste.fr" tvg-name="Das Erste" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Das_Erste_color.png" tvg-chno="672" channel-number="672",Das Erste
 https://tv.sfr.fr/direct-tv/das-erste
-#EXTINF:-1 tvg-id="ProSieben.fr" tvg-name="ProSieben" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/2/15305281.jpg" tvg-chno="673" channel-number="673",ProSieben
+#EXTINF:-1 tvg-id="ProSieben.fr" tvg-name="ProSieben" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/ProSieben_color.png" tvg-chno="673" channel-number="673",ProSieben
 https://tv.sfr.fr/direct-tv/prosieben
-#EXTINF:-1 tvg-id="N-TV.fr" tvg-name="N-TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/2/1/15305124.jpg" tvg-chno="674" channel-number="674",N-TV
+#EXTINF:-1 tvg-id="N-TV.fr" tvg-name="N-TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/N_TV_color.png" tvg-chno="674" channel-number="674",N-TV
 https://tv.sfr.fr/direct-tv/n-tv
-#EXTINF:-1 tvg-id="RTL.Television.fr" tvg-name="RTL Television" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/4/15244460.jpg" tvg-chno="675" channel-number="675",RTL Television
+#EXTINF:-1 tvg-id="RTL.Television.fr" tvg-name="RTL Television" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RTLlogocollection06cmyk100x100.png" tvg-chno="675" channel-number="675",RTL Television
 https://tv.sfr.fr/direct-tv/rtl-television
-#EXTINF:-1 tvg-id="RTL2.fr" tvg-name="RTL2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/6/3/15305365.jpg" tvg-chno="676" channel-number="676",RTL2
+#EXTINF:-1 tvg-id="RTL2.fr" tvg-name="RTL2" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTL2_color.png" tvg-chno="676" channel-number="676",RTL2
 https://tv.sfr.fr/direct-tv/rtl2
-#EXTINF:-1 tvg-id="Sat.1.fr" tvg-name="Sat 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="677" channel-number="677",Sat 1
+#EXTINF:-1 tvg-id="Sat.1.fr" tvg-name="Sat 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sat_1_color.png" tvg-chno="677" channel-number="677",Sat 1
 https://tv.sfr.fr/direct-tv/sat-1
-#EXTINF:-1 tvg-id="Super.RTL.fr" tvg-name="Super RTL" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/5/6/15258656.jpg" tvg-chno="678" channel-number="678",Super RTL
+#EXTINF:-1 tvg-id="Super.RTL.fr" tvg-name="Super RTL" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Super_RTL_color.png" tvg-chno="678" channel-number="678",Super RTL
 https://tv.sfr.fr/direct-tv/super-rtl
-#EXTINF:-1 tvg-id="SWR.fr" tvg-name="SWR" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/4/4/15305446.jpg" tvg-chno="679" channel-number="679",SWR
+#EXTINF:-1 tvg-id="SWR.fr" tvg-name="SWR" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/SWR_color.png" tvg-chno="679" channel-number="679",SWR
 https://tv.sfr.fr/direct-tv/swr
-#EXTINF:-1 tvg-id="VOX.fr" tvg-name="VOX" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/8/15305806.jpg" tvg-chno="680" channel-number="680",VOX
+#EXTINF:-1 tvg-id="VOX.fr" tvg-name="VOX" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Vox_color.png" tvg-chno="680" channel-number="680",VOX
 https://tv.sfr.fr/direct-tv/vox
-#EXTINF:-1 tvg-id="ZDF.fr" tvg-name="ZDF" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/0/7/15258701.jpg" tvg-chno="681" channel-number="681",ZDF
+#EXTINF:-1 tvg-id="ZDF.fr" tvg-name="ZDF" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/ZDF_color.png" tvg-chno="681" channel-number="681",ZDF
 https://tv.sfr.fr/direct-tv/zdf
-#EXTINF:-1 tvg-id="KABEL.EINS.fr" tvg-name="KABEL EINS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/0/15305012.jpg" tvg-chno="682" channel-number="682",KABEL EINS
+#EXTINF:-1 tvg-id="KABEL.EINS.fr" tvg-name="KABEL EINS" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/KABEL_EINS_color.png" tvg-chno="682" channel-number="682",KABEL EINS
 https://tv.sfr.fr/direct-tv/kabel-eins
-#EXTINF:-1 tvg-id="RTL.NITRO.TV.fr" tvg-name="RTL NITRO TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/0/0/15178002.jpg" tvg-chno="685" channel-number="685",RTL NITRO TV
+#EXTINF:-1 tvg-id="RTL.NITRO.TV.fr" tvg-name="RTL NITRO TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTL_NITRO_TV_color.png" tvg-chno="685" channel-number="685",RTL NITRO TV
 https://tv.sfr.fr/direct-tv/rtl-nitro-tv
-#EXTINF:-1 tvg-id="Arte.Allemand.fr" tvg-name="Arte Allemand" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/0/9/15201904.jpg" tvg-chno="686" channel-number="686",Arte Allemand
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/21120/broadcasts/day/0?channelPosition=253
-#EXTINF:-1 tvg-id="iTVN.fr" tvg-name="iTVN" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/3/7/15225738.jpg" tvg-chno="697" channel-number="697",iTVN
+#EXTINF:-1 tvg-id="Arte.Allemand.fr" tvg-name="Arte Allemand" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arte_Allemand_color.png" tvg-chno="686" channel-number="686",Arte Allemand
+https://tv.sfr.fr/direct-tv/arte-allemand
+#EXTINF:-1 tvg-id="iTVN.fr" tvg-name="iTVN" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/iTVN_color.png" tvg-chno="697" channel-number="697",iTVN
 https://tv.sfr.fr/direct-tv/itvn
-#EXTINF:-1 tvg-id="ITVN.Extra.fr" tvg-name="ITVN Extra" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/8/9/15304987.jpg" tvg-chno="698" channel-number="698",ITVN Extra
+#EXTINF:-1 tvg-id="ITVN.Extra.fr" tvg-name="ITVN Extra" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/ITVN_Extra_color.png" tvg-chno="698" channel-number="698",ITVN Extra
 https://tv.sfr.fr/direct-tv/itvn-extra
-#EXTINF:-1 tvg-id="TVP.Polonia.fr" tvg-name="TVP Polonia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/0/8/15176805.jpg" tvg-chno="700" channel-number="700",TVP Polonia
+#EXTINF:-1 tvg-id="TVP.Polonia.fr" tvg-name="TVP Polonia" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVP_Polonia_color.png" tvg-chno="700" channel-number="700",TVP Polonia
 https://tv.sfr.fr/direct-tv/tvp-polonia
-#EXTINF:-1 tvg-id="RTV.Pink.Extra.fr" tvg-name="RTV Pink Extra" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/9/5/15185596.jpg" tvg-chno="706" channel-number="706",RTV Pink Extra
+#EXTINF:-1 tvg-id="RTV.Pink.Extra.fr" tvg-name="RTV Pink Extra" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTV_Pink_Extra_color.png" tvg-chno="706" channel-number="706",RTV Pink Extra
 https://tv.sfr.fr/direct-tv/rtv-pink-extra
-#EXTINF:-1 tvg-id="RTV.Pink.Music.fr" tvg-name="RTV Pink Music" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/15180008.jpg" tvg-chno="707" channel-number="707",RTV Pink Music
+#EXTINF:-1 tvg-id="RTV.Pink.Music.fr" tvg-name="RTV Pink Music" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTV_Pink_Music_color.png" tvg-chno="707" channel-number="707",RTV Pink Music
 https://tv.sfr.fr/direct-tv/rtv-pink-music
-#EXTINF:-1 tvg-id="RTV.Pink.Plus.fr" tvg-name="RTV Pink Plus" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/3/2/15178238.jpg" tvg-chno="708" channel-number="708",RTV Pink Plus
+#EXTINF:-1 tvg-id="RTV.Pink.Plus.fr" tvg-name="RTV Pink Plus" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTV_Pink_Plus_color.png" tvg-chno="708" channel-number="708",RTV Pink Plus
 https://tv.sfr.fr/direct-tv/rtv-pink-plus
-#EXTINF:-1 tvg-id="RTV.Pink.Film.fr" tvg-name="RTV Pink Film" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15178006.jpg" tvg-chno="709" channel-number="709",RTV Pink Film
+#EXTINF:-1 tvg-id="RTV.Pink.Film.fr" tvg-name="RTV Pink Film" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTV_Pink_Film_color.png" tvg-chno="709" channel-number="709",RTV Pink Film
 https://tv.sfr.fr/direct-tv/rtv-pink-film
-#EXTINF:-1 tvg-id="Armenia.1.fr" tvg-name="Armenia 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/5/9/15183957.jpg" tvg-chno="713" channel-number="713",Armenia 1
+#EXTINF:-1 tvg-id="Armenia.1.fr" tvg-name="Armenia 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Armenia_1_color.png" tvg-chno="713" channel-number="713",Armenia 1
 https://tv.sfr.fr/direct-tv/armenia-1
-#EXTINF:-1 tvg-id="Antenna.1.fr" tvg-name="Antenna 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15187071.jpg" tvg-chno="716" channel-number="716",Antenna 1
+#EXTINF:-1 tvg-id="Antenna.1.fr" tvg-name="Antenna 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Antenna_1_color.png" tvg-chno="716" channel-number="716",Antenna 1
 https://tv.sfr.fr/direct-tv/antenna-1
-#EXTINF:-1 tvg-id="ART.CINEMA.fr" tvg-name="ART CINEMA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/5/15178500.jpg" tvg-chno="733" channel-number="733",ART CINEMA
+#EXTINF:-1 tvg-id="ART.CINEMA.fr" tvg-name="ART CINEMA" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ARTCINEMA100x100couleur.png" tvg-chno="733" channel-number="733",ART CINEMA
 https://tv.sfr.fr/direct-tv/art-cinema
-#EXTINF:-1 tvg-id="ART.AFLAM.1.fr" tvg-name="ART AFLAM 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/0/9/15266902.jpg" tvg-chno="734" channel-number="734",ART AFLAM 1
+#EXTINF:-1 tvg-id="ART.AFLAM.1.fr" tvg-name="ART AFLAM 1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ARTAFLAM1100x100couleur.png" tvg-chno="734" channel-number="734",ART AFLAM 1
 https://tv.sfr.fr/direct-tv/art-aflam-1
-#EXTINF:-1 tvg-id="ART.AFLAM.2.fr" tvg-name="ART AFLAM 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15177892.jpg" tvg-chno="735" channel-number="735",ART AFLAM 2
+#EXTINF:-1 tvg-id="ART.AFLAM.2.fr" tvg-name="ART AFLAM 2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ARTAFLAM2100x100couleur.png" tvg-chno="735" channel-number="735",ART AFLAM 2
 https://tv.sfr.fr/direct-tv/art-aflam-2
-#EXTINF:-1 tvg-id="AL.HEKAYAT.1.fr" tvg-name="AL HEKAYAT 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/1/9/15176917.jpg" tvg-chno="736" channel-number="736",AL HEKAYAT 1
+#EXTINF:-1 tvg-id="AL.HEKAYAT.1.fr" tvg-name="AL HEKAYAT 1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AlHekayat100x100.png" tvg-chno="736" channel-number="736",AL HEKAYAT 1
 https://tv.sfr.fr/direct-tv/al-hekayat-1
-#EXTINF:-1 tvg-id="AL.HEKAYAT.2.fr" tvg-name="AL HEKAYAT 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/1/9/15176917.jpg" tvg-chno="737" channel-number="737",AL HEKAYAT 2
+#EXTINF:-1 tvg-id="AL.HEKAYAT.2.fr" tvg-name="AL HEKAYAT 2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ALHEKAYAT2100x100couleur.png" tvg-chno="737" channel-number="737",AL HEKAYAT 2
 https://tv.sfr.fr/direct-tv/al-hekayat-2
-#EXTINF:-1 tvg-id="TV.Romania.International.fr" tvg-name="TV Romania International" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="738" channel-number="738",TV Romania International
+#EXTINF:-1 tvg-id="TV.Romania.International.fr" tvg-name="TV Romania International" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV_Romania_International_color.png" tvg-chno="738" channel-number="738",TV Romania International
 https://tv.sfr.fr/direct-tv/tv-romania-international
-#EXTINF:-1 tvg-id="Bahia.TV.fr" tvg-name="Bahia TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="739" channel-number="739",Bahia TV
+#EXTINF:-1 tvg-id="Bahia.TV.fr" tvg-name="Bahia TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Bahia100x100Couleur.png" tvg-chno="739" channel-number="739",Bahia TV
 https://tv.sfr.fr/direct-tv/bahia-tv
-#EXTINF:-1 tvg-id="Télé.Maroc.fr" tvg-name="Télé Maroc" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="740" channel-number="740",Télé Maroc
+#EXTINF:-1 tvg-id="Télé.Maroc.fr" tvg-name="Télé Maroc" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/telemaroc100x100color.png" tvg-chno="740" channel-number="740",Télé Maroc
 https://tv.sfr.fr/direct-tv/tele-maroc
-#EXTINF:-1 tvg-id="Samira.fr" tvg-name="Samira" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/1/6/15178614.jpg" tvg-chno="741" channel-number="741",Samira
+#EXTINF:-1 tvg-id="Samira.fr" tvg-name="Samira" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Samira_color.png" tvg-chno="741" channel-number="741",Samira
 https://tv.sfr.fr/direct-tv/samira
-#EXTINF:-1 tvg-id="Canal.Algérie.fr" tvg-name="Canal Algérie" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="742" channel-number="742",Canal Algérie
+#EXTINF:-1 tvg-id="Canal.Algérie.fr" tvg-name="Canal Algérie" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_Algerie_color.png" tvg-chno="742" channel-number="742",Canal Algérie
 https://tv.sfr.fr/direct-tv/canal-algerie
-#EXTINF:-1 tvg-id="A3.fr" tvg-name="A3" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="743" channel-number="743",A3
+#EXTINF:-1 tvg-id="A3.fr" tvg-name="A3" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/A3_color.png" tvg-chno="743" channel-number="743",A3
 https://tv.sfr.fr/direct-tv/a3
-#EXTINF:-1 tvg-id="Beur.FM.TV.fr" tvg-name="Beur FM TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/6/4/15306466.jpg" tvg-chno="746" channel-number="746",Beur FM TV
+#EXTINF:-1 tvg-id="Beur.FM.TV.fr" tvg-name="Beur FM TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Beur_FM_TV_color.png" tvg-chno="746" channel-number="746",Beur FM TV
 https://tv.sfr.fr/direct-tv/beur-fm-tv
-#EXTINF:-1 tvg-id="2M.Maroc.fr" tvg-name="2M Maroc" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/2/9/15176923.jpg" tvg-chno="749" channel-number="749",2M Maroc
+#EXTINF:-1 tvg-id="2M.Maroc.fr" tvg-name="2M Maroc" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/2M_Maroc_color.png" tvg-chno="749" channel-number="749",2M Maroc
 https://tv.sfr.fr/direct-tv/2m-maroc
-#EXTINF:-1 tvg-id="Al.Aoula.fr" tvg-name="Al Aoula" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/5/4/15306456.jpg" tvg-chno="750" channel-number="750",Al Aoula
+#EXTINF:-1 tvg-id="Al.Aoula.fr" tvg-name="Al Aoula" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Aoula_color.png" tvg-chno="750" channel-number="750",Al Aoula
 https://tv.sfr.fr/direct-tv/al-aoula
-#EXTINF:-1 tvg-id="Arryadia.fr" tvg-name="Arryadia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/9/6/15178694.jpg" tvg-chno="751" channel-number="751",Arryadia
+#EXTINF:-1 tvg-id="Arryadia.fr" tvg-name="Arryadia" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arryadia_color.png" tvg-chno="751" channel-number="751",Arryadia
 https://tv.sfr.fr/direct-tv/arryadia
-#EXTINF:-1 tvg-id="Assadissa.fr" tvg-name="Assadissa" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/2/3/15198325.jpg" tvg-chno="752" channel-number="752",Assadissa
+#EXTINF:-1 tvg-id="Assadissa.fr" tvg-name="Assadissa" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Assadissa_color.png" tvg-chno="752" channel-number="752",Assadissa
 https://tv.sfr.fr/direct-tv/assadissa
-#EXTINF:-1 tvg-id="El.Hiwar.Ettounsi.fr" tvg-name="El Hiwar Ettounsi" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/3/15181361.jpg" tvg-chno="757" channel-number="757",El Hiwar Ettounsi
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1191/broadcasts/day/0?channelPosition=238
-#EXTINF:-1 tvg-id="Watania.2.fr" tvg-name="Watania 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/4/15195448.jpg" tvg-chno="758" channel-number="758",Watania 2
+#EXTINF:-1 tvg-id="El.Hiwar.Ettounsi.fr" tvg-name="El Hiwar Ettounsi" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/El_Hiwar_Ettounsi_color.png" tvg-chno="757" channel-number="757",El Hiwar Ettounsi
+https://tv.sfr.fr/direct-tv/el-hiwar-ettounsi
+#EXTINF:-1 tvg-id="Watania.2.fr" tvg-name="Watania 2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Watania2100x100Couleur.png" tvg-chno="758" channel-number="758",Watania 2
 https://tv.sfr.fr/direct-tv/watania-2
-#EXTINF:-1 tvg-id="Tunisia.1.fr" tvg-name="Tunisia 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="759" channel-number="759",Tunisia 1
+#EXTINF:-1 tvg-id="Tunisia.1.fr" tvg-name="Tunisia 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Tunisia_1_color.png" tvg-chno="759" channel-number="759",Tunisia 1
 https://tv.sfr.fr/direct-tv/tunisia-1
-#EXTINF:-1 tvg-id="Asharq.News.fr" tvg-name="Asharq News" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="760" channel-number="760",Asharq News
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_asharq_news
-#EXTINF:-1 tvg-id="Berbère.Jeunesse.fr" tvg-name="Berbère Jeunesse" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/7/3/15177370.jpg" tvg-chno="763" channel-number="763",Berbère Jeunesse
+#EXTINF:-1 tvg-id="Asharq.News.fr" tvg-name="Asharq News" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ASHARQNEWS100x100COULEUR.png" tvg-chno="760" channel-number="760",Asharq News
+https://tv.sfr.fr/direct-tv/asharq-news
+#EXTINF:-1 tvg-id="Berbère.Jeunesse.fr" tvg-name="Berbère Jeunesse" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Berbere_Jeunesse_color.png" tvg-chno="763" channel-number="763",Berbère Jeunesse
 https://tv.sfr.fr/direct-tv/berbere-jeunesse
-#EXTINF:-1 tvg-id="Berbère.Musique.fr" tvg-name="Berbère Musique" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/15184862.jpg" tvg-chno="764" channel-number="764",Berbère Musique
+#EXTINF:-1 tvg-id="Berbère.Musique.fr" tvg-name="Berbère Musique" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Berbere_Musique_color.png" tvg-chno="764" channel-number="764",Berbère Musique
 https://tv.sfr.fr/direct-tv/berbere-musique
-#EXTINF:-1 tvg-id="Berbère.TV.fr" tvg-name="Berbère TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/1/15178188.jpg" tvg-chno="765" channel-number="765",Berbère TV
+#EXTINF:-1 tvg-id="Berbère.TV.fr" tvg-name="Berbère TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Berbere_TV_color.png" tvg-chno="765" channel-number="765",Berbère TV
 https://tv.sfr.fr/direct-tv/berbere-tv
-#EXTINF:-1 tvg-id="Sky.News.Arabia.fr" tvg-name="Sky News Arabia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="767" channel-number="767",Sky News Arabia
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1192/broadcasts/day/0?channelPosition=239
-#EXTINF:-1 tvg-id="CHADA.TV.fr" tvg-name="CHADA TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/15180008.jpg" tvg-chno="768" channel-number="768",CHADA TV
+#EXTINF:-1 tvg-id="Sky.News.Arabia.fr" tvg-name="Sky News Arabia" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SKYNEWSARABIA100x100COULEUR.png" tvg-chno="767" channel-number="767",Sky News Arabia
+https://tv.sfr.fr/direct-tv/sky-news-arabia
+#EXTINF:-1 tvg-id="CHADA.TV.fr" tvg-name="CHADA TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CHADATV100x100.png" tvg-chno="768" channel-number="768",CHADA TV
 https://tv.sfr.fr/direct-tv/chada-tv
-#EXTINF:-1 tvg-id="Rotana.Comedy.fr" tvg-name="Rotana Comedy" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15178006.jpg" tvg-chno="769" channel-number="769",Rotana Comedy
+#EXTINF:-1 tvg-id="Rotana.Comedy.fr" tvg-name="Rotana Comedy" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RotanaComedy100x100.png" tvg-chno="769" channel-number="769",Rotana Comedy
 https://tv.sfr.fr/direct-tv/rotana-comedy
-#EXTINF:-1 tvg-id="Syria.TV.fr" tvg-name="Syria TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="770" channel-number="770",Syria TV
+#EXTINF:-1 tvg-id="Syria.TV.fr" tvg-name="Syria TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoSyriaTV100x100.png" tvg-chno="770" channel-number="770",Syria TV
 https://tv.sfr.fr/direct-tv/syria-tv
-#EXTINF:-1 tvg-id="Al.Resalah.fr" tvg-name="Al Resalah" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/4/15195448.jpg" tvg-chno="771" channel-number="771",Al Resalah
+#EXTINF:-1 tvg-id="Al.Resalah.fr" tvg-name="Al Resalah" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Resalah_color.png" tvg-chno="771" channel-number="771",Al Resalah
 https://tv.sfr.fr/direct-tv/al-resalah
-#EXTINF:-1 tvg-id="Alaraby.1.fr" tvg-name="Alaraby 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/9/9/15202994.jpg" tvg-chno="773" channel-number="773",Alaraby 1
+#EXTINF:-1 tvg-id="Alaraby.1.fr" tvg-name="Alaraby 1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/alaraby100x100.png" tvg-chno="773" channel-number="773",Alaraby 1
 https://tv.sfr.fr/direct-tv/alaraby-1
-#EXTINF:-1 tvg-id="Echorouk.News.fr" tvg-name="Echorouk News" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/3/15181361.jpg" tvg-chno="774" channel-number="774",Echorouk News
+#EXTINF:-1 tvg-id="Echorouk.News.fr" tvg-name="Echorouk News" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Echorouk_News_color.png" tvg-chno="774" channel-number="774",Echorouk News
 https://tv.sfr.fr/direct-tv/echorouk-news
-#EXTINF:-1 tvg-id="El.Bilad.TV.fr" tvg-name="El Bilad TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/5/9/15183958.jpg" tvg-chno="775" channel-number="775",El Bilad TV
+#EXTINF:-1 tvg-id="El.Bilad.TV.fr" tvg-name="El Bilad TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/elbiladtv-100x100.png" tvg-chno="775" channel-number="775",El Bilad TV
 https://tv.sfr.fr/direct-tv/el-bilad-tv
-#EXTINF:-1 tvg-id="Dizi.fr" tvg-name="Dizi" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15187071.jpg" tvg-chno="776" channel-number="776",Dizi
+#EXTINF:-1 tvg-id="Dizi.fr" tvg-name="Dizi" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/DIZI100x100COULEUR.png" tvg-chno="776" channel-number="776",Dizi
 https://tv.sfr.fr/direct-tv/dizi
-#EXTINF:-1 tvg-id="Alaraby.2.fr" tvg-name="Alaraby 2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/5/9/15183956.jpg" tvg-chno="777" channel-number="777",Alaraby 2
+#EXTINF:-1 tvg-id="Alaraby.2.fr" tvg-name="Alaraby 2" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Alaraby2100x100Couleur.png" tvg-chno="777" channel-number="777",Alaraby 2
 https://tv.sfr.fr/direct-tv/alaraby-2
-#EXTINF:-1 tvg-id="Rotana.Aflam+.fr" tvg-name="Rotana Aflam+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/0/0/15178002.jpg" tvg-chno="778" channel-number="778",Rotana Aflam+
+#EXTINF:-1 tvg-id="Rotana.Aflam+.fr" tvg-name="Rotana Aflam+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RotanaAflam100x100.png" tvg-chno="778" channel-number="778",Rotana Aflam+
 https://tv.sfr.fr/direct-tv/rotana-aflam
-#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="Rotana Cinéma+ FR" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/0/0/15178002.jpg" tvg-chno="779" channel-number="779",Rotana Cinéma+ FR
+#EXTINF:-1 tvg-id="Rotana.Cinéma+.FR.fr" tvg-name="Rotana Cinéma+ FR" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RatanaCinama100x100Couleur.png" tvg-chno="779" channel-number="779",Rotana Cinéma+ FR
 https://tv.sfr.fr/direct-tv/rotana-cinema-fr
-#EXTINF:-1 tvg-id="Rotana.Music.fr" tvg-name="Rotana Music" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/15180008.jpg" tvg-chno="780" channel-number="780",Rotana Music
+#EXTINF:-1 tvg-id="Rotana.Music.fr" tvg-name="Rotana Music" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RotanaMusic100x100.png" tvg-chno="780" channel-number="780",Rotana Music
 https://tv.sfr.fr/direct-tv/rotana-music
-#EXTINF:-1 tvg-id="Rotana.Drama.fr" tvg-name="Rotana Drama" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="781" channel-number="781",Rotana Drama
+#EXTINF:-1 tvg-id="Rotana.Drama.fr" tvg-name="Rotana Drama" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Rotana_Drama_color.png" tvg-chno="781" channel-number="781",Rotana Drama
 https://tv.sfr.fr/direct-tv/rotana-drama
-#EXTINF:-1 tvg-id="Rotana.Kids.fr" tvg-name="Rotana Kids" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="782" channel-number="782",Rotana Kids
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1197/broadcasts/day/0?channelPosition=244
-#EXTINF:-1 tvg-id="Rotana.Cinema.fr" tvg-name="Rotana Cinema" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/9/8/15177892.jpg" tvg-chno="783" channel-number="783",Rotana Cinema
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1196/broadcasts/day/0?channelPosition=243
-#EXTINF:-1 tvg-id="Rotana.Classic.fr" tvg-name="Rotana Classic" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/15182971.jpg" tvg-chno="784" channel-number="784",Rotana Classic
+#EXTINF:-1 tvg-id="Rotana.Kids.fr" tvg-name="Rotana Kids" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RotanaKids100x100.png" tvg-chno="782" channel-number="782",Rotana Kids
+https://tv.sfr.fr/direct-tv/rotana-kids
+#EXTINF:-1 tvg-id="Rotana.Cinema.fr" tvg-name="Rotana Cinema" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Rotana_Cinema_color.png" tvg-chno="783" channel-number="783",Rotana Cinema
+https://tv.sfr.fr/direct-tv/rotana-cinema
+#EXTINF:-1 tvg-id="Rotana.Classic.fr" tvg-name="Rotana Classic" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ROTANACLASSIC100x100COULEUR.png" tvg-chno="784" channel-number="784",Rotana Classic
 https://tv.sfr.fr/direct-tv/rotana-classic
-#EXTINF:-1 tvg-id="Nessma.fr" tvg-name="Nessma" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="785" channel-number="785",Nessma
+#EXTINF:-1 tvg-id="Nessma.fr" tvg-name="Nessma" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Nessma_color.png" tvg-chno="785" channel-number="785",Nessma
 https://tv.sfr.fr/direct-tv/nessma
-#EXTINF:-1 tvg-id="DMC.fr" tvg-name="DMC" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="786" channel-number="786",DMC
+#EXTINF:-1 tvg-id="DMC.fr" tvg-name="DMC" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/DMC100x100color.png" tvg-chno="786" channel-number="786",DMC
 https://tv.sfr.fr/direct-tv/dmc
-#EXTINF:-1 tvg-id="Fix.and.Foxi.fr" tvg-name="Fix and Foxi" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/6/4/15185468.jpg" tvg-chno="787" channel-number="787",Fix and Foxi
+#EXTINF:-1 tvg-id="Fix.and.Foxi.fr" tvg-name="Fix and Foxi" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/FOXETFOXI100x100color.png" tvg-chno="787" channel-number="787",Fix and Foxi
 https://tv.sfr.fr/direct-tv/fix-and-foxi
-#EXTINF:-1 tvg-id="Carthage+.fr" tvg-name="Carthage+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="788" channel-number="788",Carthage+
+#EXTINF:-1 tvg-id="Carthage+.fr" tvg-name="Carthage+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/carthage100x100color.png" tvg-chno="788" channel-number="788",Carthage+
 https://tv.sfr.fr/direct-tv/carthage
-#EXTINF:-1 tvg-id="DMC.Drama.fr" tvg-name="DMC Drama" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/5/15178500.jpg" tvg-chno="789" channel-number="789",DMC Drama
+#EXTINF:-1 tvg-id="DMC.Drama.fr" tvg-name="DMC Drama" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/dmcdrama100x100color.png" tvg-chno="789" channel-number="789",DMC Drama
 https://tv.sfr.fr/direct-tv/dmc-drama
-#EXTINF:-1 tvg-id="Iqraa.International.fr" tvg-name="Iqraa International" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/15184862.jpg" tvg-chno="790" channel-number="790",Iqraa International
+#EXTINF:-1 tvg-id="Iqraa.International.fr" tvg-name="Iqraa International" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Iqraa_International_color.png" tvg-chno="790" channel-number="790",Iqraa International
 https://tv.sfr.fr/direct-tv/iqraa-international
-#EXTINF:-1 tvg-id="Iqraa.TV.fr" tvg-name="Iqraa TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/5/15187599.jpg" tvg-chno="791" channel-number="791",Iqraa TV
+#EXTINF:-1 tvg-id="Iqraa.TV.fr" tvg-name="Iqraa TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Iqraa_TV_color.png" tvg-chno="791" channel-number="791",Iqraa TV
 https://tv.sfr.fr/direct-tv/iqraa-tv
-#EXTINF:-1 tvg-id="Al.Majd.Holy.Quran.fr" tvg-name="Al Majd Holy Quran" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/5/15187599.jpg" tvg-chno="792" channel-number="792",Al Majd Holy Quran
+#EXTINF:-1 tvg-id="Al.Majd.Holy.Quran.fr" tvg-name="Al Majd Holy Quran" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Majd_Holy_Quran_color.png" tvg-chno="792" channel-number="792",Al Majd Holy Quran
 https://tv.sfr.fr/direct-tv/al-majd-holy-quran
-#EXTINF:-1 tvg-id="Al.Maghribia.fr" tvg-name="Al Maghribia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="798" channel-number="798",Al Maghribia
+#EXTINF:-1 tvg-id="Al.Maghribia.fr" tvg-name="Al Maghribia" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Maghribia_color.png" tvg-chno="798" channel-number="798",Al Maghribia
 https://tv.sfr.fr/direct-tv/al-maghribia
-#EXTINF:-1 tvg-id="Arrabiâ.fr" tvg-name="Arrabiâ" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/2/15178249.jpg" tvg-chno="799" channel-number="799",Arrabiâ
+#EXTINF:-1 tvg-id="Arrabiâ.fr" tvg-name="Arrabiâ" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Arrabia_color.png" tvg-chno="799" channel-number="799",Arrabiâ
 https://tv.sfr.fr/direct-tv/arrabia
-#EXTINF:-1 tvg-id="Al.Jadeed.fr" tvg-name="Al Jadeed" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="800" channel-number="800",Al Jadeed
+#EXTINF:-1 tvg-id="Al.Jadeed.fr" tvg-name="Al Jadeed" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Jadeed_color.png" tvg-chno="800" channel-number="800",Al Jadeed
 https://tv.sfr.fr/direct-tv/al-jadeed
-#EXTINF:-1 tvg-id="LBC.Sat.fr" tvg-name="LBC Sat" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="801" channel-number="801",LBC Sat
+#EXTINF:-1 tvg-id="LBC.Sat.fr" tvg-name="LBC Sat" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LBC_100x100-couleur.png" tvg-chno="801" channel-number="801",LBC Sat
 https://tv.sfr.fr/direct-tv/lbc-sat
-#EXTINF:-1 tvg-id="Lana.TV.fr" tvg-name="Lana TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/6/4/15185468.jpg" tvg-chno="802" channel-number="802",Lana TV
+#EXTINF:-1 tvg-id="Lana.TV.fr" tvg-name="Lana TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LanaTV100x100.png" tvg-chno="802" channel-number="802",Lana TV
 https://tv.sfr.fr/direct-tv/lana-tv
-#EXTINF:-1 tvg-id="NBN.fr" tvg-name="NBN" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="803" channel-number="803",NBN
+#EXTINF:-1 tvg-id="NBN.fr" tvg-name="NBN" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NBN_color.png" tvg-chno="803" channel-number="803",NBN
 https://tv.sfr.fr/direct-tv/nbn
-#EXTINF:-1 tvg-id="OTV.fr" tvg-name="OTV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="804" channel-number="804",OTV
+#EXTINF:-1 tvg-id="OTV.fr" tvg-name="OTV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/OTV_color.png" tvg-chno="804" channel-number="804",OTV
 https://tv.sfr.fr/direct-tv/otv
-#EXTINF:-1 tvg-id="Murr.TV.fr" tvg-name="Murr TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="805" channel-number="805",Murr TV
+#EXTINF:-1 tvg-id="Murr.TV.fr" tvg-name="Murr TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Murr_TV_color.png" tvg-chno="805" channel-number="805",Murr TV
 https://tv.sfr.fr/direct-tv/murr-tv
-#EXTINF:-1 tvg-id="Rotana.M+.fr" tvg-name="Rotana M+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15187071.jpg" tvg-chno="806" channel-number="806",Rotana M+
+#EXTINF:-1 tvg-id="Rotana.M+.fr" tvg-name="Rotana M+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RotanaMplus100x100couleur.png" tvg-chno="806" channel-number="806",Rotana M+
 https://tv.sfr.fr/direct-tv/rotana-m
-#EXTINF:-1 tvg-id="Dubaï.TV.fr" tvg-name="Dubaï TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="807" channel-number="807",Dubaï TV
+#EXTINF:-1 tvg-id="Dubaï.TV.fr" tvg-name="Dubaï TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Dubai_TV_color.png" tvg-chno="807" channel-number="807",Dubaï TV
 https://tv.sfr.fr/direct-tv/dubai-tv
-#EXTINF:-1 tvg-id="ON.TV.fr" tvg-name="ON TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="809" channel-number="809",ON TV
+#EXTINF:-1 tvg-id="ON.TV.fr" tvg-name="ON TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ontv100x100color.png" tvg-chno="809" channel-number="809",ON TV
 https://tv.sfr.fr/direct-tv/on-tv
-#EXTINF:-1 tvg-id="HANNIBAL.TV.fr" tvg-name="HANNIBAL TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/6/4/15185468.jpg" tvg-chno="810" channel-number="810",HANNIBAL TV
+#EXTINF:-1 tvg-id="HANNIBAL.TV.fr" tvg-name="HANNIBAL TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/HANNIBALTV-100x100.png" tvg-chno="810" channel-number="810",HANNIBAL TV
 https://tv.sfr.fr/direct-tv/hannibal-tv
-#EXTINF:-1 tvg-id="Panorama.Drama.fr" tvg-name="Panorama Drama" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/5/15178500.jpg" tvg-chno="811" channel-number="811",Panorama Drama
+#EXTINF:-1 tvg-id="Panorama.Drama.fr" tvg-name="Panorama Drama" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Panorama_Drama_color.png" tvg-chno="811" channel-number="811",Panorama Drama
 https://tv.sfr.fr/direct-tv/panorama-drama
-#EXTINF:-1 tvg-id="Panorama.Film.fr" tvg-name="Panorama Film" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15178006.jpg" tvg-chno="812" channel-number="812",Panorama Film
+#EXTINF:-1 tvg-id="Panorama.Film.fr" tvg-name="Panorama Film" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Panorama_Films_color.png" tvg-chno="812" channel-number="812",Panorama Film
 https://tv.sfr.fr/direct-tv/panorama-film
-#EXTINF:-1 tvg-id="Al.Masriya.fr" tvg-name="Al Masriya" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/6/8/15184862.jpg" tvg-chno="813" channel-number="813",Al Masriya
+#EXTINF:-1 tvg-id="Al.Masriya.fr" tvg-name="Al Masriya" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Al_Masriya_color.png" tvg-chno="813" channel-number="813",Al Masriya
 https://tv.sfr.fr/direct-tv/al-masriya
-#EXTINF:-1 tvg-id="The.Israeli.Network.fr" tvg-name="The Israeli Network" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="814" channel-number="814",The Israeli Network
+#EXTINF:-1 tvg-id="The.Israeli.Network.fr" tvg-name="The Israeli Network" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/The_Israeli_Network_color.png" tvg-chno="814" channel-number="814",The Israeli Network
 https://tv.sfr.fr/direct-tv/the-israeli-network
-#EXTINF:-1 tvg-id="Jordan.Satellite.Channel.fr" tvg-name="Jordan Satellite Channel" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="815" channel-number="815",Jordan Satellite Channel
+#EXTINF:-1 tvg-id="Jordan.Satellite.Channel.fr" tvg-name="Jordan Satellite Channel" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Jordan_Satellite_Channel_color.png" tvg-chno="815" channel-number="815",Jordan Satellite Channel
 https://tv.sfr.fr/direct-tv/jordan-satellite-channel
-#EXTINF:-1 tvg-id="Euro.Star.fr" tvg-name="Euro Star" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/5/15185560.jpg" tvg-chno="818" channel-number="818",Euro Star
+#EXTINF:-1 tvg-id="Euro.Star.fr" tvg-name="Euro Star" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EUROSTAR100x100.png" tvg-chno="818" channel-number="818",Euro Star
 https://tv.sfr.fr/direct-tv/euro-star
-#EXTINF:-1 tvg-id="Euro.D.fr" tvg-name="Euro D" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/3/15181361.jpg" tvg-chno="819" channel-number="819",Euro D
+#EXTINF:-1 tvg-id="Euro.D.fr" tvg-name="Euro D" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/eurod100x100.png" tvg-chno="819" channel-number="819",Euro D
 https://tv.sfr.fr/direct-tv/euro-d
-#EXTINF:-1 tvg-id="Habertürk.fr" tvg-name="Habertürk" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="820" channel-number="820",Habertürk
+#EXTINF:-1 tvg-id="Habertürk.fr" tvg-name="Habertürk" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Haberturk_color.png" tvg-chno="820" channel-number="820",Habertürk
 https://tv.sfr.fr/direct-tv/haberturk
-#EXTINF:-1 tvg-id="BEIN.MOVIES.fr" tvg-name="BEIN MOVIES" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/8/1/15273186.jpg" tvg-chno="821" channel-number="821",BEIN MOVIES
+#EXTINF:-1 tvg-id="BEIN.MOVIES.fr" tvg-name="BEIN MOVIES" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/beinmovies-100x100-couleur.png" tvg-chno="821" channel-number="821",BEIN MOVIES
 https://tv.sfr.fr/direct-tv/bein-movies
-#EXTINF:-1 tvg-id="SHOW.MAX.fr" tvg-name="SHOW MAX" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/3/0/15204037.jpg" tvg-chno="822" channel-number="822",SHOW MAX
+#EXTINF:-1 tvg-id="SHOW.MAX.fr" tvg-name="SHOW MAX" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/showmax-100x100-couleur.png" tvg-chno="822" channel-number="822",SHOW MAX
 https://tv.sfr.fr/direct-tv/show-max
-#EXTINF:-1 tvg-id="Show.Turk.fr" tvg-name="Show Turk" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/3/2/15178238.jpg" tvg-chno="823" channel-number="823",Show Turk
+#EXTINF:-1 tvg-id="Show.Turk.fr" tvg-name="Show Turk" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Show_Turk_color.png" tvg-chno="823" channel-number="823",Show Turk
 https://tv.sfr.fr/direct-tv/show-turk
-#EXTINF:-1 tvg-id="ATV.Avrupa.fr" tvg-name="ATV Avrupa" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/4/4/15439441.jpg" tvg-chno="824" channel-number="824",ATV Avrupa
+#EXTINF:-1 tvg-id="ATV.Avrupa.fr" tvg-name="ATV Avrupa" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ATVAVRUPA100x100.png" tvg-chno="824" channel-number="824",ATV Avrupa
 https://tv.sfr.fr/direct-tv/atv-avrupa
-#EXTINF:-1 tvg-id="KANAL.7.AVRUPA.fr" tvg-name="KANAL 7 AVRUPA" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/0/15218081.jpg" tvg-chno="825" channel-number="825",KANAL 7 AVRUPA
+#EXTINF:-1 tvg-id="KANAL.7.AVRUPA.fr" tvg-name="KANAL 7 AVRUPA" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/avrupa-100x100-couleur.png" tvg-chno="825" channel-number="825",KANAL 7 AVRUPA
 https://tv.sfr.fr/direct-tv/kanal-7-avrupa
-#EXTINF:-1 tvg-id="TV8.International.fr" tvg-name="TV8 International" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="826" channel-number="826",TV8 International
+#EXTINF:-1 tvg-id="TV8.International.fr" tvg-name="TV8 International" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV8_International_color.png" tvg-chno="826" channel-number="826",TV8 International
 https://tv.sfr.fr/direct-tv/tv8-international
 #EXTINF:-1 tvg-id="SAUDI.CHANNEL.1.fr" tvg-name="SAUDI CHANNEL 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="832" channel-number="832",SAUDI CHANNEL 1
 https://tv.sfr.fr/direct-tv/saudi-channel-1
-#EXTINF:-1 tvg-id="A+.fr" tvg-name="A+" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/1/1/15191115.jpg" tvg-chno="838" channel-number="838",A+
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/845/broadcasts/day/0?channelPosition=223
-#EXTINF:-1 tvg-id="ORTB.fr" tvg-name="ORTB" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="839" channel-number="839",ORTB
+#EXTINF:-1 tvg-id="A+.fr" tvg-name="A+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100couleurA.png" tvg-chno="838" channel-number="838",A+
+https://tv.sfr.fr/direct-tv/a
+#EXTINF:-1 tvg-id="ORTB.fr" tvg-name="ORTB" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/ORTB_color.png" tvg-chno="839" channel-number="839",ORTB
 https://tv.sfr.fr/direct-tv/ortb
-#EXTINF:-1 tvg-id="NOVELAS.fr" tvg-name="NOVELAS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/4/4/15232440.jpg" tvg-chno="840" channel-number="840",NOVELAS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_novelas
-#EXTINF:-1 tvg-id="CRTV.fr" tvg-name="CRTV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/2/4/15179421.jpg" tvg-chno="841" channel-number="841",CRTV
+#EXTINF:-1 tvg-id="NOVELAS.fr" tvg-name="NOVELAS" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100couleurNOVELAS.png" tvg-chno="840" channel-number="840",NOVELAS
+https://tv.sfr.fr/direct-tv/novelas
+#EXTINF:-1 tvg-id="CRTV.fr" tvg-name="CRTV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CRTV_color.png" tvg-chno="841" channel-number="841",CRTV
 https://tv.sfr.fr/direct-tv/crtv
-#EXTINF:-1 tvg-id="Equinoxe.TV.fr" tvg-name="Equinoxe TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/5/2/15177255.jpg" tvg-chno="842" channel-number="842",Equinoxe TV
+#EXTINF:-1 tvg-id="Equinoxe.TV.fr" tvg-name="Equinoxe TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Equinoxe_TV_color.png" tvg-chno="842" channel-number="842",Equinoxe TV
 https://tv.sfr.fr/direct-tv/equinoxe-tv
-#EXTINF:-1 tvg-id="CHERIFLA.TV.fr" tvg-name="CHERIFLA TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/5/15187599.jpg" tvg-chno="844" channel-number="844",CHERIFLA TV
+#EXTINF:-1 tvg-id="CHERIFLA.TV.fr" tvg-name="CHERIFLA TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100Cherifla.png" tvg-chno="844" channel-number="844",CHERIFLA TV
 https://tv.sfr.fr/direct-tv/cherifla-tv
-#EXTINF:-1 tvg-id="MBC.Sat.fr" tvg-name="MBC Sat" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="845" channel-number="845",MBC Sat
+#EXTINF:-1 tvg-id="MBC.Sat.fr" tvg-name="MBC Sat" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MBCSat100x100.png" tvg-chno="845" channel-number="845",MBC Sat
 https://tv.sfr.fr/direct-tv/mbc-sat
-#EXTINF:-1 tvg-id="TV.Congo.fr" tvg-name="TV Congo" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="846" channel-number="846",TV Congo
+#EXTINF:-1 tvg-id="TV.Congo.fr" tvg-name="TV Congo" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV_Congo_color.png" tvg-chno="846" channel-number="846",TV Congo
 https://tv.sfr.fr/direct-tv/tv-congo
-#EXTINF:-1 tvg-id="Maboke.TV.fr" tvg-name="Maboke TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/2/9/15176924.jpg" tvg-chno="847" channel-number="847",Maboke TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1186/broadcasts/day/0?channelPosition=231
-#EXTINF:-1 tvg-id="Mandeka.fr" tvg-name="Mandeka" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/4/2/15273240.jpg" tvg-chno="848" channel-number="848",Mandeka
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1185/broadcasts/day/0?channelPosition=230
-#EXTINF:-1 tvg-id="NCI.fr" tvg-name="NCI" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/6/1/15459169.jpg" tvg-chno="849" channel-number="849",NCI
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nci
-#EXTINF:-1 tvg-id="RTI.1.fr" tvg-name="RTI 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/1/15178188.jpg" tvg-chno="851" channel-number="851",RTI 1
+#EXTINF:-1 tvg-id="Maboke.TV.fr" tvg-name="Maboke TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MABOKE_TV_100x100-COULEUR.png" tvg-chno="847" channel-number="847",Maboke TV
+https://tv.sfr.fr/direct-tv/maboke-tv
+#EXTINF:-1 tvg-id="Mandeka.fr" tvg-name="Mandeka" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Mandeka100x1002.png" tvg-chno="848" channel-number="848",Mandeka
+https://tv.sfr.fr/direct-tv/mandeka
+#EXTINF:-1 tvg-id="NCI.fr" tvg-name="NCI" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NCI100x100couleurNCI.png" tvg-chno="849" channel-number="849",NCI
+https://tv.sfr.fr/direct-tv/nci
+#EXTINF:-1 tvg-id="RTI.1.fr" tvg-name="RTI 1" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RTI1100x100Couleur.png" tvg-chno="851" channel-number="851",RTI 1
 https://tv.sfr.fr/direct-tv/rti-1
-#EXTINF:-1 tvg-id="CDIRECT.fr" tvg-name="CDIRECT" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/5/9/15182953.jpg" tvg-chno="852" channel-number="852",CDIRECT
+#EXTINF:-1 tvg-id="CDIRECT.fr" tvg-name="CDIRECT" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100couleurCDIRECT.png" tvg-chno="852" channel-number="852",CDIRECT
 https://tv.sfr.fr/direct-tv/cdirect
-#EXTINF:-1 tvg-id="Gabon.1ère.fr" tvg-name="Gabon 1ère" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/6/4/15185468.jpg" tvg-chno="853" channel-number="853",Gabon 1ère
+#EXTINF:-1 tvg-id="Gabon.1ère.fr" tvg-name="Gabon 1ère" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GABON_1ERE_100x100_COULEUR.png" tvg-chno="853" channel-number="853",Gabon 1ère
 https://tv.sfr.fr/direct-tv/gabon-1ere
-#EXTINF:-1 tvg-id="RTG.fr" tvg-name="RTG" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="854" channel-number="854",RTG
+#EXTINF:-1 tvg-id="RTG.fr" tvg-name="RTG" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RTG100x100COULEUR.png" tvg-chno="854" channel-number="854",RTG
 https://tv.sfr.fr/direct-tv/rtg
-#EXTINF:-1 tvg-id="TVM.fr" tvg-name="TVM" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="855" channel-number="855",TVM
+#EXTINF:-1 tvg-id="TVM.fr" tvg-name="TVM" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TVM_color.png" tvg-chno="855" channel-number="855",TVM
 https://tv.sfr.fr/direct-tv/tvm
-#EXTINF:-1 tvg-id="ORTM.fr" tvg-name="ORTM" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/4/4/15195448.jpg" tvg-chno="856" channel-number="856",ORTM
+#EXTINF:-1 tvg-id="ORTM.fr" tvg-name="ORTM" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ORTM100x100Couleur.png" tvg-chno="856" channel-number="856",ORTM
 https://tv.sfr.fr/direct-tv/ortm
-#EXTINF:-1 tvg-id="Nollywood.TV.Epic.fr" tvg-name="Nollywood TV Epic" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/2/0/15289026.jpg" tvg-chno="857" channel-number="857",Nollywood TV Epic
+#EXTINF:-1 tvg-id="Nollywood.TV.Epic.fr" tvg-name="Nollywood TV Epic" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NollywoodEpic100x100.png" tvg-chno="857" channel-number="857",Nollywood TV Epic
 https://tv.sfr.fr/direct-tv/nollywood-tv-epic
-#EXTINF:-1 tvg-id="Nollywood.TV.fr" tvg-name="Nollywood TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/9/0/15305098.jpg" tvg-chno="858" channel-number="858",Nollywood TV
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/527/broadcasts/day/0?channelPosition=226
-#EXTINF:-1 tvg-id="Pulaagu.fr" tvg-name="Pulaagu" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/1/6/15175614.jpg" tvg-chno="859" channel-number="859",Pulaagu
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1184/broadcasts/day/0?channelPosition=229
-#EXTINF:-1 tvg-id="Trace.Africa.fr" tvg-name="Trace Africa" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/15182971.jpg" tvg-chno="861" channel-number="861",Trace Africa
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_africa
-#EXTINF:-1 tvg-id="Vox.Africa.fr" tvg-name="Vox Africa" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/8/9/15202985.jpg" tvg-chno="862" channel-number="862",Vox Africa
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_voxafrica
-#EXTINF:-1 tvg-id="2STV.fr" tvg-name="2STV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/9/5/15187599.jpg" tvg-chno="863" channel-number="863",2STV
+#EXTINF:-1 tvg-id="Nollywood.TV.fr" tvg-name="Nollywood TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NollywoodTV100x100.png" tvg-chno="858" channel-number="858",Nollywood TV
+https://tv.sfr.fr/direct-tv/nollywood-tv
+#EXTINF:-1 tvg-id="Pulaagu.fr" tvg-name="Pulaagu" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/PULAAGU100x100.png" tvg-chno="859" channel-number="859",Pulaagu
+https://tv.sfr.fr/direct-tv/pulaagu
+#EXTINF:-1 tvg-id="Trace.Africa.fr" tvg-name="Trace Africa" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Trace_Africa_color.png" tvg-chno="861" channel-number="861",Trace Africa
+https://tv.sfr.fr/direct-tv/trace-africa
+#EXTINF:-1 tvg-id="Vox.Africa.fr" tvg-name="Vox Africa" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Vox_Africa_color.png" tvg-chno="862" channel-number="862",Vox Africa
+https://tv.sfr.fr/direct-tv/vox-africa
+#EXTINF:-1 tvg-id="2STV.fr" tvg-name="2STV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/2STV_color.png" tvg-chno="863" channel-number="863",2STV
 https://tv.sfr.fr/direct-tv/2stv
-#EXTINF:-1 tvg-id="RTS.1.fr" tvg-name="RTS 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/2/3/15198325.jpg" tvg-chno="864" channel-number="864",RTS 1
+#EXTINF:-1 tvg-id="RTS.1.fr" tvg-name="RTS 1" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RTS_1_color.png" tvg-chno="864" channel-number="864",RTS 1
 https://tv.sfr.fr/direct-tv/rts-1
-#EXTINF:-1 tvg-id="SEN.TV.fr" tvg-name="SEN TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/15178181.jpg" tvg-chno="865" channel-number="865",SEN TV
+#EXTINF:-1 tvg-id="SEN.TV.fr" tvg-name="SEN TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/SEN_TV_color.png" tvg-chno="865" channel-number="865",SEN TV
 https://tv.sfr.fr/direct-tv/sen-tv
-#EXTINF:-1 tvg-id="TFM.fr" tvg-name="TFM" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/7/1/15178173.jpg" tvg-chno="866" channel-number="866",TFM
+#EXTINF:-1 tvg-id="TFM.fr" tvg-name="TFM" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TFM_color.png" tvg-chno="866" channel-number="866",TFM
 https://tv.sfr.fr/direct-tv/tfm
-#EXTINF:-1 tvg-id="SUNU.YEUF.fr" tvg-name="SUNU YEUF" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/1/2/15297218.jpg" tvg-chno="867" channel-number="867",SUNU YEUF
-https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1183/broadcasts/day/0?channelPosition=228
-#EXTINF:-1 tvg-id="Beijing.TV.fr" tvg-name="Beijing TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="878" channel-number="878",Beijing TV
+#EXTINF:-1 tvg-id="SUNU.YEUF.fr" tvg-name="SUNU YEUF" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100couleurSUNUYEUF.png" tvg-chno="867" channel-number="867",SUNU YEUF
+https://tv.sfr.fr/direct-tv/sunu-yeuf
+#EXTINF:-1 tvg-id="Beijing.TV.fr" tvg-name="Beijing TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Beijing_TV_color.png" tvg-chno="878" channel-number="878",Beijing TV
 https://tv.sfr.fr/direct-tv/beijing-tv
-#EXTINF:-1 tvg-id="CCTV.YuLe.fr" tvg-name="CCTV YuLe" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/9/5/15185596.jpg" tvg-chno="879" channel-number="879",CCTV YuLe
+#EXTINF:-1 tvg-id="CCTV.YuLe.fr" tvg-name="CCTV YuLe" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CCTV_YuLe_color.png" tvg-chno="879" channel-number="879",CCTV YuLe
 https://tv.sfr.fr/direct-tv/cctv-yule
-#EXTINF:-1 tvg-id="CCTV-4.fr" tvg-name="CCTV-4" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/2/15178249.jpg" tvg-chno="880" channel-number="880",CCTV-4
+#EXTINF:-1 tvg-id="CCTV-4.fr" tvg-name="CCTV-4" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CCTV_4_color.png" tvg-chno="880" channel-number="880",CCTV-4
 https://tv.sfr.fr/direct-tv/cctv-4
-#EXTINF:-1 tvg-id="CMC.fr" tvg-name="CMC" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/2/9/15176923.jpg" tvg-chno="881" channel-number="881",CMC
+#EXTINF:-1 tvg-id="CMC.fr" tvg-name="CMC" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CMC_color.png" tvg-chno="881" channel-number="881",CMC
 https://tv.sfr.fr/direct-tv/cmc
-#EXTINF:-1 tvg-id="Hunan.TV.fr" tvg-name="Hunan TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/7/15177760.jpg" tvg-chno="882" channel-number="882",Hunan TV
+#EXTINF:-1 tvg-id="Hunan.TV.fr" tvg-name="Hunan TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Hunan_Satellite_TV_color.png" tvg-chno="882" channel-number="882",Hunan TV
 https://tv.sfr.fr/direct-tv/hunan-tv
-#EXTINF:-1 tvg-id="JSBC.International.fr" tvg-name="JSBC International" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/1/4/15178412.jpg" tvg-chno="883" channel-number="883",JSBC International
+#EXTINF:-1 tvg-id="JSBC.International.fr" tvg-name="JSBC International" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/JSBC_International_color.png" tvg-chno="883" channel-number="883",JSBC International
 https://tv.sfr.fr/direct-tv/jsbc-international
-#EXTINF:-1 tvg-id="Phoenix.CNE.fr" tvg-name="Phoenix CNE" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15183260.jpg" tvg-chno="884" channel-number="884",Phoenix CNE
+#EXTINF:-1 tvg-id="Phoenix.CNE.fr" tvg-name="Phoenix CNE" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Phoenix_CNE_color.png" tvg-chno="884" channel-number="884",Phoenix CNE
 https://tv.sfr.fr/direct-tv/phoenix-cne
-#EXTINF:-1 tvg-id="Phoenix.Infonews.fr" tvg-name="Phoenix Infonews" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="885" channel-number="885",Phoenix Infonews
+#EXTINF:-1 tvg-id="Phoenix.Infonews.fr" tvg-name="Phoenix Infonews" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Phoenix_Infonews_color.png" tvg-chno="885" channel-number="885",Phoenix Infonews
 https://tv.sfr.fr/direct-tv/phoenix-infonews
-#EXTINF:-1 tvg-id="Dragon.TV.fr" tvg-name="Dragon TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/8/3/15183385.jpg" tvg-chno="886" channel-number="886",Dragon TV
+#EXTINF:-1 tvg-id="Dragon.TV.fr" tvg-name="Dragon TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Dragon_TV_color.png" tvg-chno="886" channel-number="886",Dragon TV
 https://tv.sfr.fr/direct-tv/dragon-tv
-#EXTINF:-1 tvg-id="Great.Wall.Elite.fr" tvg-name="Great Wall Elite" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/6/2/15178260.jpg" tvg-chno="887" channel-number="887",Great Wall Elite
+#EXTINF:-1 tvg-id="Great.Wall.Elite.fr" tvg-name="Great Wall Elite" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GWE100x100couleur.png" tvg-chno="887" channel-number="887",Great Wall Elite
 https://tv.sfr.fr/direct-tv/great-wall-elite
-#EXTINF:-1 tvg-id="Zhejiang.Star.TV.fr" tvg-name="Zhejiang Star TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="888" channel-number="888",Zhejiang Star TV
+#EXTINF:-1 tvg-id="Zhejiang.Star.TV.fr" tvg-name="Zhejiang Star TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ZHEJIANGSTV100x100couleur.png" tvg-chno="888" channel-number="888",Zhejiang Star TV
 https://tv.sfr.fr/direct-tv/zhejiang-star-tv
 #EXTINF:-1 tvg-id="TEST.fr" tvg-name="TEST" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/7/4/15305472.jpg" tvg-chno="901" channel-number="901",TEST
 https://tv.sfr.fr/direct-tv/test
 #EXTINF:-1 tvg-id="TEST2.fr" tvg-name="TEST2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/9/15525961.jpg" tvg-chno="902" channel-number="902",TEST2
 https://tv.sfr.fr/direct-tv/test2
-#EXTINF:-1 tvg-id="GRT.GBA.Satellite.TV.fr" tvg-name="GRT GBA Satellite TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/5/9/15183957.jpg" tvg-chno="916" channel-number="916",GRT GBA Satellite TV
+#EXTINF:-1 tvg-id="GRT.GBA.Satellite.TV.fr" tvg-name="GRT GBA Satellite TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GRTGBASatelliteTV100x100couleur.png" tvg-chno="916" channel-number="916",GRT GBA Satellite TV
 https://tv.sfr.fr/direct-tv/grt-gba-satellite-tv
-#EXTINF:-1 tvg-id="CGTN-Documentary.fr" tvg-name="CGTN-Documentary" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/3/15181361.jpg" tvg-chno="918" channel-number="918",CGTN-Documentary
+#EXTINF:-1 tvg-id="CGTN-Documentary.fr" tvg-name="CGTN-Documentary" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CGTN_Documentary_color.png" tvg-chno="918" channel-number="918",CGTN-Documentary
 https://tv.sfr.fr/direct-tv/cgtn-documentary
-#EXTINF:-1 tvg-id="CGTN-Français.fr" tvg-name="CGTN-Français" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="920" channel-number="920",CGTN-Français
+#EXTINF:-1 tvg-id="CGTN-Français.fr" tvg-name="CGTN-Français" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CGTN_Francais_color.png" tvg-chno="920" channel-number="920",CGTN-Français
 https://tv.sfr.fr/direct-tv/cgtn-francais
-#EXTINF:-1 tvg-id="NTD.fr" tvg-name="NTD" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/7/3/0/15240037.jpg" tvg-chno="921" channel-number="921",NTD
+#EXTINF:-1 tvg-id="NTD.fr" tvg-name="NTD" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/NTD_color.png" tvg-chno="921" channel-number="921",NTD
 https://tv.sfr.fr/direct-tv/ntd
-#EXTINF:-1 tvg-id="KBS.World.fr" tvg-name="KBS World" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/4/2/15178249.jpg" tvg-chno="924" channel-number="924",KBS World
+#EXTINF:-1 tvg-id="KBS.World.fr" tvg-name="KBS World" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/KBS_World_color.png" tvg-chno="924" channel-number="924",KBS World
 https://tv.sfr.fr/direct-tv/kbs-world
-#EXTINF:-1 tvg-id="Colors.fr" tvg-name="Colors" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/3/8/9/15211983.jpg" tvg-chno="925" channel-number="925",Colors
+#EXTINF:-1 tvg-id="Colors.fr" tvg-name="Colors" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Colors_color.png" tvg-chno="925" channel-number="925",Colors
 https://tv.sfr.fr/direct-tv/colors
-#EXTINF:-1 tvg-id="Utsav.Bharat.fr" tvg-name="Utsav Bharat" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/8/1/15178181.jpg" tvg-chno="926" channel-number="926",Utsav Bharat
+#EXTINF:-1 tvg-id="Utsav.Bharat.fr" tvg-name="Utsav Bharat" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/UtsavBharat100x100couleur.png" tvg-chno="926" channel-number="926",Utsav Bharat
 https://tv.sfr.fr/direct-tv/utsav-bharat
-#EXTINF:-1 tvg-id="Rishtey.fr" tvg-name="Rishtey" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/9/5/15185596.jpg" tvg-chno="927" channel-number="927",Rishtey
+#EXTINF:-1 tvg-id="Rishtey.fr" tvg-name="Rishtey" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Rishtey_color.png" tvg-chno="927" channel-number="927",Rishtey
 https://tv.sfr.fr/direct-tv/rishtey
-#EXTINF:-1 tvg-id="Utsav.Plus.fr" tvg-name="Utsav Plus" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/2/9/15176924.jpg" tvg-chno="928" channel-number="928",Utsav Plus
+#EXTINF:-1 tvg-id="Utsav.Plus.fr" tvg-name="Utsav Plus" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/UtsavPluslogo100x100couleur.png" tvg-chno="928" channel-number="928",Utsav Plus
 https://tv.sfr.fr/direct-tv/utsav-plus
-#EXTINF:-1 tvg-id="Zee.TV.fr" tvg-name="Zee TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/4/1/6/15175614.jpg" tvg-chno="929" channel-number="929",Zee TV
+#EXTINF:-1 tvg-id="Zee.TV.fr" tvg-name="Zee TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Zee_TV_color.png" tvg-chno="929" channel-number="929",Zee TV
 https://tv.sfr.fr/direct-tv/zee-tv
-#EXTINF:-1 tvg-id="NHK.World.Premium.fr" tvg-name="NHK World Premium" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/5/5/9/15183955.jpg" tvg-chno="938" channel-number="938",NHK World Premium
+#EXTINF:-1 tvg-id="NHK.World.Premium.fr" tvg-name="NHK World Premium" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NHK-_WORLD_PREMIUM_100x100-couleur.png" tvg-chno="938" channel-number="938",NHK World Premium
 https://tv.sfr.fr/direct-tv/nhk-world-premium
-#EXTINF:-1 tvg-id="B4U.Movies.fr" tvg-name="B4U Movies" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/0/0/15178006.jpg" tvg-chno="939" channel-number="939",B4U Movies
+#EXTINF:-1 tvg-id="B4U.Movies.fr" tvg-name="B4U Movies" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/B4U_Movies_color.png" tvg-chno="939" channel-number="939",B4U Movies
 https://tv.sfr.fr/direct-tv/b4u-movies
-#EXTINF:-1 tvg-id="Geo.News.fr" tvg-name="Geo News" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="940" channel-number="940",Geo News
+#EXTINF:-1 tvg-id="Geo.News.fr" tvg-name="Geo News" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Geo_News_color.png" tvg-chno="940" channel-number="940",Geo News
 https://tv.sfr.fr/direct-tv/geo-news
-#EXTINF:-1 tvg-id="Geo.TV.fr" tvg-name="Geo TV" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="941" channel-number="941",Geo TV
+#EXTINF:-1 tvg-id="Geo.TV.fr" tvg-name="Geo TV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Geo_TV_color.png" tvg-chno="941" channel-number="941",Geo TV
 https://tv.sfr.fr/direct-tv/geo-tv
-#EXTINF:-1 tvg-id="Sony.Max.fr" tvg-name="Sony Max" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/8/1/15178188.jpg" tvg-chno="942" channel-number="942",Sony Max
+#EXTINF:-1 tvg-id="Sony.Max.fr" tvg-name="Sony Max" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Sony_Max_color.png" tvg-chno="942" channel-number="942",Sony Max
 https://tv.sfr.fr/direct-tv/sony-max
-#EXTINF:-1 tvg-id="Las.Estrellas.fr" tvg-name="Las Estrellas" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/6/3/2/15175236.jpg" tvg-chno="950" channel-number="950",Las Estrellas
+#EXTINF:-1 tvg-id="Las.Estrellas.fr" tvg-name="Las Estrellas" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Las_Estrellas_color.png" tvg-chno="950" channel-number="950",Las Estrellas
 https://tv.sfr.fr/direct-tv/las-estrellas
-#EXTINF:-1 tvg-id="Distrito.Comedia.fr" tvg-name="Distrito Comedia" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/0/15187071.jpg" tvg-chno="951" channel-number="951",Distrito Comedia
+#EXTINF:-1 tvg-id="Distrito.Comedia.fr" tvg-name="Distrito Comedia" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Distrito_Comedia_color.png" tvg-chno="951" channel-number="951",Distrito Comedia
 https://tv.sfr.fr/direct-tv/distrito-comedia
-#EXTINF:-1 tvg-id="De.pelicula.fr" tvg-name="De pelicula" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/0/0/5/15178500.jpg" tvg-chno="952" channel-number="952",De pelicula
+#EXTINF:-1 tvg-id="De.pelicula.fr" tvg-name="De pelicula" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/De_pelicula_color.png" tvg-chno="952" channel-number="952",De pelicula
 https://tv.sfr.fr/direct-tv/de-pelicula
-#EXTINF:-1 tvg-id="RMS.fr" tvg-name="RMS" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/8/0/0/15180008.jpg" tvg-chno="953" channel-number="953",RMS
+#EXTINF:-1 tvg-id="RMS.fr" tvg-name="RMS" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMS_color.png" tvg-chno="953" channel-number="953",RMS
 https://tv.sfr.fr/direct-tv/rms
-#EXTINF:-1 tvg-id="Telehit.fr" tvg-name="Telehit" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/7/9/15182971.jpg" tvg-chno="954" channel-number="954",Telehit
+#EXTINF:-1 tvg-id="Telehit.fr" tvg-name="Telehit" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/Telehit_color.png" tvg-chno="954" channel-number="954",Telehit
 https://tv.sfr.fr/direct-tv/telehit
