@@ -1,88 +1,88 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="TF1.fr" tvg-name="TF1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tf1/20180417_164011/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="1" channel-number="1",TF1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tf1
+https://www.canalplus.com/chaines/mytf1
 #EXTINF:-1 tvg-id="FRANCE.2.fr" tvg-name="FRANCE 2" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france2/20180417_153001/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="2" channel-number="2",FRANCE 2
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france2
+https://www.canalplus.com/chaines/france-2/
 #EXTINF:-1 tvg-id="FRANCE.3.fr" tvg-name="FRANCE 3" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3/20180131_171239/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="3" channel-number="3",FRANCE 3
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3
+https://www.canalplus.com/chaines/france-3/
 #EXTINF:-1 tvg-id="FRANCE.4.fr" tvg-name="FRANCE 4" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france4/20180131_171239/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="4" channel-number="4",FRANCE 4
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france4
+https://www.canalplus.com/chaines/france-4/
 #EXTINF:-1 tvg-id="FRANCE.5.fr" tvg-name="FRANCE 5" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france5/20180131_171239/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="5" channel-number="5",FRANCE 5
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france5
+https://www.canalplus.com/chaines/france-5/
 #EXTINF:-1 tvg-id="M6.fr" tvg-name="M6" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_m6_umts/20231026_170825/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="6" channel-number="6",M6
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_m6_umts
+https://www.canalplus.com/chaines/m6/
 #EXTINF:-1 tvg-id="ARTE.fr" tvg-name="ARTE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_arte/20250317_164855/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="7" channel-number="7",ARTE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_arte
+https://www.canalplus.com/chaines/arte/
 #EXTINF:-1 tvg-id="LCP/PS.fr" tvg-name="LCP/PS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_lcp_umts/20191106_163032/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="8" channel-number="8",LCP/PS
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_lcp_umts
 #EXTINF:-1 tvg-id="W9.fr" tvg-name="W9" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_w9/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="9" channel-number="9",W9
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_w9
+https://www.canalplus.com/chaines/w9/
 #EXTINF:-1 tvg-id="TMC.fr" tvg-name="TMC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tmc/20180417_113022/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="10" channel-number="10",TMC
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tmc
+https://www.canalplus.com/chaines-apps/chaines/mytf1/pid131512-tmc.html
 #EXTINF:-1 tvg-id="TFX.fr" tvg-name="TFX" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nt1_umts/20180129_113538/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="11" channel-number="11",TFX
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nt1_umts
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/570/broadcasts/day/0?channelPosition=57
 #EXTINF:-1 tvg-id="GULLI.fr" tvg-name="GULLI" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_gulli/20230921_113253/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="12" channel-number="12",GULLI
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_gulli
+https://www.canalplus.com/chaines/gulli
 #EXTINF:-1 tvg-id="BFM.TV.fr" tvg-name="BFM TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_bfmtv/20251113_083044/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="13" channel-number="13",BFM TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_bfmtv
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/633/broadcasts/day/0?channelPosition=108
 #EXTINF:-1 tvg-id="CNEWS.fr" tvg-name="CNEWS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_itelevision/20180417_140029/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="14" channel-number="14",CNEWS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_itelevision
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/480/broadcasts/day/0?channelPosition=107
 #EXTINF:-1 tvg-id="LCI.fr" tvg-name="LCI" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_lcimobile_UMTS/20200324_111923/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="15" channel-number="15",LCI
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_lcimobile_UMTS
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/553/broadcasts/day/0?channelPosition=109
 #EXTINF:-1 tvg-id="FRANCEINFO:.fr" tvg-name="FRANCEINFO:" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_franceinfo/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="16" channel-number="16",FRANCEINFO:
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_franceinfo
+https://www.canalplus.com/chaines/franceinfo/
 #EXTINF:-1 tvg-id="CSTAR.fr" tvg-name="CSTAR" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_directstar/20180417_142355/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="17" channel-number="17",CSTAR
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_directstar
+https://www.canalplus.com/chaines/cstar/
 #EXTINF:-1 tvg-id="T18.fr" tvg-name="T18" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_t18/20250515_092552/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="18" channel-number="18",T18
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_t18
+https://www.canalplus.com/chaines/t18/
 #EXTINF:-1 tvg-id="NOVO19.fr" tvg-name="NOVO19" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_novo19/20250709_123517/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="19" channel-number="19",NOVO19
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_novo19
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1168/broadcasts/day/0?channelPosition=60
 #EXTINF:-1 tvg-id="TF1.SERIES.FILMS.fr" tvg-name="TF1 SERIES FILMS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_hd1/20200324_111923/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="20" channel-number="20",TF1 SERIES FILMS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_hd1
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/526/broadcasts/day/0?channelPosition=36
 #EXTINF:-1 tvg-id="RMC.DECOUVERTE.fr" tvg-name="RMC DECOUVERTE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_rmcdecouverte/20251106_175808/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="24" channel-number="24",RMC DECOUVERTE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_rmcdecouverte
+https://www.canalplus.com/chaines/rmc-decouverte
 #EXTINF:-1 tvg-id="RMC.LIFE.fr" tvg-name="RMC LIFE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cherie25/20250924_100620/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="25" channel-number="25",RMC LIFE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_cherie25
+https://www.canalplus.com/chaines/cherie-25/
 #EXTINF:-1 tvg-id="TV5MONDE.fr" tvg-name="TV5MONDE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tv5/20251002_135348/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="33" channel-number="33",TV5MONDE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tv5
+https://www.canalplus.com/chaines/TV5MONDE/
 #EXTINF:-1 tvg-id="RTL9.fr" tvg-name="RTL9" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_rtl9/20230517_112910/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="34" channel-number="34",RTL9
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_rtl9
+https://www.canalplus.com/chaines/rtl9
 #EXTINF:-1 tvg-id="TEVA.fr" tvg-name="TEVA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_teva/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="35" channel-number="35",TEVA
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_teva
+https://www.canalplus.com/chaines/teva
 #EXTINF:-1 tvg-id="PARIS.PREMIERE.fr" tvg-name="PARIS PREMIERE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_parispremiere/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="36" channel-number="36",PARIS PREMIERE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_parispremiere
+https://www.canalplus.com/chaines/paris-premiere
 #EXTINF:-1 tvg-id="TV.BREIZH.fr" tvg-name="TV BREIZH" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tvbreizh_umts/20200210_181602/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="37" channel-number="37",TV BREIZH
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tvbreizh_umts
+https://www.canalplus.com/chaines/tv-breizh
 #EXTINF:-1 tvg-id="CANAL+.fr" tvg-name="CANAL+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus/20230919_140016/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="40" channel-number="40",CANAL+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus
+https://www.canalplus.com/chaines/canalplus/
 #EXTINF:-1 tvg-id="CANAL+SPORT360.fr" tvg-name="CANAL+SPORT360" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus_sport_360/20230801_125104/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="42" channel-number="42",CANAL+SPORT360
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus_sport_360
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/83/broadcasts/day/0?channelPosition=10
 #EXTINF:-1 tvg-id="CANAL+FOOT.fr" tvg-name="CANAL+FOOT" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus_foot/20230801_115557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="43" channel-number="43",CANAL+FOOT
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus_foot
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/19/broadcasts/day/0?channelPosition=11
 #EXTINF:-1 tvg-id="CANAL+SPORT.fr" tvg-name="CANAL+SPORT" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canal_sport/20230801_115557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="44" channel-number="44",CANAL+SPORT
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canal_sport
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/177/broadcasts/day/0?channelPosition=12
 #EXTINF:-1 tvg-id="CANAL+BOX.OFFICE.fr" tvg-name="CANAL+BOX OFFICE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus_box_office/20230801_115557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="45" channel-number="45",CANAL+BOX OFFICE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus_box_office
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1074/broadcasts/day/0?channelPosition=13
 #EXTINF:-1 tvg-id="CANAL+GRAND.ECRAN.fr" tvg-name="CANAL+GRAND ECRAN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus_grand_ecran/20230801_115557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="46" channel-number="46",CANAL+GRAND ECRAN
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus_grand_ecran
+https://www.canalplus.com/chaines/canal-plus-grand-ecran/
 #EXTINF:-1 tvg-id="CANAL+CINEMA(S).fr" tvg-name="CANAL+CINEMA(S)" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canal_cinema/20230801_115557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="47" channel-number="47",CANAL+CINEMA(S)
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canal_cinema
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/198/broadcasts/day/0?channelPosition=15
 #EXTINF:-1 tvg-id="CANAL+DOCS.fr" tvg-name="CANAL+DOCS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus_docs/20230801_115557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="48" channel-number="48",CANAL+DOCS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus_docs
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/899/broadcasts/day/0?channelPosition=16
 #EXTINF:-1 tvg-id="CANAL+kids.fr" tvg-name="CANAL+kids" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canalplus_kids/20230801_125104/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="49" channel-number="49",CANAL+kids
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canalplus_kids
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/259/broadcasts/day/0?channelPosition=17
 #EXTINF:-1 tvg-id="BEIN.SPORTS.1.fr" tvg-name="BEIN SPORTS 1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsport1/20180417_151324/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="50" channel-number="50",BEIN SPORTS 1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsport1
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/381/broadcasts/day/0?channelPosition=39
 #EXTINF:-1 tvg-id="BEIN.SPORTS.2.fr" tvg-name="BEIN SPORTS 2" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsport2/20180417_151448/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="51" channel-number="51",BEIN SPORTS 2
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsport2
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/384/broadcasts/day/0?channelPosition=40
 #EXTINF:-1 tvg-id="BEIN.SPORTS.3.fr" tvg-name="BEIN SPORTS 3" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax3/20180417_151549/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="52" channel-number="52",BEIN SPORTS 3
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax3
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/516/broadcasts/day/0?channelPosition=41
 #EXTINF:-1 tvg-id="LIGUE.1+.fr" tvg-name="LIGUE 1+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_ligue_1_plus/20250715_135037/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="53" channel-number="53",LIGUE 1+
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus
 #EXTINF:-1 tvg-id="EUROSPORT.1.fr" tvg-name="EUROSPORT 1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_1/20260116_170437/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="54" channel-number="54",EUROSPORT 1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_1
+https://www.canalplus.com/chaines/eurosport
 #EXTINF:-1 tvg-id="OCS.fr" tvg-name="OCS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cineplus_premier/20240613_155504/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="55" channel-number="55",OCS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_cineplus_premier
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/322/broadcasts/day/0?channelPosition=21
 #EXTINF:-1 tvg-id="CINÉ+frisson.fr" tvg-name="CINÉ+frisson" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cineplus_frisson/20240613_155353/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="56" channel-number="56",CINÉ+frisson
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_cineplus_frisson
 #EXTINF:-1 tvg-id="CINÉ+émotion.fr" tvg-name="CINÉ+émotion" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cineplus_emotion/20240613_155205/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="57" channel-number="57",CINÉ+émotion
@@ -94,61 +94,61 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_cineplus_club
 #EXTINF:-1 tvg-id="CINÉ+classic.fr" tvg-name="CINÉ+classic" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cineplus_classic/20240613_155016/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="60" channel-number="60",CINÉ+classic
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_cineplus_classic
 #EXTINF:-1 tvg-id="TCM.CINEMA.fr" tvg-name="TCM CINEMA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tcm/20190822_090621/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="63" channel-number="63",TCM CINEMA
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tcm
+https://www.canalplus.com/chaines/tcm-cinema
 #EXTINF:-1 tvg-id="ACTION.fr" tvg-name="ACTION" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_action/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="64" channel-number="64",ACTION
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_action
+https://www.canalplus.com/chaines/action
 #EXTINF:-1 tvg-id="EUROCHANNEL.fr" tvg-name="EUROCHANNEL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurochannel/20240527_095559/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="65" channel-number="65",EUROCHANNEL
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurochannel
 #EXTINF:-1 tvg-id="BRAVO.fr" tvg-name="BRAVO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_e_entertainment/20260224_184320/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="75" channel-number="75",BRAVO
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_e_entertainment
+https://tv.sfr.fr/direct-tv/bravo
 #EXTINF:-1 tvg-id="MTV.fr" tvg-name="MTV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mtv/20220411_102238/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="76" channel-number="76",MTV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mtv
+https://www.canalplus.com/chaines/mtv
 #EXTINF:-1 tvg-id="WARNER.TV.fr" tvg-name="WARNER TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_warner_tv/20240529_103158/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="78" channel-number="78",WARNER TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_warner_tv
+https://www.canalplus.com/chaines/warner-tv
 #EXTINF:-1 tvg-id="TLC.fr" tvg-name="TLC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tlc_wbd/20240529_103044/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="79" channel-number="79",TLC
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tlc_wbd
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1097/broadcasts/day/0?channelPosition=54
 #EXTINF:-1 tvg-id="AB1.fr" tvg-name="AB1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_AB1/20240321_152755/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="80" channel-number="80",AB1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_AB1
+https://www.canalplus.com/chaines/ab1
 #EXTINF:-1 tvg-id="COMEDY.CENTRAL.fr" tvg-name="COMEDY CENTRAL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_comedycentral/20181002_120516/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="81" channel-number="81",COMEDY CENTRAL
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_comedycentral
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/806/broadcasts/day/0?channelPosition=102
 #EXTINF:-1 tvg-id="13EME.RUE.fr" tvg-name="13EME RUE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_13eme_rue/20250415_154318/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="84" channel-number="84",13EME RUE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_13eme_rue
 #EXTINF:-1 tvg-id="SCIFI.fr" tvg-name="SCIFI" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_syfy/20260224_184859/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="85" channel-number="85",SCIFI
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_syfy
+https://tv.sfr.fr/direct-tv/scifi
 #EXTINF:-1 tvg-id="COMEDIE+.fr" tvg-name="COMEDIE+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_comedieplus/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="86" channel-number="86",COMEDIE+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_comedieplus
+https://www.canalplus.com/chaines/comedie
 #EXTINF:-1 tvg-id="POLAR+.fr" tvg-name="POLAR+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_polarPlus/20171002_155125/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="87" channel-number="87",POLAR+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_polarPlus
+https://www.canalplus.com/chaines/polar-plus
 #EXTINF:-1 tvg-id="SERIE.CLUB.fr" tvg-name="SERIE CLUB" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_serie_club/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="88" channel-number="88",SERIE CLUB
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_serie_club
+https://www.canalplus.com/chaines/serieclub
 #EXTINF:-1 tvg-id="DISNEY.CHANNEL.fr" tvg-name="DISNEY CHANNEL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_disney_channel/20241217_180528/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="90" channel-number="90",DISNEY CHANNEL
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_disney_channel
 #EXTINF:-1 tvg-id="TV.PITCHOUN.fr" tvg-name="TV PITCHOUN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_pitchountv/20180206_091500/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="91" channel-number="91",TV PITCHOUN
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_pitchountv
 #EXTINF:-1 tvg-id="BOOMERANG.fr" tvg-name="BOOMERANG" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_boomerang/20180417_143557/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="94" channel-number="94",BOOMERANG
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_boomerang
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/530/broadcasts/day/0?channelPosition=90
 #EXTINF:-1 tvg-id="BOOMERANG.+1.fr" tvg-name="BOOMERANG +1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_boomerang_1/20171004_102149/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="95" channel-number="95",BOOMERANG +1
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_boomerang_1
 #EXTINF:-1 tvg-id="CARTOONITO.fr" tvg-name="CARTOONITO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_boing/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="96" channel-number="96",CARTOONITO
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_boing
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1096/broadcasts/day/0?channelPosition=89
 #EXTINF:-1 tvg-id="TIJI.fr" tvg-name="TIJI" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tiji/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="97" channel-number="97",TIJI
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tiji
+https://www.canalplus.com/chaines/tiji
 #EXTINF:-1 tvg-id="CANAL.J.fr" tvg-name="CANAL J" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_canal_j/20191106_163032/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="98" channel-number="98",CANAL J
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_canal_j
+https://www.canalplus.com/chaines/canal-j
 #EXTINF:-1 tvg-id="NICKELODEON.JUNIOR.fr" tvg-name="NICKELODEON JUNIOR" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nickelodeon_junior/20240321_152755/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="99" channel-number="99",NICKELODEON JUNIOR
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_nickelodeon_junior
 #EXTINF:-1 tvg-id="NICKELODEON.fr" tvg-name="NICKELODEON" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nickelodeon/20240326_170655/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="100" channel-number="100",NICKELODEON
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nickelodeon
+https://www.canalplus.com/chaines/nickelodeon/
 #EXTINF:-1 tvg-id="NICKELODEON.+1.fr" tvg-name="NICKELODEON +1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nickelodeon_1/20200615_173007/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="101" channel-number="101",NICKELODEON +1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nickelodeon_1
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/680/broadcasts/day/0?channelPosition=95
 #EXTINF:-1 tvg-id="NICKTOONS.fr" tvg-name="NICKTOONS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nickelodeon_4teen/20250804_161953/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="102" channel-number="102",NICKTOONS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nickelodeon_4teen
+https://www.canalplus.com/chaines/NickToons
 #EXTINF:-1 tvg-id="DREAMWORKS.fr" tvg-name="DREAMWORKS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_dreamworks/20250416_093133/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="103" channel-number="103",DREAMWORKS
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_dreamworks
 #EXTINF:-1 tvg-id="PIWI+.fr" tvg-name="PIWI+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_piwi/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="105" channel-number="105",PIWI+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_piwi
+https://www.canalplus.com/chaines/piwi
 #EXTINF:-1 tvg-id="TELETOON+.fr" tvg-name="TELETOON+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_teletoon/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="106" channel-number="106",TELETOON+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_teletoon
+https://www.canalplus.com/chaines/teletoon
 #EXTINF:-1 tvg-id="TELETOON.+1.fr" tvg-name="TELETOON +1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_teletoonplus1/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="107" channel-number="107",TELETOON +1
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_teletoonplus1
 #EXTINF:-1 tvg-id="NATIONAL.GEOGRAPHIC.fr" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_Natgeo/20241217_181140/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="110" channel-number="110",NATIONAL GEOGRAPHIC
@@ -162,9 +162,9 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_maison_et_travaux_tv
 #EXTINF:-1 tvg-id="DOCTISSIMO.TV.fr" tvg-name="DOCTISSIMO TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_top_sante_tv/20260611_081608/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="114" channel-number="114",DOCTISSIMO TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_top_sante_tv
 #EXTINF:-1 tvg-id="MIEUX.fr" tvg-name="MIEUX" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mieux_tv/20250709_122929/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="115" channel-number="115",MIEUX
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mieux_tv
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1181/broadcasts/day/0?channelPosition=84
 #EXTINF:-1 tvg-id="DISCOVERY.INVESTIGATION.fr" tvg-name="DISCOVERY INVESTIGATION" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_discovery_investigation/20240529_102919/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="117" channel-number="117",DISCOVERY INVESTIGATION
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_discovery_investigation
+https://tv.sfr.fr/direct-tv/discovery-investigation
 #EXTINF:-1 tvg-id="LE.FIGARO.TV.fr" tvg-name="LE FIGARO TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_le_figaro_tv_national/20240704_170415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="118" channel-number="118",LE FIGARO TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_le_figaro_tv_national
 #EXTINF:-1 tvg-id="TRAVELXP.HD.fr" tvg-name="TRAVELXP HD" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_travelxp/20260115_135412/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="119" channel-number="119",TRAVELXP HD
@@ -172,15 +172,15 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_travelxp
 #EXTINF:-1 tvg-id="MARMITON.TV.fr" tvg-name="MARMITON TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_marmiton_tv/20241025_150835/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="120" channel-number="120",MARMITON TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_marmiton_tv
 #EXTINF:-1 tvg-id="ANIMAUX.fr" tvg-name="ANIMAUX" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_Animaux/20200727_164727/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="123" channel-number="123",ANIMAUX
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_Animaux
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/503/broadcasts/day/0?channelPosition=81
 #EXTINF:-1 tvg-id="CRIME.DISTRICT.fr" tvg-name="CRIME DISTRICT" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_CrimeDistrict/20160211_110558/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="124" channel-number="124",CRIME DISTRICT
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_CrimeDistrict
 #EXTINF:-1 tvg-id="CHASSE.PECHE.fr" tvg-name="CHASSE PECHE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_chasseetpeche/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="125" channel-number="125",CHASSE PECHE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_chasseetpeche
 #EXTINF:-1 tvg-id="TOUTE.L'HISTOIRE.fr" tvg-name="TOUTE L'HISTOIRE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_toute_l_histoire/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="126" channel-number="126",TOUTE L'HISTOIRE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_toute_l_histoire
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/620/broadcasts/day/0?channelPosition=75
 #EXTINF:-1 tvg-id="HISTOIRE.TV.fr" tvg-name="HISTOIRE TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_histoire/20200102_141654/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="127" channel-number="127",HISTOIRE TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_histoire
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/550/broadcasts/day/0?channelPosition=74
 #EXTINF:-1 tvg-id="USHUAIA.TV.fr" tvg-name="USHUAIA TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_ushuaia/20200102_141654/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="128" channel-number="128",USHUAIA TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_ushuaia
 #EXTINF:-1 tvg-id="MY.ZEN.TV.fr" tvg-name="MY ZEN TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_myzentv/20181115_170016/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="129" channel-number="129",MY ZEN TV
@@ -188,29 +188,29 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_myzentv
 #EXTINF:-1 tvg-id="SCIENCE.&amp;.VIE.TV.fr" tvg-name="SCIENCE &amp; VIE TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_encyclopedia/20220922_114506/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="130" channel-number="130",SCIENCE &amp; VIE TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_encyclopedia
 #EXTINF:-1 tvg-id="DISCOVERY.CHANNEL.fr" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_discovery_channel/20251209_151845/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="131" channel-number="131",DISCOVERY CHANNEL
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_discovery_channel
+https://tv.sfr.fr/direct-tv/discovery-channel
 #EXTINF:-1 tvg-id="PLANETE+.fr" tvg-name="PLANETE+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_planeteplus/20220601_165712/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="132" channel-number="132",PLANETE+
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_planeteplus
+https://www.canalplus.com/chaines/planete-plus
 #EXTINF:-1 tvg-id="PLANETE+CRIME.fr" tvg-name="PLANETE+CRIME" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_planeteplus_ci/20220315_112924/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="133" channel-number="133",PLANETE+CRIME
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_planeteplus_ci
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/587/broadcasts/day/0?channelPosition=69
 #EXTINF:-1 tvg-id="PLANETE+AVENTURE.fr" tvg-name="PLANETE+AVENTURE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_planeteplus_aventure_experience/20220315_112924/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="134" channel-number="134",PLANETE+AVENTURE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_planeteplus_aventure_experience
+https://www.canalplus.com/chaines/planeteplus-ae
 #EXTINF:-1 tvg-id="LOVE.NATURE.fr" tvg-name="LOVE NATURE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_love_nature/20260224_174958/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="135" channel-number="135",LOVE NATURE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_love_nature
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1199/broadcasts/day/0?channelPosition=73
 #EXTINF:-1 tvg-id="MGG.TV.fr" tvg-name="MGG TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_es1/20220128_093134/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="140" channel-number="140",MGG TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_es1
+https://tv.sfr.fr/direct-tv/mgg-tv
 #EXTINF:-1 tvg-id="TECH&amp;CO.fr" tvg-name="TECH&amp;CO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_01tv/20220623_154612/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="141" channel-number="141",TECH&amp;CO
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_01tv
+https://tv.sfr.fr/direct-tv/tech-co
 #EXTINF:-1 tvg-id="MANGAS.fr" tvg-name="MANGAS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mangas/20220801_115348/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="145" channel-number="145",MANGAS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mangas
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/613/broadcasts/day/0?channelPosition=103
 #EXTINF:-1 tvg-id="WARNER.TV.NEXT.fr" tvg-name="WARNER TV NEXT" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_Toonami/20230717_162813/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="146" channel-number="146",WARNER TV NEXT
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_Toonami
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1095/broadcasts/day/0?channelPosition=105
 #EXTINF:-1 tvg-id="TV.PITCHOUN.KIDS.MUSIC.fr" tvg-name="TV PITCHOUN KIDS MUSIC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tv_pitchoun_kids_music/20250228_175515/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="149" channel-number="149",TV PITCHOUN KIDS MUSIC
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_tv_pitchoun_kids_music
 #EXTINF:-1 tvg-id="TRACE.URBAN.fr" tvg-name="TRACE URBAN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_urban/20230919_133903/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="150" channel-number="150",TRACE URBAN
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_urban
+https://www.canalplus.com/chaines/trace-urban
 #EXTINF:-1 tvg-id="NRJ.HITS.fr" tvg-name="NRJ HITS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nrjhits/20250326_111753/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="151" channel-number="151",NRJ HITS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nrjhits
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/569/broadcasts/day/0?channelPosition=125
 #EXTINF:-1 tvg-id="MELODY.D'AFRIQUE.fr" tvg-name="MELODY D'AFRIQUE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_melodyafr/20230217_121614/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="153" channel-number="153",MELODY D'AFRIQUE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_melodyafr
 #EXTINF:-1 tvg-id="EUROPE.2.POP.TV.fr" tvg-name="EUROPE 2 POP TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cstarhits/20250925_133014/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="154" channel-number="154",EUROPE 2 POP TV
@@ -220,11 +220,11 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_clubbingtv
 #EXTINF:-1 tvg-id="OPSIS.TV.fr" tvg-name="OPSIS TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_opsis_tv/20260407_161159/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="156" channel-number="156",OPSIS TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_opsis_tv
 #EXTINF:-1 tvg-id="M6MUSIC.fr" tvg-name="M6MUSIC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_m6_music/20200102_141654/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="157" channel-number="157",M6MUSIC
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_m6_music
+https://www.canalplus.com/chaines/m6-music
 #EXTINF:-1 tvg-id="RFM.TV.fr" tvg-name="RFM TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mcmpop/20170405_200000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="159" channel-number="159",RFM TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mcmpop
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/557/broadcasts/day/0?channelPosition=127
 #EXTINF:-1 tvg-id="MELODY.fr" tvg-name="MELODY" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_melody/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="160" channel-number="160",MELODY
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_melody
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/580/broadcasts/day/0?channelPosition=128
 #EXTINF:-1 tvg-id="TRACE.CARIBBEAN.fr" tvg-name="TRACE CARIBBEAN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_tropical/20230831_150807/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="161" channel-number="161",TRACE CARIBBEAN
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_tropical
 #EXTINF:-1 tvg-id="TRACE.LATINA.fr" tvg-name="TRACE LATINA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_latina/20230831_150807/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="162" channel-number="162",TRACE LATINA
@@ -232,37 +232,37 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_latina
 #EXTINF:-1 tvg-id="TRACE.VANILLA.fr" tvg-name="TRACE VANILLA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_vanilla/20230324_101810/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="163" channel-number="163",TRACE VANILLA
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_vanilla
 #EXTINF:-1 tvg-id="MEZZO.fr" tvg-name="MEZZO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mezzo/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="166" channel-number="166",MEZZO
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mezzo
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/560/broadcasts/day/0?channelPosition=129
 #EXTINF:-1 tvg-id="MEZZO.LIVE.fr" tvg-name="MEZZO LIVE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_mezzolivehd/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="167" channel-number="167",MEZZO LIVE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_mezzolivehd
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/268/broadcasts/day/0?channelPosition=130
 #EXTINF:-1 tvg-id="ALLEGRO.SPATIAL.fr" tvg-name="ALLEGRO SPATIAL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_allegro/20260115_111330/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="168" channel-number="168",ALLEGRO SPATIAL
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_allegro
 #EXTINF:-1 tvg-id="STINGRAY.CLASSICA.fr" tvg-name="STINGRAY CLASSICA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_classica/20180419_150729/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="169" channel-number="169",STINGRAY CLASSICA
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_classica
 #EXTINF:-1 tvg-id="JOURNAL.DU.GOLF.TV.fr" tvg-name="JOURNAL DU GOLF TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_journal_du_golf_tv/20240321_152755/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="172" channel-number="172",JOURNAL DU GOLF TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_journal_du_golf_tv
+https://tv.sfr.fr/direct-tv/journal-du-golf-tv
 #EXTINF:-1 tvg-id="EQUIDIA.fr" tvg-name="EQUIDIA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_equidia/20220128_093134/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="173" channel-number="173",EQUIDIA
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_equidia
+https://www.canalplus.com/chaines/equidia
 #EXTINF:-1 tvg-id="CHEVAL.TV.fr" tvg-name="CHEVAL TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cheval_tv/20250924_094214/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="174" channel-number="174",CHEVAL TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_cheval_tv
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1182/broadcasts/day/0?channelPosition=48
 #EXTINF:-1 tvg-id="SPORT.EN.FRANCE.fr" tvg-name="SPORT EN FRANCE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_sportenfrance/20190513_093153/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="175" channel-number="175",SPORT EN FRANCE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_sportenfrance
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1080/broadcasts/day/0?channelPosition=47
 #EXTINF:-1 tvg-id="AUTOMOTO,.la.chaine.fr" tvg-name="AUTOMOTO, la chaine" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_AB_motors/20181115_095836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="179" channel-number="179",AUTOMOTO, la chaine
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_AB_motors
+https://www.canalplus.com/chaines/automoto
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.4.fr" tvg-name="BEIN SPORTS MAX 4" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax4/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="183" channel-number="183",BEIN SPORTS MAX 4
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax4
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/596/broadcasts/day/0?channelPosition=190
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.5.fr" tvg-name="BEIN SPORTS MAX 5" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax5/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="184" channel-number="184",BEIN SPORTS MAX 5
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax5
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/597/broadcasts/day/0?channelPosition=191
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.6.fr" tvg-name="BEIN SPORTS MAX 6" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax6/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="185" channel-number="185",BEIN SPORTS MAX 6
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax6
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/598/broadcasts/day/0?channelPosition=192
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.7.fr" tvg-name="BEIN SPORTS MAX 7" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax7/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="186" channel-number="186",BEIN SPORTS MAX 7
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax7
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/599/broadcasts/day/0?channelPosition=193
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.8.fr" tvg-name="BEIN SPORTS MAX 8" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax8/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="187" channel-number="187",BEIN SPORTS MAX 8
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax8
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/603/broadcasts/day/0?channelPosition=194
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.9.fr" tvg-name="BEIN SPORTS MAX 9" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax9/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="188" channel-number="188",BEIN SPORTS MAX 9
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax9
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/604/broadcasts/day/0?channelPosition=195
 #EXTINF:-1 tvg-id="BEIN.SPORTS.MAX.10.fr" tvg-name="BEIN SPORTS MAX 10" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_beinsportsmax10/20170109_093315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="189" channel-number="189",BEIN SPORTS MAX 10
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_beinsportsmax10
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/605/broadcasts/day/0?channelPosition=196
 #EXTINF:-1 tvg-id="LIGUE.1+.2.fr" tvg-name="LIGUE 1+ 2" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_ligue_1_plus_2/20250715_135559/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="192" channel-number="192",LIGUE 1+ 2
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_2
 #EXTINF:-1 tvg-id="LIGUE.1+.3.fr" tvg-name="LIGUE 1+ 3" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_ligue_1_plus_3/20250715_135839/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="193" channel-number="193",LIGUE 1+ 3
@@ -280,93 +280,93 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_8
 #EXTINF:-1 tvg-id="LIGUE.1+.9.fr" tvg-name="LIGUE 1+ 9" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_ligue_1_plus_9/20250715_145440/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="199" channel-number="199",LIGUE 1+ 9
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_ligue_1_plus_9
 #EXTINF:-1 tvg-id="EUROSPORT.2.fr" tvg-name="EUROSPORT 2" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_2/20260116_170549/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="203" channel-number="203",EUROSPORT 2
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_2
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/436/broadcasts/day/0?channelPosition=43
 #EXTINF:-1 tvg-id="EUROSPORT.360.1.fr" tvg-name="EUROSPORT 360 1" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_1/20260130_165319/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="204" channel-number="204",EUROSPORT 360 1
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_1
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/635/broadcasts/day/0?channelPosition=158
 #EXTINF:-1 tvg-id="EUROSPORT.360.2.fr" tvg-name="EUROSPORT 360 2" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_2/20260130_165419/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="205" channel-number="205",EUROSPORT 360 2
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_2
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/636/broadcasts/day/0?channelPosition=159
 #EXTINF:-1 tvg-id="EUROSPORT.360.3.fr" tvg-name="EUROSPORT 360 3" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_3/20260130_170017/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="206" channel-number="206",EUROSPORT 360 3
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_3
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/637/broadcasts/day/0?channelPosition=160
 #EXTINF:-1 tvg-id="EUROSPORT.360.4.fr" tvg-name="EUROSPORT 360 4" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_4/20260130_170103/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="207" channel-number="207",EUROSPORT 360 4
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_4
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/638/broadcasts/day/0?channelPosition=161
 #EXTINF:-1 tvg-id="EUROSPORT.360.5.fr" tvg-name="EUROSPORT 360 5" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_5/20260130_170146/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="208" channel-number="208",EUROSPORT 360 5
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_5
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/650/broadcasts/day/0?channelPosition=162
 #EXTINF:-1 tvg-id="EUROSPORT.360.6.fr" tvg-name="EUROSPORT 360 6" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_6/20260130_170237/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="209" channel-number="209",EUROSPORT 360 6
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_6
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/651/broadcasts/day/0?channelPosition=163
 #EXTINF:-1 tvg-id="EUROSPORT.360.7.fr" tvg-name="EUROSPORT 360 7" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_7/20260130_170338/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="210" channel-number="210",EUROSPORT 360 7
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_7
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/652/broadcasts/day/0?channelPosition=164
 #EXTINF:-1 tvg-id="EUROSPORT.360.8.fr" tvg-name="EUROSPORT 360 8" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_8/20260130_170429/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="211" channel-number="211",EUROSPORT 360 8
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_8
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/653/broadcasts/day/0?channelPosition=165
 #EXTINF:-1 tvg-id="EUROSPORT.360.9.fr" tvg-name="EUROSPORT 360 9" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_9/20260429_135851/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="212" channel-number="212",EUROSPORT 360 9
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_9
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1105/broadcasts/day/0?channelPosition=166
 #EXTINF:-1 tvg-id="EUROSPORT.360.10.fr" tvg-name="EUROSPORT 360 10" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_10/20260429_135940/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="213" channel-number="213",EUROSPORT 360 10
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_10
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1106/broadcasts/day/0?channelPosition=167
 #EXTINF:-1 tvg-id="EUROSPORT.360.11.fr" tvg-name="EUROSPORT 360 11" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_11/20260429_140027/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="214" channel-number="214",EUROSPORT 360 11
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_11
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1107/broadcasts/day/0?channelPosition=168
 #EXTINF:-1 tvg-id="EUROSPORT.360.12.fr" tvg-name="EUROSPORT 360 12" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_12/20260429_140119/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="215" channel-number="215",EUROSPORT 360 12
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_12
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1108/broadcasts/day/0?channelPosition=169
 #EXTINF:-1 tvg-id="EUROSPORT.360.13.fr" tvg-name="EUROSPORT 360 13" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_13/20260429_140217/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="216" channel-number="216",EUROSPORT 360 13
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_13
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1109/broadcasts/day/0?channelPosition=170
 #EXTINF:-1 tvg-id="EUROSPORT.360.14.fr" tvg-name="EUROSPORT 360 14" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_14/20260429_140320/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="217" channel-number="217",EUROSPORT 360 14
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_14
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1110/broadcasts/day/0?channelPosition=171
 #EXTINF:-1 tvg-id="EUROSPORT.360.15.fr" tvg-name="EUROSPORT 360 15" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_15/20260429_140408/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="218" channel-number="218",EUROSPORT 360 15
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_15
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1111/broadcasts/day/0?channelPosition=172
 #EXTINF:-1 tvg-id="EUROSPORT.360.16.fr" tvg-name="EUROSPORT 360 16" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_16/20260429_140455/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="219" channel-number="219",EUROSPORT 360 16
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_16
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1112/broadcasts/day/0?channelPosition=173
 #EXTINF:-1 tvg-id="EUROSPORT.360.17.fr" tvg-name="EUROSPORT 360 17" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_17/20260429_140538/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="220" channel-number="220",EUROSPORT 360 17
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_17
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1113/broadcasts/day/0?channelPosition=174
 #EXTINF:-1 tvg-id="EUROSPORT.360.18.fr" tvg-name="EUROSPORT 360 18" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_18/20260429_140631/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="221" channel-number="221",EUROSPORT 360 18
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_18
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1114/broadcasts/day/0?channelPosition=175
 #EXTINF:-1 tvg-id="EUROSPORT.360.19.fr" tvg-name="EUROSPORT 360 19" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_19/20260429_140716/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="222" channel-number="222",EUROSPORT 360 19
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_19
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1115/broadcasts/day/0?channelPosition=176
 #EXTINF:-1 tvg-id="EUROSPORT.360.20.fr" tvg-name="EUROSPORT 360 20" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_20/20260429_140802/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="223" channel-number="223",EUROSPORT 360 20
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_20
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1116/broadcasts/day/0?channelPosition=177
 #EXTINF:-1 tvg-id="EUROSPORT.360.21.fr" tvg-name="EUROSPORT 360 21" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_21/20260429_140849/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="224" channel-number="224",EUROSPORT 360 21
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_21
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1117/broadcasts/day/0?channelPosition=178
 #EXTINF:-1 tvg-id="EUROSPORT.360.22.fr" tvg-name="EUROSPORT 360 22" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_22/20260429_141024/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="225" channel-number="225",EUROSPORT 360 22
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_22
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1118/broadcasts/day/0?channelPosition=179
 #EXTINF:-1 tvg-id="EUROSPORT.360.23.fr" tvg-name="EUROSPORT 360 23" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_23/20260429_141122/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="226" channel-number="226",EUROSPORT 360 23
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_23
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1119/broadcasts/day/0?channelPosition=180
 #EXTINF:-1 tvg-id="EUROSPORT.360.24.fr" tvg-name="EUROSPORT 360 24" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_24/20260429_141214/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="227" channel-number="227",EUROSPORT 360 24
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_24
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1120/broadcasts/day/0?channelPosition=181
 #EXTINF:-1 tvg-id="EUROSPORT.360.25.fr" tvg-name="EUROSPORT 360 25" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_25/20260429_141258/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="228" channel-number="228",EUROSPORT 360 25
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_25
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1121/broadcasts/day/0?channelPosition=182
 #EXTINF:-1 tvg-id="EUROSPORT.360.26.fr" tvg-name="EUROSPORT 360 26" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_26/20260429_141352/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="229" channel-number="229",EUROSPORT 360 26
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_26
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1122/broadcasts/day/0?channelPosition=183
 #EXTINF:-1 tvg-id="EUROSPORT.360.27.fr" tvg-name="EUROSPORT 360 27" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_27/20260429_144324/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="230" channel-number="230",EUROSPORT 360 27
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_27
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1123/broadcasts/day/0?channelPosition=184
 #EXTINF:-1 tvg-id="EUROSPORT.360.28.fr" tvg-name="EUROSPORT 360 28" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_28/20260429_144407/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="231" channel-number="231",EUROSPORT 360 28
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_28
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1124/broadcasts/day/0?channelPosition=185
 #EXTINF:-1 tvg-id="EUROSPORT.360.29.fr" tvg-name="EUROSPORT 360 29" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_29/20260429_144448/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="232" channel-number="232",EUROSPORT 360 29
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_29
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1125/broadcasts/day/0?channelPosition=186
 #EXTINF:-1 tvg-id="EUROSPORT.360.30.fr" tvg-name="EUROSPORT 360 30" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_30/20260429_144535/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="233" channel-number="233",EUROSPORT 360 30
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_30
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1126/broadcasts/day/0?channelPosition=187
 #EXTINF:-1 tvg-id="EUROSPORT.360.31.fr" tvg-name="EUROSPORT 360 31" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_31/20260429_144640/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="234" channel-number="234",EUROSPORT 360 31
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_31
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1127/broadcasts/day/0?channelPosition=188
 #EXTINF:-1 tvg-id="EUROSPORT.360.32.fr" tvg-name="EUROSPORT 360 32" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_eurosport_360_32/20260429_144712/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="235" channel-number="235",EUROSPORT 360 32
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_eurosport_360_32
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1128/broadcasts/day/0?channelPosition=189
 #EXTINF:-1 tvg-id="LUCKY.JACK.fr" tvg-name="LUCKY JACK" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_luckyjack/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="239" channel-number="239",LUCKY JACK
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_luckyjack
+https://tv.sfr.fr/direct-tv/lucky-jack
 #EXTINF:-1 tvg-id="BRUT..fr" tvg-name="BRUT." tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_brut/20260224_180714/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="240" channel-number="240",BRUT.
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_brut
+https://tv.sfr.fr/direct-tv/brut
 #EXTINF:-1 tvg-id="FASHIONTV.PARIS.fr" tvg-name="FASHIONTV PARIS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_fashiontv/20220128_093134/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="241" channel-number="241",FASHIONTV PARIS
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_fashiontv
 #EXTINF:-1 tvg-id="LUXE.TV.fr" tvg-name="LUXE TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_luxe/20240516_150315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="242" channel-number="242",LUXE TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_luxe
+https://tv.sfr.fr/direct-tv/luxe-tv
 #EXTINF:-1 tvg-id="MEN'S.UP.TV.fr" tvg-name="MEN'S UP TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_men_s_up/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="243" channel-number="243",MEN'S UP TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_men_s_up
+https://tv.sfr.fr/direct-tv/mens-up-tv
 #EXTINF:-1 tvg-id="SQOOL.TV.fr" tvg-name="SQOOL TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_sqool_tv/20230517_112910/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="244" channel-number="244",SQOOL TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_sqool_tv
 #EXTINF:-1 tvg-id="DEMAIN.fr" tvg-name="DEMAIN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_demain/20170314_120000/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="245" channel-number="245",DEMAIN
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_demain
 #EXTINF:-1 tvg-id="KTO.fr" tvg-name="KTO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_kto/20240520_182952/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="246" channel-number="246",KTO
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_kto
+https://tv.sfr.fr/direct-tv/kto
 #EXTINF:-1 tvg-id="FRANCE.24.Français.fr" tvg-name="FRANCE 24 Français" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france24_fr/20220922_114506/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="251" channel-number="251",FRANCE 24 Français
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france24_fr
 #EXTINF:-1 tvg-id="BFM2.fr" tvg-name="BFM2" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_bfm2/20250924_100006/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="253" channel-number="253",BFM2
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_bfm2
+https://tv.sfr.fr/direct-tv/bfm2
 #EXTINF:-1 tvg-id="BFM.BUSINESS.fr" tvg-name="BFM BUSINESS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_bfmbusiness/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="254" channel-number="254",BFM BUSINESS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_bfmbusiness
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/645/broadcasts/day/0?channelPosition=118
 #EXTINF:-1 tvg-id="EURONEWS.Français.fr" tvg-name="EURONEWS Français" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_euronews/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="255" channel-number="255",EURONEWS Français
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_euronews
 #EXTINF:-1 tvg-id="LE.MEDIA.TV.fr" tvg-name="LE MEDIA TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_le_media_tv/20260115_161905/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="257" channel-number="257",LE MEDIA TV
@@ -378,21 +378,21 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_skynews
 #EXTINF:-1 tvg-id="CNN.INTERNATIONAL.fr" tvg-name="CNN INTERNATIONAL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cnn/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="263" channel-number="263",CNN INTERNATIONAL
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_cnn
 #EXTINF:-1 tvg-id="CNBC.fr" tvg-name="CNBC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_cnbc/20260416_153241/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="264" channel-number="264",CNBC
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_cnbc
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/64/broadcasts/day/0?channelPosition=120
 #EXTINF:-1 tvg-id="BLOOMBERG.EUROPE.fr" tvg-name="BLOOMBERG EUROPE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_bloombergeurope/20250804_161048/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="265" channel-number="265",BLOOMBERG EUROPE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_bloombergeurope
 #EXTINF:-1 tvg-id="BBC.NEWS.fr" tvg-name="BBC NEWS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_BBC_world_UMTS/20230321_182925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="266" channel-number="266",BBC NEWS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_BBC_world_UMTS
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/589/broadcasts/day/0?channelPosition=116
 #EXTINF:-1 tvg-id="AL.JAZEERA.Anglais.fr" tvg-name="AL JAZEERA Anglais" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_al_jazeera_anglais/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="267" channel-number="267",AL JAZEERA Anglais
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_al_jazeera_anglais
 #EXTINF:-1 tvg-id="FRANCE.24.Arabe.fr" tvg-name="FRANCE 24 Arabe" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france24_arabe/20220922_114506/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="269" channel-number="269",FRANCE 24 Arabe
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france24_arabe
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/272/broadcasts/day/0?channelPosition=246
 #EXTINF:-1 tvg-id="AL.JAZEERA.Arabic.fr" tvg-name="AL JAZEERA Arabic" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_al_jazeera/20151026_092415/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="270" channel-number="270",AL JAZEERA Arabic
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_al_jazeera
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/228/broadcasts/day/0?channelPosition=245
 #EXTINF:-1 tvg-id="I24NEWS.fr" tvg-name="I24NEWS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_i24news/20240516_150513/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="272" channel-number="272",I24NEWS
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_i24news
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/362/broadcasts/day/0?channelPosition=121
 #EXTINF:-1 tvg-id="NHK.WORLD.-.JAPAN.fr" tvg-name="NHK WORLD - JAPAN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nhkworld/20230109_175836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="273" channel-number="273",NHK WORLD - JAPAN
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nhkworld
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/654/broadcasts/day/0?channelPosition=256
 #EXTINF:-1 tvg-id="DEUTSCHE.WELLE.fr" tvg-name="DEUTSCHE WELLE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_deutschewelle/20220615_153218/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="274" channel-number="274",DEUTSCHE WELLE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_deutschewelle
 #EXTINF:-1 tvg-id="FRANCE.24.Espagnol.fr" tvg-name="FRANCE 24 Espagnol" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france24_espagnol/20220922_114506/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="276" channel-number="276",FRANCE 24 Espagnol
@@ -400,23 +400,23 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_france24_espagnol
 #EXTINF:-1 tvg-id="ASHARQ.NEWS.fr" tvg-name="ASHARQ NEWS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_asharq_news/20240524_193056/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="277" channel-number="277",ASHARQ NEWS
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_asharq_news
 #EXTINF:-1 tvg-id="FRANCE.3.ALPES.fr" tvg-name="FRANCE 3 ALPES" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3alpes/20181002_122427/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="301" channel-number="301",FRANCE 3 ALPES
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3alpes
+https://tv.sfr.fr/direct-tv/france-3-alpes
 #EXTINF:-1 tvg-id="FRANCE.3.ALSACE.fr" tvg-name="FRANCE 3 ALSACE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3alsace/20181002_122933/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="302" channel-number="302",FRANCE 3 ALSACE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3alsace
+https://tv.sfr.fr/direct-tv/france-3-alsace
 #EXTINF:-1 tvg-id="FRANCE.3.AQUITAINE.fr" tvg-name="FRANCE 3 AQUITAINE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3aquitaine/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="303" channel-number="303",FRANCE 3 AQUITAINE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3aquitaine
+https://tv.sfr.fr/direct-tv/france-3-aquitaine
 #EXTINF:-1 tvg-id="FRANCE.3.AUVERGNE.fr" tvg-name="FRANCE 3 AUVERGNE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3auvergne/20181002_122951/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="304" channel-number="304",FRANCE 3 AUVERGNE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3auvergne
+https://tv.sfr.fr/direct-tv/france-3-auvergne
 #EXTINF:-1 tvg-id="FRANCE.3.NORMANDIE.CAEN.fr" tvg-name="FRANCE 3 NORMANDIE CAEN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3bnormandie/20200211_091906/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="305" channel-number="305",FRANCE 3 NORMANDIE CAEN
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3bnormandie
 #EXTINF:-1 tvg-id="FRANCE.3.BOURGOGNE.fr" tvg-name="FRANCE 3 BOURGOGNE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3bourgogne/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="306" channel-number="306",FRANCE 3 BOURGOGNE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3bourgogne
+https://tv.sfr.fr/direct-tv/france-3-bourgogne
 #EXTINF:-1 tvg-id="FRANCE.3.BRETAGNE.fr" tvg-name="FRANCE 3 BRETAGNE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3bretagne/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="307" channel-number="307",FRANCE 3 BRETAGNE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3bretagne
+https://tv.sfr.fr/direct-tv/france-3-bretagne
 #EXTINF:-1 tvg-id="FRANCE.3.CENTRE.fr" tvg-name="FRANCE 3 CENTRE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3centre/20181002_123023/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="308" channel-number="308",FRANCE 3 CENTRE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3centre
+https://tv.sfr.fr/direct-tv/france-3-centre
 #EXTINF:-1 tvg-id="FRANCE.3.CHAMPAGNE.ARDENNE.fr" tvg-name="FRANCE 3 CHAMPAGNE ARDENNE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3champagne/20181002_123034/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="309" channel-number="309",FRANCE 3 CHAMPAGNE ARDENNE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3champagne
+https://tv.sfr.fr/direct-tv/france-3-champagne-ardenne
 #EXTINF:-1 tvg-id="FRANCE.3.CORSE.VIA.STELLA.fr" tvg-name="FRANCE 3 CORSE VIA STELLA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3corsevs/20181002_123333/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="310" channel-number="310",FRANCE 3 CORSE VIA STELLA
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3corsevs
 #EXTINF:-1 tvg-id="FRANCE.3.COTE.D'AZUR.fr" tvg-name="FRANCE 3 COTE D'AZUR" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3cteazur/20181002_123355/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="311" channel-number="311",FRANCE 3 COTE D'AZUR
@@ -426,11 +426,11 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3frcomte
 #EXTINF:-1 tvg-id="FRANCE.3.NORMANDIE.ROUEN.fr" tvg-name="FRANCE 3 NORMANDIE ROUEN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3hnormandie/20200211_091906/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="313" channel-number="313",FRANCE 3 NORMANDIE ROUEN
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3hnormandie
 #EXTINF:-1 tvg-id="FRANCE.3.LANGUEDOC.fr" tvg-name="FRANCE 3 LANGUEDOC" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3languedoc/20181002_123607/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="314" channel-number="314",FRANCE 3 LANGUEDOC
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3languedoc
+https://tv.sfr.fr/direct-tv/france-3-languedoc
 #EXTINF:-1 tvg-id="FRANCE.3.LIMOUSIN.fr" tvg-name="FRANCE 3 LIMOUSIN" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3limousin/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="315" channel-number="315",FRANCE 3 LIMOUSIN
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3limousin
+https://tv.sfr.fr/direct-tv/france-3-limousin
 #EXTINF:-1 tvg-id="FRANCE.3.LORRAINE.fr" tvg-name="FRANCE 3 LORRAINE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3lorraine/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="316" channel-number="316",FRANCE 3 LORRAINE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3lorraine
+https://tv.sfr.fr/direct-tv/france-3-lorraine
 #EXTINF:-1 tvg-id="FRANCE.3.MIDI-PYRENEES.fr" tvg-name="FRANCE 3 MIDI-PYRENEES" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3pyrenees/20181002_123755/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="317" channel-number="317",FRANCE 3 MIDI-PYRENEES
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3pyrenees
 #EXTINF:-1 tvg-id="FRANCE.3.NORD.P..CALAIS.fr" tvg-name="FRANCE 3 NORD P. CALAIS" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3nordpdc/20181002_123720/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="318" channel-number="318",FRANCE 3 NORD P. CALAIS
@@ -440,11 +440,11 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3parisidf
 #EXTINF:-1 tvg-id="FRANCE.3.PAYS.DE.LA.LOIRE.fr" tvg-name="FRANCE 3 PAYS DE LA LOIRE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3loire/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="320" channel-number="320",FRANCE 3 PAYS DE LA LOIRE
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3loire
 #EXTINF:-1 tvg-id="FRANCE.3.PICARDIE.fr" tvg-name="FRANCE 3 PICARDIE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3picardie/20181002_123952/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="321" channel-number="321",FRANCE 3 PICARDIE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3picardie
+https://tv.sfr.fr/direct-tv/france-3-picardie
 #EXTINF:-1 tvg-id="FRANCE.3.POITOU.CHARENTES.fr" tvg-name="FRANCE 3 POITOU CHARENTES" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3poitou/20181002_123959/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="322" channel-number="322",FRANCE 3 POITOU CHARENTES
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3poitou
+https://tv.sfr.fr/direct-tv/france-3-poitou-charentes
 #EXTINF:-1 tvg-id="FRANCE.3.PROVENCE.ALPES.fr" tvg-name="FRANCE 3 PROVENCE ALPES" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3provence/20190730_095136/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="323" channel-number="323",FRANCE 3 PROVENCE ALPES
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3provence
+https://tv.sfr.fr/direct-tv/france-3-provence-alpes
 #EXTINF:-1 tvg-id="FRANCE.3.RHONE.ALPES.fr" tvg-name="FRANCE 3 RHONE ALPES" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_france3rhalpes/20181002_123926/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="324" channel-number="324",FRANCE 3 RHONE ALPES
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_france3rhalpes
 #EXTINF:-1 tvg-id="ETV:.Télévision.Caraïbéenne.fr" tvg-name="ETV: Télévision Caraïbéenne" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_etv/20240116_143755/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="406" channel-number="406",ETV: Télévision Caraïbéenne
@@ -456,7 +456,7 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_tv_kreol
 #EXTINF:-1 tvg-id="KANAL.AUSTRAL.TV.fr" tvg-name="KANAL AUSTRAL.TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_kanal_austral/20260416_152808/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="410" channel-number="410",KANAL AUSTRAL.TV
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_kanal_austral
 #EXTINF:-1 tvg-id="TVMONACO.fr" tvg-name="TVMONACO" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tv_monaco/20240919_082925/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="412" channel-number="412",TVMONACO
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_tv_monaco
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1076/broadcasts/day/0?channelPosition=82
 #EXTINF:-1 tvg-id="TCM.CINEMA.(VO).fr" tvg-name="TCM CINEMA (VO)" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tcm_vo/20241105_152753/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="413" channel-number="413",TCM CINEMA (VO)
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_tcm_vo
 #EXTINF:-1 tvg-id="BOOMERANG.(VO).fr" tvg-name="BOOMERANG (VO)" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_boomerang_vo/20241105_154323/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="416" channel-number="416",BOOMERANG (VO)
@@ -478,7 +478,7 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_rai_italia
 #EXTINF:-1 tvg-id="ISRAEL+.fr" tvg-name="ISRAEL+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_the_israeli_network/20240911_122345/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="493" channel-number="493",ISRAEL+
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_the_israeli_network
 #EXTINF:-1 tvg-id="2M.MONDE.fr" tvg-name="2M MONDE" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_2mmonde/20241112_175857/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="521" channel-number="521",2M MONDE
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_2mmonde
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/54/broadcasts/day/0?channelPosition=233
 #EXTINF:-1 tvg-id="VOXAFRICA.fr" tvg-name="VOXAFRICA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_voxafrica/20241112_180336/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="587" channel-number="587",VOXAFRICA
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_voxafrica
 #EXTINF:-1 tvg-id="NCI.fr" tvg-name="NCI" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nci/20241112_181128/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="599" channel-number="599",NCI
@@ -486,10 +486,10 @@ https://tv.orange.fr/lecture/en-direct/chaines/livetv_nci
 #EXTINF:-1 tvg-id="TRACE.AFRICA.fr" tvg-name="TRACE AFRICA" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_africa/20230831_150807/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="605" channel-number="605",TRACE AFRICA
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_africa
 #EXTINF:-1 tvg-id="TRACE.GOSPEL.fr" tvg-name="TRACE GOSPEL" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_trace_gospel/20230831_150807/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="606" channel-number="606",TRACE GOSPEL
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_trace_gospel
+https://tv.sfr.fr/direct-tv/trace-gospel
 #EXTINF:-1 tvg-id="NOVELAS+.fr" tvg-name="NOVELAS+" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_novelas/20260617_091836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="607" channel-number="607",NOVELAS+
 https://tv.orange.fr/lecture/en-direct/chaines/livetv_novelas
 #EXTINF:-1 tvg-id="NOLLYWOOD.TV.fr" tvg-name="NOLLYWOOD TV" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nollywood_tv/20241112_183315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="608" channel-number="608",NOLLYWOOD TV
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_nollywood_tv
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/527/broadcasts/day/0?channelPosition=226
 #EXTINF:-1 tvg-id="SUNU.YEUF.fr" tvg-name="SUNU YEUF" tvg-logo="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_sunu_yeuf/20241112_184315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" tvg-chno="609" channel-number="609",SUNU YEUF
-https://tv.orange.fr/lecture/en-direct/chaines/livetv_sunu_yeuf
+https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1183/broadcasts/day/0?channelPosition=228
