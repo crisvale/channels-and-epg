@@ -1,419 +1,419 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Em%20Casa%20d%27Am%C3%A1lia%20-%2010x02&chCallLetter=RTP1&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="1" channel-number="1",RTP1
+#EXTINF:-1 tvg-id="RTP1.pt" tvg-name="RTP1" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTP1&profile=corner_transparent_positive&width=100" tvg-chno="1" channel-number="1",RTP1
 https://tv.meo.pt/player?channel=RTP1_HD
-#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=70%20Anos%20da%20Funda%C3%A7%C3%A3o%20Gulbenkian%20-%20Gala%20de%20%C3%93pera%20com%20Sonya%20Yoncheva&chCallLetter=RTP2&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="2" channel-number="2",RTP2
+#EXTINF:-1 tvg-id="RTP2.pt" tvg-name="RTP2" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTP2&profile=corner_transparent_positive&width=100" tvg-chno="2" channel-number="2",RTP2
 https://tv.meo.pt/player?channel=RTP_2_HD
-#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Casados%20%C3%80%20Primeira%20Vista%20-%20A%20Semana%20-%206x16&chCallLetter=SIC&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="3" channel-number="3",SIC
+#EXTINF:-1 tvg-id="SIC.pt" tvg-name="SIC" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SIC&profile=corner_transparent_positive&width=100" tvg-chno="3" channel-number="3",SIC
 https://tv.meo.pt/player?channel=SIC_HD
-#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Carlitos%20e%20Henriqueta&chCallLetter=TVI&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="4" channel-number="4",TVI
+#EXTINF:-1 tvg-id="TVI.pt" tvg-name="TVI" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVI&profile=corner_transparent_positive&width=100" tvg-chno="4" channel-number="4",TVI
 https://tv.meo.pt/player?channel=TVI_HD
-#EXTINF:-1 tvg-id="SIC.Notícias.pt" tvg-name="SIC Notícias" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Jornal%20Da%20Meia-Noite&chCallLetter=SICN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="5" channel-number="5",SIC Notícias
+#EXTINF:-1 tvg-id="SIC.Notícias.pt" tvg-name="SIC Notícias" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICN&profile=corner_transparent_positive&width=100" tvg-chno="5" channel-number="5",SIC Notícias
 https://tv.meo.pt/player?channel=SIC_Noticias_HD
-#EXTINF:-1 tvg-id="RTP.Notícias.pt" tvg-name="RTP Notícias" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=24%20Horas&chCallLetter=RTPN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="6" channel-number="6",RTP Notícias
+#EXTINF:-1 tvg-id="RTP.Notícias.pt" tvg-name="RTP Notícias" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTPN&profile=corner_transparent_positive&width=100" tvg-chno="6" channel-number="6",RTP Notícias
 https://tv.meo.pt/player?channel=RTP_3_HD
-#EXTINF:-1 tvg-id="CNN.Portugal.pt" tvg-name="CNN Portugal" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=CNN%20Edi%C3%A7%C3%A3o%20Especial&chCallLetter=CNNPT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="7" channel-number="7",CNN Portugal
+#EXTINF:-1 tvg-id="CNN.Portugal.pt" tvg-name="CNN Portugal" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CNNPT&profile=corner_transparent_positive&width=100" tvg-chno="7" channel-number="7",CNN Portugal
 https://tv.meo.pt/player?channel=TVI24_HD
-#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Liga%20D%E2%80%99Ouro%20-%20Ep.%20169&chCallLetter=CMTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="8" channel-number="8",CMTV
+#EXTINF:-1 tvg-id="CMTV.pt" tvg-name="CMTV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CMTV&profile=corner_transparent_positive&width=100" tvg-chno="8" channel-number="8",CMTV
 https://tv.meo.pt/player?channel=CMTVHD
-#EXTINF:-1 tvg-id="News.Now.pt" tvg-name="News Now" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=NOW%20%C3%80%20Meia%20Noite&chCallLetter=NEWSNOW&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="9" channel-number="9",News Now
+#EXTINF:-1 tvg-id="News.Now.pt" tvg-name="News Now" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NEWSNOW&profile=corner_transparent_positive&width=100" tvg-chno="9" channel-number="9",News Now
 https://tv.meo.pt/player?channel=Now_HD
-#EXTINF:-1 tvg-id="Globo.pt" tvg-name="Globo" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Globo%20Rep%C3%B3rter&chCallLetter=GLOB&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="10" channel-number="10",Globo
+#EXTINF:-1 tvg-id="Globo.pt" tvg-name="Globo" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=GLOB&profile=corner_transparent_positive&width=100" tvg-chno="10" channel-number="10",Globo
 https://tv.meo.pt/player?channel=Globo_HD
-#EXTINF:-1 tvg-id="11.pt" tvg-name="11" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Botafogo%20x%20Santos%20-%20Brasileir%C3%A3o&chCallLetter=C11&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="11" channel-number="11",11
+#EXTINF:-1 tvg-id="11.pt" tvg-name="11" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=C11&profile=corner_transparent_positive&width=100" tvg-chno="11" channel-number="11",11
 https://tv.meo.pt/player?channel=C11_HD
-#EXTINF:-1 tvg-id="V+.TVI.pt" tvg-name="V+ TVI" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Querido%2C%20Mudei%20A%20Casa%21&chCallLetter=VMAISTVI&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="12" channel-number="12",V+ TVI
+#EXTINF:-1 tvg-id="V+.TVI.pt" tvg-name="V+ TVI" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VMAISTVI&profile=corner_transparent_positive&width=100" tvg-chno="12" channel-number="12",V+ TVI
 https://tv.meo.pt/player?channel=TVIFI_HD
-#EXTINF:-1 tvg-id="SIC.Mulher.pt" tvg-name="SIC Mulher" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Cleaning%20Lady%20-%202x03&chCallLetter=SICM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="13" channel-number="13",SIC Mulher
+#EXTINF:-1 tvg-id="SIC.Mulher.pt" tvg-name="SIC Mulher" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICM&profile=corner_transparent_positive&width=100" tvg-chno="13" channel-number="13",SIC Mulher
 https://tv.meo.pt/player?channel=SIC_Mulher_HD
-#EXTINF:-1 tvg-id="SIC.Novelas.pt" tvg-name="SIC Novelas" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Aqui%20N%C3%A3o%20H%C3%A1%20Quem%20Viva%20-%201x05&chCallLetter=SICNOV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="14" channel-number="14",SIC Novelas
+#EXTINF:-1 tvg-id="SIC.Novelas.pt" tvg-name="SIC Novelas" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICNOV&profile=corner_transparent_positive&width=100" tvg-chno="14" channel-number="14",SIC Novelas
 https://tv.meo.pt/player?channel=SIC_Novelas_HD
-#EXTINF:-1 tvg-id="Conta.Lá.pt" tvg-name="Conta Lá" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Reportagem%3A%20A%20Boa%20Influ%C3%AAncia%20-%20Joana%20Wilson&chCallLetter=CONTALA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="15" channel-number="15",Conta Lá
+#EXTINF:-1 tvg-id="Conta.Lá.pt" tvg-name="Conta Lá" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CONTALA&profile=corner_transparent_positive&width=100" tvg-chno="15" channel-number="15",Conta Lá
 https://tv.meo.pt/player?channel=ContaLa_N_HD
-#EXTINF:-1 tvg-id="Veja.pt" tvg-name="Veja" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Morangos%20Com%20A%C3%A7%C3%BAcar%20-%204x210&chCallLetter=VEJA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="17" channel-number="17",Veja
+#EXTINF:-1 tvg-id="Veja.pt" tvg-name="Veja" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VEJA&profile=corner_transparent_positive&width=100" tvg-chno="17" channel-number="17",Veja
 https://tv.meo.pt/player?channel=Canal_Veja_HD
-#EXTINF:-1 tvg-id="Sport.TV.+.pt" tvg-name="Sport TV +" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=%C3%9Altimas%20Not%C3%ADcias&chCallLetter=SPTVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="20" channel-number="20",Sport TV +
+#EXTINF:-1 tvg-id="Sport.TV.+.pt" tvg-name="Sport TV +" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPTVHD&profile=corner_transparent_positive&width=100" tvg-chno="20" channel-number="20",Sport TV +
 https://tv.meo.pt/player?channel=SPORTTV_HD
-#EXTINF:-1 tvg-id="Sport.TV1.pt" tvg-name="Sport TV1" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Fran%C3%A7a%20x%20Inglaterra%20-%20Campeonato%20do%20Mundo%20FIFA%202026%20%28Direto%29&chCallLetter=SPT1HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="21" channel-number="21",Sport TV1
+#EXTINF:-1 tvg-id="Sport.TV1.pt" tvg-name="Sport TV1" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT1HD&profile=corner_transparent_positive&width=100" tvg-chno="21" channel-number="21",Sport TV1
 https://tv.meo.pt/player?channel=SPORTTV1_HD
-#EXTINF:-1 tvg-id="Sport.TV2.pt" tvg-name="Sport TV2" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Tenis%3A%20Gstaad%20-%20ATP%20World%20Tour%20250&chCallLetter=SPT2HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="22" channel-number="22",Sport TV2
+#EXTINF:-1 tvg-id="Sport.TV2.pt" tvg-name="Sport TV2" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT2HD&profile=corner_transparent_positive&width=100" tvg-chno="22" channel-number="22",Sport TV2
 https://tv.meo.pt/player?channel=SPORTTV2_HD
-#EXTINF:-1 tvg-id="Sport.TV3.pt" tvg-name="Sport TV3" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Volei%20Praia%20Fem.%3A%20Nations%20Cup&chCallLetter=SPT3HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="23" channel-number="23",Sport TV3
+#EXTINF:-1 tvg-id="Sport.TV3.pt" tvg-name="Sport TV3" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT3HD&profile=corner_transparent_positive&width=100" tvg-chno="23" channel-number="23",Sport TV3
 https://tv.meo.pt/player?channel=SPORTTV3_HD
-#EXTINF:-1 tvg-id="Sport.TV4.pt" tvg-name="Sport TV4" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Automobilismo%3A%20Paul%20Ricard%20Corrida%201%20-%20Campeonato%20Internacional%20GT%20Open&chCallLetter=SPT4HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="24" channel-number="24",Sport TV4
+#EXTINF:-1 tvg-id="Sport.TV4.pt" tvg-name="Sport TV4" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT4HD&profile=corner_transparent_positive&width=100" tvg-chno="24" channel-number="24",Sport TV4
 https://tv.meo.pt/player?channel=SPORTTVLive_HD
-#EXTINF:-1 tvg-id="Sport.TV5.pt" tvg-name="Sport TV5" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Fran%C3%A7a%20x%20Inglaterra%20-%20Campeonato%20do%20Mundo%20FIFA%202026%20%28Direto%29&chCallLetter=SPT5HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="25" channel-number="25",Sport TV5
+#EXTINF:-1 tvg-id="Sport.TV5.pt" tvg-name="Sport TV5" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT5HD&profile=corner_transparent_positive&width=100" tvg-chno="25" channel-number="25",Sport TV5
 https://tv.meo.pt/player?channel=SPORTTV_GOLFE_HD
-#EXTINF:-1 tvg-id="Sport.TV6.pt" tvg-name="Sport TV6" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Fora%20de%20Horas%3A%20Sem%20Transmiss%C3%A3o&chCallLetter=SPT6HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="26" channel-number="26",Sport TV6
+#EXTINF:-1 tvg-id="Sport.TV6.pt" tvg-name="Sport TV6" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT6HD&profile=corner_transparent_positive&width=100" tvg-chno="26" channel-number="26",Sport TV6
 https://tv.meo.pt/player?channel=SPORTTV6_HD
-#EXTINF:-1 tvg-id="Sport.TV7.pt" tvg-name="Sport TV7" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Follow%20My%20Team%3A%20Pr%C3%A9-Jogo%20-%20Campeonato%20do%20Mundo%20FIFA%202026&chCallLetter=SPT7HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="27" channel-number="27",Sport TV7
+#EXTINF:-1 tvg-id="Sport.TV7.pt" tvg-name="Sport TV7" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT7HD&profile=corner_transparent_positive&width=100" tvg-chno="27" channel-number="27",Sport TV7
 https://tv.meo.pt/player?channel=SPORTTV7_HD
-#EXTINF:-1 tvg-id="BTV.pt" tvg-name="BTV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Benfica%2024%20Horas&chCallLetter=SLBHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="28" channel-number="28",BTV
+#EXTINF:-1 tvg-id="BTV.pt" tvg-name="BTV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SLBHD&profile=corner_transparent_positive&width=100" tvg-chno="28" channel-number="28",BTV
 https://tv.meo.pt/player?channel=Benfica_TV_1_HD
-#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=West%20Ham%20x%20Man%20City%20-%20Premier%20League&chCallLetter=DAZN1&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="29" channel-number="29",DAZN 1
+#EXTINF:-1 tvg-id="DAZN.1.pt" tvg-name="DAZN 1" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAZN1&profile=corner_transparent_positive&width=100" tvg-chno="29" channel-number="29",DAZN 1
 https://tv.meo.pt/player?channel=Eleven_Sports_1_HD
-#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=49Ers%20x%20Rams%20-%20NFL&chCallLetter=DAZN2&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="30" channel-number="30",DAZN 2
+#EXTINF:-1 tvg-id="DAZN.2.pt" tvg-name="DAZN 2" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAZN2&profile=corner_transparent_positive&width=100" tvg-chno="30" channel-number="30",DAZN 2
 https://tv.meo.pt/player?channel=Eleven_Sports_2_HD
-#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Hoquei%20Fem.%3A%20Benfica%20x%20Stuart%20Massam%C3%A1%20-%20Ta%C3%A7a%20De%20Portugal&chCallLetter=DAZN3&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="31" channel-number="31",DAZN 3
+#EXTINF:-1 tvg-id="DAZN.3.pt" tvg-name="DAZN 3" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAZN3&profile=corner_transparent_positive&width=100" tvg-chno="31" channel-number="31",DAZN 3
 https://tv.meo.pt/player?channel=Eleven_Sports_3_HD
-#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-name="DAZN 4" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=DAZN%204&chCallLetter=DAZN4&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="32" channel-number="32",DAZN 4
+#EXTINF:-1 tvg-id="DAZN.4.pt" tvg-name="DAZN 4" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAZN4&profile=corner_transparent_positive&width=100" tvg-chno="32" channel-number="32",DAZN 4
 https://tv.meo.pt/player?channel=Eleven_Sports_4_HD
-#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="DAZN 5" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Sem%20Emiss%C3%A3o&chCallLetter=DAZN5&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="33" channel-number="33",DAZN 5
+#EXTINF:-1 tvg-id="DAZN.5.pt" tvg-name="DAZN 5" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAZN5&profile=corner_transparent_positive&width=100" tvg-chno="33" channel-number="33",DAZN 5
 https://tv.meo.pt/player?channel=Eleven_Sports_5_HD
-#EXTINF:-1 tvg-id="A.Bola.pt" tvg-name="A Bola" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Deixa%20Rolar%3A%20Catarina%20Bergonha&chCallLetter=ABOLA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="34" channel-number="34",A Bola
+#EXTINF:-1 tvg-id="A.Bola.pt" tvg-name="A Bola" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ABOLA&profile=corner_transparent_positive&width=100" tvg-chno="34" channel-number="34",A Bola
 https://tv.meo.pt/player?channel=ABOLA_HD
-#EXTINF:-1 tvg-id="Porto.Canal.pt" tvg-name="Porto Canal" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Noite%20Desportiva&chCallLetter=PORTO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="35" channel-number="35",Porto Canal
+#EXTINF:-1 tvg-id="Porto.Canal.pt" tvg-name="Porto Canal" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PORTO&profile=corner_transparent_positive&width=100" tvg-chno="35" channel-number="35",Porto Canal
 https://tv.meo.pt/player?channel=Porto_Canal_HD
-#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting TV HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Sporting%20CP%20x%20Celtic%20FC%20-%20Jogo%20De%20Prepara%C3%A7%C3%A3o&chCallLetter=SCPHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="36" channel-number="36",Sporting TV HD
+#EXTINF:-1 tvg-id="Sporting.TV.HD.pt" tvg-name="Sporting TV HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SCPHD&profile=corner_transparent_positive&width=100" tvg-chno="36" channel-number="36",Sporting TV HD
 https://tv.meo.pt/player?channel=Sporting_TV_HD
-#EXTINF:-1 tvg-id="W.Sport.pt" tvg-name="W Sport" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Heroines%20%28S3E%29%3A%20Heroines%20%28S3E7%29&chCallLetter=WSPORT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="37" channel-number="37",W Sport
+#EXTINF:-1 tvg-id="W.Sport.pt" tvg-name="W Sport" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=WSPORT&profile=corner_transparent_positive&width=100" tvg-chno="37" channel-number="37",W Sport
 https://tv.meo.pt/player?channel=W_Sport_HD
-#EXTINF:-1 tvg-id="Eurosport.1.pt" tvg-name="Eurosport 1" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Snooker%3A%20Camp.%20Mundo&chCallLetter=EURHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="38" channel-number="38",Eurosport 1
+#EXTINF:-1 tvg-id="Eurosport.1.pt" tvg-name="Eurosport 1" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EURHD&profile=corner_transparent_positive&width=100" tvg-chno="38" channel-number="38",Eurosport 1
 https://tv.meo.pt/player?channel=Eurosport_HD
-#EXTINF:-1 tvg-id="Eurosport.2.pt" tvg-name="Eurosport 2" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Ciclismo%3A%20Volta%20a%20Fran%C3%A7a&chCallLetter=EURS2HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="39" channel-number="39",Eurosport 2
+#EXTINF:-1 tvg-id="Eurosport.2.pt" tvg-name="Eurosport 2" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EURS2HD&profile=corner_transparent_positive&width=100" tvg-chno="39" channel-number="39",Eurosport 2
 https://tv.meo.pt/player?channel=Eurosport_2_HD
-#EXTINF:-1 tvg-id="Disney.Channel.pt" tvg-name="Disney Channel" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Phineas%20e%20Ferb%20-%204x120&chCallLetter=DISNY&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="40" channel-number="40",Disney Channel
+#EXTINF:-1 tvg-id="Disney.Channel.pt" tvg-name="Disney Channel" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DISNY&profile=corner_transparent_positive&width=100" tvg-chno="40" channel-number="40",Disney Channel
 https://tv.meo.pt/player?channel=Disney_Channel_HD
-#EXTINF:-1 tvg-id="Cartoon.Network.pt" tvg-name="Cartoon Network" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Coragem%2C%20O%20C%C3%A3o%20Covarde%20-%201x09&chCallLetter=CART&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="41" channel-number="41",Cartoon Network
+#EXTINF:-1 tvg-id="Cartoon.Network.pt" tvg-name="Cartoon Network" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CART&profile=corner_transparent_positive&width=100" tvg-chno="41" channel-number="41",Cartoon Network
 https://tv.meo.pt/player?channel=Cartoon_Network_HD
-#EXTINF:-1 tvg-id="Panda.Kids.pt" tvg-name="Panda Kids" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Alvin%20E%20Os%20Esquilos%20-%203x31&chCallLetter=PANDAK&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="42" channel-number="42",Panda Kids
+#EXTINF:-1 tvg-id="Panda.Kids.pt" tvg-name="Panda Kids" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PANDAK&profile=corner_transparent_positive&width=100" tvg-chno="42" channel-number="42",Panda Kids
 https://tv.meo.pt/player?channel=Panda_Kids_HD
-#EXTINF:-1 tvg-id="SIC.K.pt" tvg-name="SIC K" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Os%20Protegidos%20-%201x17&chCallLetter=SICK&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="43" channel-number="43",SIC K
+#EXTINF:-1 tvg-id="SIC.K.pt" tvg-name="SIC K" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICK&profile=corner_transparent_positive&width=100" tvg-chno="43" channel-number="43",SIC K
 https://tv.meo.pt/player?channel=SIC_K_HD
-#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Best%20E%20Bester%20-%201x107&chCallLetter=NICKELO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="44" channel-number="44",Nickelodeon
+#EXTINF:-1 tvg-id="Nickelodeon.pt" tvg-name="Nickelodeon" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NICKELO&profile=corner_transparent_positive&width=100" tvg-chno="44" channel-number="44",Nickelodeon
 https://tv.meo.pt/player?channel=Nickelodeon_HD
-#EXTINF:-1 tvg-id="Disney.Junior.pt" tvg-name="Disney Junior" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=PJ%20Masks%20-%204x88&chCallLetter=DISNYJ&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="45" channel-number="45",Disney Junior
+#EXTINF:-1 tvg-id="Disney.Junior.pt" tvg-name="Disney Junior" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DISNYJ&profile=corner_transparent_positive&width=100" tvg-chno="45" channel-number="45",Disney Junior
 https://tv.meo.pt/player?channel=Disney_Junior_HD
-#EXTINF:-1 tvg-id="Panda.pt" tvg-name="Panda" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Masha%20e%20o%20Urso%20-%201x17&chCallLetter=PANDA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="46" channel-number="46",Panda
+#EXTINF:-1 tvg-id="Panda.pt" tvg-name="Panda" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PANDA&profile=corner_transparent_positive&width=100" tvg-chno="46" channel-number="46",Panda
 https://tv.meo.pt/player?channel=Panda_HD
-#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Mr%20Bean%3A%20A%20S%C3%A9rie%20de%20Anima%C3%A7%C3%A3o%20-%204x05&chCallLetter=CNITO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="47" channel-number="47",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.pt" tvg-name="Cartoonito" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CNITO&profile=corner_transparent_positive&width=100" tvg-chno="47" channel-number="47",Cartoonito
 https://tv.meo.pt/player?channel=Boomerang_HD
-#EXTINF:-1 tvg-id="Nick.Jr..pt" tvg-name="Nick Jr." tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Rubble%20E%20Companhia%20-%201x101&chCallLetter=NICKJR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="48" channel-number="48",Nick Jr.
+#EXTINF:-1 tvg-id="Nick.Jr..pt" tvg-name="Nick Jr." tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NICKJR&profile=corner_transparent_positive&width=100" tvg-chno="48" channel-number="48",Nick Jr.
 https://tv.meo.pt/player?channel=Nick_JR_HD
-#EXTINF:-1 tvg-id="Baby.TV.pt" tvg-name="Baby TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Noites%20Sonhadoras&chCallLetter=BABYT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="49" channel-number="49",Baby TV
+#EXTINF:-1 tvg-id="Baby.TV.pt" tvg-name="Baby TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BABYT&profile=corner_transparent_positive&width=100" tvg-chno="49" channel-number="49",Baby TV
 https://tv.meo.pt/player?channel=Baby_TV
-#EXTINF:-1 tvg-id="Lolly.Kids.pt" tvg-name="Lolly Kids" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=LOLLY%20KIDS&chCallLetter=LOLLY&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="50" channel-number="50",Lolly Kids
+#EXTINF:-1 tvg-id="Lolly.Kids.pt" tvg-name="Lolly Kids" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LOLLY&profile=corner_transparent_positive&width=100" tvg-chno="50" channel-number="50",Lolly Kids
 https://tv.meo.pt/player?channel=Lolly_Kids_HD
-#EXTINF:-1 tvg-id="Kanuca.TV.pt" tvg-name="Kanuca TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Espa%C3%A7o%20Mwangol%C3%AA%20Kids&chCallLetter=KANUCA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="51" channel-number="51",Kanuca TV
+#EXTINF:-1 tvg-id="Kanuca.TV.pt" tvg-name="Kanuca TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=KANUCA&profile=corner_transparent_positive&width=100" tvg-chno="51" channel-number="51",Kanuca TV
 https://tv.meo.pt/player?channel=KanucaTV_HD
-#EXTINF:-1 tvg-id="TVCine.Top.pt" tvg-name="TVCine Top" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=28%20Anos%20Depois&chCallLetter=TVCTOPH&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="55" channel-number="55",TVCine Top
+#EXTINF:-1 tvg-id="TVCine.Top.pt" tvg-name="TVCine Top" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVCTOPH&profile=corner_transparent_positive&width=100" tvg-chno="55" channel-number="55",TVCine Top
 https://tv.meo.pt/player?channel=TVCine_1_HD
-#EXTINF:-1 tvg-id="TVCine.Edition.pt" tvg-name="TVCine Edition" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=A%20Margem&chCallLetter=TVCEDIH&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="56" channel-number="56",TVCine Edition
+#EXTINF:-1 tvg-id="TVCine.Edition.pt" tvg-name="TVCine Edition" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVCEDIH&profile=corner_transparent_positive&width=100" tvg-chno="56" channel-number="56",TVCine Edition
 https://tv.meo.pt/player?channel=TVCine_2_HD
-#EXTINF:-1 tvg-id="TVCine.Emotion.pt" tvg-name="TVCine Emotion" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Curiosa&chCallLetter=TVCEMOH&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="57" channel-number="57",TVCine Emotion
+#EXTINF:-1 tvg-id="TVCine.Emotion.pt" tvg-name="TVCine Emotion" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVCEMOH&profile=corner_transparent_positive&width=100" tvg-chno="57" channel-number="57",TVCine Emotion
 https://tv.meo.pt/player?channel=TVCine_3_HD
-#EXTINF:-1 tvg-id="TVCine.Action.pt" tvg-name="TVCine Action" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Gritos%206&chCallLetter=TVCACTH&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="58" channel-number="58",TVCine Action
+#EXTINF:-1 tvg-id="TVCine.Action.pt" tvg-name="TVCine Action" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVCACTH&profile=corner_transparent_positive&width=100" tvg-chno="58" channel-number="58",TVCine Action
 https://tv.meo.pt/player?channel=TVCine_4_HD
-#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Hell%20Or%20High%20Water%20-%20Custe%20O%20Que%20Custar%21&chCallLetter=CINEHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="60" channel-number="60",Cinemundo
+#EXTINF:-1 tvg-id="Cinemundo.pt" tvg-name="Cinemundo" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CINEHD&profile=corner_transparent_positive&width=100" tvg-chno="60" channel-number="60",Cinemundo
 https://tv.meo.pt/player?channel=Cinemundo_HD
-#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Gunner&chCallLetter=HOLHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="61" channel-number="61",Hollywood
+#EXTINF:-1 tvg-id="Hollywood.pt" tvg-name="Hollywood" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HOLHD&profile=corner_transparent_positive&width=100" tvg-chno="61" channel-number="61",Hollywood
 https://tv.meo.pt/player?channel=Hollywood_HD
-#EXTINF:-1 tvg-id="STAR.Movies.pt" tvg-name="STAR Movies" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Duelo%20de%20Gigantes&chCallLetter=STARMOV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="62" channel-number="62",STAR Movies
+#EXTINF:-1 tvg-id="STAR.Movies.pt" tvg-name="STAR Movies" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARMOV&profile=corner_transparent_positive&width=100" tvg-chno="62" channel-number="62",STAR Movies
 https://tv.meo.pt/player?channel=FOX_Movies_HD
-#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Na%20Sombra%20Da%20Lei&chCallLetter=AMCHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="63" channel-number="63",AMC
+#EXTINF:-1 tvg-id="AMC.pt" tvg-name="AMC" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AMCHD&profile=corner_transparent_positive&width=100" tvg-chno="63" channel-number="63",AMC
 https://tv.meo.pt/player?channel=AMC_HD
-#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-name="AXN Movies HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Pompeia&chCallLetter=AXNMHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="64" channel-number="64",AXN Movies HD
+#EXTINF:-1 tvg-id="AXN.Movies.HD.pt" tvg-name="AXN Movies HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AXNMHD&profile=corner_transparent_positive&width=100" tvg-chno="64" channel-number="64",AXN Movies HD
 https://tv.meo.pt/player?channel=AXN_Black_HD
-#EXTINF:-1 tvg-id="STAR.Channel.pt" tvg-name="STAR Channel" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Robin%20Hood&chCallLetter=STARCHA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="70" channel-number="70",STAR Channel
+#EXTINF:-1 tvg-id="STAR.Channel.pt" tvg-name="STAR Channel" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARCHA&profile=corner_transparent_positive&width=100" tvg-chno="70" channel-number="70",STAR Channel
 https://tv.meo.pt/player?channel=FOX_HD
-#EXTINF:-1 tvg-id="STAR.Life.pt" tvg-name="STAR Life" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Coyote%20Bar&chCallLetter=STARLIF&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="71" channel-number="71",STAR Life
+#EXTINF:-1 tvg-id="STAR.Life.pt" tvg-name="STAR Life" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARLIF&profile=corner_transparent_positive&width=100" tvg-chno="71" channel-number="71",STAR Life
 https://tv.meo.pt/player?channel=FOX_Life_HD
-#EXTINF:-1 tvg-id="STAR.Crime.pt" tvg-name="STAR Crime" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=CSI%3A%20Nova%20Iorque%20-%201x18&chCallLetter=STARCRI&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="72" channel-number="72",STAR Crime
+#EXTINF:-1 tvg-id="STAR.Crime.pt" tvg-name="STAR Crime" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARCRI&profile=corner_transparent_positive&width=100" tvg-chno="72" channel-number="72",STAR Crime
 https://tv.meo.pt/player?channel=FOX_Crime_HD
-#EXTINF:-1 tvg-id="STAR.Comedy.pt" tvg-name="STAR Comedy" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Bean%3A%20Um%20Aut%C3%AAntico%20Desastre&chCallLetter=STARCOM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="73" channel-number="73",STAR Comedy
+#EXTINF:-1 tvg-id="STAR.Comedy.pt" tvg-name="STAR Comedy" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARCOM&profile=corner_transparent_positive&width=100" tvg-chno="73" channel-number="73",STAR Comedy
 https://tv.meo.pt/player?channel=FOX_Comedy_HD
-#EXTINF:-1 tvg-id="AXN.HD.pt" tvg-name="AXN HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Point%20Break%20-%20Ca%C3%A7adores%20de%20Emo%C3%A7%C3%B5es&chCallLetter=AXNHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="74" channel-number="74",AXN HD
+#EXTINF:-1 tvg-id="AXN.HD.pt" tvg-name="AXN HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AXNHD&profile=corner_transparent_positive&width=100" tvg-chno="74" channel-number="74",AXN HD
 https://tv.meo.pt/player?channel=AXN_HD
-#EXTINF:-1 tvg-id="AXN.White.HD.pt" tvg-name="AXN White HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Chris%20Watts%3A%20As%20Confiss%C3%B5es%20de%20um%20Assassino&chCallLetter=AXWHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="75" channel-number="75",AXN White HD
+#EXTINF:-1 tvg-id="AXN.White.HD.pt" tvg-name="AXN White HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AXWHD&profile=corner_transparent_positive&width=100" tvg-chno="75" channel-number="75",AXN White HD
 https://tv.meo.pt/player?channel=AXN_White_HD
-#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Dr%C3%A1cula%3A%20O%20Vampiro%20Ainda%20Est%C3%A1%20Vivo&chCallLetter=SYFHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="76" channel-number="76",SyFy
+#EXTINF:-1 tvg-id="SyFy.pt" tvg-name="SyFy" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SYFHD&profile=corner_transparent_positive&width=100" tvg-chno="76" channel-number="76",SyFy
 https://tv.meo.pt/player?channel=SyFy_HD
-#EXTINF:-1 tvg-id="Dizi.Channel.pt" tvg-name="Dizi Channel" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Ressurrei%C3%A7%C3%A3o%3A%20Ertugru%20-%202x36&chCallLetter=DIZI&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="77" channel-number="77",Dizi Channel
+#EXTINF:-1 tvg-id="Dizi.Channel.pt" tvg-name="Dizi Channel" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DIZI&profile=corner_transparent_positive&width=100" tvg-chno="77" channel-number="77",Dizi Channel
 https://tv.meo.pt/player?channel=Dizi_Channel_HD
-#EXTINF:-1 tvg-id="VinTV.pt" tvg-name="VinTV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Morangos%20Com%20A%C3%A7%C3%BAcar%20-%204x210&chCallLetter=VINTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="78" channel-number="78",VinTV
+#EXTINF:-1 tvg-id="VinTV.pt" tvg-name="VinTV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VINTV&profile=corner_transparent_positive&width=100" tvg-chno="78" channel-number="78",VinTV
 https://tv.meo.pt/player?channel=VINTV_HD
-#EXTINF:-1 tvg-id="MEO.Destaques.pt" tvg-name="MEO Destaques" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Destaques&chCallLetter=DEST&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="89" channel-number="89",MEO Destaques
+#EXTINF:-1 tvg-id="MEO.Destaques.pt" tvg-name="MEO Destaques" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DEST&profile=corner_transparent_positive&width=100" tvg-chno="89" channel-number="89",MEO Destaques
 https://tv.meo.pt/player?channel=MEO_Destaques_HD
-#EXTINF:-1 tvg-id="Discovery.Channel.pt" tvg-name="Discovery Channel" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Regresso%20%C3%80s%20Origens%20-%202x12&chCallLetter=DISCVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="90" channel-number="90",Discovery Channel
+#EXTINF:-1 tvg-id="Discovery.Channel.pt" tvg-name="Discovery Channel" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DISCVHD&profile=corner_transparent_positive&width=100" tvg-chno="90" channel-number="90",Discovery Channel
 https://tv.meo.pt/player?channel=Discovery_Channel_HD
-#EXTINF:-1 tvg-id="História.pt" tvg-name="História" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=O%20Inexplic%C3%A1vel%20-%203x13&chCallLetter=HISTHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="91" channel-number="91",História
+#EXTINF:-1 tvg-id="História.pt" tvg-name="História" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HISTHD&profile=corner_transparent_positive&width=100" tvg-chno="91" channel-number="91",História
 https://tv.meo.pt/player?channel=Historia_HD
-#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Clima%20Extremo%20Viral%20-%207x07&chCallLetter=ODISSHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="92" channel-number="92",Odisseia
+#EXTINF:-1 tvg-id="Odisseia.pt" tvg-name="Odisseia" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ODISSHD&profile=corner_transparent_positive&width=100" tvg-chno="92" channel-number="92",Odisseia
 https://tv.meo.pt/player?channel=Odisseia_HD
-#EXTINF:-1 tvg-id="National.Geographic.pt" tvg-name="National Geographic" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Na%20Rota%20Do%20Tr%C3%A1fico%20Com%20Mariana%20Van%20Zeller%20-%201x05&chCallLetter=NGHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="95" channel-number="95",National Geographic
+#EXTINF:-1 tvg-id="National.Geographic.pt" tvg-name="National Geographic" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NGHD&profile=corner_transparent_positive&width=100" tvg-chno="95" channel-number="95",National Geographic
 https://tv.meo.pt/player?channel=National_Geographic_HD
-#EXTINF:-1 tvg-id="National.Geographic.Wild.pt" tvg-name="National Geographic Wild" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Killer%20Safari%20-%201x03&chCallLetter=WILDHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="96" channel-number="96",National Geographic Wild
+#EXTINF:-1 tvg-id="National.Geographic.Wild.pt" tvg-name="National Geographic Wild" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=WILDHD&profile=corner_transparent_positive&width=100" tvg-chno="96" channel-number="96",National Geographic Wild
 https://tv.meo.pt/player?channel=Nat_Geo_Wild_HD
-#EXTINF:-1 tvg-id="TVI.Reality.pt" tvg-name="TVI Reality" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=TV%20Shop&chCallLetter=TVIR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="99" channel-number="99",TVI Reality
-https://nostv.pt/v3/channels/567
-#EXTINF:-1 tvg-id="RTP.Memória.pt" tvg-name="RTP Memória" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Evoca%C3%A7%C3%A3o%20De%20S%C3%A1%20Carneiro&chCallLetter=RTPM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="100" channel-number="100",RTP Memória
+#EXTINF:-1 tvg-id="TVI.Reality.pt" tvg-name="TVI Reality" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVIR&profile=corner_transparent_positive&width=100" tvg-chno="99" channel-number="99",TVI Reality
+https://tv.meo.pt/player?channel=Bb_2020_HD
+#EXTINF:-1 tvg-id="RTP.Memória.pt" tvg-name="RTP Memória" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTPM&profile=corner_transparent_positive&width=100" tvg-chno="100" channel-number="100",RTP Memória
 https://tv.meo.pt/player?channel=RTP_Memoria
-#EXTINF:-1 tvg-id="Q.pt" tvg-name="Q" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Cabe%C3%A7a%20De%20Cartaz%20-%201x06&chCallLetter=QHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="101" channel-number="101",Q
+#EXTINF:-1 tvg-id="Q.pt" tvg-name="Q" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=QHD&profile=corner_transparent_positive&width=100" tvg-chno="101" channel-number="101",Q
 https://tv.meo.pt/player?channel=Canal_Q_HD
-#EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-name="SIC Radical" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Boston%20Legal%20-%201x09&chCallLetter=SICR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="105" channel-number="105",SIC Radical
-https://nostv.pt/v3/channels/422
-#EXTINF:-1 tvg-id="AMC.Break.pt" tvg-name="AMC Break" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Quem%20D%C3%A1%20Mais%3F%20-%201x10&chCallLetter=AMCBRE&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="107" channel-number="107",AMC Break
+#EXTINF:-1 tvg-id="SIC.Radical.pt" tvg-name="SIC Radical" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICR&profile=corner_transparent_positive&width=100" tvg-chno="105" channel-number="105",SIC Radical
+https://tv.meo.pt/player?channel=SIC_Radical_HD
+#EXTINF:-1 tvg-id="AMC.Break.pt" tvg-name="AMC Break" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AMCBRE&profile=corner_transparent_positive&width=100" tvg-chno="107" channel-number="107",AMC Break
 https://tv.meo.pt/player?channel=Blaze_HD
-#EXTINF:-1 tvg-id="Fight.Sports.pt" tvg-name="Fight Sports" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=MEGA%20Fights%20-%201x27&chCallLetter=FIGHTSP&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="109" channel-number="109",Fight Sports
+#EXTINF:-1 tvg-id="Fight.Sports.pt" tvg-name="Fight Sports" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FIGHTSP&profile=corner_transparent_positive&width=100" tvg-chno="109" channel-number="109",Fight Sports
 https://tv.meo.pt/player?channel=Fight_Sports_HD
-#EXTINF:-1 tvg-id="Gametoon.pt" tvg-name="Gametoon" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=GAMETOON&chCallLetter=GAMET&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="111" channel-number="111",Gametoon
+#EXTINF:-1 tvg-id="Gametoon.pt" tvg-name="Gametoon" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=GAMET&profile=corner_transparent_positive&width=100" tvg-chno="111" channel-number="111",Gametoon
 https://tv.meo.pt/player?channel=Game_Toon_HD
-#EXTINF:-1 tvg-id="OPTO.pt" tvg-name="OPTO" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=OPTO&chCallLetter=OPTO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="112" channel-number="112",OPTO
+#EXTINF:-1 tvg-id="OPTO.pt" tvg-name="OPTO" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=OPTO&profile=corner_transparent_positive&width=100" tvg-chno="112" channel-number="112",OPTO
 https://tv.meo.pt/player?channel=Opto_HD
-#EXTINF:-1 tvg-id="AMC.Crime.pt" tvg-name="AMC Crime" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Ca%C3%A7ador%20De%20Assassinos%20-%208x02&chCallLetter=AMCCRI&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="114" channel-number="114",AMC Crime
+#EXTINF:-1 tvg-id="AMC.Crime.pt" tvg-name="AMC Crime" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AMCCRI&profile=corner_transparent_positive&width=100" tvg-chno="114" channel-number="114",AMC Crime
 https://tv.meo.pt/player?channel=Crime_Investigation_HD
-#EXTINF:-1 tvg-id="Investigation.Discovery.pt" tvg-name="Investigation Discovery" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Portals%20To%20Hell%20-%203x13&chCallLetter=ID&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="115" channel-number="115",Investigation Discovery
+#EXTINF:-1 tvg-id="Investigation.Discovery.pt" tvg-name="Investigation Discovery" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ID&profile=corner_transparent_positive&width=100" tvg-chno="115" channel-number="115",Investigation Discovery
 https://tv.meo.pt/player?channel=Investigation_Discovery_HD
-#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Little%20Singles%20-%201x01&chCallLetter=TLC&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="118" channel-number="118",TLC
+#EXTINF:-1 tvg-id="TLC.pt" tvg-name="TLC" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TLC&profile=corner_transparent_positive&width=100" tvg-chno="118" channel-number="118",TLC
 https://tv.meo.pt/player?channel=TLC_HD
-#EXTINF:-1 tvg-id="Galeria.pt" tvg-name="Galeria" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Galeria&chCallLetter=GALERIA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="119" channel-number="119",Galeria
+#EXTINF:-1 tvg-id="Galeria.pt" tvg-name="Galeria" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=GALERIA&profile=corner_transparent_positive&width=100" tvg-chno="119" channel-number="119",Galeria
 https://tv.meo.pt/player?channel=Galeria
-#EXTINF:-1 tvg-id="SIC.Caras.pt" tvg-name="SIC Caras" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Donas%20De%20Casa%20De%20Miami%20-%204x19&chCallLetter=SICC&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="120" channel-number="120",SIC Caras
-https://nostv.pt/v3/channels/421
-#EXTINF:-1 tvg-id="Casa.e.Cozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=A%20Casa%20De%20F%C3%A9rias%20Do%20Scott%20-%203x09&chCallLetter=CASACOZ&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="122" channel-number="122",Casa e Cozinha
+#EXTINF:-1 tvg-id="SIC.Caras.pt" tvg-name="SIC Caras" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICC&profile=corner_transparent_positive&width=100" tvg-chno="120" channel-number="120",SIC Caras
+https://tv.meo.pt/player?channel=SIC_Caras_HD
+#EXTINF:-1 tvg-id="Casa.e.Cozinha.pt" tvg-name="Casa e Cozinha" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CASACOZ&profile=corner_transparent_positive&width=100" tvg-chno="122" channel-number="122",Casa e Cozinha
 https://tv.meo.pt/player?channel=Casa_Cozinha_HD
-#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Cozinhar%20na%20Natureza%20com%20Annabel%20Langbein%20-%203x12&chCallLetter=24KTHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="123" channel-number="123",24Kitchen
+#EXTINF:-1 tvg-id="24Kitchen.pt" tvg-name="24Kitchen" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=24KTHD&profile=corner_transparent_positive&width=100" tvg-chno="123" channel-number="123",24Kitchen
 https://tv.meo.pt/player?channel=24Kitchen_HD
-#EXTINF:-1 tvg-id="Travelxp.HD.pt" tvg-name="Travelxp HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Off%20The%20Grid%20India%20-%20Ep.%2013&chCallLetter=TRAXP&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="124" channel-number="124",Travelxp HD
+#EXTINF:-1 tvg-id="Travelxp.HD.pt" tvg-name="Travelxp HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TRAXP&profile=corner_transparent_positive&width=100" tvg-chno="124" channel-number="124",Travelxp HD
 https://tv.meo.pt/player?channel=Travelxp_HD
-#EXTINF:-1 tvg-id="OUTtv.pt" tvg-name="OUTtv" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=High%20Tide&chCallLetter=OUTTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="125" channel-number="125",OUTtv
+#EXTINF:-1 tvg-id="OUTtv.pt" tvg-name="OUTtv" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=OUTTV&profile=corner_transparent_positive&width=100" tvg-chno="125" channel-number="125",OUTtv
 https://tv.meo.pt/player?channel=OutTV_HD
-#EXTINF:-1 tvg-id="Fashion.TV.pt" tvg-name="Fashion TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=FASHION%20TV&chCallLetter=FTVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="126" channel-number="126",Fashion TV
+#EXTINF:-1 tvg-id="Fashion.TV.pt" tvg-name="Fashion TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTVHD&profile=corner_transparent_positive&width=100" tvg-chno="126" channel-number="126",Fashion TV
 https://tv.meo.pt/player?channel=FTV_HD
-#EXTINF:-1 tvg-id="Home.&.Garden.TV.pt" tvg-name="Home & Garden TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Island%20Life%20-%2012x05&chCallLetter=HGTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="127" channel-number="127",Home & Garden TV
+#EXTINF:-1 tvg-id="Home.&.Garden.TV.pt" tvg-name="Home & Garden TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HGTV&profile=corner_transparent_positive&width=100" tvg-chno="127" channel-number="127",Home & Garden TV
 https://tv.meo.pt/player?channel=HGTV_HD
-#EXTINF:-1 tvg-id="S+.pt" tvg-name="S+" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Check%20Up%20-%2018x13&chCallLetter=SMAISHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="129" channel-number="129",S+
+#EXTINF:-1 tvg-id="S+.pt" tvg-name="S+" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SMAISHD&profile=corner_transparent_positive&width=100" tvg-chno="129" channel-number="129",S+
 https://tv.meo.pt/player?channel=Saude_Mais_HD
-#EXTINF:-1 tvg-id="Trace.Urban.pt" tvg-name="Trace Urban" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=TRACE%20URBAN&chCallLetter=TRAHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="132" channel-number="132",Trace Urban
+#EXTINF:-1 tvg-id="Trace.Urban.pt" tvg-name="Trace Urban" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TRAHD&profile=corner_transparent_positive&width=100" tvg-chno="132" channel-number="132",Trace Urban
 https://tv.meo.pt/player?channel=Trace_TV_HD
-#EXTINF:-1 tvg-id="MCM.Pop.pt" tvg-name="MCM Pop" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=MCM%20POP&chCallLetter=MCM%20P&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="133" channel-number="133",MCM Pop
+#EXTINF:-1 tvg-id="MCM.Pop.pt" tvg-name="MCM Pop" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=MCM%20P&profile=corner_transparent_positive&width=100" tvg-chno="133" channel-number="133",MCM Pop
 https://tv.meo.pt/player?channel=MCM_POP_HD
-#EXTINF:-1 tvg-id="MCM.Top.pt" tvg-name="MCM Top" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=MCM%20TOP&chCallLetter=MCMTHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="134" channel-number="134",MCM Top
+#EXTINF:-1 tvg-id="MCM.Top.pt" tvg-name="MCM Top" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=MCMTHD&profile=corner_transparent_positive&width=100" tvg-chno="134" channel-number="134",MCM Top
 https://tv.meo.pt/player?channel=MCM_TOP_HD
-#EXTINF:-1 tvg-id="Afro.Music.pt" tvg-name="Afro Music" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=100%20Pausas&chCallLetter=AFRO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="136" channel-number="136",Afro Music
+#EXTINF:-1 tvg-id="Afro.Music.pt" tvg-name="Afro Music" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AFRO&profile=corner_transparent_positive&width=100" tvg-chno="136" channel-number="136",Afro Music
 https://tv.meo.pt/player?channel=Afro_Music_HD
-#EXTINF:-1 tvg-id="Alma.Lusa.pt" tvg-name="Alma Lusa" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Alma%20Lusa&chCallLetter=ALMALUS&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="139" channel-number="139",Alma Lusa
+#EXTINF:-1 tvg-id="Alma.Lusa.pt" tvg-name="Alma Lusa" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ALMALUS&profile=corner_transparent_positive&width=100" tvg-chno="139" channel-number="139",Alma Lusa
 https://tv.meo.pt/player?channel=Alma_Lusa_HD
-#EXTINF:-1 tvg-id="BomSom.TV.pt" tvg-name="BomSom TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=BOM%20SOM&chCallLetter=BOMSOM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="140" channel-number="140",BomSom TV
+#EXTINF:-1 tvg-id="BomSom.TV.pt" tvg-name="BomSom TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BOMSOM&profile=corner_transparent_positive&width=100" tvg-chno="140" channel-number="140",BomSom TV
 https://tv.meo.pt/player?channel=BomSom_HD
-#EXTINF:-1 tvg-id="Mezzo.pt" tvg-name="Mezzo" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Evgeny%20Kissin%20At%20The%20Klavier-Fest.%20Ruhr%3A%20Bach%2C%20Mozart%2C%20Beethoven%2C%20Chopin&chCallLetter=MEZZO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="141" channel-number="141",Mezzo
+#EXTINF:-1 tvg-id="Mezzo.pt" tvg-name="Mezzo" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=MEZZO&profile=corner_transparent_positive&width=100" tvg-chno="141" channel-number="141",Mezzo
 https://tv.meo.pt/player?channel=Mezzo
-#EXTINF:-1 tvg-id="Mezzo.Live.HD.pt" tvg-name="Mezzo Live HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Orchestre%20Symphonique%20De%20Montr%C3%A9al%2C%20Barbara%20Hannigan&chCallLetter=MEZHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="142" channel-number="142",Mezzo Live HD
+#EXTINF:-1 tvg-id="Mezzo.Live.HD.pt" tvg-name="Mezzo Live HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=MEZHD&profile=corner_transparent_positive&width=100" tvg-chno="142" channel-number="142",Mezzo Live HD
 https://tv.meo.pt/player?channel=Mezzo_Live_HD
-#EXTINF:-1 tvg-id="Stingray.Classica.pt" tvg-name="Stingray Classica" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Rossini%20-%20La%20Cenerentola&chCallLetter=CLASSIC&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="148" channel-number="148",Stingray Classica
+#EXTINF:-1 tvg-id="Stingray.Classica.pt" tvg-name="Stingray Classica" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CLASSIC&profile=corner_transparent_positive&width=100" tvg-chno="148" channel-number="148",Stingray Classica
 https://tv.meo.pt/player?channel=Brava_HDTV
-#EXTINF:-1 tvg-id="Stingray.Djazz.pt" tvg-name="Stingray Djazz" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=jazzahead%21%202022&chCallLetter=DJAZZ&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="149" channel-number="149",Stingray Djazz
+#EXTINF:-1 tvg-id="Stingray.Djazz.pt" tvg-name="Stingray Djazz" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DJAZZ&profile=corner_transparent_positive&width=100" tvg-chno="149" channel-number="149",Stingray Djazz
 https://tv.meo.pt/player?channel=DJazz_HD
-#EXTINF:-1 tvg-id="Stingray.iConcerts.pt" tvg-name="Stingray iConcerts" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Mary%20J.%20Blige%20-%20Live%20in%20London%202014&chCallLetter=ICOHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="151" channel-number="151",Stingray iConcerts
+#EXTINF:-1 tvg-id="Stingray.iConcerts.pt" tvg-name="Stingray iConcerts" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ICOHD&profile=corner_transparent_positive&width=100" tvg-chno="151" channel-number="151",Stingray iConcerts
 https://tv.meo.pt/player?channel=iCONCERTS
-#EXTINF:-1 tvg-id="Stingray.Loud.pt" tvg-name="Stingray Loud" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Forever%20Loud&chCallLetter=LOUD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="152" channel-number="152",Stingray Loud
+#EXTINF:-1 tvg-id="Stingray.Loud.pt" tvg-name="Stingray Loud" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LOUD&profile=corner_transparent_positive&width=100" tvg-chno="152" channel-number="152",Stingray Loud
 https://tv.meo.pt/player?channel=Stingray_Loud_HD
-#EXTINF:-1 tvg-id="Stingray.Retro.pt" tvg-name="Stingray Retro" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Please%20Rewind&chCallLetter=RETRO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="153" channel-number="153",Stingray Retro
+#EXTINF:-1 tvg-id="Stingray.Retro.pt" tvg-name="Stingray Retro" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RETRO&profile=corner_transparent_positive&width=100" tvg-chno="153" channel-number="153",Stingray Retro
 https://tv.meo.pt/player?channel=Stingray_Retro_HD
-#EXTINF:-1 tvg-id="RTP.Açores.pt" tvg-name="RTP Açores" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Hotel%20Amor&chCallLetter=RTPACR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="160" channel-number="160",RTP Açores
+#EXTINF:-1 tvg-id="RTP.Açores.pt" tvg-name="RTP Açores" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTPACR&profile=corner_transparent_positive&width=100" tvg-chno="160" channel-number="160",RTP Açores
 https://tv.meo.pt/player?channel=RTP_AC_HD
-#EXTINF:-1 tvg-id="RTP.Madeira.pt" tvg-name="RTP Madeira" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Telejornal%20Madeira&chCallLetter=RTPMA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="161" channel-number="161",RTP Madeira
+#EXTINF:-1 tvg-id="RTP.Madeira.pt" tvg-name="RTP Madeira" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTPMA&profile=corner_transparent_positive&width=100" tvg-chno="161" channel-number="161",RTP Madeira
 https://tv.meo.pt/player?channel=RTP_Madeira_HD
-#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Assembleia%20da%20Rep%C3%BAblica%20TV&chCallLetter=ARTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="162" channel-number="162",ARTV
+#EXTINF:-1 tvg-id="ARTV.pt" tvg-name="ARTV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ARTV&profile=corner_transparent_positive&width=100" tvg-chno="162" channel-number="162",ARTV
 https://tv.meo.pt/player?channel=AR_TV
-#EXTINF:-1 tvg-id="Localvisão.TV.pt" tvg-name="Localvisão TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=LOCALVIS%C3%83O&chCallLetter=LVTVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="163" channel-number="163",Localvisão TV
+#EXTINF:-1 tvg-id="Localvisão.TV.pt" tvg-name="Localvisão TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LVTVHD&profile=corner_transparent_positive&width=100" tvg-chno="163" channel-number="163",Localvisão TV
 https://tv.meo.pt/player?channel=Localvisao_TV_HD
-#EXTINF:-1 tvg-id="Conectv.pt" tvg-name="Conectv" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Programa%C3%A7%C3%A3o%20Conectv%20Brasil&chCallLetter=CONECTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="164" channel-number="164",Conectv
+#EXTINF:-1 tvg-id="Conectv.pt" tvg-name="Conectv" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CONECTV&profile=corner_transparent_positive&width=100" tvg-chno="164" channel-number="164",Conectv
 https://tv.meo.pt/player?channel=Connect_TV_HD
-#EXTINF:-1 tvg-id="Azores.TV.pt" tvg-name="Azores TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Terceira%20Dimens%C3%A3o%20-%20Ep.%20629&chCallLetter=AZORES&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="167" channel-number="167",Azores TV
+#EXTINF:-1 tvg-id="Azores.TV.pt" tvg-name="Azores TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AZORES&profile=corner_transparent_positive&width=100" tvg-chno="167" channel-number="167",Azores TV
 https://tv.meo.pt/player?channel=AzoresTV_HD
-#EXTINF:-1 tvg-id="Caça.e.Pesca.pt" tvg-name="Caça e Pesca" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Adiestrando%20Para%20La%20Caza%20-%201x02&chCallLetter=CA%C3%87APHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="172" channel-number="172",Caça e Pesca
+#EXTINF:-1 tvg-id="Caça.e.Pesca.pt" tvg-name="Caça e Pesca" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CA%C3%87APHD&profile=corner_transparent_positive&width=100" tvg-chno="172" channel-number="172",Caça e Pesca
 https://tv.meo.pt/player?channel=Caca_e_Pesca_HD
-#EXTINF:-1 tvg-id="Caçavision.pt" tvg-name="Caçavision" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Terras%20De%20Ca%C3%A7a%20-%20Ep.%2015&chCallLetter=CA%C3%87AVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="173" channel-number="173",Caçavision
+#EXTINF:-1 tvg-id="Caçavision.pt" tvg-name="Caçavision" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CA%C3%87AVHD&profile=corner_transparent_positive&width=100" tvg-chno="173" channel-number="173",Caçavision
 https://tv.meo.pt/player?channel=Cacavision_HD
-#EXTINF:-1 tvg-id="OneToro.TV.pt" tvg-name="OneToro TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Corrida%20De%20Toros%20Nazar%C3%A9%2018%20De%20Julho%20De%202026&chCallLetter=ONETORO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="174" channel-number="174",OneToro TV
+#EXTINF:-1 tvg-id="OneToro.TV.pt" tvg-name="OneToro TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ONETORO&profile=corner_transparent_positive&width=100" tvg-chno="174" channel-number="174",OneToro TV
 https://tv.meo.pt/player?channel=MundotoroTV_HD
-#EXTINF:-1 tvg-id="Dog.TV.pt" tvg-name="Dog TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Relaxamento&chCallLetter=DOGTVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="177" channel-number="177",Dog TV
+#EXTINF:-1 tvg-id="Dog.TV.pt" tvg-name="Dog TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DOGTVHD&profile=corner_transparent_positive&width=100" tvg-chno="177" channel-number="177",Dog TV
 https://tv.meo.pt/player?channel=DOGTV_HD
-#EXTINF:-1 tvg-id="CANAL.180.pt" tvg-name="CANAL 180" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=C180&chCallLetter=C180&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="180" channel-number="180",CANAL 180
+#EXTINF:-1 tvg-id="CANAL.180.pt" tvg-name="CANAL 180" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=C180&profile=corner_transparent_positive&width=100" tvg-chno="180" channel-number="180",CANAL 180
 https://tv.meo.pt/player?channel=CANAL_180
-#EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="Kuriakos TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Lutar%20At%C3%A9%20Vencer%20-%202x71&chCallLetter=KURIAKO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="181" channel-number="181",Kuriakos TV
+#EXTINF:-1 tvg-id="Kuriakos.TV.pt" tvg-name="Kuriakos TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=KURIAKO&profile=corner_transparent_positive&width=100" tvg-chno="181" channel-number="181",Kuriakos TV
 https://tv.meo.pt/player?channel=Kuriakos_TV
-#EXTINF:-1 tvg-id="Canção.Nova.pt" tvg-name="Canção Nova" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Ter%C3%A7o%20De%20S%C3%A3o%20Jos%C3%A9&chCallLetter=CNOVA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="182" channel-number="182",Canção Nova
+#EXTINF:-1 tvg-id="Canção.Nova.pt" tvg-name="Canção Nova" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CNOVA&profile=corner_transparent_positive&width=100" tvg-chno="182" channel-number="182",Canção Nova
 https://tv.meo.pt/player?channel=Cancao_Nova_HD
-#EXTINF:-1 tvg-id="UM.Europa.pt" tvg-name="UM Europa" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Jornal%20Das%2022&chCallLetter=UME&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="184" channel-number="184",UM Europa
+#EXTINF:-1 tvg-id="UM.Europa.pt" tvg-name="UM Europa" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=UME&profile=corner_transparent_positive&width=100" tvg-chno="184" channel-number="184",UM Europa
 https://tv.meo.pt/player?channel=UM_Europa_HD
-#EXTINF:-1 tvg-id="Unifé.TV.pt" tvg-name="Unifé TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Saindo%20Da%20Depress%C3%A3o%20-%20Ep.%20200&chCallLetter=UNIFE&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="185" channel-number="185",Unifé TV
+#EXTINF:-1 tvg-id="Unifé.TV.pt" tvg-name="Unifé TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=UNIFE&profile=corner_transparent_positive&width=100" tvg-chno="185" channel-number="185",Unifé TV
 https://tv.meo.pt/player?channel=UnifeTV_HD
-#EXTINF:-1 tvg-id="NOVO.TEMPO.pt" tvg-name="NOVO TEMPO" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Adora%C3%A7%C3%A3o&chCallLetter=NOVOT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="186" channel-number="186",NOVO TEMPO
+#EXTINF:-1 tvg-id="NOVO.TEMPO.pt" tvg-name="NOVO TEMPO" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NOVOT&profile=corner_transparent_positive&width=100" tvg-chno="186" channel-number="186",NOVO TEMPO
 https://tv.meo.pt/player?channel=Novo_Tempo_HD
-#EXTINF:-1 tvg-id="TV.Maanaim.pt" tvg-name="TV Maanaim" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Louvores&chCallLetter=MAANAIM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="187" channel-number="187",TV Maanaim
+#EXTINF:-1 tvg-id="TV.Maanaim.pt" tvg-name="TV Maanaim" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=MAANAIM&profile=corner_transparent_positive&width=100" tvg-chno="187" channel-number="187",TV Maanaim
 https://tv.meo.pt/player?channel=Maanaim_HD
-#EXTINF:-1 tvg-id="Daystar.(I).pt" tvg-name="Daystar (I)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Christian%20Worship%20Hour&chCallLetter=DAYSTAI&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="188" channel-number="188",Daystar (I)
+#EXTINF:-1 tvg-id="Daystar.(I).pt" tvg-name="Daystar (I)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAYSTAI&profile=corner_transparent_positive&width=100" tvg-chno="188" channel-number="188",Daystar (I)
 https://tv.meo.pt/player?channel=Daystar_I_HD
-#EXTINF:-1 tvg-id="Daystar.(E).pt" tvg-name="Daystar (E)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=En%20contacto%20con%20Dr.%20Charles%20Stanley&chCallLetter=DAYSTAE&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="189" channel-number="189",Daystar (E)
+#EXTINF:-1 tvg-id="Daystar.(E).pt" tvg-name="Daystar (E)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DAYSTAE&profile=corner_transparent_positive&width=100" tvg-chno="189" channel-number="189",Daystar (E)
 https://tv.meo.pt/player?channel=Daystar_E_HD
-#EXTINF:-1 tvg-id="New.Brasil.pt" tvg-name="New Brasil" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Edi%C3%A7%C3%A3o%20Da%20Noite&chCallLetter=NEWBR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="191" channel-number="191",New Brasil
+#EXTINF:-1 tvg-id="New.Brasil.pt" tvg-name="New Brasil" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NEWBR&profile=corner_transparent_positive&width=100" tvg-chno="191" channel-number="191",New Brasil
 https://tv.meo.pt/player?channel=New_Brasil_HD
-#EXTINF:-1 tvg-id="Record.Europa.pt" tvg-name="Record Europa" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Palavra%20Amiga%20-%20Bispo%20Macedo%20-%2026x199&chCallLetter=REC%20HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="192" channel-number="192",Record Europa
+#EXTINF:-1 tvg-id="Record.Europa.pt" tvg-name="Record Europa" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=REC%20HD&profile=corner_transparent_positive&width=100" tvg-chno="192" channel-number="192",Record Europa
 https://tv.meo.pt/player?channel=TV_Record_HD
-#EXTINF:-1 tvg-id="Record.News.pt" tvg-name="Record News" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Record%20News%20S%C3%A9ries%20-%201x340&chCallLetter=RECNEW&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="193" channel-number="193",Record News
+#EXTINF:-1 tvg-id="Record.News.pt" tvg-name="Record News" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RECNEW&profile=corner_transparent_positive&width=100" tvg-chno="193" channel-number="193",Record News
 https://tv.meo.pt/player?channel=Record_News_HD
-#EXTINF:-1 tvg-id="TV.Brasil.Internacional.pt" tvg-name="TV Brasil Internacional" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Parques%20Do%20Brasil&chCallLetter=TVBRASIL&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="194" channel-number="194",TV Brasil Internacional
+#EXTINF:-1 tvg-id="TV.Brasil.Internacional.pt" tvg-name="TV Brasil Internacional" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVBRASIL&profile=corner_transparent_positive&width=100" tvg-chno="194" channel-number="194",TV Brasil Internacional
 https://tv.meo.pt/player?channel=TvBrasil_HD
-#EXTINF:-1 tvg-id="Euronews.pt" tvg-name="Euronews" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Global%20Week-End&chCallLetter=EURN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="195" channel-number="195",Euronews
+#EXTINF:-1 tvg-id="Euronews.pt" tvg-name="Euronews" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EURN&profile=corner_transparent_positive&width=100" tvg-chno="195" channel-number="195",Euronews
 https://tv.meo.pt/player?channel=Euronews_HD
-#EXTINF:-1 tvg-id="RTP.África.pt" tvg-name="RTP África" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=24%20Horas&chCallLetter=RTPA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="196" channel-number="196",RTP África
+#EXTINF:-1 tvg-id="RTP.África.pt" tvg-name="RTP África" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTPA&profile=corner_transparent_positive&width=100" tvg-chno="196" channel-number="196",RTP África
 https://tv.meo.pt/player?channel=RTP_Africa
-#EXTINF:-1 tvg-id="Televisão.África.pt" tvg-name="Televisão África" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=TV%20%C3%81frica&chCallLetter=TVA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="197" channel-number="197",Televisão África
+#EXTINF:-1 tvg-id="Televisão.África.pt" tvg-name="Televisão África" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVA&profile=corner_transparent_positive&width=100" tvg-chno="197" channel-number="197",Televisão África
 https://tv.meo.pt/player?channel=TVA_HD
-#EXTINF:-1 tvg-id="TPA.Notícias.pt" tvg-name="TPA Notícias" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=-%20TPA%20Internacional%20-&chCallLetter=TPA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="199" channel-number="199",TPA Notícias
+#EXTINF:-1 tvg-id="TPA.Notícias.pt" tvg-name="TPA Notícias" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TPA&profile=corner_transparent_positive&width=100" tvg-chno="199" channel-number="199",TPA Notícias
 https://tv.meo.pt/player?channel=TPA_INTERNACIONAL
-#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Cultura%20Magazine%20-%20Com%20Grupo%20Teatral%20Mindelack&chCallLetter=TCV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="202" channel-number="202",TCV Internacional
+#EXTINF:-1 tvg-id="TCV.Internacional.pt" tvg-name="TCV Internacional" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TCV&profile=corner_transparent_positive&width=100" tvg-chno="202" channel-number="202",TCV Internacional
 https://tv.meo.pt/player?channel=TCV_Internacional_HD
-#EXTINF:-1 tvg-id="CNN.pt" tvg-name="CNN" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=CNN%20Newsroom%20Saturday&chCallLetter=CNN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="205" channel-number="205",CNN
+#EXTINF:-1 tvg-id="CNN.pt" tvg-name="CNN" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CNN&profile=corner_transparent_positive&width=100" tvg-chno="205" channel-number="205",CNN
 https://tv.meo.pt/player?channel=CNN_HD
-#EXTINF:-1 tvg-id="Bloomberg.pt" tvg-name="Bloomberg" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Bloomberg%20Investigates&chCallLetter=BLOOM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="206" channel-number="206",Bloomberg
+#EXTINF:-1 tvg-id="Bloomberg.pt" tvg-name="Bloomberg" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BLOOM&profile=corner_transparent_positive&width=100" tvg-chno="206" channel-number="206",Bloomberg
 https://tv.meo.pt/player?channel=Bloomberg
-#EXTINF:-1 tvg-id="CNBC.pt" tvg-name="CNBC" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Late%20Night%20with%20Seth%20Meyers&chCallLetter=CNBC&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="209" channel-number="209",CNBC
+#EXTINF:-1 tvg-id="CNBC.pt" tvg-name="CNBC" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CNBC&profile=corner_transparent_positive&width=100" tvg-chno="209" channel-number="209",CNBC
 https://tv.meo.pt/player?channel=CNBC_Europe_HD
-#EXTINF:-1 tvg-id="Sky.News.pt" tvg-name="Sky News" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=SKY%20NEWS&chCallLetter=SKYN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="211" channel-number="211",Sky News
+#EXTINF:-1 tvg-id="Sky.News.pt" tvg-name="Sky News" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SKYN&profile=corner_transparent_positive&width=100" tvg-chno="211" channel-number="211",Sky News
 https://tv.meo.pt/player?channel=Sky_News
-#EXTINF:-1 tvg-id="BBC.World.News.pt" tvg-name="BBC World News" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=BBC%20News&chCallLetter=BBC%20W&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="213" channel-number="213",BBC World News
+#EXTINF:-1 tvg-id="BBC.World.News.pt" tvg-name="BBC World News" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BBC%20W&profile=corner_transparent_positive&width=100" tvg-chno="213" channel-number="213",BBC World News
 https://tv.meo.pt/player?channel=BBC_World
-#EXTINF:-1 tvg-id="France.24.(I).pt" tvg-name="France 24 (I)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=News&chCallLetter=FR24I&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="216" channel-number="216",France 24 (I)
+#EXTINF:-1 tvg-id="France.24.(I).pt" tvg-name="France 24 (I)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FR24I&profile=corner_transparent_positive&width=100" tvg-chno="216" channel-number="216",France 24 (I)
 https://tv.meo.pt/player?channel=France_24_I
-#EXTINF:-1 tvg-id="i24.News.(I).pt" tvg-name="i24 News (I)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=i24NEWS%20I&chCallLetter=I24I&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="217" channel-number="217",i24 News (I)
+#EXTINF:-1 tvg-id="i24.News.(I).pt" tvg-name="i24 News (I)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=I24I&profile=corner_transparent_positive&width=100" tvg-chno="217" channel-number="217",i24 News (I)
 https://tv.meo.pt/player?channel=i24_News_I_HD
-#EXTINF:-1 tvg-id="NHK.World.Japan.pt" tvg-name="NHK World Japan" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=NHK%20Newsline&chCallLetter=NHKHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="219" channel-number="219",NHK World Japan
+#EXTINF:-1 tvg-id="NHK.World.Japan.pt" tvg-name="NHK World Japan" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=NHKHD&profile=corner_transparent_positive&width=100" tvg-chno="219" channel-number="219",NHK World Japan
 https://tv.meo.pt/player?channel=NHK_HD
-#EXTINF:-1 tvg-id="CGTN.pt" tvg-name="CGTN" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=The%20World%20Today&chCallLetter=CGTNHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="220" channel-number="220",CGTN
+#EXTINF:-1 tvg-id="CGTN.pt" tvg-name="CGTN" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CGTNHD&profile=corner_transparent_positive&width=100" tvg-chno="220" channel-number="220",CGTN
 https://tv.meo.pt/player?channel=CGTN_HD
-#EXTINF:-1 tvg-id="CGTN.Documentary.pt" tvg-name="CGTN Documentary" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Today%E2%80%99s%20Top%20Pick&chCallLetter=CGTNDHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="221" channel-number="221",CGTN Documentary
+#EXTINF:-1 tvg-id="CGTN.Documentary.pt" tvg-name="CGTN Documentary" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CGTNDHD&profile=corner_transparent_positive&width=100" tvg-chno="221" channel-number="221",CGTN Documentary
 https://tv.meo.pt/player?channel=CGTN_Documentary
-#EXTINF:-1 tvg-id="Arirang.TV.pt" tvg-name="Arirang TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Arirang&chCallLetter=ARIRANG&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="222" channel-number="222",Arirang TV
+#EXTINF:-1 tvg-id="Arirang.TV.pt" tvg-name="Arirang TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ARIRANG&profile=corner_transparent_positive&width=100" tvg-chno="222" channel-number="222",Arirang TV
 https://tv.meo.pt/player?channel=ArirangTV_HD
-#EXTINF:-1 tvg-id="Euronews.(I).pt" tvg-name="Euronews (I)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Global%20Week-End&chCallLetter=EURNIHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="223" channel-number="223",Euronews (I)
+#EXTINF:-1 tvg-id="Euronews.(I).pt" tvg-name="Euronews (I)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EURNIHD&profile=corner_transparent_positive&width=100" tvg-chno="223" channel-number="223",Euronews (I)
 https://tv.meo.pt/player?channel=Euronews_ing_hd
-#EXTINF:-1 tvg-id="Aljazeera.pt" tvg-name="Aljazeera" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=News%20Live&chCallLetter=ALJAZHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="225" channel-number="225",Aljazeera
+#EXTINF:-1 tvg-id="Aljazeera.pt" tvg-name="Aljazeera" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ALJAZHD&profile=corner_transparent_positive&width=100" tvg-chno="225" channel-number="225",Aljazeera
 https://tv.meo.pt/player?channel=AlJazeera_HD
-#EXTINF:-1 tvg-id="TRT.World.pt" tvg-name="TRT World" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=TRT%20WORLD&chCallLetter=TRTWHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="226" channel-number="226",TRT World
+#EXTINF:-1 tvg-id="TRT.World.pt" tvg-name="TRT World" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TRTWHD&profile=corner_transparent_positive&width=100" tvg-chno="226" channel-number="226",TRT World
 https://tv.meo.pt/player?channel=TRT_World_HD
-#EXTINF:-1 tvg-id="Russia.Today.pt" tvg-name="Russia Today" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RT&chCallLetter=RUSSTHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="227" channel-number="227",Russia Today
+#EXTINF:-1 tvg-id="Russia.Today.pt" tvg-name="Russia Today" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RUSSTHD&profile=corner_transparent_positive&width=100" tvg-chno="227" channel-number="227",Russia Today
 https://tv.meo.pt/player?channel=RUSSIA_TODAY_HD
-#EXTINF:-1 tvg-id="TVEi.pt" tvg-name="TVEi" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Dias%20De%20Cine&chCallLetter=TVEIHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="234" channel-number="234",TVEi
-https://nostv.pt/v3/channels/48
-#EXTINF:-1 tvg-id="TVE24.pt" tvg-name="TVE24" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=-%20TVE%2024H%20-&chCallLetter=TVE24HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="235" channel-number="235",TVE24
+#EXTINF:-1 tvg-id="TVEi.pt" tvg-name="TVEi" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVEIHD&profile=corner_transparent_positive&width=100" tvg-chno="234" channel-number="234",TVEi
+https://tv.meo.pt/player?channel=TVE_I_HD
+#EXTINF:-1 tvg-id="TVE24.pt" tvg-name="TVE24" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVE24HD&profile=corner_transparent_positive&width=100" tvg-chno="235" channel-number="235",TVE24
 https://tv.meo.pt/player?channel=TVE24_HD
-#EXTINF:-1 tvg-id="TV.Galícia.pt" tvg-name="TV Galícia" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Como%20Ser%20Feliz&chCallLetter=TVGAL&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="236" channel-number="236",TV Galícia
+#EXTINF:-1 tvg-id="TV.Galícia.pt" tvg-name="TV Galícia" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TVGAL&profile=corner_transparent_positive&width=100" tvg-chno="236" channel-number="236",TV Galícia
 https://tv.meo.pt/player?channel=TV_Galicia_HD
-#EXTINF:-1 tvg-id="Telesur.HD.pt" tvg-name="Telesur HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Documentales%20Telesur%3A%20Fue%20Golpe&chCallLetter=TELESUR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="239" channel-number="239",Telesur HD
+#EXTINF:-1 tvg-id="Telesur.HD.pt" tvg-name="Telesur HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TELESUR&profile=corner_transparent_positive&width=100" tvg-chno="239" channel-number="239",Telesur HD
 https://tv.meo.pt/player?channel=Telesur_HD
-#EXTINF:-1 tvg-id="Cubavision.pt" tvg-name="Cubavision" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=CUBAVISION&chCallLetter=CUBAV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="240" channel-number="240",Cubavision
+#EXTINF:-1 tvg-id="Cubavision.pt" tvg-name="Cubavision" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CUBAV&profile=corner_transparent_positive&width=100" tvg-chno="240" channel-number="240",Cubavision
 https://tv.meo.pt/player?channel=Cubavision_HD
-#EXTINF:-1 tvg-id="M6.pt" tvg-name="M6" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Coupe%20Du%20Monde%20De%20La%20Fifa%202026&chCallLetter=M6&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="249" channel-number="249",M6
+#EXTINF:-1 tvg-id="M6.pt" tvg-name="M6" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=M6&profile=corner_transparent_positive&width=100" tvg-chno="249" channel-number="249",M6
 https://tv.meo.pt/player?channel=M6_HD
-#EXTINF:-1 tvg-id="TV5.Monde.pt" tvg-name="TV5 Monde" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Top%20Comedy%20Club%20-%20Ep.%209&chCallLetter=TV5HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="250" channel-number="250",TV5 Monde
+#EXTINF:-1 tvg-id="TV5.Monde.pt" tvg-name="TV5 Monde" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TV5HD&profile=corner_transparent_positive&width=100" tvg-chno="250" channel-number="250",TV5 Monde
 https://tv.meo.pt/player?channel=TV5_Monde_HD
-#EXTINF:-1 tvg-id="BFM.TV.pt" tvg-name="BFM TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=BFM%20TV&chCallLetter=BFM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="251" channel-number="251",BFM TV
+#EXTINF:-1 tvg-id="BFM.TV.pt" tvg-name="BFM TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BFM&profile=corner_transparent_positive&width=100" tvg-chno="251" channel-number="251",BFM TV
 https://tv.meo.pt/player?channel=BFM_TV_HD
-#EXTINF:-1 tvg-id="BFM.Business.pt" tvg-name="BFM Business" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=BFM%20Business&chCallLetter=BFMB&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="253" channel-number="253",BFM Business
+#EXTINF:-1 tvg-id="BFM.Business.pt" tvg-name="BFM Business" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BFMB&profile=corner_transparent_positive&width=100" tvg-chno="253" channel-number="253",BFM Business
 https://tv.meo.pt/player?channel=BFM_Business_HD
-#EXTINF:-1 tvg-id="i24.News.(F).pt" tvg-name="i24 News (F)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=i24NEWS%20F&chCallLetter=I24F&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="254" channel-number="254",i24 News (F)
+#EXTINF:-1 tvg-id="i24.News.(F).pt" tvg-name="i24 News (F)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=I24F&profile=corner_transparent_positive&width=100" tvg-chno="254" channel-number="254",i24 News (F)
 https://tv.meo.pt/player?channel=i24_News_F_HD
-#EXTINF:-1 tvg-id="France.24.(F).pt" tvg-name="France 24 (F)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=L%27Essentiel%20%3A%20Le%20Journal&chCallLetter=FR24F&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="255" channel-number="255",France 24 (F)
+#EXTINF:-1 tvg-id="France.24.(F).pt" tvg-name="France 24 (F)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FR24F&profile=corner_transparent_positive&width=100" tvg-chno="255" channel-number="255",France 24 (F)
 https://tv.meo.pt/player?channel=France_24_F
-#EXTINF:-1 tvg-id="France.2.pt" tvg-name="France 2" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Fort%20Boyard&chCallLetter=FR2HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="256" channel-number="256",France 2
+#EXTINF:-1 tvg-id="France.2.pt" tvg-name="France 2" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FR2HD&profile=corner_transparent_positive&width=100" tvg-chno="256" channel-number="256",France 2
 https://tv.meo.pt/player?channel=France_2_HD
-#EXTINF:-1 tvg-id="France.3.pt" tvg-name="France 3" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Meurtres%20%C3%A0%20la%20Rochelle&chCallLetter=FR3HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="257" channel-number="257",France 3
+#EXTINF:-1 tvg-id="France.3.pt" tvg-name="France 3" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FR3HD&profile=corner_transparent_positive&width=100" tvg-chno="257" channel-number="257",France 3
 https://tv.meo.pt/player?channel=France_3_HD
-#EXTINF:-1 tvg-id="France.4.pt" tvg-name="France 4" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Marius&chCallLetter=FR4HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="258" channel-number="258",France 4
+#EXTINF:-1 tvg-id="France.4.pt" tvg-name="France 4" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FR4HD&profile=corner_transparent_positive&width=100" tvg-chno="258" channel-number="258",France 4
 https://tv.meo.pt/player?channel=France_4_HD
-#EXTINF:-1 tvg-id="France.5.pt" tvg-name="France 5" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Ai%20Weiwei%2C%20l%27art%20de%20la%20Dissidence&chCallLetter=FR5HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="259" channel-number="259",France 5
+#EXTINF:-1 tvg-id="France.5.pt" tvg-name="France 5" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FR5HD&profile=corner_transparent_positive&width=100" tvg-chno="259" channel-number="259",France 5
 https://tv.meo.pt/player?channel=France_5_HD
-#EXTINF:-1 tvg-id="France.Info.pt" tvg-name="France Info" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=FRANCE%20INFO&chCallLetter=FRINFO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="260" channel-number="260",France Info
+#EXTINF:-1 tvg-id="France.Info.pt" tvg-name="France Info" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FRINFO&profile=corner_transparent_positive&width=100" tvg-chno="260" channel-number="260",France Info
 https://tv.meo.pt/player?channel=France_Info_HD
-#EXTINF:-1 tvg-id="Arte.pt" tvg-name="Arte" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Maldoror&chCallLetter=ARTEHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="261" channel-number="261",Arte
+#EXTINF:-1 tvg-id="Arte.pt" tvg-name="Arte" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ARTEHD&profile=corner_transparent_positive&width=100" tvg-chno="261" channel-number="261",Arte
 https://tv.meo.pt/player?channel=ARTE_F_HD
-#EXTINF:-1 tvg-id="Euronews.(A).pt" tvg-name="Euronews (A)" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Global%20Week-End&chCallLetter=EURNA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="262" channel-number="262",Euronews (A)
+#EXTINF:-1 tvg-id="Euronews.(A).pt" tvg-name="Euronews (A)" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EURNA&profile=corner_transparent_positive&width=100" tvg-chno="262" channel-number="262",Euronews (A)
 https://tv.meo.pt/player?channel=Euronews_a_HD
-#EXTINF:-1 tvg-id="ARD.pt" tvg-name="ARD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=WDR%20Koln&chCallLetter=ARD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="263" channel-number="263",ARD
+#EXTINF:-1 tvg-id="ARD.pt" tvg-name="ARD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ARD&profile=corner_transparent_positive&width=100" tvg-chno="263" channel-number="263",ARD
 https://tv.meo.pt/player?channel=ARD_HD
-#EXTINF:-1 tvg-id="ZDF.pt" tvg-name="ZDF" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=ZDF%20Info&chCallLetter=ZDF&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="264" channel-number="264",ZDF
+#EXTINF:-1 tvg-id="ZDF.pt" tvg-name="ZDF" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ZDF&profile=corner_transparent_positive&width=100" tvg-chno="264" channel-number="264",ZDF
 https://tv.meo.pt/player?channel=ZDF_HD
-#EXTINF:-1 tvg-id="ZDFNEO.pt" tvg-name="ZDFNEO" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=ZDFNEO&chCallLetter=ZDFNEO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="265" channel-number="265",ZDFNEO
+#EXTINF:-1 tvg-id="ZDFNEO.pt" tvg-name="ZDFNEO" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ZDFNEO&profile=corner_transparent_positive&width=100" tvg-chno="265" channel-number="265",ZDFNEO
 https://tv.meo.pt/player?channel=ZDFNEO_HD
-#EXTINF:-1 tvg-id="3SAT.pt" tvg-name="3SAT" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=3SAT&chCallLetter=3SAT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="266" channel-number="266",3SAT
+#EXTINF:-1 tvg-id="3SAT.pt" tvg-name="3SAT" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=3SAT&profile=corner_transparent_positive&width=100" tvg-chno="266" channel-number="266",3SAT
 https://tv.meo.pt/player?channel=3SAT_HD
-#EXTINF:-1 tvg-id="KIKA.pt" tvg-name="KIKA" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=KIKA&chCallLetter=KIKA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="267" channel-number="267",KIKA
+#EXTINF:-1 tvg-id="KIKA.pt" tvg-name="KIKA" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=KIKA&profile=corner_transparent_positive&width=100" tvg-chno="267" channel-number="267",KIKA
 https://tv.meo.pt/player?channel=KIKA_HD
-#EXTINF:-1 tvg-id="Tagesschau24.pt" tvg-name="Tagesschau24" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Tagesschau24&chCallLetter=TAGES24&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="268" channel-number="268",Tagesschau24
+#EXTINF:-1 tvg-id="Tagesschau24.pt" tvg-name="Tagesschau24" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TAGES24&profile=corner_transparent_positive&width=100" tvg-chno="268" channel-number="268",Tagesschau24
 https://tv.meo.pt/player?channel=Tagesschau24_HD
-#EXTINF:-1 tvg-id="BVN.pt" tvg-name="BVN" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=NOS%20Journaal&chCallLetter=BVN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="270" channel-number="270",BVN
-https://nostv.pt/v3/channels/28
-#EXTINF:-1 tvg-id="PRO.TV.Internacional.pt" tvg-name="PRO TV Internacional" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=PRO%20TV%20News&chCallLetter=PROTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="272" channel-number="272",PRO TV Internacional
+#EXTINF:-1 tvg-id="BVN.pt" tvg-name="BVN" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BVN&profile=corner_transparent_positive&width=100" tvg-chno="270" channel-number="270",BVN
+https://tv.meo.pt/player?channel=BVN
+#EXTINF:-1 tvg-id="PRO.TV.Internacional.pt" tvg-name="PRO TV Internacional" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PROTV&profile=corner_transparent_positive&width=100" tvg-chno="272" channel-number="272",PRO TV Internacional
 https://tv.meo.pt/player?channel=PRO_TV_Internacional
-#EXTINF:-1 tvg-id="BNT.4.pt" tvg-name="BNT 4" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=BNT4&chCallLetter=BNT4&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="273" channel-number="273",BNT 4
+#EXTINF:-1 tvg-id="BNT.4.pt" tvg-name="BNT 4" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BNT4&profile=corner_transparent_positive&width=100" tvg-chno="273" channel-number="273",BNT 4
 https://tv.meo.pt/player?channel=BNT_SAT
-#EXTINF:-1 tvg-id="KBS.World.pt" tvg-name="KBS World" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=KBS%20World&chCallLetter=KBS&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="277" channel-number="277",KBS World
+#EXTINF:-1 tvg-id="KBS.World.pt" tvg-name="KBS World" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=KBS&profile=corner_transparent_positive&width=100" tvg-chno="277" channel-number="277",KBS World
 https://tv.meo.pt/player?channel=KBS_World
-#EXTINF:-1 tvg-id="CCTV4.pt" tvg-name="CCTV4" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Universal%20Show&chCallLetter=CCTV4HD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="278" channel-number="278",CCTV4
-https://nostv.pt/v3/channels/316
-#EXTINF:-1 tvg-id="Phoenix.CNE.pt" tvg-name="Phoenix CNE" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=PHOENIX&chCallLetter=PHCNE&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="279" channel-number="279",Phoenix CNE
+#EXTINF:-1 tvg-id="CCTV4.pt" tvg-name="CCTV4" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CCTV4HD&profile=corner_transparent_positive&width=100" tvg-chno="278" channel-number="278",CCTV4
+https://tv.meo.pt/player?channel=CCTV_4_HD
+#EXTINF:-1 tvg-id="Phoenix.CNE.pt" tvg-name="Phoenix CNE" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PHCNE&profile=corner_transparent_positive&width=100" tvg-chno="279" channel-number="279",Phoenix CNE
 https://tv.meo.pt/player?channel=PHOENIX_CNE_HD
-#EXTINF:-1 tvg-id="Freedom.pt" tvg-name="Freedom" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=FREEDOM&chCallLetter=FREEDOM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="281" channel-number="281",Freedom
+#EXTINF:-1 tvg-id="Freedom.pt" tvg-name="Freedom" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FREEDOM&profile=corner_transparent_positive&width=100" tvg-chno="281" channel-number="281",Freedom
 https://tv.meo.pt/player?channel=Freedom
-#EXTINF:-1 tvg-id="1+1.International.pt" tvg-name="1+1 International" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Unated%20News%20Marathon&chCallLetter=1E1INT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="282" channel-number="282",1+1 International
+#EXTINF:-1 tvg-id="1+1.International.pt" tvg-name="1+1 International" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=1E1INT&profile=corner_transparent_positive&width=100" tvg-chno="282" channel-number="282",1+1 International
 https://tv.meo.pt/player?channel=Ukraine_1_HD
-#EXTINF:-1 tvg-id="1+1.United.News.pt" tvg-name="1+1 United News" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=1%2B1%20United%20News&chCallLetter=1E1UNEW&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="283" channel-number="283",1+1 United News
+#EXTINF:-1 tvg-id="1+1.United.News.pt" tvg-name="1+1 United News" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=1E1UNEW&profile=corner_transparent_positive&width=100" tvg-chno="283" channel-number="283",1+1 United News
 https://tv.meo.pt/player?channel=Ukraine_2_HD
-#EXTINF:-1 tvg-id="Kvartal.TV.International.pt" tvg-name="Kvartal TV International" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Evening%20Quarter&chCallLetter=KVARTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="284" channel-number="284",Kvartal TV International
+#EXTINF:-1 tvg-id="Kvartal.TV.International.pt" tvg-name="Kvartal TV International" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=KVARTV&profile=corner_transparent_positive&width=100" tvg-chno="284" channel-number="284",Kvartal TV International
 https://tv.meo.pt/player?channel=NLO_TV_2_HD
-#EXTINF:-1 tvg-id="Star.Cinema.pt" tvg-name="Star Cinema" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Foto%20Na%20Dokumenty&chCallLetter=STARCIN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="285" channel-number="285",Star Cinema
+#EXTINF:-1 tvg-id="Star.Cinema.pt" tvg-name="Star Cinema" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARCIN&profile=corner_transparent_positive&width=100" tvg-chno="285" channel-number="285",Star Cinema
 https://tv.meo.pt/player?channel=Star_Cinema_HD
-#EXTINF:-1 tvg-id="FILMUADRAMA.pt" tvg-name="FILMUADRAMA" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Dnevniki%20Temnogo%20-%201x12&chCallLetter=FILMUADR&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="287" channel-number="287",FILMUADRAMA
+#EXTINF:-1 tvg-id="FILMUADRAMA.pt" tvg-name="FILMUADRAMA" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FILMUADR&profile=corner_transparent_positive&width=100" tvg-chno="287" channel-number="287",FILMUADRAMA
 https://tv.meo.pt/player?channel=FILMUADR_HD
-#EXTINF:-1 tvg-id="Duck.TV.pt" tvg-name="Duck TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=DUCK%20TV&chCallLetter=DUCKTV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="288" channel-number="288",Duck TV
+#EXTINF:-1 tvg-id="Duck.TV.pt" tvg-name="Duck TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DUCKTV&profile=corner_transparent_positive&width=100" tvg-chno="288" channel-number="288",Duck TV
 https://tv.meo.pt/player?channel=Rybalka_TV_HD
-#EXTINF:-1 tvg-id="RAI.Itália.pt" tvg-name="RAI Itália" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%20It%C3%A1lia&chCallLetter=ITALIA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="289" channel-number="289",RAI Itália
+#EXTINF:-1 tvg-id="RAI.Itália.pt" tvg-name="RAI Itália" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ITALIA&profile=corner_transparent_positive&width=100" tvg-chno="289" channel-number="289",RAI Itália
 https://tv.meo.pt/player?channel=RAI_ITALIA_HD
-#EXTINF:-1 tvg-id="RAI.1.pt" tvg-name="RAI 1" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%201&chCallLetter=RAI1&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="290" channel-number="290",RAI 1
+#EXTINF:-1 tvg-id="RAI.1.pt" tvg-name="RAI 1" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RAI1&profile=corner_transparent_positive&width=100" tvg-chno="290" channel-number="290",RAI 1
 https://tv.meo.pt/player?channel=RAI_1_HD
-#EXTINF:-1 tvg-id="RAI.2.pt" tvg-name="RAI 2" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%202&chCallLetter=RAI2&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="291" channel-number="291",RAI 2
+#EXTINF:-1 tvg-id="RAI.2.pt" tvg-name="RAI 2" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RAI2&profile=corner_transparent_positive&width=100" tvg-chno="291" channel-number="291",RAI 2
 https://tv.meo.pt/player?channel=RAI_2_HD
-#EXTINF:-1 tvg-id="RAI.3.pt" tvg-name="RAI 3" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%203&chCallLetter=RAI3&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="292" channel-number="292",RAI 3
+#EXTINF:-1 tvg-id="RAI.3.pt" tvg-name="RAI 3" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RAI3&profile=corner_transparent_positive&width=100" tvg-chno="292" channel-number="292",RAI 3
 https://tv.meo.pt/player?channel=RAI_3_HD
-#EXTINF:-1 tvg-id="RAI.News.pt" tvg-name="RAI News" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%20NEWS24&chCallLetter=RAINEWS&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="293" channel-number="293",RAI News
+#EXTINF:-1 tvg-id="RAI.News.pt" tvg-name="RAI News" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RAINEWS&profile=corner_transparent_positive&width=100" tvg-chno="293" channel-number="293",RAI News
 https://tv.meo.pt/player?channel=RAI_News_HD
-#EXTINF:-1 tvg-id="RAI.Scuola.pt" tvg-name="RAI Scuola" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%20SCUOLA&chCallLetter=SCUOLA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="294" channel-number="294",RAI Scuola
+#EXTINF:-1 tvg-id="RAI.Scuola.pt" tvg-name="RAI Scuola" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SCUOLA&profile=corner_transparent_positive&width=100" tvg-chno="294" channel-number="294",RAI Scuola
 https://tv.meo.pt/player?channel=RAI_Scuola_HD
-#EXTINF:-1 tvg-id="RAI.Storia.pt" tvg-name="RAI Storia" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=RAI%20STORIA&chCallLetter=STORIA&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="295" channel-number="295",RAI Storia
+#EXTINF:-1 tvg-id="RAI.Storia.pt" tvg-name="RAI Storia" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STORIA&profile=corner_transparent_positive&width=100" tvg-chno="295" channel-number="295",RAI Storia
 https://tv.meo.pt/player?channel=RAI_Storia_HD
-#EXTINF:-1 tvg-id="Zee.TV.pt" tvg-name="Zee TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=ZEE%20TV&chCallLetter=ZEETV&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="296" channel-number="296",Zee TV
+#EXTINF:-1 tvg-id="Zee.TV.pt" tvg-name="Zee TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ZEETV&profile=corner_transparent_positive&width=100" tvg-chno="296" channel-number="296",Zee TV
 https://tv.meo.pt/player?channel=ZEE_TV_HD
-#EXTINF:-1 tvg-id="Zee.Cinema.pt" tvg-name="Zee Cinema" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=ZEE%20CINEMA&chCallLetter=ZEECIN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="297" channel-number="297",Zee Cinema
+#EXTINF:-1 tvg-id="Zee.Cinema.pt" tvg-name="Zee Cinema" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ZEECIN&profile=corner_transparent_positive&width=100" tvg-chno="297" channel-number="297",Zee Cinema
 https://tv.meo.pt/player?channel=ZEE_CINEMA
-#EXTINF:-1 tvg-id="SET.Asia.pt" tvg-name="SET Asia" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Indian%20Idol%2016%20-%20Ep.%2069&chCallLetter=SETAS&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="298" channel-number="298",SET Asia
-https://nostv.pt/v3/channels/144
-#EXTINF:-1 tvg-id="SET.Max.pt" tvg-name="SET Max" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Atrangi%20Re&chCallLetter=MAX&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="299" channel-number="299",SET Max
+#EXTINF:-1 tvg-id="SET.Asia.pt" tvg-name="SET Asia" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SETAS&profile=corner_transparent_positive&width=100" tvg-chno="298" channel-number="298",SET Asia
+https://tv.meo.pt/player?channel=SET_ASIA
+#EXTINF:-1 tvg-id="SET.Max.pt" tvg-name="SET Max" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=MAX&profile=corner_transparent_positive&width=100" tvg-chno="299" channel-number="299",SET Max
 https://tv.meo.pt/player?channel=SET_MAX
-#EXTINF:-1 tvg-id="Playboy.TV.HD.pt" tvg-name="Playboy TV HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=E-Rotic&chCallLetter=PBTVHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="350" channel-number="350",Playboy TV HD
+#EXTINF:-1 tvg-id="Playboy.TV.HD.pt" tvg-name="Playboy TV HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PBTVHD&profile=corner_transparent_positive&width=100" tvg-chno="350" channel-number="350",Playboy TV HD
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="Venus.pt" tvg-name="Venus" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Gostosas%20Peitudas%20Arrombadas&chCallLetter=VENUS&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="351" channel-number="351",Venus
+#EXTINF:-1 tvg-id="Venus.pt" tvg-name="Venus" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VENUS&profile=corner_transparent_positive&width=100" tvg-chno="351" channel-number="351",Venus
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="SexTreme.pt" tvg-name="SexTreme" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Ninfoman%C3%ADacas%20Peitudas%20E%20Bundudas&chCallLetter=SEXTRM&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="352" channel-number="352",SexTreme
+#EXTINF:-1 tvg-id="SexTreme.pt" tvg-name="SexTreme" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SEXTRM&profile=corner_transparent_positive&width=100" tvg-chno="352" channel-number="352",SexTreme
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="Penthouse.Gold.pt" tvg-name="Penthouse Gold" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=My%20Teacher%27s%20A%20Slut&chCallLetter=PENTHG&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="353" channel-number="353",Penthouse Gold
+#EXTINF:-1 tvg-id="Penthouse.Gold.pt" tvg-name="Penthouse Gold" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=PENTHG&profile=corner_transparent_positive&width=100" tvg-chno="353" channel-number="353",Penthouse Gold
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="Sexy.Hot.pt" tvg-name="Sexy Hot" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=As%20Sess%C3%B5es&chCallLetter=SEXYHOT&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="354" channel-number="354",Sexy Hot
+#EXTINF:-1 tvg-id="Sexy.Hot.pt" tvg-name="Sexy Hot" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SEXYHOT&profile=corner_transparent_positive&width=100" tvg-chno="354" channel-number="354",Sexy Hot
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="HOTGO.pt" tvg-name="HOTGO" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=HOTGO&chCallLetter=HOTGO&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="355" channel-number="355",HOTGO
+#EXTINF:-1 tvg-id="HOTGO.pt" tvg-name="HOTGO" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HOTGO&profile=corner_transparent_positive&width=100" tvg-chno="355" channel-number="355",HOTGO
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="HOT.pt" tvg-name="HOT" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Quando%20A%20Minha%20Mulher%20Diz%20Sim&chCallLetter=HOTHD&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="356" channel-number="356",HOT
+#EXTINF:-1 tvg-id="HOT.pt" tvg-name="HOT" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HOTHD&profile=corner_transparent_positive&width=100" tvg-chno="356" channel-number="356",HOT
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="HOT.Taboo.pt" tvg-name="HOT Taboo" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Apocalipse%20Sexual&chCallLetter=HOTTAB&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="357" channel-number="357",HOT Taboo
+#EXTINF:-1 tvg-id="HOT.Taboo.pt" tvg-name="HOT Taboo" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HOTTAB&profile=corner_transparent_positive&width=100" tvg-chno="357" channel-number="357",HOT Taboo
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="HOT.Man.pt" tvg-name="HOT Man" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=Desejo%20Carnal&chCallLetter=HOTMAN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="358" channel-number="358",HOT Man
+#EXTINF:-1 tvg-id="HOT.Man.pt" tvg-name="HOT Man" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HOTMAN&profile=corner_transparent_positive&width=100" tvg-chno="358" channel-number="358",HOT Man
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="Dorcel.TV.pt" tvg-name="Dorcel TV" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=DORCEL%20TV&chCallLetter=DORCEL&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="361" channel-number="361",Dorcel TV
+#EXTINF:-1 tvg-id="Dorcel.TV.pt" tvg-name="Dorcel TV" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DORCEL&profile=corner_transparent_positive&width=100" tvg-chno="361" channel-number="361",Dorcel TV
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="VIXEN.pt" tvg-name="VIXEN" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=VIXEN&chCallLetter=VIXEN&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="362" channel-number="362",VIXEN
+#EXTINF:-1 tvg-id="VIXEN.pt" tvg-name="VIXEN" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VIXEN&profile=corner_transparent_positive&width=100" tvg-chno="362" channel-number="362",VIXEN
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="Hustler.HD.pt" tvg-name="Hustler HD" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=PREMIERE-%203Way%20Wives%20%26%20Hubbys%20Bang%20Babes&chCallLetter=HUSTLER&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="363" channel-number="363",Hustler HD
+#EXTINF:-1 tvg-id="Hustler.HD.pt" tvg-name="Hustler HD" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HUSTLER&profile=corner_transparent_positive&width=100" tvg-chno="363" channel-number="363",Hustler HD
 https://tv.meo.pt/private-mode
-#EXTINF:-1 tvg-id="Fashion.TV.4K.pt" tvg-name="Fashion TV 4K" tvg-logo="https://cdn-er-images.online.meo.pt/eemstb/ImageHandler.ashx?progTitle=FTV%20UHD&chCallLetter=FTV4K&profile=16_9&appSource=GuiaTV&width=300&stb=retina2x" tvg-chno="401" channel-number="401",Fashion TV 4K
+#EXTINF:-1 tvg-id="Fashion.TV.4K.pt" tvg-name="Fashion TV 4K" tvg-logo="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTV4K&profile=corner_transparent_positive&width=100" tvg-chno="401" channel-number="401",Fashion TV 4K
 https://tv.meo.pt/player?channel=Fashion_TV_4K
