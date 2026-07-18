@@ -1,0 +1,687 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="BBC.One.Lon.HD.uk" tvg-name="BBC One Lon HD" tvg-logo="" tvg-chno="101" channel-number="101",BBC One Lon HD
+https://www.sky.com/tv-guide/101
+#EXTINF:-1 tvg-id="BBC.R1.uk" tvg-name="BBC R1" tvg-logo="" tvg-chno="0101" channel-number="0101",BBC R1
+https://www.sky.com/tv-guide/0101
+#EXTINF:-1 tvg-id="BBC.R2.uk" tvg-name="BBC R2" tvg-logo="" tvg-chno="0102" channel-number="0102",BBC R2
+https://www.sky.com/tv-guide/0102
+#EXTINF:-1 tvg-id="BBC.Two.HD.uk" tvg-name="BBC Two HD" tvg-logo="" tvg-chno="102" channel-number="102",BBC Two HD
+https://www.sky.com/tv-guide/102
+#EXTINF:-1 tvg-id="BBC.R3.uk" tvg-name="BBC R3" tvg-logo="" tvg-chno="0103" channel-number="0103",BBC R3
+https://www.sky.com/tv-guide/0103
+#EXTINF:-1 tvg-id="ITV1.HD.uk" tvg-name="ITV1 HD" tvg-logo="" tvg-chno="103" channel-number="103",ITV1 HD
+https://www.sky.com/tv-guide/103
+#EXTINF:-1 tvg-id="BBC.R4.uk" tvg-name="BBC R4" tvg-logo="" tvg-chno="0104" channel-number="0104",BBC R4
+https://www.sky.com/tv-guide/0104
+#EXTINF:-1 tvg-id="Channel.4.HD.uk" tvg-name="Channel 4 HD" tvg-logo="" tvg-chno="104" channel-number="104",Channel 4 HD
+https://www.sky.com/tv-guide/104
+#EXTINF:-1 tvg-id="5.HD.uk" tvg-name="5 HD" tvg-logo="" tvg-chno="105" channel-number="105",5 HD
+https://www.sky.com/tv-guide/105
+#EXTINF:-1 tvg-id="BBC.R5L.uk" tvg-name="BBC R5L" tvg-logo="" tvg-chno="0105" channel-number="0105",BBC R5L
+https://www.sky.com/tv-guide/0105
+#EXTINF:-1 tvg-id="Classic.FM.uk" tvg-name="Classic FM" tvg-logo="" tvg-chno="0106" channel-number="0106",Classic FM
+https://www.sky.com/tv-guide/0106
+#EXTINF:-1 tvg-id="Sky.One.HD.uk" tvg-name="Sky One HD" tvg-logo="" tvg-chno="106" channel-number="106",Sky One HD
+https://www.sky.com/tv-guide/106
+#EXTINF:-1 tvg-id="Sky.Witness.HD.uk" tvg-name="Sky Witness HD" tvg-logo="" tvg-chno="107" channel-number="107",Sky Witness HD
+https://www.sky.com/tv-guide/107
+#EXTINF:-1 tvg-id="talkSPORT.uk" tvg-name="talkSPORT" tvg-logo="" tvg-chno="0107" channel-number="0107",talkSPORT
+https://www.sky.com/tv-guide/0107
+#EXTINF:-1 tvg-id="Capital.uk" tvg-name="Capital" tvg-logo="" tvg-chno="0108" channel-number="0108",Capital
+https://www.sky.com/tv-guide/0108
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.uk" tvg-name="Sky Atlantic HD" tvg-logo="" tvg-chno="108" channel-number="108",Sky Atlantic HD
+https://www.sky.com/tv-guide/108
+#EXTINF:-1 tvg-id="Heart.uk" tvg-name="Heart" tvg-logo="" tvg-chno="0109" channel-number="0109",Heart
+https://www.sky.com/tv-guide/0109
+#EXTINF:-1 tvg-id="U&amp;Alibi.HD.uk" tvg-name="U&amp;Alibi HD" tvg-logo="" tvg-chno="109" channel-number="109",U&amp;Alibi HD
+https://www.sky.com/tv-guide/109
+#EXTINF:-1 tvg-id="Heart.80s.uk" tvg-name="Heart 80s" tvg-logo="" tvg-chno="0110" channel-number="0110",Heart 80s
+https://www.sky.com/tv-guide/0110
+#EXTINF:-1 tvg-id="U&amp;Gold.HD.uk" tvg-name="U&amp;Gold HD" tvg-logo="" tvg-chno="110" channel-number="110",U&amp;Gold HD
+https://www.sky.com/tv-guide/110
+#EXTINF:-1 tvg-id="Radio.X.uk" tvg-name="Radio X" tvg-logo="" tvg-chno="0111" channel-number="0111",Radio X
+https://www.sky.com/tv-guide/0111
+#EXTINF:-1 tvg-id="U&amp;Dave.HD.uk" tvg-name="U&amp;Dave HD" tvg-logo="" tvg-chno="111" channel-number="111",U&amp;Dave HD
+https://www.sky.com/tv-guide/111
+#EXTINF:-1 tvg-id="Capital.XTRA.uk" tvg-name="Capital XTRA" tvg-logo="" tvg-chno="0112" channel-number="0112",Capital XTRA
+https://www.sky.com/tv-guide/0112
+#EXTINF:-1 tvg-id="ComedyCentHD.uk" tvg-name="ComedyCentHD" tvg-logo="" tvg-chno="112" channel-number="112",ComedyCentHD
+https://www.sky.com/tv-guide/112
+#EXTINF:-1 tvg-id="BBC.World.Sv.uk" tvg-name="BBC World Sv" tvg-logo="" tvg-chno="0113" channel-number="0113",BBC World Sv
+https://www.sky.com/tv-guide/0113
+#EXTINF:-1 tvg-id="Sky.Comedy.HD.uk" tvg-name="Sky Comedy HD" tvg-logo="" tvg-chno="113" channel-number="113",Sky Comedy HD
+https://www.sky.com/tv-guide/113
+#EXTINF:-1 tvg-id="BBC.R.Scot.uk" tvg-name="BBC R Scot" tvg-logo="" tvg-chno="0114" channel-number="0114",BBC R Scot
+https://www.sky.com/tv-guide/0114
+#EXTINF:-1 tvg-id="SkyDocmntrsHD.uk" tvg-name="SkyDocmntrsHD" tvg-logo="" tvg-chno="114" channel-number="114",SkyDocmntrsHD
+https://www.sky.com/tv-guide/114
+#EXTINF:-1 tvg-id="BBC.R.Wales.uk" tvg-name="BBC R Wales" tvg-logo="" tvg-chno="0115" channel-number="0115",BBC R Wales
+https://www.sky.com/tv-guide/0115
+#EXTINF:-1 tvg-id="BBC.Three.HD.uk" tvg-name="BBC Three HD" tvg-logo="" tvg-chno="115" channel-number="115",BBC Three HD
+https://www.sky.com/tv-guide/115
+#EXTINF:-1 tvg-id="BBC.Four.HD.uk" tvg-name="BBC Four HD" tvg-logo="" tvg-chno="116" channel-number="116",BBC Four HD
+https://www.sky.com/tv-guide/116
+#EXTINF:-1 tvg-id="BBC.R.Ulster.uk" tvg-name="BBC R Ulster" tvg-logo="" tvg-chno="0116" channel-number="0116",BBC R Ulster
+https://www.sky.com/tv-guide/0116
+#EXTINF:-1 tvg-id="BBC.Asian.Net.uk" tvg-name="BBC Asian Net" tvg-logo="" tvg-chno="0117" channel-number="0117",BBC Asian Net
+https://www.sky.com/tv-guide/0117
+#EXTINF:-1 tvg-id="BBC.R6.Music.uk" tvg-name="BBC R6 Music" tvg-logo="" tvg-chno="0118" channel-number="0118",BBC R6 Music
+https://www.sky.com/tv-guide/0118
+#EXTINF:-1 tvg-id="ITV2.HD.uk" tvg-name="ITV2 HD" tvg-logo="" tvg-chno="118" channel-number="118",ITV2 HD
+https://www.sky.com/tv-guide/118
+#EXTINF:-1 tvg-id="Gold.Radio.uk" tvg-name="Gold Radio" tvg-logo="" tvg-chno="0119" channel-number="0119",Gold Radio
+https://www.sky.com/tv-guide/0119
+#EXTINF:-1 tvg-id="ITV3.HD.uk" tvg-name="ITV3 HD" tvg-logo="" tvg-chno="119" channel-number="119",ITV3 HD
+https://www.sky.com/tv-guide/119
+#EXTINF:-1 tvg-id="ITV4.HD.uk" tvg-name="ITV4 HD" tvg-logo="" tvg-chno="120" channel-number="120",ITV4 HD
+https://www.sky.com/tv-guide/120
+#EXTINF:-1 tvg-id="WRN.Europe.uk" tvg-name="WRN Europe" tvg-logo="" tvg-chno="0120" channel-number="0120",WRN Europe
+https://www.sky.com/tv-guide/0120
+#EXTINF:-1 tvg-id="LBC.uk" tvg-name="LBC" tvg-logo="" tvg-chno="0121" channel-number="0121",LBC
+https://www.sky.com/tv-guide/0121
+#EXTINF:-1 tvg-id="Sky.Crime.HD.uk" tvg-name="Sky Crime HD" tvg-logo="" tvg-chno="121" channel-number="121",Sky Crime HD
+https://www.sky.com/tv-guide/121
+#EXTINF:-1 tvg-id="Sky.Arts.HD.uk" tvg-name="Sky Arts HD" tvg-logo="" tvg-chno="122" channel-number="122",Sky Arts HD
+https://www.sky.com/tv-guide/122
+#EXTINF:-1 tvg-id="Smooth.uk" tvg-name="Smooth" tvg-logo="" tvg-chno="0122" channel-number="0122",Smooth
+https://www.sky.com/tv-guide/0122
+#EXTINF:-1 tvg-id="BBC.R4.Extra.uk" tvg-name="BBC R4 Extra" tvg-logo="" tvg-chno="0123" channel-number="0123",BBC R4 Extra
+https://www.sky.com/tv-guide/0123
+#EXTINF:-1 tvg-id="Sky.HistoryHD.uk" tvg-name="Sky HistoryHD" tvg-logo="" tvg-chno="123" channel-number="123",Sky HistoryHD
+https://www.sky.com/tv-guide/123
+#EXTINF:-1 tvg-id="BBC.R1X.uk" tvg-name="BBC R1X" tvg-logo="" tvg-chno="0124" channel-number="0124",BBC R1X
+https://www.sky.com/tv-guide/0124
+#EXTINF:-1 tvg-id="Sky.Nature.HD.uk" tvg-name="Sky Nature HD" tvg-logo="" tvg-chno="124" channel-number="124",Sky Nature HD
+https://www.sky.com/tv-guide/124
+#EXTINF:-1 tvg-id="Discovery.HD.uk" tvg-name="Discovery HD" tvg-logo="" tvg-chno="125" channel-number="125",Discovery HD
+https://www.sky.com/tv-guide/125
+#EXTINF:-1 tvg-id="Panjab.Radio.uk" tvg-name="Panjab Radio" tvg-logo="" tvg-chno="0125" channel-number="0125",Panjab Radio
+https://www.sky.com/tv-guide/0125
+#EXTINF:-1 tvg-id="BBC.RnGàid.uk" tvg-name="BBC RnGàid" tvg-logo="" tvg-chno="0126" channel-number="0126",BBC RnGàid
+https://www.sky.com/tv-guide/0126
+#EXTINF:-1 tvg-id="MTV.HD.uk" tvg-name="MTV HD" tvg-logo="" tvg-chno="126" channel-number="126",MTV HD
+https://www.sky.com/tv-guide/126
+#EXTINF:-1 tvg-id="BBC.R5SX.uk" tvg-name="BBC R5SX" tvg-logo="" tvg-chno="0127" channel-number="0127",BBC R5SX
+https://www.sky.com/tv-guide/0127
+#EXTINF:-1 tvg-id="ComedyXtra.uk" tvg-name="ComedyXtra" tvg-logo="" tvg-chno="127" channel-number="127",ComedyXtra
+https://www.sky.com/tv-guide/127
+#EXTINF:-1 tvg-id="5STAR.uk" tvg-name="5STAR" tvg-logo="" tvg-chno="128" channel-number="128",5STAR
+https://www.sky.com/tv-guide/128
+#EXTINF:-1 tvg-id="Heart.Dance.uk" tvg-name="Heart Dance" tvg-logo="" tvg-chno="0128" channel-number="0128",Heart Dance
+https://www.sky.com/tv-guide/0128
+#EXTINF:-1 tvg-id="BBC.R.London.uk" tvg-name="BBC R London" tvg-logo="" tvg-chno="0129" channel-number="0129",BBC R London
+https://www.sky.com/tv-guide/0129
+#EXTINF:-1 tvg-id="Nat.Geo.HD.uk" tvg-name="Nat Geo HD" tvg-logo="" tvg-chno="129" channel-number="129",Nat Geo HD
+https://www.sky.com/tv-guide/129
+#EXTINF:-1 tvg-id="BBC.R.Cymru.uk" tvg-name="BBC R Cymru" tvg-logo="" tvg-chno="0130" channel-number="0130",BBC R Cymru
+https://www.sky.com/tv-guide/0130
+#EXTINF:-1 tvg-id="Challenge.uk" tvg-name="Challenge" tvg-logo="" tvg-chno="130" channel-number="130",Challenge
+https://www.sky.com/tv-guide/130
+#EXTINF:-1 tvg-id="ITV.Quiz.HD.uk" tvg-name="ITV Quiz HD" tvg-logo="" tvg-chno="131" channel-number="131",ITV Quiz HD
+https://www.sky.com/tv-guide/131
+#EXTINF:-1 tvg-id="RTÉ.Radio.1.uk" tvg-name="RTÉ Radio 1" tvg-logo="" tvg-chno="0131" channel-number="0131",RTÉ Radio 1
+https://www.sky.com/tv-guide/0131
+#EXTINF:-1 tvg-id="RTÉ.2FM.uk" tvg-name="RTÉ 2FM" tvg-logo="" tvg-chno="0132" channel-number="0132",RTÉ 2FM
+https://www.sky.com/tv-guide/0132
+#EXTINF:-1 tvg-id="U&amp;W.uk" tvg-name="U&amp;W" tvg-logo="" tvg-chno="132" channel-number="132",U&amp;W
+https://www.sky.com/tv-guide/132
+#EXTINF:-1 tvg-id="RTÉ.Lyric.fm.uk" tvg-name="RTÉ Lyric fm" tvg-logo="" tvg-chno="0133" channel-number="0133",RTÉ Lyric fm
+https://www.sky.com/tv-guide/0133
+#EXTINF:-1 tvg-id="TLC.uk" tvg-name="TLC" tvg-logo="" tvg-chno="133" channel-number="133",TLC
+https://www.sky.com/tv-guide/133
+#EXTINF:-1 tvg-id="RTÉ.R.na.G.uk" tvg-name="RTÉ R na G" tvg-logo="" tvg-chno="0134" channel-number="0134",RTÉ R na G
+https://www.sky.com/tv-guide/0134
+#EXTINF:-1 tvg-id="S4C.uk" tvg-name="S4C" tvg-logo="" tvg-chno="134" channel-number="134",S4C
+https://www.sky.com/tv-guide/134
+#EXTINF:-1 tvg-id="E4.HD.uk" tvg-name="E4 HD" tvg-logo="" tvg-chno="135" channel-number="135",E4 HD
+https://www.sky.com/tv-guide/135
+#EXTINF:-1 tvg-id="EWTN.Catholic.uk" tvg-name="EWTN Catholic" tvg-logo="" tvg-chno="0135" channel-number="0135",EWTN Catholic
+https://www.sky.com/tv-guide/0135
+#EXTINF:-1 tvg-id="BFBS.Radio.uk" tvg-name="BFBS Radio" tvg-logo="" tvg-chno="0136" channel-number="0136",BFBS Radio
+https://www.sky.com/tv-guide/0136
+#EXTINF:-1 tvg-id="More4.HD.uk" tvg-name="More4 HD" tvg-logo="" tvg-chno="136" channel-number="136",More4 HD
+https://www.sky.com/tv-guide/136
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="4seven" tvg-logo="" tvg-chno="137" channel-number="137",4seven
+https://www.sky.com/tv-guide/137
+#EXTINF:-1 tvg-id="Virgin.Radio.uk" tvg-name="Virgin Radio" tvg-logo="" tvg-chno="0137" channel-number="0137",Virgin Radio
+https://www.sky.com/tv-guide/0137
+#EXTINF:-1 tvg-id="E4.Extra.uk" tvg-name="E4 Extra" tvg-logo="" tvg-chno="138" channel-number="138",E4 Extra
+https://www.sky.com/tv-guide/138
+#EXTINF:-1 tvg-id="Heart.90s.uk" tvg-name="Heart 90s" tvg-logo="" tvg-chno="0138" channel-number="0138",Heart 90s
+https://www.sky.com/tv-guide/0138
+#EXTINF:-1 tvg-id="BBC.R.Cymru.2.uk" tvg-name="BBC R Cymru 2" tvg-logo="" tvg-chno="0139" channel-number="0139",BBC R Cymru 2
+https://www.sky.com/tv-guide/0139
+#EXTINF:-1 tvg-id="Crime+Inv.HD.uk" tvg-name="Crime+Inv HD" tvg-logo="" tvg-chno="139" channel-number="139",Crime+Inv HD
+https://www.sky.com/tv-guide/139
+#EXTINF:-1 tvg-id="BBC.R.Foyle.uk" tvg-name="BBC R Foyle" tvg-logo="" tvg-chno="0140" channel-number="0140",BBC R Foyle
+https://www.sky.com/tv-guide/0140
+#EXTINF:-1 tvg-id="QUEST.HD.uk" tvg-name="QUEST HD" tvg-logo="" tvg-chno="140" channel-number="140",QUEST HD
+https://www.sky.com/tv-guide/140
+#EXTINF:-1 tvg-id="5.USA.uk" tvg-name="5 USA" tvg-logo="" tvg-chno="141" channel-number="141",5 USA
+https://www.sky.com/tv-guide/141
+#EXTINF:-1 tvg-id="LBC.News.uk" tvg-name="LBC News" tvg-logo="" tvg-chno="0141" channel-number="0141",LBC News
+https://www.sky.com/tv-guide/0141
+#EXTINF:-1 tvg-id="Really.uk" tvg-name="Really" tvg-logo="" tvg-chno="142" channel-number="142",Really
+https://www.sky.com/tv-guide/142
+#EXTINF:-1 tvg-id="Times.Radio.uk" tvg-name="Times Radio" tvg-logo="" tvg-chno="0142" channel-number="0142",Times Radio
+https://www.sky.com/tv-guide/0142
+#EXTINF:-1 tvg-id="U&amp;Drama.uk" tvg-name="U&amp;Drama" tvg-logo="" tvg-chno="143" channel-number="143",U&amp;Drama
+https://www.sky.com/tv-guide/143
+#EXTINF:-1 tvg-id="Food.Network.uk" tvg-name="Food Network" tvg-logo="" tvg-chno="144" channel-number="144",Food Network
+https://www.sky.com/tv-guide/144
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.uk" tvg-name="Sky Sci-Fi HD" tvg-logo="" tvg-chno="145" channel-number="145",Sky Sci-Fi HD
+https://www.sky.com/tv-guide/145
+#EXTINF:-1 tvg-id="TRUE.CRIME.uk" tvg-name="TRUE CRIME" tvg-logo="" tvg-chno="146" channel-number="146",TRUE CRIME
+https://www.sky.com/tv-guide/146
+#EXTINF:-1 tvg-id="TRUE.CRIME.X.uk" tvg-name="TRUE CRIME X" tvg-logo="" tvg-chno="147" channel-number="147",TRUE CRIME X
+https://www.sky.com/tv-guide/147
+#EXTINF:-1 tvg-id="LEGEND.uk" tvg-name="LEGEND" tvg-logo="" tvg-chno="148" channel-number="148",LEGEND
+https://www.sky.com/tv-guide/148
+#EXTINF:-1 tvg-id="Quest.Red.uk" tvg-name="Quest Red" tvg-logo="" tvg-chno="149" channel-number="149",Quest Red
+https://www.sky.com/tv-guide/149
+#EXTINF:-1 tvg-id="5ACTION.uk" tvg-name="5ACTION" tvg-logo="" tvg-chno="150" channel-number="150",5ACTION
+https://www.sky.com/tv-guide/150
+#EXTINF:-1 tvg-id="Sky.Mix.HD.uk" tvg-name="Sky Mix HD" tvg-logo="" tvg-chno="151" channel-number="151",Sky Mix HD
+https://www.sky.com/tv-guide/151
+#EXTINF:-1 tvg-id="5SELECT.uk" tvg-name="5SELECT" tvg-logo="" tvg-chno="153" channel-number="153",5SELECT
+https://www.sky.com/tv-guide/153
+#EXTINF:-1 tvg-id="ID.uk" tvg-name="ID" tvg-logo="" tvg-chno="154" channel-number="154",ID
+https://www.sky.com/tv-guide/154
+#EXTINF:-1 tvg-id="U&amp;Yesterday.uk" tvg-name="U&amp;Yesterday" tvg-logo="" tvg-chno="155" channel-number="155",U&amp;Yesterday
+https://www.sky.com/tv-guide/155
+#EXTINF:-1 tvg-id="BLAZE.uk" tvg-name="BLAZE" tvg-logo="" tvg-chno="156" channel-number="156",BLAZE
+https://www.sky.com/tv-guide/156
+#EXTINF:-1 tvg-id="Great!.TV.uk" tvg-name="Great! TV" tvg-logo="" tvg-chno="157" channel-number="157",Great! TV
+https://www.sky.com/tv-guide/157
+#EXTINF:-1 tvg-id="Disc.Turbo.uk" tvg-name="Disc.Turbo" tvg-logo="" tvg-chno="158" channel-number="158",Disc.Turbo
+https://www.sky.com/tv-guide/158
+#EXTINF:-1 tvg-id="DMAX.uk" tvg-name="DMAX" tvg-logo="" tvg-chno="159" channel-number="159",DMAX
+https://www.sky.com/tv-guide/159
+#EXTINF:-1 tvg-id="Disc.History.uk" tvg-name="Disc.History" tvg-logo="" tvg-chno="161" channel-number="161",Disc.History
+https://www.sky.com/tv-guide/161
+#EXTINF:-1 tvg-id="Animal.Planet.uk" tvg-name="Animal Planet" tvg-logo="" tvg-chno="162" channel-number="162",Animal Planet
+https://www.sky.com/tv-guide/162
+#EXTINF:-1 tvg-id="Sky.History2.uk" tvg-name="Sky History2" tvg-logo="" tvg-chno="163" channel-number="163",Sky History2
+https://www.sky.com/tv-guide/163
+#EXTINF:-1 tvg-id="NatGeoWild.HD.uk" tvg-name="NatGeoWild HD" tvg-logo="" tvg-chno="165" channel-number="165",NatGeoWild HD
+https://www.sky.com/tv-guide/165
+#EXTINF:-1 tvg-id="U&amp;Eden.uk" tvg-name="U&amp;Eden" tvg-logo="" tvg-chno="166" channel-number="166",U&amp;Eden
+https://www.sky.com/tv-guide/166
+#EXTINF:-1 tvg-id="Disc.Science.uk" tvg-name="Disc.Science" tvg-logo="" tvg-chno="167" channel-number="167",Disc.Science
+https://www.sky.com/tv-guide/167
+#EXTINF:-1 tvg-id="BBC.ALBA.HD.uk" tvg-name="BBC ALBA HD" tvg-logo="" tvg-chno="169" channel-number="169",BBC ALBA HD
+https://www.sky.com/tv-guide/169
+#EXTINF:-1 tvg-id="Together.uk" tvg-name="Together" tvg-logo="" tvg-chno="170" channel-number="170",Together
+https://www.sky.com/tv-guide/170
+#EXTINF:-1 tvg-id="That's.TV.uk" tvg-name="That's TV" tvg-logo="" tvg-chno="171" channel-number="171",That's TV
+https://www.sky.com/tv-guide/171
+#EXTINF:-1 tvg-id="PBS.America.uk" tvg-name="PBS America" tvg-logo="" tvg-chno="173" channel-number="173",PBS America
+https://www.sky.com/tv-guide/173
+#EXTINF:-1 tvg-id="Travelxp.uk" tvg-name="Travelxp" tvg-logo="" tvg-chno="178" channel-number="178",Travelxp
+https://www.sky.com/tv-guide/178
+#EXTINF:-1 tvg-id="BBCScotlandHD.uk" tvg-name="BBCScotlandHD" tvg-logo="" tvg-chno="180" channel-number="180",BBCScotlandHD
+https://www.sky.com/tv-guide/180
+#EXTINF:-1 tvg-id="Rewind.TV.uk" tvg-name="Rewind TV" tvg-logo="" tvg-chno="182" channel-number="182",Rewind TV
+https://www.sky.com/tv-guide/182
+#EXTINF:-1 tvg-id="ITV1+1.uk" tvg-name="ITV1+1" tvg-logo="" tvg-chno="203" channel-number="203",ITV1+1
+https://www.sky.com/tv-guide/203
+#EXTINF:-1 tvg-id="Channel.4+1.uk" tvg-name="Channel 4+1" tvg-logo="" tvg-chno="204" channel-number="204",Channel 4+1
+https://www.sky.com/tv-guide/204
+#EXTINF:-1 tvg-id="5+1.uk" tvg-name="5+1" tvg-logo="" tvg-chno="205" channel-number="205",5+1
+https://www.sky.com/tv-guide/205
+#EXTINF:-1 tvg-id="Sky.Witness+1.uk" tvg-name="Sky Witness+1" tvg-logo="" tvg-chno="207" channel-number="207",Sky Witness+1
+https://www.sky.com/tv-guide/207
+#EXTINF:-1 tvg-id="Sky.Atlantic+1.uk" tvg-name="Sky Atlantic+1" tvg-logo="" tvg-chno="208" channel-number="208",Sky Atlantic+1
+https://www.sky.com/tv-guide/208
+#EXTINF:-1 tvg-id="U&amp;Alibi+1.uk" tvg-name="U&amp;Alibi+1" tvg-logo="" tvg-chno="209" channel-number="209",U&amp;Alibi+1
+https://www.sky.com/tv-guide/209
+#EXTINF:-1 tvg-id="U&amp;Gold+1.uk" tvg-name="U&amp;Gold+1" tvg-logo="" tvg-chno="210" channel-number="210",U&amp;Gold+1
+https://www.sky.com/tv-guide/210
+#EXTINF:-1 tvg-id="U&amp;DaveJaVu.uk" tvg-name="U&amp;DaveJaVu" tvg-logo="" tvg-chno="211" channel-number="211",U&amp;DaveJaVu
+https://www.sky.com/tv-guide/211
+#EXTINF:-1 tvg-id="ComedyCent+1.uk" tvg-name="ComedyCent+1" tvg-logo="" tvg-chno="212" channel-number="212",ComedyCent+1
+https://www.sky.com/tv-guide/212
+#EXTINF:-1 tvg-id="ITV2+1.uk" tvg-name="ITV2+1" tvg-logo="" tvg-chno="218" channel-number="218",ITV2+1
+https://www.sky.com/tv-guide/218
+#EXTINF:-1 tvg-id="ITV3+1.uk" tvg-name="ITV3+1" tvg-logo="" tvg-chno="219" channel-number="219",ITV3+1
+https://www.sky.com/tv-guide/219
+#EXTINF:-1 tvg-id="ITV4+1.uk" tvg-name="ITV4+1" tvg-logo="" tvg-chno="220" channel-number="220",ITV4+1
+https://www.sky.com/tv-guide/220
+#EXTINF:-1 tvg-id="Sky.Crime+1.uk" tvg-name="Sky Crime+1" tvg-logo="" tvg-chno="221" channel-number="221",Sky Crime+1
+https://www.sky.com/tv-guide/221
+#EXTINF:-1 tvg-id="Discovery+1.uk" tvg-name="Discovery+1" tvg-logo="" tvg-chno="225" channel-number="225",Discovery+1
+https://www.sky.com/tv-guide/225
+#EXTINF:-1 tvg-id="5STAR+1.uk" tvg-name="5STAR+1" tvg-logo="" tvg-chno="228" channel-number="228",5STAR+1
+https://www.sky.com/tv-guide/228
+#EXTINF:-1 tvg-id="U&amp;W+1.uk" tvg-name="U&amp;W+1" tvg-logo="" tvg-chno="232" channel-number="232",U&amp;W+1
+https://www.sky.com/tv-guide/232
+#EXTINF:-1 tvg-id="TLC+1.uk" tvg-name="TLC+1" tvg-logo="" tvg-chno="233" channel-number="233",TLC+1
+https://www.sky.com/tv-guide/233
+#EXTINF:-1 tvg-id="E4+1.uk" tvg-name="E4+1" tvg-logo="" tvg-chno="235" channel-number="235",E4+1
+https://www.sky.com/tv-guide/235
+#EXTINF:-1 tvg-id="More4+1.uk" tvg-name="More4+1" tvg-logo="" tvg-chno="236" channel-number="236",More4+1
+https://www.sky.com/tv-guide/236
+#EXTINF:-1 tvg-id="Crime+Inv+1.uk" tvg-name="Crime+Inv+1" tvg-logo="" tvg-chno="239" channel-number="239",Crime+Inv+1
+https://www.sky.com/tv-guide/239
+#EXTINF:-1 tvg-id="QUEST+1.uk" tvg-name="QUEST+1" tvg-logo="" tvg-chno="240" channel-number="240",QUEST+1
+https://www.sky.com/tv-guide/240
+#EXTINF:-1 tvg-id="5USA+1.uk" tvg-name="5USA+1" tvg-logo="" tvg-chno="241" channel-number="241",5USA+1
+https://www.sky.com/tv-guide/241
+#EXTINF:-1 tvg-id="Really+1.uk" tvg-name="Really+1" tvg-logo="" tvg-chno="242" channel-number="242",Really+1
+https://www.sky.com/tv-guide/242
+#EXTINF:-1 tvg-id="U&amp;Drama+1.uk" tvg-name="U&amp;Drama+1" tvg-logo="" tvg-chno="243" channel-number="243",U&amp;Drama+1
+https://www.sky.com/tv-guide/243
+#EXTINF:-1 tvg-id="Food.Netwrk+1.uk" tvg-name="Food Netwrk+1" tvg-logo="" tvg-chno="244" channel-number="244",Food Netwrk+1
+https://www.sky.com/tv-guide/244
+#EXTINF:-1 tvg-id="TRUE.CRIME+1.uk" tvg-name="TRUE CRIME+1" tvg-logo="" tvg-chno="246" channel-number="246",TRUE CRIME+1
+https://www.sky.com/tv-guide/246
+#EXTINF:-1 tvg-id="Quest.Red+1.uk" tvg-name="Quest Red+1" tvg-logo="" tvg-chno="249" channel-number="249",Quest Red+1
+https://www.sky.com/tv-guide/249
+#EXTINF:-1 tvg-id="ID+1.uk" tvg-name="ID+1" tvg-logo="" tvg-chno="254" channel-number="254",ID+1
+https://www.sky.com/tv-guide/254
+#EXTINF:-1 tvg-id="U&amp;Yesterday+1.uk" tvg-name="U&amp;Yesterday+1" tvg-logo="" tvg-chno="255" channel-number="255",U&amp;Yesterday+1
+https://www.sky.com/tv-guide/255
+#EXTINF:-1 tvg-id="Great!.TV+1.uk" tvg-name="Great! TV+1" tvg-logo="" tvg-chno="257" channel-number="257",Great! TV+1
+https://www.sky.com/tv-guide/257
+#EXTINF:-1 tvg-id="Disc.Turbo+1.uk" tvg-name="Disc.Turbo+1" tvg-logo="" tvg-chno="258" channel-number="258",Disc.Turbo+1
+https://www.sky.com/tv-guide/258
+#EXTINF:-1 tvg-id="DMAX+1.uk" tvg-name="DMAX+1" tvg-logo="" tvg-chno="259" channel-number="259",DMAX+1
+https://www.sky.com/tv-guide/259
+#EXTINF:-1 tvg-id="Disc.History+1.uk" tvg-name="Disc.History+1" tvg-logo="" tvg-chno="261" channel-number="261",Disc.History+1
+https://www.sky.com/tv-guide/261
+#EXTINF:-1 tvg-id="Animal.Plnt+1.uk" tvg-name="Animal Plnt+1" tvg-logo="" tvg-chno="262" channel-number="262",Animal Plnt+1
+https://www.sky.com/tv-guide/262
+#EXTINF:-1 tvg-id="U&amp;Eden+1.uk" tvg-name="U&amp;Eden+1" tvg-logo="" tvg-chno="266" channel-number="266",U&amp;Eden+1
+https://www.sky.com/tv-guide/266
+#EXTINF:-1 tvg-id="Disc.Sci+1.uk" tvg-name="Disc.Sci+1" tvg-logo="" tvg-chno="267" channel-number="267",Disc.Sci+1
+https://www.sky.com/tv-guide/267
+#EXTINF:-1 tvg-id="SkyPremiereHD.uk" tvg-name="SkyPremiereHD" tvg-logo="" tvg-chno="301" channel-number="301",SkyPremiereHD
+https://www.sky.com/tv-guide/301
+#EXTINF:-1 tvg-id="2026RecapHD.uk" tvg-name="2026RecapHD" tvg-logo="" tvg-chno="302" channel-number="302",2026RecapHD
+https://www.sky.com/tv-guide/302
+#EXTINF:-1 tvg-id="SkyDirectorsHD.uk" tvg-name="SkyDirectorsHD" tvg-logo="" tvg-chno="303" channel-number="303",SkyDirectorsHD
+https://www.sky.com/tv-guide/303
+#EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Family HD" tvg-logo="" tvg-chno="304" channel-number="304",Sky Family HD
+https://www.sky.com/tv-guide/304
+#EXTINF:-1 tvg-id="Disney+CineHD.uk" tvg-name="Disney+CineHD" tvg-logo="" tvg-chno="305" channel-number="305",Disney+CineHD
+https://www.sky.com/tv-guide/305
+#EXTINF:-1 tvg-id="Sky.Action.HD.uk" tvg-name="Sky Action HD" tvg-logo="" tvg-chno="306" channel-number="306",Sky Action HD
+https://www.sky.com/tv-guide/306
+#EXTINF:-1 tvg-id="Sky.Greats.HD.uk" tvg-name="Sky Greats HD" tvg-logo="" tvg-chno="307" channel-number="307",Sky Greats HD
+https://www.sky.com/tv-guide/307
+#EXTINF:-1 tvg-id="Sky.Thriller.HD.uk" tvg-name="Sky Thriller HD" tvg-logo="" tvg-chno="309" channel-number="309",Sky Thriller HD
+https://www.sky.com/tv-guide/309
+#EXTINF:-1 tvg-id="Sky.Drama.HD.uk" tvg-name="Sky Drama HD" tvg-logo="" tvg-chno="310" channel-number="310",Sky Drama HD
+https://www.sky.com/tv-guide/310
+#EXTINF:-1 tvg-id="Sky.ScFi/HorHD.uk" tvg-name="Sky ScFi/HorHD" tvg-logo="" tvg-chno="311" channel-number="311",Sky ScFi/HorHD
+https://www.sky.com/tv-guide/311
+#EXTINF:-1 tvg-id="Movies24.uk" tvg-name="Movies24" tvg-logo="" tvg-chno="312" channel-number="312",Movies24
+https://www.sky.com/tv-guide/312
+#EXTINF:-1 tvg-id="Film4.HD.uk" tvg-name="Film4 HD" tvg-logo="" tvg-chno="313" channel-number="313",Film4 HD
+https://www.sky.com/tv-guide/313
+#EXTINF:-1 tvg-id="Film4+1.uk" tvg-name="Film4+1" tvg-logo="" tvg-chno="314" channel-number="314",Film4+1
+https://www.sky.com/tv-guide/314
+#EXTINF:-1 tvg-id="LEGEND.XTRA.uk" tvg-name="LEGEND XTRA" tvg-logo="" tvg-chno="316" channel-number="316",LEGEND XTRA
+https://www.sky.com/tv-guide/316
+#EXTINF:-1 tvg-id="LEGEND.XTRA+1.uk" tvg-name="LEGEND XTRA+1" tvg-logo="" tvg-chno="317" channel-number="317",LEGEND XTRA+1
+https://www.sky.com/tv-guide/317
+#EXTINF:-1 tvg-id="Great!.Action.uk" tvg-name="Great! Action" tvg-logo="" tvg-chno="318" channel-number="318",Great! Action
+https://www.sky.com/tv-guide/318
+#EXTINF:-1 tvg-id="Great!.Action+1.uk" tvg-name="Great! Action+1" tvg-logo="" tvg-chno="319" channel-number="319",Great! Action+1
+https://www.sky.com/tv-guide/319
+#EXTINF:-1 tvg-id="Great!.Mystery.uk" tvg-name="Great! Mystery" tvg-logo="" tvg-chno="320" channel-number="320",Great! Mystery
+https://www.sky.com/tv-guide/320
+#EXTINF:-1 tvg-id="G!.Mystery+1.uk" tvg-name="G! Mystery+1" tvg-logo="" tvg-chno="321" channel-number="321",G! Mystery+1
+https://www.sky.com/tv-guide/321
+#EXTINF:-1 tvg-id="Great!.Romance.uk" tvg-name="Great! Romance" tvg-logo="" tvg-chno="322" channel-number="322",Great! Romance
+https://www.sky.com/tv-guide/322
+#EXTINF:-1 tvg-id="G!.Romance+1.uk" tvg-name="G! Romance+1" tvg-logo="" tvg-chno="323" channel-number="323",G! Romance+1
+https://www.sky.com/tv-guide/323
+#EXTINF:-1 tvg-id="TalkingPictures.uk" tvg-name="TalkingPictures" tvg-logo="" tvg-chno="324" channel-number="324",TalkingPictures
+https://www.sky.com/tv-guide/324
+#EXTINF:-1 tvg-id="Clubland.TV.uk" tvg-name="Clubland TV" tvg-logo="" tvg-chno="354" channel-number="354",Clubland TV
+https://www.sky.com/tv-guide/354
+#EXTINF:-1 tvg-id="NOW.70s.uk" tvg-name="NOW 70s" tvg-logo="" tvg-chno="355" channel-number="355",NOW 70s
+https://www.sky.com/tv-guide/355
+#EXTINF:-1 tvg-id="NOW.80s.uk" tvg-name="NOW 80s" tvg-logo="" tvg-chno="356" channel-number="356",NOW 80s
+https://www.sky.com/tv-guide/356
+#EXTINF:-1 tvg-id="NOW.90s.&amp;.00s.uk" tvg-name="NOW 90s &amp; 00s" tvg-logo="" tvg-chno="357" channel-number="357",NOW 90s &amp; 00s
+https://www.sky.com/tv-guide/357
+#EXTINF:-1 tvg-id="NOW.ROCK.uk" tvg-name="NOW ROCK" tvg-logo="" tvg-chno="358" channel-number="358",NOW ROCK
+https://www.sky.com/tv-guide/358
+#EXTINF:-1 tvg-id="SkySpMainEvHD.uk" tvg-name="SkySpMainEvHD" tvg-logo="" tvg-chno="401" channel-number="401",SkySpMainEvHD
+https://www.sky.com/tv-guide/401
+#EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-name="SkySp PL HD" tvg-logo="" tvg-chno="402" channel-number="402",SkySp PL HD
+https://www.sky.com/tv-guide/402
+#EXTINF:-1 tvg-id="SkySp.F'ball.HD.uk" tvg-name="SkySp F'ball HD" tvg-logo="" tvg-chno="403" channel-number="403",SkySp F'ball HD
+https://www.sky.com/tv-guide/403
+#EXTINF:-1 tvg-id="SkySp+.HD.uk" tvg-name="SkySp+ HD" tvg-logo="" tvg-chno="404" channel-number="404",SkySp+ HD
+https://www.sky.com/tv-guide/404
+#EXTINF:-1 tvg-id="SkySpCricket.HD.uk" tvg-name="SkySpCricket HD" tvg-logo="" tvg-chno="405" channel-number="405",SkySpCricket HD
+https://www.sky.com/tv-guide/405
+#EXTINF:-1 tvg-id="SkySp.Golf.HD.uk" tvg-name="SkySp Golf HD" tvg-logo="" tvg-chno="406" channel-number="406",SkySp Golf HD
+https://www.sky.com/tv-guide/406
+#EXTINF:-1 tvg-id="SkySp.F1.HD.uk" tvg-name="SkySp F1 HD" tvg-logo="" tvg-chno="407" channel-number="407",SkySp F1 HD
+https://www.sky.com/tv-guide/407
+#EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-name="SkySp Tennis HD" tvg-logo="" tvg-chno="408" channel-number="408",SkySp Tennis HD
+https://www.sky.com/tv-guide/408
+#EXTINF:-1 tvg-id="SkySp.News.HD.uk" tvg-name="SkySp News HD" tvg-logo="" tvg-chno="409" channel-number="409",SkySp News HD
+https://www.sky.com/tv-guide/409
+#EXTINF:-1 tvg-id="TNTSports1.HD.uk" tvg-name="TNTSports1 HD" tvg-logo="" tvg-chno="410" channel-number="410",TNTSports1 HD
+https://www.sky.com/tv-guide/410
+#EXTINF:-1 tvg-id="TNTSports2.HD.uk" tvg-name="TNTSports2 HD" tvg-logo="" tvg-chno="411" channel-number="411",TNTSports2 HD
+https://www.sky.com/tv-guide/411
+#EXTINF:-1 tvg-id="SkySp.ActionHD.uk" tvg-name="SkySp ActionHD" tvg-logo="" tvg-chno="412" channel-number="412",SkySp ActionHD
+https://www.sky.com/tv-guide/412
+#EXTINF:-1 tvg-id="TNTSports3.HD.uk" tvg-name="TNTSports3 HD" tvg-logo="" tvg-chno="413" channel-number="413",TNTSports3 HD
+https://www.sky.com/tv-guide/413
+#EXTINF:-1 tvg-id="TNTSports4.HD.uk" tvg-name="TNTSports4 HD" tvg-logo="" tvg-chno="414" channel-number="414",TNTSports4 HD
+https://www.sky.com/tv-guide/414
+#EXTINF:-1 tvg-id="SkySp.Racing.HD.uk" tvg-name="SkySp Racing HD" tvg-logo="" tvg-chno="415" channel-number="415",SkySp Racing HD
+https://www.sky.com/tv-guide/415
+#EXTINF:-1 tvg-id="SkySp.Mix.HD.uk" tvg-name="SkySp Mix HD" tvg-logo="" tvg-chno="416" channel-number="416",SkySp Mix HD
+https://www.sky.com/tv-guide/416
+#EXTINF:-1 tvg-id="MUTV.HD.uk" tvg-name="MUTV HD" tvg-logo="" tvg-chno="418" channel-number="418",MUTV HD
+https://www.sky.com/tv-guide/418
+#EXTINF:-1 tvg-id="Premier.1.HD.uk" tvg-name="Premier 1 HD" tvg-logo="" tvg-chno="419" channel-number="419",Premier 1 HD
+https://www.sky.com/tv-guide/419
+#EXTINF:-1 tvg-id="Premier.2.HD.uk" tvg-name="Premier 2 HD" tvg-logo="" tvg-chno="420" channel-number="420",Premier 2 HD
+https://www.sky.com/tv-guide/420
+#EXTINF:-1 tvg-id="LFCTV.HD.uk" tvg-name="LFCTV HD" tvg-logo="" tvg-chno="423" channel-number="423",LFCTV HD
+https://www.sky.com/tv-guide/423
+#EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-name="Racing TV HD" tvg-logo="" tvg-chno="424" channel-number="424",Racing TV HD
+https://www.sky.com/tv-guide/424
+#EXTINF:-1 tvg-id="SkySpBoxOffHD.uk" tvg-name="SkySpBoxOffHD" tvg-logo="" tvg-chno="491" channel-number="491",SkySpBoxOffHD
+https://www.sky.com/tv-guide/491
+#EXTINF:-1 tvg-id="TNTSBoxOff2HD.uk" tvg-name="TNTSBoxOff2HD" tvg-logo="" tvg-chno="494" channel-number="494",TNTSBoxOff2HD
+https://www.sky.com/tv-guide/494
+#EXTINF:-1 tvg-id="Sky.News.HD.uk" tvg-name="Sky News HD" tvg-logo="" tvg-chno="501" channel-number="501",Sky News HD
+https://www.sky.com/tv-guide/501
+#EXTINF:-1 tvg-id="Bloomberg.HD.uk" tvg-name="Bloomberg HD" tvg-logo="" tvg-chno="502" channel-number="502",Bloomberg HD
+https://www.sky.com/tv-guide/502
+#EXTINF:-1 tvg-id="BBC.NEWS.HD.uk" tvg-name="BBC NEWS HD" tvg-logo="" tvg-chno="503" channel-number="503",BBC NEWS HD
+https://www.sky.com/tv-guide/503
+#EXTINF:-1 tvg-id="BBC.Parl.HD.uk" tvg-name="BBC Parl HD" tvg-logo="" tvg-chno="504" channel-number="504",BBC Parl HD
+https://www.sky.com/tv-guide/504
+#EXTINF:-1 tvg-id="CNBC.HD.uk" tvg-name="CNBC HD" tvg-logo="" tvg-chno="505" channel-number="505",CNBC HD
+https://www.sky.com/tv-guide/505
+#EXTINF:-1 tvg-id="CNN.HD.uk" tvg-name="CNN HD" tvg-logo="" tvg-chno="506" channel-number="506",CNN HD
+https://www.sky.com/tv-guide/506
+#EXTINF:-1 tvg-id="NHK.World.HD.uk" tvg-name="NHK World HD" tvg-logo="" tvg-chno="507" channel-number="507",NHK World HD
+https://www.sky.com/tv-guide/507
+#EXTINF:-1 tvg-id="Euronews.uk" tvg-name="Euronews" tvg-logo="" tvg-chno="508" channel-number="508",Euronews
+https://www.sky.com/tv-guide/508
+#EXTINF:-1 tvg-id="NDTV.World.uk" tvg-name="NDTV World" tvg-logo="" tvg-chno="509" channel-number="509",NDTV World
+https://www.sky.com/tv-guide/509
+#EXTINF:-1 tvg-id="FRANCE.24.HD.uk" tvg-name="FRANCE 24 HD" tvg-logo="" tvg-chno="510" channel-number="510",FRANCE 24 HD
+https://www.sky.com/tv-guide/510
+#EXTINF:-1 tvg-id="Al.Jazeera.HD.uk" tvg-name="Al Jazeera HD" tvg-logo="" tvg-chno="511" channel-number="511",Al Jazeera HD
+https://www.sky.com/tv-guide/511
+#EXTINF:-1 tvg-id="GB.News.HD.uk" tvg-name="GB News HD" tvg-logo="" tvg-chno="512" channel-number="512",GB News HD
+https://www.sky.com/tv-guide/512
+#EXTINF:-1 tvg-id="TRT.World.uk" tvg-name="TRT World" tvg-logo="" tvg-chno="513" channel-number="513",TRT World
+https://www.sky.com/tv-guide/513
+#EXTINF:-1 tvg-id="Channels.24.uk" tvg-name="Channels 24" tvg-logo="" tvg-chno="515" channel-number="515",Channels 24
+https://www.sky.com/tv-guide/515
+#EXTINF:-1 tvg-id="Arise.News.uk" tvg-name="Arise News" tvg-logo="" tvg-chno="516" channel-number="516",Arise News
+https://www.sky.com/tv-guide/516
+#EXTINF:-1 tvg-id="Arirang.TV.HD.uk" tvg-name="Arirang TV HD" tvg-logo="" tvg-chno="518" channel-number="518",Arirang TV HD
+https://www.sky.com/tv-guide/518
+#EXTINF:-1 tvg-id="TVC.News.uk" tvg-name="TVC News" tvg-logo="" tvg-chno="520" channel-number="520",TVC News
+https://www.sky.com/tv-guide/520
+#EXTINF:-1 tvg-id="NTD.uk" tvg-name="NTD" tvg-logo="" tvg-chno="521" channel-number="521",NTD
+https://www.sky.com/tv-guide/521
+#EXTINF:-1 tvg-id="DM.News.English.uk" tvg-name="DM News English" tvg-logo="" tvg-chno="522" channel-number="522",DM News English
+https://www.sky.com/tv-guide/522
+#EXTINF:-1 tvg-id="GOD.Channel.uk" tvg-name="GOD Channel" tvg-logo="" tvg-chno="580" channel-number="580",GOD Channel
+https://www.sky.com/tv-guide/580
+#EXTINF:-1 tvg-id="revelation.uk" tvg-name="revelation" tvg-logo="" tvg-chno="581" channel-number="581",revelation
+https://www.sky.com/tv-guide/581
+#EXTINF:-1 tvg-id="TBN.UK.uk" tvg-name="TBN UK" tvg-logo="" tvg-chno="582" channel-number="582",TBN UK
+https://www.sky.com/tv-guide/582
+#EXTINF:-1 tvg-id="DAYSTAR.HD.uk" tvg-name="DAYSTAR HD" tvg-logo="" tvg-chno="583" channel-number="583",DAYSTAR HD
+https://www.sky.com/tv-guide/583
+#EXTINF:-1 tvg-id="LoveWorld.HD.uk" tvg-name="LoveWorld HD" tvg-logo="" tvg-chno="585" channel-number="585",LoveWorld HD
+https://www.sky.com/tv-guide/585
+#EXTINF:-1 tvg-id="Faith.World.TV.uk" tvg-name="Faith World TV" tvg-logo="" tvg-chno="588" channel-number="588",Faith World TV
+https://www.sky.com/tv-guide/588
+#EXTINF:-1 tvg-id="Dunamis.TV.uk" tvg-name="Dunamis TV" tvg-logo="" tvg-chno="592" channel-number="592",Dunamis TV
+https://www.sky.com/tv-guide/592
+#EXTINF:-1 tvg-id="SonLife.uk" tvg-name="SonLife" tvg-logo="" tvg-chno="593" channel-number="593",SonLife
+https://www.sky.com/tv-guide/593
+#EXTINF:-1 tvg-id="Cartoon.Net.HD.uk" tvg-name="Cartoon Net HD" tvg-logo="" tvg-chno="601" channel-number="601",Cartoon Net HD
+https://www.sky.com/tv-guide/601
+#EXTINF:-1 tvg-id="CN+1.uk" tvg-name="CN+1" tvg-logo="" tvg-chno="602" channel-number="602",CN+1
+https://www.sky.com/tv-guide/602
+#EXTINF:-1 tvg-id="Boomerang.uk" tvg-name="Boomerang" tvg-logo="" tvg-chno="603" channel-number="603",Boomerang
+https://www.sky.com/tv-guide/603
+#EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="NickelodeonHD" tvg-logo="" tvg-chno="604" channel-number="604",NickelodeonHD
+https://www.sky.com/tv-guide/604
+#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="" tvg-chno="605" channel-number="605",Nicktoons
+https://www.sky.com/tv-guide/605
+#EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. HD" tvg-logo="" tvg-chno="606" channel-number="606",Nick Jr. HD
+https://www.sky.com/tv-guide/606
+#EXTINF:-1 tvg-id="CBBC.HD.uk" tvg-name="CBBC HD" tvg-logo="" tvg-chno="607" channel-number="607",CBBC HD
+https://www.sky.com/tv-guide/607
+#EXTINF:-1 tvg-id="CBeebies.HD.uk" tvg-name="CBeebies HD" tvg-logo="" tvg-chno="608" channel-number="608",CBeebies HD
+https://www.sky.com/tv-guide/608
+#EXTINF:-1 tvg-id="Sky.Kids.HD.uk" tvg-name="Sky Kids HD" tvg-logo="" tvg-chno="609" channel-number="609",Sky Kids HD
+https://www.sky.com/tv-guide/609
+#EXTINF:-1 tvg-id="Cartoonito.uk" tvg-name="Cartoonito" tvg-logo="" tvg-chno="610" channel-number="610",Cartoonito
+https://www.sky.com/tv-guide/610
+#EXTINF:-1 tvg-id="Boomerang+1.uk" tvg-name="Boomerang+1" tvg-logo="" tvg-chno="611" channel-number="611",Boomerang+1
+https://www.sky.com/tv-guide/611
+#EXTINF:-1 tvg-id="NickJrPAWPatrol.uk" tvg-name="NickJrPAWPatrol" tvg-logo="" tvg-chno="612" channel-number="612",NickJrPAWPatrol
+https://www.sky.com/tv-guide/612
+#EXTINF:-1 tvg-id="Disney.Jr.HD.uk" tvg-name="Disney Jr HD" tvg-logo="" tvg-chno="613" channel-number="613",Disney Jr HD
+https://www.sky.com/tv-guide/613
+#EXTINF:-1 tvg-id="Nickelodeon+1.uk" tvg-name="Nickelodeon+1" tvg-logo="" tvg-chno="615" channel-number="615",Nickelodeon+1
+https://www.sky.com/tv-guide/615
+#EXTINF:-1 tvg-id="Nick.Jr+1.uk" tvg-name="Nick Jr+1" tvg-logo="" tvg-chno="619" channel-number="619",Nick Jr+1
+https://www.sky.com/tv-guide/619
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="BabyTV" tvg-logo="" tvg-chno="623" channel-number="623",BabyTV
+https://www.sky.com/tv-guide/623
+#EXTINF:-1 tvg-id="Cartoon.Netwrk.uk" tvg-name="Cartoon Netwrk" tvg-logo="" tvg-chno="640" channel-number="640",Cartoon Netwrk
+https://www.sky.com/tv-guide/640
+#EXTINF:-1 tvg-id="Nickelodeon.uk" tvg-name="Nickelodeon" tvg-logo="" tvg-chno="642" channel-number="642",Nickelodeon
+https://www.sky.com/tv-guide/642
+#EXTINF:-1 tvg-id="QVC.HD.uk" tvg-name="QVC HD" tvg-logo="" tvg-chno="660" channel-number="660",QVC HD
+https://www.sky.com/tv-guide/660
+#EXTINF:-1 tvg-id="MstHveIdeasHD.uk" tvg-name="MstHveIdeasHD" tvg-logo="" tvg-chno="661" channel-number="661",MstHveIdeasHD
+https://www.sky.com/tv-guide/661
+#EXTINF:-1 tvg-id="TJC.HD.uk" tvg-name="TJC HD" tvg-logo="" tvg-chno="662" channel-number="662",TJC HD
+https://www.sky.com/tv-guide/662
+#EXTINF:-1 tvg-id="QVC.Beauty.uk" tvg-name="QVC Beauty" tvg-logo="" tvg-chno="663" channel-number="663",QVC Beauty
+https://www.sky.com/tv-guide/663
+#EXTINF:-1 tvg-id="QVC.Style.HD.uk" tvg-name="QVC Style HD" tvg-logo="" tvg-chno="664" channel-number="664",QVC Style HD
+https://www.sky.com/tv-guide/664
+#EXTINF:-1 tvg-id="Gemporia.HD.uk" tvg-name="Gemporia HD" tvg-logo="" tvg-chno="665" channel-number="665",Gemporia HD
+https://www.sky.com/tv-guide/665
+#EXTINF:-1 tvg-id="High.Street.TV.1.uk" tvg-name="High Street TV 1" tvg-logo="" tvg-chno="666" channel-number="666",High Street TV 1
+https://www.sky.com/tv-guide/666
+#EXTINF:-1 tvg-id="High.Street.TV.2.uk" tvg-name="High Street TV 2" tvg-logo="" tvg-chno="667" channel-number="667",High Street TV 2
+https://www.sky.com/tv-guide/667
+#EXTINF:-1 tvg-id="Ideal.World.HD.uk" tvg-name="Ideal World HD" tvg-logo="" tvg-chno="668" channel-number="668",Ideal World HD
+https://www.sky.com/tv-guide/668
+#EXTINF:-1 tvg-id="Best.Direct.uk" tvg-name="Best Direct" tvg-logo="" tvg-chno="669" channel-number="669",Best Direct
+https://www.sky.com/tv-guide/669
+#EXTINF:-1 tvg-id="HobbyMakerHD.uk" tvg-name="HobbyMakerHD" tvg-logo="" tvg-chno="670" channel-number="670",HobbyMakerHD
+https://www.sky.com/tv-guide/670
+#EXTINF:-1 tvg-id="QVC.Extra.uk" tvg-name="QVC Extra" tvg-logo="" tvg-chno="671" channel-number="671",QVC Extra
+https://www.sky.com/tv-guide/671
+#EXTINF:-1 tvg-id="Shop.Unlimited.uk" tvg-name="Shop Unlimited" tvg-logo="" tvg-chno="672" channel-number="672",Shop Unlimited
+https://www.sky.com/tv-guide/672
+#EXTINF:-1 tvg-id="TV.Warehouse.uk" tvg-name="TV Warehouse" tvg-logo="" tvg-chno="673" channel-number="673",TV Warehouse
+https://www.sky.com/tv-guide/673
+#EXTINF:-1 tvg-id="JewelleryMaker.uk" tvg-name="JewelleryMaker" tvg-logo="" tvg-chno="674" channel-number="674",JewelleryMaker
+https://www.sky.com/tv-guide/674
+#EXTINF:-1 tvg-id="Cruise1st.tv.uk" tvg-name="Cruise1st.tv" tvg-logo="" tvg-chno="675" channel-number="675",Cruise1st.tv
+https://www.sky.com/tv-guide/675
+#EXTINF:-1 tvg-id="B4U.Movies.uk" tvg-name="B4U Movies" tvg-logo="" tvg-chno="701" channel-number="701",B4U Movies
+https://www.sky.com/tv-guide/701
+#EXTINF:-1 tvg-id="B4U.Music.uk" tvg-name="B4U Music" tvg-logo="" tvg-chno="702" channel-number="702",B4U Music
+https://www.sky.com/tv-guide/702
+#EXTINF:-1 tvg-id="SONY.TV.HD.uk" tvg-name="SONY TV HD" tvg-logo="" tvg-chno="703" channel-number="703",SONY TV HD
+https://www.sky.com/tv-guide/703
+#EXTINF:-1 tvg-id="Utsav.Bharat.uk" tvg-name="Utsav Bharat" tvg-logo="" tvg-chno="704" channel-number="704",Utsav Bharat
+https://www.sky.com/tv-guide/704
+#EXTINF:-1 tvg-id="Utsav.Plus.HD.uk" tvg-name="Utsav Plus HD" tvg-logo="" tvg-chno="705" channel-number="705",Utsav Plus HD
+https://www.sky.com/tv-guide/705
+#EXTINF:-1 tvg-id="COLORS.HD.uk" tvg-name="COLORS HD" tvg-logo="" tvg-chno="706" channel-number="706",COLORS HD
+https://www.sky.com/tv-guide/706
+#EXTINF:-1 tvg-id="Zee.TV.HD.uk" tvg-name="Zee TV HD" tvg-logo="" tvg-chno="707" channel-number="707",Zee TV HD
+https://www.sky.com/tv-guide/707
+#EXTINF:-1 tvg-id="Zee.Cinema.uk" tvg-name="Zee Cinema" tvg-logo="" tvg-chno="708" channel-number="708",Zee Cinema
+https://www.sky.com/tv-guide/708
+#EXTINF:-1 tvg-id="APNA.MA.TV.uk" tvg-name="APNA MA TV" tvg-logo="" tvg-chno="709" channel-number="709",APNA MA TV
+https://www.sky.com/tv-guide/709
+#EXTINF:-1 tvg-id="AAJ.TAK.uk" tvg-name="AAJ TAK" tvg-logo="" tvg-chno="710" channel-number="710",AAJ TAK
+https://www.sky.com/tv-guide/710
+#EXTINF:-1 tvg-id="ColorsRishtey.uk" tvg-name="ColorsRishtey" tvg-logo="" tvg-chno="712" channel-number="712",ColorsRishtey
+https://www.sky.com/tv-guide/712
+#EXTINF:-1 tvg-id="ColorsCineplex.uk" tvg-name="ColorsCineplex" tvg-logo="" tvg-chno="713" channel-number="713",ColorsCineplex
+https://www.sky.com/tv-guide/713
+#EXTINF:-1 tvg-id="SONY.MAX.HD.uk" tvg-name="SONY MAX HD" tvg-logo="" tvg-chno="714" channel-number="714",SONY MAX HD
+https://www.sky.com/tv-guide/714
+#EXTINF:-1 tvg-id="Utsav.Gold.HD.uk" tvg-name="Utsav Gold HD" tvg-logo="" tvg-chno="715" channel-number="715",Utsav Gold HD
+https://www.sky.com/tv-guide/715
+#EXTINF:-1 tvg-id="SONY.SAB.uk" tvg-name="SONY SAB" tvg-logo="" tvg-chno="716" channel-number="716",SONY SAB
+https://www.sky.com/tv-guide/716
+#EXTINF:-1 tvg-id="SONY.MAX.2.uk" tvg-name="SONY MAX 2" tvg-logo="" tvg-chno="717" channel-number="717",SONY MAX 2
+https://www.sky.com/tv-guide/717
+#EXTINF:-1 tvg-id="Aastha.uk" tvg-name="Aastha" tvg-logo="" tvg-chno="718" channel-number="718",Aastha
+https://www.sky.com/tv-guide/718
+#EXTINF:-1 tvg-id="Sanskar.uk" tvg-name="Sanskar" tvg-logo="" tvg-chno="719" channel-number="719",Sanskar
+https://www.sky.com/tv-guide/719
+#EXTINF:-1 tvg-id="MTA1.World.HD.uk" tvg-name="MTA1 World HD" tvg-logo="" tvg-chno="731" channel-number="731",MTA1 World HD
+https://www.sky.com/tv-guide/731
+#EXTINF:-1 tvg-id="HUM.News.uk" tvg-name="HUM News" tvg-logo="" tvg-chno="732" channel-number="732",HUM News
+https://www.sky.com/tv-guide/732
+#EXTINF:-1 tvg-id="GEO.News.uk" tvg-name="GEO News" tvg-logo="" tvg-chno="734" channel-number="734",GEO News
+https://www.sky.com/tv-guide/734
+#EXTINF:-1 tvg-id="New.Vision.TV.uk" tvg-name="New Vision TV" tvg-logo="" tvg-chno="735" channel-number="735",New Vision TV
+https://www.sky.com/tv-guide/735
+#EXTINF:-1 tvg-id="Islam.Channel.uk" tvg-name="Islam Channel" tvg-logo="" tvg-chno="736" channel-number="736",Islam Channel
+https://www.sky.com/tv-guide/736
+#EXTINF:-1 tvg-id="GEO.TV.uk" tvg-name="GEO TV" tvg-logo="" tvg-chno="737" channel-number="737",GEO TV
+https://www.sky.com/tv-guide/737
+#EXTINF:-1 tvg-id="Noor.TV.uk" tvg-name="Noor TV" tvg-logo="" tvg-chno="738" channel-number="738",Noor TV
+https://www.sky.com/tv-guide/738
+#EXTINF:-1 tvg-id="IQRA.TV.uk" tvg-name="IQRA TV" tvg-logo="" tvg-chno="739" channel-number="739",IQRA TV
+https://www.sky.com/tv-guide/739
+#EXTINF:-1 tvg-id="Islam.TV.uk" tvg-name="Islam TV" tvg-logo="" tvg-chno="741" channel-number="741",Islam TV
+https://www.sky.com/tv-guide/741
+#EXTINF:-1 tvg-id="Ahlebait.TV.uk" tvg-name="Ahlebait TV" tvg-logo="" tvg-chno="742" channel-number="742",Ahlebait TV
+https://www.sky.com/tv-guide/742
+#EXTINF:-1 tvg-id="Takbeer.TV.uk" tvg-name="Takbeer TV" tvg-logo="" tvg-chno="743" channel-number="743",Takbeer TV
+https://www.sky.com/tv-guide/743
+#EXTINF:-1 tvg-id="HUM.EUROPE.uk" tvg-name="HUM EUROPE" tvg-logo="" tvg-chno="744" channel-number="744",HUM EUROPE
+https://www.sky.com/tv-guide/744
+#EXTINF:-1 tvg-id="Islam.Ch.Urdu.uk" tvg-name="Islam Ch Urdu" tvg-logo="" tvg-chno="745" channel-number="745",Islam Ch Urdu
+https://www.sky.com/tv-guide/745
+#EXTINF:-1 tvg-id="Madani.Chnl.uk" tvg-name="Madani Chnl" tvg-logo="" tvg-chno="746" channel-number="746",Madani Chnl
+https://www.sky.com/tv-guide/746
+#EXTINF:-1 tvg-id="Eman.Channel.uk" tvg-name="Eman Channel" tvg-logo="" tvg-chno="747" channel-number="747",Eman Channel
+https://www.sky.com/tv-guide/747
+#EXTINF:-1 tvg-id="ARY.Digital.uk" tvg-name="ARY Digital" tvg-logo="" tvg-chno="748" channel-number="748",ARY Digital
+https://www.sky.com/tv-guide/748
+#EXTINF:-1 tvg-id="QTV.Religious.uk" tvg-name="QTV Religious" tvg-logo="" tvg-chno="751" channel-number="751",QTV Religious
+https://www.sky.com/tv-guide/751
+#EXTINF:-1 tvg-id="PTC.PUNJABI.uk" tvg-name="PTC PUNJABI" tvg-logo="" tvg-chno="760" channel-number="760",PTC PUNJABI
+https://www.sky.com/tv-guide/760
+#EXTINF:-1 tvg-id="Panjab.TV.uk" tvg-name="Panjab TV" tvg-logo="" tvg-chno="761" channel-number="761",Panjab TV
+https://www.sky.com/tv-guide/761
+#EXTINF:-1 tvg-id="Sikh.Channel.uk" tvg-name="Sikh Channel" tvg-logo="" tvg-chno="762" channel-number="762",Sikh Channel
+https://www.sky.com/tv-guide/762
+#EXTINF:-1 tvg-id="Sangat.uk" tvg-name="Sangat" tvg-logo="" tvg-chno="763" channel-number="763",Sangat
+https://www.sky.com/tv-guide/763
+#EXTINF:-1 tvg-id="Akaal.Channel.uk" tvg-name="Akaal Channel" tvg-logo="" tvg-chno="764" channel-number="764",Akaal Channel
+https://www.sky.com/tv-guide/764
+#EXTINF:-1 tvg-id="Kanshi.TV.uk" tvg-name="Kanshi TV" tvg-logo="" tvg-chno="765" channel-number="765",Kanshi TV
+https://www.sky.com/tv-guide/765
+#EXTINF:-1 tvg-id="Pitaara.uk" tvg-name="Pitaara" tvg-logo="" tvg-chno="766" channel-number="766",Pitaara
+https://www.sky.com/tv-guide/766
+#EXTINF:-1 tvg-id="PoliticsPunjab.uk" tvg-name="PoliticsPunjab" tvg-logo="" tvg-chno="767" channel-number="767",PoliticsPunjab
+https://www.sky.com/tv-guide/767
+#EXTINF:-1 tvg-id="PBC.uk" tvg-name="PBC" tvg-logo="" tvg-chno="768" channel-number="768",PBC
+https://www.sky.com/tv-guide/768
+#EXTINF:-1 tvg-id="Zee.Punjabi.uk" tvg-name="Zee Punjabi" tvg-logo="" tvg-chno="769" channel-number="769",Zee Punjabi
+https://www.sky.com/tv-guide/769
+#EXTINF:-1 tvg-id="GTC.Punjabi.uk" tvg-name="GTC Punjabi" tvg-logo="" tvg-chno="770" channel-number="770",GTC Punjabi
+https://www.sky.com/tv-guide/770
+#EXTINF:-1 tvg-id="CHSTV.uk" tvg-name="CHSTV" tvg-logo="" tvg-chno="777" channel-number="777",CHSTV
+https://www.sky.com/tv-guide/777
+#EXTINF:-1 tvg-id="IQRA.Bangla.uk" tvg-name="IQRA Bangla" tvg-logo="" tvg-chno="778" channel-number="778",IQRA Bangla
+https://www.sky.com/tv-guide/778
+#EXTINF:-1 tvg-id="ATN.uk" tvg-name="ATN" tvg-logo="" tvg-chno="779" channel-number="779",ATN
+https://www.sky.com/tv-guide/779
+#EXTINF:-1 tvg-id="NTV.uk" tvg-name="NTV" tvg-logo="" tvg-chno="780" channel-number="780",NTV
+https://www.sky.com/tv-guide/780
+#EXTINF:-1 tvg-id="TV.One.uk" tvg-name="TV One" tvg-logo="" tvg-chno="781" channel-number="781",TV One
+https://www.sky.com/tv-guide/781
+#EXTINF:-1 tvg-id="iON.TV.uk" tvg-name="iON TV" tvg-logo="" tvg-chno="782" channel-number="782",iON TV
+https://www.sky.com/tv-guide/782
+#EXTINF:-1 tvg-id="Deen.TV.uk" tvg-name="Deen TV" tvg-logo="" tvg-chno="783" channel-number="783",Deen TV
+https://www.sky.com/tv-guide/783
+#EXTINF:-1 tvg-id="SkyNewsArabia.uk" tvg-name="SkyNewsArabia" tvg-logo="" tvg-chno="788" channel-number="788",SkyNewsArabia
+https://www.sky.com/tv-guide/788
+#EXTINF:-1 tvg-id="PCNE.Chinese.HD.uk" tvg-name="PCNE Chinese HD" tvg-logo="" tvg-chno="789" channel-number="789",PCNE Chinese HD
+https://www.sky.com/tv-guide/789
+#EXTINF:-1 tvg-id="ColorsGujarati.uk" tvg-name="ColorsGujarati" tvg-logo="" tvg-chno="790" channel-number="790",ColorsGujarati
+https://www.sky.com/tv-guide/790
+#EXTINF:-1 tvg-id="ComedyCentral.uk" tvg-name="ComedyCentral" tvg-logo="" tvg-chno="812" channel-number="812",ComedyCentral
+https://www.sky.com/tv-guide/812
+#EXTINF:-1 tvg-id="SkyDocumntrs.uk" tvg-name="SkyDocumntrs" tvg-logo="" tvg-chno="814" channel-number="814",SkyDocumntrs
+https://www.sky.com/tv-guide/814
+#EXTINF:-1 tvg-id="Sky.History.uk" tvg-name="Sky History" tvg-logo="" tvg-chno="821" channel-number="821",Sky History
+https://www.sky.com/tv-guide/821
+#EXTINF:-1 tvg-id="BBC.One.NE.HD.uk" tvg-name="BBC One NE HD" tvg-logo="" tvg-chno="952" channel-number="952",BBC One NE HD
+https://www.sky.com/tv-guide/952
+#EXTINF:-1 tvg-id="BBC.One.NW.HD.uk" tvg-name="BBC One NW HD" tvg-logo="" tvg-chno="953" channel-number="953",BBC One NW HD
+https://www.sky.com/tv-guide/953
+#EXTINF:-1 tvg-id="BBC.One.Yks.HD.uk" tvg-name="BBC One Yks HD" tvg-logo="" tvg-chno="954" channel-number="954",BBC One Yks HD
+https://www.sky.com/tv-guide/954
+#EXTINF:-1 tvg-id="BBC.One.Y&amp;L.HD.uk" tvg-name="BBC One Y&amp;L HD" tvg-logo="" tvg-chno="955" channel-number="955",BBC One Y&amp;L HD
+https://www.sky.com/tv-guide/955
+#EXTINF:-1 tvg-id="BBC.One.WM.HD.uk" tvg-name="BBC One WM HD" tvg-logo="" tvg-chno="956" channel-number="956",BBC One WM HD
+https://www.sky.com/tv-guide/956
+#EXTINF:-1 tvg-id="BBC.One.EMidHD.uk" tvg-name="BBC One EMidHD" tvg-logo="" tvg-chno="957" channel-number="957",BBC One EMidHD
+https://www.sky.com/tv-guide/957
+#EXTINF:-1 tvg-id="BBC.One.EastHD.uk" tvg-name="BBC One EastHD" tvg-logo="" tvg-chno="958" channel-number="958",BBC One EastHD
+https://www.sky.com/tv-guide/958
+#EXTINF:-1 tvg-id="BBC.One.SE.HD.uk" tvg-name="BBC One SE HD" tvg-logo="" tvg-chno="959" channel-number="959",BBC One SE HD
+https://www.sky.com/tv-guide/959
+#EXTINF:-1 tvg-id="BBC.One.Wst.HD.uk" tvg-name="BBC One Wst HD" tvg-logo="" tvg-chno="960" channel-number="960",BBC One Wst HD
+https://www.sky.com/tv-guide/960
+#EXTINF:-1 tvg-id="BBC.One.Sth.HD.uk" tvg-name="BBC One Sth HD" tvg-logo="" tvg-chno="961" channel-number="961",BBC One Sth HD
+https://www.sky.com/tv-guide/961
+#EXTINF:-1 tvg-id="BBC.One.SW.HD.uk" tvg-name="BBC One SW HD" tvg-logo="" tvg-chno="962" channel-number="962",BBC One SW HD
+https://www.sky.com/tv-guide/962
+#EXTINF:-1 tvg-id="BBC.One.CI.HD.uk" tvg-name="BBC One CI HD" tvg-logo="" tvg-chno="963" channel-number="963",BBC One CI HD
+https://www.sky.com/tv-guide/963
+#EXTINF:-1 tvg-id="BBC.One.ScotHD.uk" tvg-name="BBC One ScotHD" tvg-logo="" tvg-chno="964" channel-number="964",BBC One ScotHD
+https://www.sky.com/tv-guide/964
+#EXTINF:-1 tvg-id="BBC.One.Wal.HD.uk" tvg-name="BBC One Wal HD" tvg-logo="" tvg-chno="965" channel-number="965",BBC One Wal HD
+https://www.sky.com/tv-guide/965
+#EXTINF:-1 tvg-id="BBC.One.NI.HD.uk" tvg-name="BBC One NI HD" tvg-logo="" tvg-chno="966" channel-number="966",BBC One NI HD
+https://www.sky.com/tv-guide/966
+#EXTINF:-1 tvg-id="BBC.Two.Wal.HD.uk" tvg-name="BBC Two Wal HD" tvg-logo="" tvg-chno="968" channel-number="968",BBC Two Wal HD
+https://www.sky.com/tv-guide/968
+#EXTINF:-1 tvg-id="BBC.Two.NI.HD.uk" tvg-name="BBC Two NI HD" tvg-logo="" tvg-chno="969" channel-number="969",BBC Two NI HD
+https://www.sky.com/tv-guide/969
+#EXTINF:-1 tvg-id="BBC.RB.1.HD.uk" tvg-name="BBC RB 1 HD" tvg-logo="" tvg-chno="970" channel-number="970",BBC RB 1 HD
+https://www.sky.com/tv-guide/970
+#EXTINF:-1 tvg-id="Chl.Line-up.uk" tvg-name="Chl Line-up" tvg-logo="" tvg-chno="996" channel-number="996",Chl Line-up
+https://www.sky.com/tv-guide/996
+#EXTINF:-1 tvg-id="My.Sky.uk" tvg-name="My Sky" tvg-logo="" tvg-chno="2049" channel-number="2049",My Sky
+https://www.sky.com/tv-guide/2049
+#EXTINF:-1 tvg-id="Reset.your.PIN.uk" tvg-name="Reset your PIN" tvg-logo="" tvg-chno="4902" channel-number="4902",Reset your PIN
+https://www.sky.com/tv-guide/4902
+#EXTINF:-1 tvg-id="My.Account.uk" tvg-name="My Account" tvg-logo="" tvg-chno="4903" channel-number="4903",My Account
+https://www.sky.com/tv-guide/4903
+#EXTINF:-1 tvg-id="Get.Sky.Products.uk" tvg-name="Get Sky Products" tvg-logo="" tvg-chno="4904" channel-number="4904",Get Sky Products
+https://www.sky.com/tv-guide/4904
+#EXTINF:-1 tvg-id="Help.and.Support.uk" tvg-name="Help and Support" tvg-logo="" tvg-chno="4905" channel-number="4905",Help and Support
+https://www.sky.com/tv-guide/4905
+#EXTINF:-1 tvg-id="Program.Your.Remote.uk" tvg-name="Program Your Remote" tvg-logo="" tvg-chno="4906" channel-number="4906",Program Your Remote
+https://www.sky.com/tv-guide/4906
