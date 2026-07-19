@@ -13,6 +13,8 @@ https://www.movistarplus.es/canal/telecinco?id=t5
 https://www.movistarplus.es/canal/la-sexta?id=sexta
 #EXTINF:-1 tvg-id="Movistar.Plus.es" tvg-name="Movistar Plus" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" tvg-chno="07" channel-number="07",Movistar Plus
 https://www.movistarplus.es/canal/movistar-plus?id=mplus
+#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-chno="08" channel-number="08",M+ Vamos
+https://www.movistarplus.es/canal/m-plus-vamos?id=vamosd
 #EXTINF:-1 tvg-id="7.TV.Región.Murcia.es" tvg-name="7 TV Región Murcia" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/7TVMUR.png" tvg-chno="09" channel-number="09",7 TV Región Murcia
 https://www.movistarplus.es/canal/7-tv-region-murcia?id=7tvmur
 #EXTINF:-1 tvg-id="Aragón.TV.es" tvg-name="Aragón TV" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png" tvg-chno="09" channel-number="09",Aragón TV
@@ -127,8 +129,6 @@ https://www.movistarplus.es/canal/factoria-de-ficcion?id=fdfic
 https://www.movistarplus.es/canal/neox?id=neox
 #EXTINF:-1 tvg-id="Atreseries.es" tvg-name="Atreseries" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" tvg-chno="49" channel-number="49",Atreseries
 https://www.movistarplus.es/canal/atreseries?id=atress
-#EXTINF:-1 tvg-id="M+.Vamos.es" tvg-name="M+ Vamos" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" tvg-chno="50" channel-number="50",M+ Vamos
-https://www.movistarplus.es/canal/m-plus-vamos?id=vamosd
 #EXTINF:-1 tvg-id="M+.Vamos.2.es" tvg-name="M+ Vamos 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" tvg-chno="51" channel-number="51",M+ Vamos 2
 https://www.movistarplus.es/canal/m-plus-vamos-2?id=vam2sd
 #EXTINF:-1 tvg-id="M+.Vamos.3.es" tvg-name="M+ Vamos 3" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" tvg-chno="52" channel-number="52",M+ Vamos 3
