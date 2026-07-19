@@ -791,7 +791,7 @@ https://tv.sfr.fr/direct-tv/atv-avrupa
 https://tv.sfr.fr/direct-tv/kanal-7-avrupa
 #EXTINF:-1 tvg-id="TV8.International.fr" tvg-name="TV8 International" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/TV8_International_color.png" tvg-chno="826" channel-number="826",TV8 International
 https://tv.sfr.fr/direct-tv/tv8-international
-#EXTINF:-1 tvg-id="SAUDI.CHANNEL.1.fr" tvg-name="SAUDI CHANNEL 1" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/9/3/2/15178239.jpg" tvg-chno="832" channel-number="832",SAUDI CHANNEL 1
+#EXTINF:-1 tvg-id="SAUDI.CHANNEL.1.fr" tvg-name="SAUDI CHANNEL 1" tvg-logo="" tvg-chno="832" channel-number="832",SAUDI CHANNEL 1
 https://tv.sfr.fr/direct-tv/saudi-channel-1
 #EXTINF:-1 tvg-id="A+.fr" tvg-name="A+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100couleurA.png" tvg-chno="838" channel-number="838",A+
 https://tv.sfr.fr/direct-tv/a
@@ -869,9 +869,9 @@ https://tv.sfr.fr/direct-tv/dragon-tv
 https://tv.sfr.fr/direct-tv/great-wall-elite
 #EXTINF:-1 tvg-id="Zhejiang.Star.TV.fr" tvg-name="Zhejiang Star TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/ZHEJIANGSTV100x100couleur.png" tvg-chno="888" channel-number="888",Zhejiang Star TV
 https://tv.sfr.fr/direct-tv/zhejiang-star-tv
-#EXTINF:-1 tvg-id="TEST.fr" tvg-name="TEST" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/2/7/4/15305472.jpg" tvg-chno="901" channel-number="901",TEST
+#EXTINF:-1 tvg-id="TEST.fr" tvg-name="TEST" tvg-logo="" tvg-chno="901" channel-number="901",TEST
 https://tv.sfr.fr/direct-tv/test
-#EXTINF:-1 tvg-id="TEST2.fr" tvg-name="TEST2" tvg-logo="http://static-cdn.tv.sfr.net/data/img/pl/1/6/9/15525961.jpg" tvg-chno="902" channel-number="902",TEST2
+#EXTINF:-1 tvg-id="TEST2.fr" tvg-name="TEST2" tvg-logo="" tvg-chno="902" channel-number="902",TEST2
 https://tv.sfr.fr/direct-tv/test2
 #EXTINF:-1 tvg-id="GRT.GBA.Satellite.TV.fr" tvg-name="GRT GBA Satellite TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/GRTGBASatelliteTV100x100couleur.png" tvg-chno="916" channel-number="916",GRT GBA Satellite TV
 https://tv.sfr.fr/direct-tv/grt-gba-satellite-tv
