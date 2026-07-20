@@ -311,7 +311,7 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20284/broadcasts/day/0?channelPosition=155
 #EXTINF:-1 tvg-id="E!.ENTERTAINMENT.pl" tvg-name="E! ENTERTAINMENT" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20605/ncplus-ouah/CHN43FB/E_LOGO_Flat_black_solid_ouah" tvg-chno="224" channel-number="224",E! ENTERTAINMENT
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20605/broadcasts/day/0?channelPosition=156
-#EXTINF:-1 tvg-id="Active.Family.pl" tvg-name="Active Family" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20907/ncplus-ouah/CHN43FB/Active_Family_29-9BGR" tvg-chno="225" channel-number="225",Active Family
+#EXTINF:-1 tvg-id="Active.Family.pl" tvg-name="Active Family" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20907/ncplus-ouah/CHN43FB/Active_Family_29-kar31-3lZN" tvg-chno="225" channel-number="225",Active Family
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20907/broadcasts/day/0?channelPosition=157
 #EXTINF:-1 tvg-id="POLSAT.CRIME.&.INVESTIGATION.pl" tvg-name="POLSAT CRIME & INVESTIGATION" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20811/CHN43FB/polsatCrime_640_480_0503.png" tvg-chno="227" channel-number="227",POLSAT CRIME & INVESTIGATION
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/20811/broadcasts/day/0?channelPosition=158
@@ -495,11 +495,25 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/21465/broadcasts/day/0?channelPosition=251
 #EXTINF:-1 tvg-id="Program.18.pl" tvg-name="Program 18" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21466/ncplus-ouah/CHN43FB/test18-CYlv" tvg-chno="733" channel-number="733",Program 18
 https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/21466/broadcasts/day/0?channelPosition=252
+#EXTINF:-1 tvg-id="Program.93.pl" tvg-name="Program 93" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22081/ncplus-ouah/CHN43FB/test93-74O0" tvg-chno="793" channel-number="793",Program 93
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22081/broadcasts/day/0?channelPosition=253
+#EXTINF:-1 tvg-id="Program.94.pl" tvg-name="Program 94" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22082/ncplus-ouah/CHN43FB/test94-o0gE" tvg-chno="794" channel-number="794",Program 94
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22082/broadcasts/day/0?channelPosition=254
+#EXTINF:-1 tvg-id="Program.95.pl" tvg-name="Program 95" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22083/ncplus-ouah/CHN43FB/test95-D-xM" tvg-chno="795" channel-number="795",Program 95
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22083/broadcasts/day/0?channelPosition=255
+#EXTINF:-1 tvg-id="Program.96.pl" tvg-name="Program 96" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22084/ncplus-ouah/CHN43FB/test96-EsVf" tvg-chno="796" channel-number="796",Program 96
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22084/broadcasts/day/0?channelPosition=256
+#EXTINF:-1 tvg-id="Program.97.pl" tvg-name="Program 97" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22085/ncplus-ouah/CHN43FB/test97-9fjR" tvg-chno="797" channel-number="797",Program 97
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22085/broadcasts/day/0?channelPosition=257
+#EXTINF:-1 tvg-id="Program.98.pl" tvg-name="Program 98" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22086/ncplus-ouah/CHN43FB/test98-LrC9" tvg-chno="798" channel-number="798",Program 98
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22086/broadcasts/day/0?channelPosition=258
+#EXTINF:-1 tvg-id="Program.99.pl" tvg-name="Program 99" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22087/ncplus-ouah/CHN43FB/test99-97qN" tvg-chno="799" channel-number="799",Program 99
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22087/broadcasts/day/0?channelPosition=259
 #EXTINF:-1 tvg-id="CANAL+.LIVE.1.pl" tvg-name="CANAL+ LIVE 1" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24001/ncplus-ouah/CHN43FB/CANAL_Live1_2000x1500-mBzp" tvg-chno="900" channel-number="900",CANAL+ LIVE 1
-https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24001/broadcasts/day/0?channelPosition=253
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24001/broadcasts/day/0?channelPosition=260
 #EXTINF:-1 tvg-id="CANAL+.LIVE.2.pl" tvg-name="CANAL+ LIVE 2" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24002/ncplus-ouah/CHN43FB/CANAL_Live2_2000x1500-cIj8" tvg-chno="901" channel-number="901",CANAL+ LIVE 2
-https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24002/broadcasts/day/0?channelPosition=254
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24002/broadcasts/day/0?channelPosition=261
 #EXTINF:-1 tvg-id="CANAL+.LIVE.3.pl" tvg-name="CANAL+ LIVE 3" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24003/ncplus-ouah/CHN43FB/CANAL_Live3_2000x1500-ydq_" tvg-chno="902" channel-number="902",CANAL+ LIVE 3
-https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24003/broadcasts/day/0?channelPosition=255
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24003/broadcasts/day/0?channelPosition=262
 #EXTINF:-1 tvg-id="CANAL+.LIVE.4.pl" tvg-name="CANAL+ LIVE 4" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24004/ncplus-ouah/CHN43FB/CANAL_Live4_2000x1500-pFBA" tvg-chno="903" channel-number="903",CANAL+ LIVE 4
-https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24004/broadcasts/day/0?channelPosition=256
+https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24004/broadcasts/day/0?channelPosition=263
