@@ -299,7 +299,7 @@ https://www.sky.com/tv-guide/267
 https://www.sky.com/tv-guide/301
 #EXTINF:-1 tvg-id="2026RecapHD.uk" tvg-name="2026RecapHD" tvg-logo="" tvg-chno="302" channel-number="302",2026RecapHD
 https://www.sky.com/tv-guide/302
-#EXTINF:-1 tvg-id="SkyDirectorsHD.uk" tvg-name="SkyDirectorsHD" tvg-logo="" tvg-chno="303" channel-number="303",SkyDirectorsHD
+#EXTINF:-1 tvg-id="SkyKarateKidHD.uk" tvg-name="SkyKarateKidHD" tvg-logo="" tvg-chno="303" channel-number="303",SkyKarateKidHD
 https://www.sky.com/tv-guide/303
 #EXTINF:-1 tvg-id="Sky.Family.HD.uk" tvg-name="Sky Family HD" tvg-logo="" tvg-chno="304" channel-number="304",Sky Family HD
 https://www.sky.com/tv-guide/304
@@ -457,7 +457,7 @@ https://www.sky.com/tv-guide/602
 https://www.sky.com/tv-guide/603
 #EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="NickelodeonHD" tvg-logo="" tvg-chno="604" channel-number="604",NickelodeonHD
 https://www.sky.com/tv-guide/604
-#EXTINF:-1 tvg-id="Nicktoons.uk" tvg-name="Nicktoons" tvg-logo="" tvg-chno="605" channel-number="605",Nicktoons
+#EXTINF:-1 tvg-id="NickAlvin.uk" tvg-name="NickAlvin" tvg-logo="" tvg-chno="605" channel-number="605",NickAlvin
 https://www.sky.com/tv-guide/605
 #EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. HD" tvg-logo="" tvg-chno="606" channel-number="606",Nick Jr. HD
 https://www.sky.com/tv-guide/606
@@ -471,7 +471,7 @@ https://www.sky.com/tv-guide/609
 https://www.sky.com/tv-guide/610
 #EXTINF:-1 tvg-id="Boomerang+1.uk" tvg-name="Boomerang+1" tvg-logo="" tvg-chno="611" channel-number="611",Boomerang+1
 https://www.sky.com/tv-guide/611
-#EXTINF:-1 tvg-id="NickJrPAWPatrol.uk" tvg-name="NickJrPAWPatrol" tvg-logo="" tvg-chno="612" channel-number="612",NickJrPAWPatrol
+#EXTINF:-1 tvg-id="NickJrPeppa.uk" tvg-name="NickJrPeppa" tvg-logo="" tvg-chno="612" channel-number="612",NickJrPeppa
 https://www.sky.com/tv-guide/612
 #EXTINF:-1 tvg-id="Disney.Jr.HD.uk" tvg-name="Disney Jr HD" tvg-logo="" tvg-chno="613" channel-number="613",Disney Jr HD
 https://www.sky.com/tv-guide/613
