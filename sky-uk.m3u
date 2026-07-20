@@ -391,6 +391,8 @@ https://www.sky.com/tv-guide/420
 https://www.sky.com/tv-guide/423
 #EXTINF:-1 tvg-id="Racing.TV.HD.uk" tvg-name="Racing TV HD" tvg-logo="" tvg-chno="424" channel-number="424",Racing TV HD
 https://www.sky.com/tv-guide/424
+#EXTINF:-1 tvg-id="TNTSBoxOffHD.uk" tvg-name="TNTSBoxOffHD" tvg-logo="" tvg-chno="490" channel-number="490",TNTSBoxOffHD
+https://www.sky.com/tv-guide/490
 #EXTINF:-1 tvg-id="SkySpBoxOffHD.uk" tvg-name="SkySpBoxOffHD" tvg-logo="" tvg-chno="491" channel-number="491",SkySpBoxOffHD
 https://www.sky.com/tv-guide/491
 #EXTINF:-1 tvg-id="TNTSBoxOff2HD.uk" tvg-name="TNTSBoxOff2HD" tvg-logo="" tvg-chno="494" channel-number="494",TNTSBoxOff2HD
@@ -457,7 +459,7 @@ https://www.sky.com/tv-guide/602
 https://www.sky.com/tv-guide/603
 #EXTINF:-1 tvg-id="NickelodeonHD.uk" tvg-name="NickelodeonHD" tvg-logo="" tvg-chno="604" channel-number="604",NickelodeonHD
 https://www.sky.com/tv-guide/604
-#EXTINF:-1 tvg-id="NickAlvin.uk" tvg-name="NickAlvin" tvg-logo="" tvg-chno="605" channel-number="605",NickAlvin
+#EXTINF:-1 tvg-id="Nick.Alvinnn!!!.uk" tvg-name="Nick Alvinnn!!!" tvg-logo="" tvg-chno="605" channel-number="605",Nick Alvinnn!!!
 https://www.sky.com/tv-guide/605
 #EXTINF:-1 tvg-id="Nick.Jr..HD.uk" tvg-name="Nick Jr. HD" tvg-logo="" tvg-chno="606" channel-number="606",Nick Jr. HD
 https://www.sky.com/tv-guide/606
