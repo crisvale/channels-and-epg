@@ -127,7 +127,7 @@ https://www.canalplus.com/chaines/cherie-25/
 https://www.canalplus.com/chaines/TV5MONDE/
 #EXTINF:-1 tvg-id="CANAL+4K.HDR.fr" tvg-name="CANAL+4K HDR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1154/canal-ouah/CHN43FB/CHN43FB_1154_20240904-psKg" tvg-chno="100" channel-number="100",CANAL+4K HDR
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1154/broadcasts/day/0?channelPosition=63
-#EXTINF:-1 tvg-id="CANAL+FOOT.UHD.HDR.fr" tvg-name="CANAL+FOOT UHD HDR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1161/canal-ouah/CHN43FB/CHN43FB_19_29082023-Fe0p" tvg-chno="101" channel-number="101",CANAL+FOOT UHD HDR
+#EXTINF:-1 tvg-id="CANAL+FOOT.UHD.HDR.fr" tvg-name="CANAL+FOOT UHD HDR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1161/canal-ouah/CHN43FB/CHN43FB_1161_20260701-uKEp" tvg-chno="101" channel-number="101",CANAL+FOOT UHD HDR
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/1161/broadcasts/day/0?channelPosition=64
 #EXTINF:-1 tvg-id="EVENEMENT.SPORT.UHD.HDR.fr" tvg-name="EVENEMENT SPORT UHD HDR" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/872/canal-ouah/CHN43FB/CHN43FB_872_20240621-Ecb8" tvg-chno="101" channel-number="101",EVENEMENT SPORT UHD HDR
 https://hodor.canalplus.pro/api/v2/mycanal/channels/b63a43e7548cb1a6e7c7319084f48af8/872/broadcasts/day/0?channelPosition=66
