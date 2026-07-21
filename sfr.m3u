@@ -211,8 +211,8 @@ https://tv.sfr.fr/direct-tv/explore
 https://tv.sfr.fr/direct-tv/le-figaro-tv
 #EXTINF:-1 tvg-id="KITCHEN.MANIA.fr" tvg-name="KITCHEN MANIA" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/KitchenMania100x100.png" tvg-chno="196" channel-number="196",KITCHEN MANIA
 https://tv.sfr.fr/direct-tv/kitchen-mania
-#EXTINF:-1 tvg-id="Top.Santé.TV.fr" tvg-name="Top Santé TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/TopSante100x100.png" tvg-chno="197" channel-number="197",Top Santé TV
-https://tv.sfr.fr/direct-tv/top-sante-tv
+#EXTINF:-1 tvg-id="Doctissimo.TV.fr" tvg-name="Doctissimo TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/doctissimo-100x100.png" tvg-chno="197" channel-number="197",Doctissimo TV
+https://tv.sfr.fr/direct-tv/doctissimo-tv
 #EXTINF:-1 tvg-id="Maison.&amp;.Travaux.TV.fr" tvg-name="Maison &amp; Travaux TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MaisonTravaux100x100.png" tvg-chno="198" channel-number="198",Maison &amp; Travaux TV
 https://tv.sfr.fr/direct-tv/maison-travaux-tv
 #EXTINF:-1 tvg-id="Auto.Plus.TV.fr" tvg-name="Auto Plus TV" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AutoPlus100x100.png" tvg-chno="199" channel-number="199",Auto Plus TV
@@ -797,7 +797,7 @@ https://tv.sfr.fr/direct-tv/saudi-channel-1
 https://tv.sfr.fr/direct-tv/a
 #EXTINF:-1 tvg-id="ORTB.fr" tvg-name="ORTB" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/ORTB_color.png" tvg-chno="839" channel-number="839",ORTB
 https://tv.sfr.fr/direct-tv/ortb
-#EXTINF:-1 tvg-id="NOVELAS.fr" tvg-name="NOVELAS" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/100x100couleurNOVELAS.png" tvg-chno="840" channel-number="840",NOVELAS
+#EXTINF:-1 tvg-id="Novelas+.fr" tvg-name="Novelas+" tvg-logo="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/novelas-plus-100x100.png" tvg-chno="840" channel-number="840",Novelas+
 https://tv.sfr.fr/direct-tv/novelas
 #EXTINF:-1 tvg-id="CRTV.fr" tvg-name="CRTV" tvg-logo="https://static-cdn.tv.sfr.net/data/logos/tv_services/CRTV_color.png" tvg-chno="841" channel-number="841",CRTV
 https://tv.sfr.fr/direct-tv/crtv
