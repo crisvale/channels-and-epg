@@ -141,8 +141,8 @@ https://www.movistarplus.es/canal/m-plus-laliga?id=mliga
 https://www.movistarplus.es/canal/dazn-mundial?id=daznli
 #EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.es" tvg-name="LALIGA TV HYPERMOTION" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" tvg-chno="56" channel-number="56",LALIGA TV HYPERMOTION
 https://www.movistarplus.es/canal/laliga-tv-hypermotion?id=mligs
-#EXTINF:-1 tvg-id="M+.Fanzone.es" tvg-name="M+ Fanzone" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-chno="57" channel-number="57",M+ Fanzone
-https://www.movistarplus.es/canal/m-plus-fanzone?id=mlig1
+#EXTINF:-1 tvg-id="M+.LALIGA.2.es" tvg-name="M+ LALIGA 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" tvg-chno="57" channel-number="57",M+ LALIGA 2
+https://www.movistarplus.es/canal/m-plus-laliga-2?id=mlig1
 #EXTINF:-1 tvg-id="DAZN.MUNDIAL.2.es" tvg-name="DAZN MUNDIAL 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" tvg-chno="58" channel-number="58",DAZN MUNDIAL 2
 https://www.movistarplus.es/canal/dazn-mundial-2?id=daznl2
 #EXTINF:-1 tvg-id="LALIGA.TV.HYPERMOTION.2.es" tvg-name="LALIGA TV HYPERMOTION 2" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" tvg-chno="59" channel-number="59",LALIGA TV HYPERMOTION 2
