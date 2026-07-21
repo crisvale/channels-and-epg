@@ -627,6 +627,10 @@ https://www.magenta.tv/tv-guide#channel-syfy-sky
 https://www.magenta.tv/tv-guide#channel-13th-street-sky
 #EXTINF:-1 tvg-id="Universal.TV.(Sky).de" tvg-name="Universal TV (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/universalhd-sky/stationLogo_20220211.png" tvg-chno="714" channel-number="714",Universal TV (Sky)
 https://www.magenta.tv/tv-guide#channel-universalhd-sky
+#EXTINF:-1 tvg-id="AXN.Black.(Sky).de" tvg-name="AXN Black (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01074-AXNBlackSky/stationLogo_20230829.png" tvg-chno="715" channel-number="715",AXN Black (Sky)
+https://www.magenta.tv/tv-guide#channel-KID01074-AXNBlackSky
+#EXTINF:-1 tvg-id="AXN.White.(Sky).de" tvg-name="AXN White (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID01075-AXNWhiteSky/stationLogo_20230829.png" tvg-chno="716" channel-number="716",AXN White (Sky)
+https://www.magenta.tv/tv-guide#channel-KID01075-AXNWhiteSky
 #EXTINF:-1 tvg-id="Warner.TV.Serie.(Sky).de" tvg-name="Warner TV Serie (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/tnt-serie-sky/stationLogo_20220211.png" tvg-chno="718" channel-number="718",Warner TV Serie (Sky)
 https://www.magenta.tv/tv-guide#channel-tnt-serie-sky
 #EXTINF:-1 tvg-id="Warner.TV.Comedy.(Sky).de" tvg-name="Warner TV Comedy (Sky)" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/glitz-hd-sky/stationLogo_20220211.png" tvg-chno="719" channel-number="719",Warner TV Comedy (Sky)
