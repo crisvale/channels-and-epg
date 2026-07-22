@@ -385,6 +385,8 @@ https://www.freeview.co.uk/tv-guide/33664
 https://www.freeview.co.uk/tv-guide/16218
 #EXTINF:-1 tvg-id="Outdoor.Channel.uk" tvg-name="Outdoor Channel" tvg-logo="https://img.freeviewplay.tv/s59fb416ce92b67325876e232d82ca0f1" tvg-chno="291" channel-number="291",Outdoor Channel
 https://www.freeview.co.uk/tv-guide/16224
+#EXTINF:-1 tvg-id="Faith.TV.uk" tvg-name="Faith TV" tvg-logo="https://img.freeviewplay.tv/scca569fe121aa85820a3e69bd54ef62b" tvg-chno="292" channel-number="292",Faith TV
+https://www.freeview.co.uk/tv-guide/34816
 #EXTINF:-1 tvg-id="BBC.RB.1.uk" tvg-name="BBC RB 1" tvg-logo="https://img.freeviewplay.tv/s613a3467a5048e4f82a5ea01895979d5" tvg-chno="601" channel-number="601",BBC RB 1
 https://www.freeview.co.uk/tv-guide/7168
 #EXTINF:-1 tvg-id="BBC.Radio.1.uk" tvg-name="BBC Radio 1" tvg-logo="https://img.freeviewplay.tv/sa332cc9cba8c56b5f5d20115a2b28d05" tvg-chno="700" channel-number="700",BBC Radio 1
