@@ -219,6 +219,8 @@ https://www.freesat.co.uk/tv-guide/55189
 https://www.freesat.co.uk/tv-guide/6383
 #EXTINF:-1 tvg-id="Virgin.Radio.uk" tvg-name="Virgin Radio" tvg-logo="https://img.freeviewplay.tv/s1cbf6e36d0ba34d49d97bb3ffa64323d" tvg-chno="736" channel-number="736",Virgin Radio
 https://www.freesat.co.uk/tv-guide/55135
+#EXTINF:-1 tvg-id="Times.Radio.uk" tvg-name="Times Radio" tvg-logo="https://img.freeviewplay.tv/s57fbf91d62b80edc04180262c7a95b51" tvg-chno="737" channel-number="737",Times Radio
+https://www.freesat.co.uk/tv-guide/55192
 #EXTINF:-1 tvg-id="RTE.Radio.1.uk" tvg-name="RTE Radio 1" tvg-logo="https://img.freeviewplay.tv/s370fd76768097f4a4400c0dbe1fd7e00" tvg-chno="750" channel-number="750",RTE Radio 1
 https://www.freesat.co.uk/tv-guide/5261
 #EXTINF:-1 tvg-id="RTE.2fm.uk" tvg-name="RTE 2fm" tvg-logo="https://img.freeviewplay.tv/scca22743117ee00f50bacb10375dcb5e" tvg-chno="751" channel-number="751",RTE 2fm
