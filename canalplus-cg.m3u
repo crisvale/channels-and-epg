@@ -95,7 +95,7 @@ https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a5
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180305/broadcasts/day/0?channelPosition=53
 #EXTINF:-1 tvg-id="SS.LA.LIGA.cg" tvg-name="SS LA LIGA" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180794/canal-ouah/CHN43FB/SUPERSPORTFWCCENTRAL_640x480-7uqT" tvg-chno="112" channel-number="112",SS LA LIGA
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180794/broadcasts/day/0?channelPosition=54
-#EXTINF:-1 tvg-id="SS.EPL.cg" tvg-name="SS EPL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180793/canal-ouah/CHN43FB/SUPERSPORTFWCEXTRA_640x480-MC8K" tvg-chno="113" channel-number="113",SS EPL
+#EXTINF:-1 tvg-id="SS.EPL.cg" tvg-name="SS EPL" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180793/canal-ouah/CHN43FB/PREMIERLEAGUESUPERSPORT_640x480-bIp3" tvg-chno="113" channel-number="113",SS EPL
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180793/broadcasts/day/0?channelPosition=55
 #EXTINF:-1 tvg-id="AUTOMOTO.cg" tvg-name="AUTOMOTO" tvg-logo="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79135433" tvg-chno="118" channel-number="118",AUTOMOTO
 https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180565/broadcasts/day/0?channelPosition=56
