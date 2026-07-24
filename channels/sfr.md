@@ -1,7 +1,5 @@
 # SFR
 
-Canales observados para `sfr`: **457**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png" alt="TF1" width="120"><br><sub><a href="https://static-cdn.tv.sfr.net/data/logos/tv_services/TF1_color.png">URL</a></sub> | TF1 | 1 | <a href="https://tv.sfr.fr/direct-tv/tf1">Abrir</a> |
@@ -461,5 +459,3 @@ Canales observados para `sfr`: **457**.
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/De_pelicula_color.png" alt="De pelicula" width="120"><br><sub><a href="https://static-cdn.tv.sfr.net/data/logos/tv_services/De_pelicula_color.png">URL</a></sub> | De pelicula | 952 | <a href="https://tv.sfr.fr/direct-tv/de-pelicula">Abrir</a> |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMS_color.png" alt="RMS" width="120"><br><sub><a href="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMS_color.png">URL</a></sub> | RMS | 953 | <a href="https://tv.sfr.fr/direct-tv/rms">Abrir</a> |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Telehit_color.png" alt="Telehit" width="120"><br><sub><a href="https://static-cdn.tv.sfr.net/data/logos/tv_services/Telehit_color.png">URL</a></sub> | Telehit | 954 | <a href="https://tv.sfr.fr/direct-tv/telehit">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
