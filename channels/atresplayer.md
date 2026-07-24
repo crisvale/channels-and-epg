@@ -1,7 +1,5 @@
 # Atresplayer
 
-Canales observados para `atresplayer`: **20**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_2025/sombreado/Antena3_tiny.png" alt="Antena 3" width="120"><br><sub><a href="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_2025/sombreado/Antena3_tiny.png">URL</a></sub> | Antena 3 | 1 | <a href="https://www.atresplayer.com/directos/antena3/">Abrir</a> |
@@ -24,5 +22,3 @@ Canales observados para `atresplayer`: **20**.
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" alt="Mentes inquietas" width="120"><br><sub><a href="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png">URL</a></sub> | Mentes inquietas | 17 | <a href="https://www.atresplayer.com/directos/mentes-inquietas/">Abrir</a> |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" alt="atresplayer PREMIUM" width="120"><br><sub><a href="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png">URL</a></sub> | atresplayer PREMIUM | 18 | <a href="https://www.atresplayer.com/directos/atresplayer-premium/">Abrir</a> |
 | — | Eventos 2 | 20 | <a href="https://www.atresplayer.com/directos/eventos-2/">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
