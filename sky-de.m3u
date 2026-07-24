@@ -1,161 +1,577 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="13th.Street.HD.de" tvg-name="13th Street HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/116_sky_logo_13thstreethd_b.png" tvg-chno="1" channel-number="1",13th Street HD
-https://www.sky.de/tvguide/13th-street-hd-c116
-#EXTINF:-1 tvg-id="AXN.Black.HD.de" tvg-name="AXN Black HD" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/axn/stationLogo_20230829.png" tvg-chno="2" channel-number="2",AXN Black HD
-https://www.sky.de/tvguide-7599#channel-1241
-#EXTINF:-1 tvg-id="AXN.White.HD.de" tvg-name="AXN White HD" tvg-logo="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/sony-tv/stationLogo_20230829.png" tvg-chno="3" channel-number="3",AXN White HD
-https://www.sky.de/tvguide-7599#channel-1242
-#EXTINF:-1 tvg-id="Beate.Uhse.HD.de" tvg-name="Beate Uhse HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/690_sky_logo_beateuhse-hd_tvguide.png" tvg-chno="4" channel-number="4",Beate Uhse HD
-https://www.sky.de/tvguide/beate-uhse-tv-c690
-#EXTINF:-1 tvg-id="Cartoon.Network.de" tvg-name="Cartoon Network" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/95_sky_logo_cartoonnetwork_b.png" tvg-chno="5" channel-number="5",Cartoon Network
-https://www.sky.de/tvguide/cartoon-network-c95
-#EXTINF:-1 tvg-id="Cartoonito.de" tvg-name="Cartoonito" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/761_sky_logo_boomerang.png" tvg-chno="6" channel-number="6",Cartoonito
-https://www.sky.de/tvguide/cartoonito-c761
-#EXTINF:-1 tvg-id="Crime.+.Investigation.de" tvg-name="Crime + Investigation" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/451_sky_logo_crime-investigation_tvguide.png" tvg-chno="7" channel-number="7",Crime + Investigation
-https://www.sky.de/tvguide/crimeuinvestigation-c451
-#EXTINF:-1 tvg-id="DAZN.1.HD.de" tvg-name="DAZN 1 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/659_sky_logo_dazn1-hd_tvguide.png" tvg-chno="8" channel-number="8",DAZN 1 HD
-https://www.sky.de/tvguide/dazn-1-hd-c659
-#EXTINF:-1 tvg-id="DAZN.2.HD.de" tvg-name="DAZN 2 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/900_sky_logo_dazn2-hd_tvguide.png" tvg-chno="9" channel-number="9",DAZN 2 HD
-https://www.sky.de/tvguide/dazn-2-hd-c900
-#EXTINF:-1 tvg-id="DFB.TV.de" tvg-name="DFB.TV" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1236_sky_26-05_senderlogos_dfbtv.png" tvg-chno="10" channel-number="10",DFB.TV
-https://www.sky.de/tvguide/dfbtv-c1236
-#EXTINF:-1 tvg-id="Fussball.TV.1.de" tvg-name="Fussball.TV 1" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/131_sky_logo_skysporthd4_tvguide.png" tvg-chno="11" channel-number="11",Fussball.TV 1
-https://www.sky.de/tvguide/sky-sport-hd-2-c131
-#EXTINF:-1 tvg-id="Fussball.TV.2.de" tvg-name="Fussball.TV 2" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/132_sky_logo_skysporthd5_tvguide2.png" tvg-chno="12" channel-number="12",Fussball.TV 2
-https://www.sky.de/tvguide/sky-sport-hd-3-c132
-#EXTINF:-1 tvg-id="Fussball.TV.3.de" tvg-name="Fussball.TV 3" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/133_sky_logo_skysporthd6_tvguide.png" tvg-chno="13" channel-number="13",Fussball.TV 3
-https://www.sky.de/tvguide/sky-sport-hd-4-c133
-#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/72_sky_logo_heimatkanal.png" tvg-chno="14" channel-number="14",Heimatkanal
-https://www.sky.de/tvguide/heimatkanal-c72
-#EXTINF:-1 tvg-id="HISTORY.Channel.HD.de" tvg-name="HISTORY Channel HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/86_sky_logo_historyhd_b.jpg" tvg-chno="15" channel-number="15",HISTORY Channel HD
-https://www.sky.de/tvguide/history-channel-hd-c86
-#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/452_sky_logo_jukebox.png" tvg-chno="16" channel-number="16",Jukebox
-https://www.sky.de/tvguide/jukebox-c452
-#EXTINF:-1 tvg-id="Motorvision+.de" tvg-name="Motorvision+" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/52_sky_logo_motorvision_b.png" tvg-chno="17" channel-number="17",Motorvision+
-https://www.sky.de/tvguide/motorvision-tv-c52
-#EXTINF:-1 tvg-id="NatGeo.HD.de" tvg-name="NatGeo HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1221_sky_logo_nat-geo_tvguide.png" tvg-chno="18" channel-number="18",NatGeo HD
-https://www.sky.de/tvguide/national-geographic-c1221
-#EXTINF:-1 tvg-id="NatGeo.Wild.HD.de" tvg-name="NatGeo Wild HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1222_sky_logo_natgeowildhd_b.png" tvg-chno="19" channel-number="19",NatGeo Wild HD
-https://www.sky.de/tvguide/nat-geo-wild-hd-c1222
-#EXTINF:-1 tvg-id="Nick.Jr..de" tvg-name="Nick Jr." tvg-logo="https://www.sky.de/static/img/senderlogos_dark/783_sky_logo_nickjr_b.png" tvg-chno="20" channel-number="20",Nick Jr.
-https://www.sky.de/tvguide/nick-jr-c783
-#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/951_sky_logo_nicktoons_b.png" tvg-chno="21" channel-number="21",Nicktoons
-https://www.sky.de/tvguide/nicktoons-c951
-#EXTINF:-1 tvg-id="Romance.TV.HD.de" tvg-name="Romance TV HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/16_sky_logo_romancetv_b.png" tvg-chno="22" channel-number="22",Romance TV HD
-https://www.sky.de/tvguide/romance-tv-c16
-#EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="Sky Atlantic HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/2_sky_logo_skyatlantichd_tvguide.png" tvg-chno="23" channel-number="23",Sky Atlantic HD
-https://www.sky.de/tvguide/sky-atlantic-hd-c2
-#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.de" tvg-name="Sky Cinema Action HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1205_sky_logo_cinema-actionhd_tvguide.png" tvg-chno="24" channel-number="24",Sky Cinema Action HD
-https://www.sky.de/tvguide/sky-cinema-action-hd-c1205
-#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.+24.de" tvg-name="Sky Cinema Action HD +24" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1233_sky-logos_action-classics-24_tvguide.png" tvg-chno="25" channel-number="25",Sky Cinema Action HD +24
-https://www.sky.de/tvguide/sky-cinema-action-hd-24-c1233
-#EXTINF:-1 tvg-id="Sky.Cinema.Blockbuster.HD.de" tvg-name="Sky Cinema Blockbuster HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1237_sky_26-05_senderlogos_sky-blockbuster.png" tvg-chno="26" channel-number="26",Sky Cinema Blockbuster HD
-https://www.sky.de/tvguide/sky-cinema-blockbuster-hd-c1237
-#EXTINF:-1 tvg-id="Sky.Cinema.Blockbuster.HD.+24.de" tvg-name="Sky Cinema Blockbuster HD +24" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1239_sky_26-05_senderlogos_sky-blockbuster-24.png" tvg-chno="27" channel-number="27",Sky Cinema Blockbuster HD +24
-https://www.sky.de/tvguide/sky-cinema-blockbuster-hd-24-c1239
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.de" tvg-name="Sky Cinema Classics HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1208_sky_logo_cinema-classics_hd_tvguide.png" tvg-chno="28" channel-number="28",Sky Cinema Classics HD
-https://www.sky.de/tvguide/sky-cinema-classics-c1208
-#EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.+24.de" tvg-name="Sky Cinema Classics HD +24" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1235_sky-logos_cinema-classics-24_tvguide.png" tvg-chno="29" channel-number="29",Sky Cinema Classics HD +24
-https://www.sky.de/tvguide/sky-cinema-classics-hd-24-c1235
-#EXTINF:-1 tvg-id="Sky.Cinema.Feelgood.HD.de" tvg-name="Sky Cinema Feelgood HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1238_sky_26-05_senderlogos_sky-feelgood.png" tvg-chno="30" channel-number="30",Sky Cinema Feelgood HD
-https://www.sky.de/tvguide/sky-cinema-feelgood-hd-c1238
-#EXTINF:-1 tvg-id="Sky.Cinema.Feelgood.HD.+24.de" tvg-name="Sky Cinema Feelgood HD +24" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1240_sky_26-05_senderlogos_sky-feelgood-24.png" tvg-chno="31" channel-number="31",Sky Cinema Feelgood HD +24
-https://www.sky.de/tvguide/sky-cinema-feelgood-hd-24-c1240
-#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.de" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1207_sky_logo_cinema_premiere-hd_tvguide.png" tvg-chno="32" channel-number="32",Sky Cinema Premiere HD
-https://www.sky.de/tvguide/sky-cinema-premiere-hd-c1207
-#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.+24.de" tvg-name="Sky Cinema Premiere HD +24" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1231_sky-logos_cinema-premiere-24_tvguide.png" tvg-chno="33" channel-number="33",Sky Cinema Premiere HD +24
-https://www.sky.de/tvguide/sky-cinema-premiere-hd-24-c1231
-#EXTINF:-1 tvg-id="Sky.Crime.HD.de" tvg-name="Sky Crime HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/855_sky_logo_crime-hd_tvguide.png" tvg-chno="34" channel-number="34",Sky Crime HD
-https://www.sky.de/tvguide/sky-crime-hd-c855
-#EXTINF:-1 tvg-id="Sky.Documentaries.HD.de" tvg-name="Sky Documentaries HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/876_sky_logo_sky-cinema-documentaries-hd_tvguide.png" tvg-chno="35" channel-number="35",Sky Documentaries HD
-https://www.sky.de/tvguide/sky-documentaries-hd-c876
-#EXTINF:-1 tvg-id="Sky.Krimi.HD.de" tvg-name="Sky Krimi HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/753_sky_logo_skykrimi_hd_tvguide.png" tvg-chno="36" channel-number="36",Sky Krimi HD
-https://www.sky.de/tvguide/sky-krimi-hd-c753
-#EXTINF:-1 tvg-id="Sky.Nature.HD.de" tvg-name="Sky Nature HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/875_sky_logo_sky-nature-hd_tvguide.png" tvg-chno="37" channel-number="37",Sky Nature HD
-https://www.sky.de/tvguide/sky-nature-hd-c875
-#EXTINF:-1 tvg-id="Sky.One.HD.de" tvg-name="Sky One HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/535_sky_logo_sky1-hd_tvguide.png" tvg-chno="38" channel-number="38",Sky One HD
-https://www.sky.de/tvguide/sky-one-hd-c535
-#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.de" tvg-name="Sky Sci-Fi HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/115_sky_logo_syfyhd_b.png" tvg-chno="39" channel-number="39",Sky Sci-Fi HD
-https://www.sky.de/tvguide/sky-scifi-hd-c115
-#EXTINF:-1 tvg-id="Sky.Showcase.HD.de" tvg-name="Sky Showcase HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1019_sky_logo_skyshowcase-hd_tvguide.png" tvg-chno="40" channel-number="40",Sky Showcase HD
-https://www.sky.de/tvguide/sky-showcase-hd-c1019
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/492_sky_logo_skysportaustria-hd_tvguide.png" tvg-chno="41" channel-number="41",Sky Sport Austria 1 HD
-https://www.sky.de/tvguide/sky-sport-austria-hd-c492
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.2.HD.de" tvg-name="Sky Sport Austria 2 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/729_sky_logo_skysportaustria_2-hd_tvguide.png" tvg-chno="42" channel-number="42",Sky Sport Austria 2 HD
-https://www.sky.de/tvguide/sky-sport-austria-2-hd-c729
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.3.HD.de" tvg-name="Sky Sport Austria 3 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/730_sky_logo_skysportaustria_3-hd_tvguide.png" tvg-chno="43" channel-number="43",Sky Sport Austria 3 HD
-https://www.sky.de/tvguide/sky-sport-austria-3-hd-c730
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.4.HD.de" tvg-name="Sky Sport Austria 4 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/898_sky_logo_skysportaustria_4-hd_tvguide.png" tvg-chno="44" channel-number="44",Sky Sport Austria 4 HD
-https://www.sky.de/tvguide/sky-sport-austria-4-hd-c898
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.5.HD.de" tvg-name="Sky Sport Austria 5 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/883_sky_logo_sky-sport-austria-5-hd_tvguide.png" tvg-chno="45" channel-number="45",Sky Sport Austria 5 HD
-https://www.sky.de/tvguide/sky-sport-austria-5-hd-c883
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.6.HD.de" tvg-name="Sky Sport Austria 6 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/884_sky_logo_sky-sport-austria-6-hd_tvguide.png" tvg-chno="46" channel-number="46",Sky Sport Austria 6 HD
-https://www.sky.de/tvguide/sky-sport-austria-6-hd-c884
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.7.HD.de" tvg-name="Sky Sport Austria 7 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/885_sky_logo_sky-sport-austria-7-hd_tvguide.png" tvg-chno="47" channel-number="47",Sky Sport Austria 7 HD
-https://www.sky.de/tvguide/sky-sport-austria-7-hd-c885
-#EXTINF:-1 tvg-id="Sky.Sport.Austria.8.HD.de" tvg-name="Sky Sport Austria 8 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/928_sky_logo_sky-sport-austria-8-hd_tvguide.png" tvg-chno="48" channel-number="48",Sky Sport Austria 8 HD
-https://www.sky.de/tvguide/sky-sport-austria-8-hd-c928
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.HD.de" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1018_sky_logo_sky-sport-buli-hd_tvguide.png" tvg-chno="49" channel-number="49",Sky Sport Bundesliga HD
-https://www.sky.de/tvguide/sky-sport-bundesliga-hd-c1018
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-name="Sky Sport Bundesliga UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/531_sky_logo_sky-sport-buli-uhd_tvguide.png" tvg-chno="50" channel-number="50",Sky Sport Bundesliga UHD
-https://www.sky.de/tvguide/sky-sport-bundesliga-uhd-c531
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.HD.de" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/119_sky_logo_skybundesligahd2_tvguide.png" tvg-chno="51" channel-number="51",Sky Sport Bundesliga 1 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-1-c119
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.2.HD.de" tvg-name="Sky Sport Bundesliga 2 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/120_sky_logo_skybundesligahd3_tvguide.png" tvg-chno="52" channel-number="52",Sky Sport Bundesliga 2 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-2-c120
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.3.HD.de" tvg-name="Sky Sport Bundesliga 3 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/121_sky_logo_skybundesligahd4_tvguide.png" tvg-chno="53" channel-number="53",Sky Sport Bundesliga 3 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-3-c121
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.4.HD.de" tvg-name="Sky Sport Bundesliga 4 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/122_sky_logo_skybundesligahd5_tvguide.png" tvg-chno="54" channel-number="54",Sky Sport Bundesliga 4 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-4-c122
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.5.HD.de" tvg-name="Sky Sport Bundesliga 5 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/123_sky_logo_skybundesligahd6_tvguide.png" tvg-chno="55" channel-number="55",Sky Sport Bundesliga 5 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-5-c123
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6.HD.de" tvg-name="Sky Sport Bundesliga 6 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/124_sky_logo_skybundesligahd7_tvguide.png" tvg-chno="56" channel-number="56",Sky Sport Bundesliga 6 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-6-c124
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7.HD.de" tvg-name="Sky Sport Bundesliga 7 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/125_sky_logo_skybundesligahd8_tvguide.png" tvg-chno="57" channel-number="57",Sky Sport Bundesliga 7 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-7-c125
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.8.HD.de" tvg-name="Sky Sport Bundesliga 8 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/126_sky_logo_skybundesligahd9_tvguide.png" tvg-chno="58" channel-number="58",Sky Sport Bundesliga 8 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-8-c126
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.9.HD.de" tvg-name="Sky Sport Bundesliga 9 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/127_sky_logo_skybundesligahd10_tvguide.png" tvg-chno="59" channel-number="59",Sky Sport Bundesliga 9 HD
-https://www.sky.de/tvguide/sky-fussball-bundesliga-hd-9-c127
-#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.10.HD.de" tvg-name="Sky Sport Bundesliga 10 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/998_sky_logo_sky-sport-buli-10-hd_tvguide.png" tvg-chno="60" channel-number="60",Sky Sport Bundesliga 10 HD
-https://www.sky.de/tvguide/sky-sport-bundesliga-10-hd-c998
-#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.de" tvg-name="Sky Sport F1 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/853_sky_logo_sport-f1-hd_tvguide.png" tvg-chno="61" channel-number="61",Sky Sport F1 HD
-https://www.sky.de/tvguide/sky-sport-f1-hd-c853
-#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.de" tvg-name="Sky Sport Golf HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1002_sky_logo_sky-sport-golf-hd_tvguide.png" tvg-chno="62" channel-number="62",Sky Sport Golf HD
-https://www.sky.de/tvguide/sky-sport-golf-hd-c1002
-#EXTINF:-1 tvg-id="Sky.Sport.Mix.HD.de" tvg-name="Sky Sport Mix HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1005_sky_logo_sky-sport-mix-hd_tvguide.png" tvg-chno="63" channel-number="63",Sky Sport Mix HD
-https://www.sky.de/tvguide/sky-sport-mix-hd-c1005
-#EXTINF:-1 tvg-id="Sky.Sport.News.HD.de" tvg-name="Sky Sport News HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/17_sky_logo_skysportnewshd_tvguide.png" tvg-chno="64" channel-number="64",Sky Sport News HD
-https://www.sky.de/tvguide/sky-sport-news-hd-c17
-#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.HD.de" tvg-name="Sky Sport Premier League HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1000_sky_logo_sky-sport-pl-hd_tvguide.png" tvg-chno="65" channel-number="65",Sky Sport Premier League HD
-https://www.sky.de/tvguide/sky-sport-premier-league-hd-c1000
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.HD.de" tvg-name="Sky Sport Tennis HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1012_sky_logo_sky-sport-tennis-hd_tvguide.png" tvg-chno="66" channel-number="66",Sky Sport Tennis HD
-https://www.sky.de/tvguide/sky-sport-tennis-hd-c1012
-#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1014_sky_logo_sky-sport-top-event-hd_tvguide.png" tvg-chno="67" channel-number="67",Sky Sport Top Event HD
-https://www.sky.de/tvguide/sky-sport-top-event-hd-c1014
-#EXTINF:-1 tvg-id="Sky.Sport.UHD.de" tvg-name="Sky Sport UHD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/526_sky_logo_sky-sport-uhd_tvguide.png" tvg-chno="68" channel-number="68",Sky Sport UHD
-https://www.sky.de/tvguide/sky-sport-uhd-c526
-#EXTINF:-1 tvg-id="Sky.Sport.1.HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/130_sky_logo_skysporthd3_tvguide.png" tvg-chno="69" channel-number="69",Sky Sport 1 HD
-https://www.sky.de/tvguide/sky-sport-hd-1-c130
-#EXTINF:-1 tvg-id="Sky.Sport.5.HD.de" tvg-name="Sky Sport 5 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/134_sky_logo_skysporthd7_tvguide.png" tvg-chno="70" channel-number="70",Sky Sport 5 HD
-https://www.sky.de/tvguide/sky-sport-hd-5-c134
-#EXTINF:-1 tvg-id="Sky.Sport.6.HD.de" tvg-name="Sky Sport 6 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/135_sky_logo_skysporthd8_tvguide.png" tvg-chno="71" channel-number="71",Sky Sport 6 HD
-https://www.sky.de/tvguide/sky-sport-hd-6-c135
-#EXTINF:-1 tvg-id="Sky.Sport.7.HD.de" tvg-name="Sky Sport 7 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/136_sky_logo_skysporthd9_tvguide.png" tvg-chno="72" channel-number="72",Sky Sport 7 HD
-https://www.sky.de/tvguide/sky-sport-hd-7-c136
-#EXTINF:-1 tvg-id="Sky.Sport.8.HD.de" tvg-name="Sky Sport 8 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/137_sky_logo_skysporthd10_tvguide.png" tvg-chno="73" channel-number="73",Sky Sport 8 HD
-https://www.sky.de/tvguide/sky-sport-hd-10-c137
-#EXTINF:-1 tvg-id="Sky.Sport.9.HD.de" tvg-name="Sky Sport 9 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/138_sky_logo_skysporthd11_tvguide.png" tvg-chno="74" channel-number="74",Sky Sport 9 HD
-https://www.sky.de/tvguide/sky-sport-hd-9-c138
-#EXTINF:-1 tvg-id="Sky.Sport.10.HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/999_sky_logo_sky-sport-pl-hd_tvguide.png" tvg-chno="75" channel-number="75",Sky Sport 10 HD
-https://www.sky.de/tvguide/sky-sport-hd-10-c999
-#EXTINF:-1 tvg-id="SPORTDIGITAL.FUSSBALL.de" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/1032_logo_sportdigital_tvguide.png" tvg-chno="76" channel-number="76",SPORTDIGITAL FUSSBALL
-https://www.sky.de/tvguide/sportdigital-fussball-c1032
-#EXTINF:-1 tvg-id="Universal.TV.HD.de" tvg-name="Universal TV HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/172_sky_logo_universalchannelhd_b.png" tvg-chno="77" channel-number="77",Universal TV HD
-https://www.sky.de/tvguide/universal-channel-hd-c172
-#EXTINF:-1 tvg-id="Warner.TV.Comedy.HD.de" tvg-name="Warner TV Comedy HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/522_sky_logo_tntcomedy-hd_b.png" tvg-chno="78" channel-number="78",Warner TV Comedy HD
-https://www.sky.de/tvguide/warner-tv-comedy-hd-c522
-#EXTINF:-1 tvg-id="Warner.TV.Film.de" tvg-name="Warner TV Film" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/762_sky_logo_tntfilm.png" tvg-chno="79" channel-number="79",Warner TV Film
-https://www.sky.de/tvguide/warner-tv-film-c762
-#EXTINF:-1 tvg-id="Warner.TV.Serie.HD.de" tvg-name="Warner TV Serie HD" tvg-logo="https://www.sky.de/static/img/senderlogos_dark/6_sky_logo_tntseriehd.png" tvg-chno="81" channel-number="81",Warner TV Serie HD
-https://www.sky.de/tvguide/warner-tv-serie-hd-c6
+#EXTINF:-1 tvg-id="Sky.Showcase.HD.de" tvg-name="Sky Showcase HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_142skyshowcasehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="100" channel-number="100",Sky Showcase HD
+https://www.sky.de/tvguide-7599#channel-142
+#EXTINF:-1 tvg-id="Sky.One.HD.de" tvg-name="Sky One HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_147skyonehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="101" channel-number="101",Sky One HD
+https://www.sky.de/tvguide-7599#channel-147
+#EXTINF:-1 tvg-id="Universal.TV.HD.de" tvg-name="Universal TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_101universaltvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="102" channel-number="102",Universal TV HD
+https://www.sky.de/tvguide-7599#channel-101
+#EXTINF:-1 tvg-id="13th.Street.HD.de" tvg-name="13th Street HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_12713thstreethd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="103" channel-number="103",13th Street HD
+https://www.sky.de/tvguide-7599#channel-127
+#EXTINF:-1 tvg-id="Sky.Krimi.HD.de" tvg-name="Sky Krimi HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_23skykrimihd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="104" channel-number="104",Sky Krimi HD
+https://www.sky.de/tvguide-7599#channel-23
+#EXTINF:-1 tvg-id="Sky.Atlantic.HD.de" tvg-name="Sky Atlantic HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_110skyatlantichd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="105" channel-number="105",Sky Atlantic HD
+https://www.sky.de/tvguide-7599#channel-110
+#EXTINF:-1 tvg-id="Sky.Sci-Fi.HD.de" tvg-name="Sky Sci-Fi HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_126skyscifihd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="106" channel-number="106",Sky Sci-Fi HD
+https://www.sky.de/tvguide-7599#channel-126
+#EXTINF:-1 tvg-id="Sky.Crime.HD.de" tvg-name="Sky Crime HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_13skycrimehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="108" channel-number="108",Sky Crime HD
+https://www.sky.de/tvguide-7599#channel-13
+#EXTINF:-1 tvg-id="Sky.Documentaries.HD.de" tvg-name="Sky Documentaries HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_112skydocumentarieshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="109" channel-number="109",Sky Documentaries HD
+https://www.sky.de/tvguide-7599#channel-112
+#EXTINF:-1 tvg-id="Sky.Nature.HD.de" tvg-name="Sky Nature HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_118skynaturehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="110" channel-number="110",Sky Nature HD
+https://www.sky.de/tvguide-7599#channel-118
+#EXTINF:-1 tvg-id="AXN.Black.HD.de" tvg-name="AXN Black HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2027axnblackhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="115" channel-number="115",AXN Black HD
+https://www.sky.de/tvguide-7599#channel-2027
+#EXTINF:-1 tvg-id="AXN.White.HD.de" tvg-name="AXN White HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2028axnwhitehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="116" channel-number="116",AXN White HD
+https://www.sky.de/tvguide-7599#channel-2028
+#EXTINF:-1 tvg-id="Warner.TV.Serie.HD.de" tvg-name="Warner TV Serie HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_123warnertvseriehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="117" channel-number="117",Warner TV Serie HD
+https://www.sky.de/tvguide-7599#channel-123
+#EXTINF:-1 tvg-id="Warner.TV.Comedy.HD.de" tvg-name="Warner TV Comedy HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_136warnertvcomedyhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="118" channel-number="118",Warner TV Comedy HD
+https://www.sky.de/tvguide-7599#channel-136
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="Heimatkanal" tvg-logo="https://de.imageservice.sky.com/logo/skychb_22heimatkanal/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="119" channel-number="119",Heimatkanal
+https://www.sky.de/tvguide-7599#channel-22
+#EXTINF:-1 tvg-id="Romance.TV.HD.de" tvg-name="Romance TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_518romancetvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="120" channel-number="120",Romance TV HD
+https://www.sky.de/tvguide-7599#channel-518
+#EXTINF:-1 tvg-id="HISTORY.Channel.HD.de" tvg-name="HISTORY Channel HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_113historychannelhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="121" channel-number="121",HISTORY Channel HD
+https://www.sky.de/tvguide-7599#channel-113
+#EXTINF:-1 tvg-id="NatGeo.HD.de" tvg-name="NatGeo HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_130natgeohd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="122" channel-number="122",NatGeo HD
+https://www.sky.de/tvguide-7599#channel-130
+#EXTINF:-1 tvg-id="NatGeo.Wild.HD.de" tvg-name="NatGeo Wild HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2026natgeowildhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="123" channel-number="123",NatGeo Wild HD
+https://www.sky.de/tvguide-7599#channel-2026
+#EXTINF:-1 tvg-id="Crime.+.Investigation.de" tvg-name="Crime + Investigation" tvg-logo="https://de.imageservice.sky.com/logo/skychb_402crimeinvestigation/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="124" channel-number="124",Crime + Investigation
+https://www.sky.de/tvguide-7599#channel-402
+#EXTINF:-1 tvg-id="Motorvision+.de" tvg-name="Motorvision+" tvg-logo="https://de.imageservice.sky.com/logo/skychb_168motorvision/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="125" channel-number="125",Motorvision+
+https://www.sky.de/tvguide-7599#channel-168
+#EXTINF:-1 tvg-id="Das.Erste.HD.de" tvg-name="Das Erste HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_826daserstehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="126" channel-number="126",Das Erste HD
+https://www.sky.de/tvguide-7599#channel-826
+#EXTINF:-1 tvg-id="ZDF.HD.de" tvg-name="ZDF HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1110zdfhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="127" channel-number="127",ZDF HD
+https://www.sky.de/tvguide-7599#channel-1110
+#EXTINF:-1 tvg-id="RTL.HD.de" tvg-name="RTL HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1200rtlhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="128" channel-number="128",RTL HD
+https://www.sky.de/tvguide-7599#channel-1200
+#EXTINF:-1 tvg-id="VOX.HD.de" tvg-name="VOX HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1201voxhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="129" channel-number="129",VOX HD
+https://www.sky.de/tvguide-7599#channel-1201
+#EXTINF:-1 tvg-id="SAT.1.HD.de" tvg-name="SAT.1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1300sat1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="130" channel-number="130",SAT.1 HD
+https://www.sky.de/tvguide-7599#channel-1300
+#EXTINF:-1 tvg-id="ProSieben.HD.de" tvg-name="ProSieben HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1301prosiebenhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="131" channel-number="131",ProSieben HD
+https://www.sky.de/tvguide-7599#channel-1301
+#EXTINF:-1 tvg-id="kabel.eins.HD.de" tvg-name="kabel eins HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1302kabeleinshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="132" channel-number="132",kabel eins HD
+https://www.sky.de/tvguide-7599#channel-1302
+#EXTINF:-1 tvg-id="zdf_neo.HD.de" tvg-name="zdf_neo HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1130zdfneohd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="133" channel-number="133",zdf_neo HD
+https://www.sky.de/tvguide-7599#channel-1130
+#EXTINF:-1 tvg-id="RTLZWEI.HD.de" tvg-name="RTLZWEI HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1205rtlzweihd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="134" channel-number="134",RTLZWEI HD
+https://www.sky.de/tvguide-7599#channel-1205
+#EXTINF:-1 tvg-id="RTLup.HD.de" tvg-name="RTLup HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1206rtluphd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="135" channel-number="135",RTLup HD
+https://www.sky.de/tvguide-7599#channel-1206
+#EXTINF:-1 tvg-id="SAT.1.Gold.HD.de" tvg-name="SAT.1 Gold HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2500sat1goldhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="136" channel-number="136",SAT.1 Gold HD
+https://www.sky.de/tvguide-7599#channel-2500
+#EXTINF:-1 tvg-id="NITRO.HD.de" tvg-name="NITRO HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1951nitrohd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="137" channel-number="137",NITRO HD
+https://www.sky.de/tvguide-7599#channel-1951
+#EXTINF:-1 tvg-id="3sat.HD.de" tvg-name="3sat HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_11503sathd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="138" channel-number="138",3sat HD
+https://www.sky.de/tvguide-7599#channel-1150
+#EXTINF:-1 tvg-id="arte.HD.de" tvg-name="arte HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_604artehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="139" channel-number="139",arte HD
+https://www.sky.de/tvguide-7599#channel-604
+#EXTINF:-1 tvg-id="ONE.HD.de" tvg-name="ONE HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_605onehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="140" channel-number="140",ONE HD
+https://www.sky.de/tvguide-7599#channel-605
+#EXTINF:-1 tvg-id="DMAX.HD.de" tvg-name="DMAX HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5402dmaxhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="141" channel-number="141",DMAX HD
+https://www.sky.de/tvguide-7599#channel-5402
+#EXTINF:-1 tvg-id="phoenix.HD.de" tvg-name="phoenix HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_609phoenixhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="142" channel-number="142",phoenix HD
+https://www.sky.de/tvguide-7599#channel-609
+#EXTINF:-1 tvg-id="Kabel.Eins.Doku.HD.de" tvg-name="Kabel Eins Doku HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1306kabeleinsdokuhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="143" channel-number="143",Kabel Eins Doku HD
+https://www.sky.de/tvguide-7599#channel-1306
+#EXTINF:-1 tvg-id="SIXX.HD.de" tvg-name="SIXX HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1303sixxhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="144" channel-number="144",SIXX HD
+https://www.sky.de/tvguide-7599#channel-1303
+#EXTINF:-1 tvg-id="Pro7.MAXX.HD.de" tvg-name="Pro7 MAXX HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1304pro7maxxhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="145" channel-number="145",Pro7 MAXX HD
+https://www.sky.de/tvguide-7599#channel-1304
+#EXTINF:-1 tvg-id="TLC.HD.de" tvg-name="TLC HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_100tlchd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="146" channel-number="146",TLC HD
+https://www.sky.de/tvguide-7599#channel-100
+#EXTINF:-1 tvg-id="VOXup.HD.de" tvg-name="VOXup HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1207voxuphd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="147" channel-number="147",VOXup HD
+https://www.sky.de/tvguide-7599#channel-1207
+#EXTINF:-1 tvg-id="DF1.HD.de" tvg-name="DF1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4914df1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="148" channel-number="148",DF1 HD
+https://www.sky.de/tvguide-7599#channel-4914
+#EXTINF:-1 tvg-id="Comedy.Central.HD.de" tvg-name="Comedy Central HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8652comedycentralhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="149" channel-number="149",Comedy Central HD
+https://www.sky.de/tvguide-7599#channel-8652
+#EXTINF:-1 tvg-id="ARD.alpha.HD.de" tvg-name="ARD alpha HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_377ardalphahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="150" channel-number="150",ARD alpha HD
+https://www.sky.de/tvguide-7599#channel-377
+#EXTINF:-1 tvg-id="RTL.UHD.de" tvg-name="RTL UHD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2410rtluhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="151" channel-number="151",RTL UHD
+https://www.sky.de/tvguide-7599#channel-2410
+#EXTINF:-1 tvg-id="Pro7Sat.1.UHD.de" tvg-name="Pro7Sat.1 UHD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6205pro7sat1uhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="152" channel-number="152",Pro7Sat.1 UHD
+https://www.sky.de/tvguide-7599#channel-6205
+#EXTINF:-1 tvg-id="UHD1.by.ASTRA./.HD+.de" tvg-name="UHD1 by ASTRA / HD+" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2uhd1byastrahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="153" channel-number="153",UHD1 by ASTRA / HD+
+https://www.sky.de/tvguide-7599#channel-2
+#EXTINF:-1 tvg-id="CGTN.Documentary.HD.de" tvg-name="CGTN Documentary HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6802cgtndocumentaryhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="154" channel-number="154",CGTN Documentary HD
+https://www.sky.de/tvguide-7599#channel-6802
+#EXTINF:-1 tvg-id="Just.Cooking.HD.de" tvg-name="Just Cooking HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2011justcookinghd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="155" channel-number="155",Just Cooking HD
+https://www.sky.de/tvguide-7599#channel-2011
+#EXTINF:-1 tvg-id="XPLORE.HD.de" tvg-name="XPLORE HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2012xplorehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="156" channel-number="156",XPLORE HD
+https://www.sky.de/tvguide-7599#channel-2012
+#EXTINF:-1 tvg-id="One.TERRA.HD.de" tvg-name="One TERRA HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2014oneterrahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="158" channel-number="158",One TERRA HD
+https://www.sky.de/tvguide-7599#channel-2014
+#EXTINF:-1 tvg-id="Crime.Time.HD.de" tvg-name="Crime Time HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2015crimetimehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="159" channel-number="159",Crime Time HD
+https://www.sky.de/tvguide-7599#channel-2015
+#EXTINF:-1 tvg-id="Hoehenrausch.HD.de" tvg-name="Hoehenrausch HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2016hoehenrauschhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="160" channel-number="160",Hoehenrausch HD
+https://www.sky.de/tvguide-7599#channel-2016
+#EXTINF:-1 tvg-id="SERIEN+.HD.de" tvg-name="SERIEN+ HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2017serienhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="161" channel-number="161",SERIEN+ HD
+https://www.sky.de/tvguide-7599#channel-2017
+#EXTINF:-1 tvg-id="Just.Fishing.HD.de" tvg-name="Just Fishing HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2018justfishinghd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="162" channel-number="162",Just Fishing HD
+https://www.sky.de/tvguide-7599#channel-2018
+#EXTINF:-1 tvg-id="HGTV.HD.de" tvg-name="HGTV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_9138hgtvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="163" channel-number="163",HGTV HD
+https://www.sky.de/tvguide-7599#channel-9138
+#EXTINF:-1 tvg-id="RTL.Television.de" tvg-name="RTL Television" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2003rtltelevision/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="166" channel-number="166",RTL Television
+https://www.sky.de/tvguide-7599#channel-2003
+#EXTINF:-1 tvg-id="N24.DOKU.de" tvg-name="N24 DOKU" tvg-logo="https://de.imageservice.sky.com/logo/skychb_48n24doku/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="185" channel-number="185",N24 DOKU
+https://www.sky.de/tvguide-7599#channel-48
+#EXTINF:-1 tvg-id="DMF.de" tvg-name="DMF" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2604dmf/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="187" channel-number="187",DMF
+https://www.sky.de/tvguide-7599#channel-2604
+#EXTINF:-1 tvg-id="Hoehenrausch.SD.de" tvg-name="Hoehenrausch SD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2019hoehenrauschsd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="194" channel-number="194",Hoehenrausch SD
+https://www.sky.de/tvguide-7599#channel-2019
+#EXTINF:-1 tvg-id="Dokusat.de" tvg-name="Dokusat" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2029dokusat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="197" channel-number="197",Dokusat
+https://www.sky.de/tvguide-7599#channel-2029
+#EXTINF:-1 tvg-id="Sky.Sport.News.HD.de" tvg-name="Sky Sport News HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_108skysportnewshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="200" channel-number="200",Sky Sport News HD
+https://www.sky.de/tvguide-7599#channel-108
+#EXTINF:-1 tvg-id="Sky.Sport.Top.Event.HD.de" tvg-name="Sky Sport Top Event HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_129skysporttopeventhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="201" channel-number="201",Sky Sport Top Event HD
+https://www.sky.de/tvguide-7599#channel-129
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.HD.de" tvg-name="Sky Sport Bundesliga HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_105skysportbundesligahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="202" channel-number="202",Sky Sport Bundesliga HD
+https://www.sky.de/tvguide-7599#channel-105
+#EXTINF:-1 tvg-id="Sky.Sport.F1.HD.de" tvg-name="Sky Sport F1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_17skysportf1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="203" channel-number="203",Sky Sport F1 HD
+https://www.sky.de/tvguide-7599#channel-17
+#EXTINF:-1 tvg-id="Sky.Sport.Premier.League.HD.de" tvg-name="Sky Sport Premier League HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_145skysportpremierleaguehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="204" channel-number="204",Sky Sport Premier League HD
+https://www.sky.de/tvguide-7599#channel-145
+#EXTINF:-1 tvg-id="Sky.Sport.Mix.HD.de" tvg-name="Sky Sport Mix HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_141skysportmixhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="205" channel-number="205",Sky Sport Mix HD
+https://www.sky.de/tvguide-7599#channel-141
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.HD.de" tvg-name="Sky Sport Tennis HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_114skysporttennishd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="206" channel-number="206",Sky Sport Tennis HD
+https://www.sky.de/tvguide-7599#channel-114
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.HD.de" tvg-name="Sky Sport Golf HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_144skysportgolfhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="207" channel-number="207",Sky Sport Golf HD
+https://www.sky.de/tvguide-7599#channel-144
+#EXTINF:-1 tvg-id="Sky.Sport.UHD.de" tvg-name="Sky Sport UHD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_553skysportuhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="209" channel-number="209",Sky Sport UHD
+https://www.sky.de/tvguide-7599#channel-553
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.UHD.de" tvg-name="Sky Sport Bundesliga UHD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_552skysportbundesligauhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="210" channel-number="210",Sky Sport Bundesliga UHD
+https://www.sky.de/tvguide-7599#channel-552
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.1.HD.de" tvg-name="Sky Sport Bundesliga 1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_267skysportbundesliga1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="211" channel-number="211",Sky Sport Bundesliga 1 HD
+https://www.sky.de/tvguide-7599#channel-267
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.2.HD.de" tvg-name="Sky Sport Bundesliga 2 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_277skysportbundesliga2hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="212" channel-number="212",Sky Sport Bundesliga 2 HD
+https://www.sky.de/tvguide-7599#channel-277
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.3.HD.de" tvg-name="Sky Sport Bundesliga 3 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_287skysportbundesliga3hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="213" channel-number="213",Sky Sport Bundesliga 3 HD
+https://www.sky.de/tvguide-7599#channel-287
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.4.HD.de" tvg-name="Sky Sport Bundesliga 4 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_297skysportbundesliga4hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="214" channel-number="214",Sky Sport Bundesliga 4 HD
+https://www.sky.de/tvguide-7599#channel-297
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.5.HD.de" tvg-name="Sky Sport Bundesliga 5 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_307skysportbundesliga5hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="215" channel-number="215",Sky Sport Bundesliga 5 HD
+https://www.sky.de/tvguide-7599#channel-307
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.6.HD.de" tvg-name="Sky Sport Bundesliga 6 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_317skysportbundesliga6hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="216" channel-number="216",Sky Sport Bundesliga 6 HD
+https://www.sky.de/tvguide-7599#channel-317
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.7.HD.de" tvg-name="Sky Sport Bundesliga 7 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_327skysportbundesliga7hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="217" channel-number="217",Sky Sport Bundesliga 7 HD
+https://www.sky.de/tvguide-7599#channel-327
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.8.HD.de" tvg-name="Sky Sport Bundesliga 8 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_337skysportbundesliga8hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="218" channel-number="218",Sky Sport Bundesliga 8 HD
+https://www.sky.de/tvguide-7599#channel-337
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.9.HD.de" tvg-name="Sky Sport Bundesliga 9 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_257skysportbundesliga9hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="219" channel-number="219",Sky Sport Bundesliga 9 HD
+https://www.sky.de/tvguide-7599#channel-257
+#EXTINF:-1 tvg-id="Sky.Sport.Bundesliga.10.HD.de" tvg-name="Sky Sport Bundesliga 10 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_271skysportbundesliga10hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="220" channel-number="220",Sky Sport Bundesliga 10 HD
+https://www.sky.de/tvguide-7599#channel-271
+#EXTINF:-1 tvg-id="Sky.Sport.1.HD.de" tvg-name="Sky Sport 1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_268skysport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="221" channel-number="221",Sky Sport 1 HD
+https://www.sky.de/tvguide-7599#channel-268
+#EXTINF:-1 tvg-id="Sky.Sport.2.HD.de" tvg-name="Sky Sport 2 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_278skysport2hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="222" channel-number="222",Sky Sport 2 HD
+https://www.sky.de/tvguide-7599#channel-278
+#EXTINF:-1 tvg-id="Sky.Sport.3.HD.de" tvg-name="Sky Sport 3 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_288skysport3hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="223" channel-number="223",Sky Sport 3 HD
+https://www.sky.de/tvguide-7599#channel-288
+#EXTINF:-1 tvg-id="Sky.Sport.4.HD.de" tvg-name="Sky Sport 4 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_298skysport4hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="224" channel-number="224",Sky Sport 4 HD
+https://www.sky.de/tvguide-7599#channel-298
+#EXTINF:-1 tvg-id="Sky.Sport.5.HD.de" tvg-name="Sky Sport 5 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_308skysport5hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="225" channel-number="225",Sky Sport 5 HD
+https://www.sky.de/tvguide-7599#channel-308
+#EXTINF:-1 tvg-id="Sky.Sport.6.HD.de" tvg-name="Sky Sport 6 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_318skysport6hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="226" channel-number="226",Sky Sport 6 HD
+https://www.sky.de/tvguide-7599#channel-318
+#EXTINF:-1 tvg-id="Sky.Sport.7.HD.de" tvg-name="Sky Sport 7 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_328skysport7hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="227" channel-number="227",Sky Sport 7 HD
+https://www.sky.de/tvguide-7599#channel-328
+#EXTINF:-1 tvg-id="Sky.Sport.8.HD.de" tvg-name="Sky Sport 8 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_338skysport8hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="228" channel-number="228",Sky Sport 8 HD
+https://www.sky.de/tvguide-7599#channel-338
+#EXTINF:-1 tvg-id="Sky.Sport.9.HD.de" tvg-name="Sky Sport 9 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_258skysport9hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="229" channel-number="229",Sky Sport 9 HD
+https://www.sky.de/tvguide-7599#channel-258
+#EXTINF:-1 tvg-id="Sky.Sport.10.HD.de" tvg-name="Sky Sport 10 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_269skysport10hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="230" channel-number="230",Sky Sport 10 HD
+https://www.sky.de/tvguide-7599#channel-269
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.1.HD.de" tvg-name="Sky Sport Austria 1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_143skysportaustria1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="231" channel-number="231",Sky Sport Austria 1 HD
+https://www.sky.de/tvguide-7599#channel-143
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.2.HD.de" tvg-name="Sky Sport Austria 2 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_329skysportaustria2hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="232" channel-number="232",Sky Sport Austria 2 HD
+https://www.sky.de/tvguide-7599#channel-329
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.3.HD.de" tvg-name="Sky Sport Austria 3 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_339skysportaustria3hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="233" channel-number="233",Sky Sport Austria 3 HD
+https://www.sky.de/tvguide-7599#channel-339
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.4.HD.de" tvg-name="Sky Sport Austria 4 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_259skysportaustria4hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="234" channel-number="234",Sky Sport Austria 4 HD
+https://www.sky.de/tvguide-7599#channel-259
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.5.HD.de" tvg-name="Sky Sport Austria 5 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_326skysportaustria5hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="235" channel-number="235",Sky Sport Austria 5 HD
+https://www.sky.de/tvguide-7599#channel-326
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.6.HD.de" tvg-name="Sky Sport Austria 6 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_342skysportaustria6hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="236" channel-number="236",Sky Sport Austria 6 HD
+https://www.sky.de/tvguide-7599#channel-342
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.7.HD.de" tvg-name="Sky Sport Austria 7 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_261skysportaustria7hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="237" channel-number="237",Sky Sport Austria 7 HD
+https://www.sky.de/tvguide-7599#channel-261
+#EXTINF:-1 tvg-id="Sky.Sport.Austria.8.HD.de" tvg-name="Sky Sport Austria 8 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_262skysportaustria8hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="238" channel-number="238",Sky Sport Austria 8 HD
+https://www.sky.de/tvguide-7599#channel-262
+#EXTINF:-1 tvg-id="DAZN.1.HD.de" tvg-name="DAZN 1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_132dazn1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="239" channel-number="239",DAZN 1 HD
+https://www.sky.de/tvguide-7599#channel-132
+#EXTINF:-1 tvg-id="DAZN.2.HD.de" tvg-name="DAZN 2 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_122dazn2hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="240" channel-number="240",DAZN 2 HD
+https://www.sky.de/tvguide-7599#channel-122
+#EXTINF:-1 tvg-id="SPORTDIGITAL.FUSSBALL.de" tvg-name="SPORTDIGITAL FUSSBALL" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4300sportdigitalfussball/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="241" channel-number="241",SPORTDIGITAL FUSSBALL
+https://www.sky.de/tvguide-7599#channel-4300
+#EXTINF:-1 tvg-id="Sportdigital1+.de" tvg-name="Sportdigital1+" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4301sportdigital1/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="242" channel-number="242",Sportdigital1+
+https://www.sky.de/tvguide-7599#channel-4301
+#EXTINF:-1 tvg-id="WAIDWERK.de" tvg-name="WAIDWERK" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4304waidwerk/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="243" channel-number="243",WAIDWERK
+https://www.sky.de/tvguide-7599#channel-4304
+#EXTINF:-1 tvg-id="ClipMyHorse.TV.de" tvg-name="ClipMyHorse.TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4305clipmyhorsetv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="244" channel-number="244",ClipMyHorse.TV
+https://www.sky.de/tvguide-7599#channel-4305
+#EXTINF:-1 tvg-id="eSportsONE.de" tvg-name="eSportsONE" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4302esportsone/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="246" channel-number="246",eSportsONE
+https://www.sky.de/tvguide-7599#channel-4302
+#EXTINF:-1 tvg-id="DFB.TV.de" tvg-name="DFB.TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_124dfbtv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="247" channel-number="247",DFB.TV
+https://www.sky.de/tvguide-7599#channel-124
+#EXTINF:-1 tvg-id="Prime.Sportsbar.de" tvg-name="Prime Sportsbar" tvg-logo="https://de.imageservice.sky.com/logo/skychb_341primesportsbar/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="294" channel-number="294",Prime Sportsbar
+https://www.sky.de/tvguide-7599#channel-341
+#EXTINF:-1 tvg-id="Eurosport.1.HD.de" tvg-name="Eurosport 1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2502eurosport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="295" channel-number="295",Eurosport 1 HD
+https://www.sky.de/tvguide-7599#channel-2502
+#EXTINF:-1 tvg-id="SPORT1.HD.de" tvg-name="SPORT1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5505sport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="296" channel-number="296",SPORT1 HD
+https://www.sky.de/tvguide-7599#channel-5505
+#EXTINF:-1 tvg-id="Eurosport.1.Deutschland.de" tvg-name="Eurosport 1 Deutschland" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1202eurosport1deutschland/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="298" channel-number="298",Eurosport 1 Deutschland
+https://www.sky.de/tvguide-7599#channel-1202
+#EXTINF:-1 tvg-id="Dyn.Sport.Mix.de" tvg-name="Dyn Sport Mix" tvg-logo="https://de.imageservice.sky.com/logo/skychb_103dynsportmix/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="299" channel-number="299",Dyn Sport Mix
+https://www.sky.de/tvguide-7599#channel-103
+#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.de" tvg-name="Sky Cinema Premiere HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_131skycinemapremierehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="300" channel-number="300",Sky Cinema Premiere HD
+https://www.sky.de/tvguide-7599#channel-131
+#EXTINF:-1 tvg-id="Sky.Cinema.Blockbuster.HD.de" tvg-name="Sky Cinema Blockbuster HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_330skycinemablockbusterhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="301" channel-number="301",Sky Cinema Blockbuster HD
+https://www.sky.de/tvguide-7599#channel-330
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.de" tvg-name="Sky Cinema Action HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_116skycinemaactionhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="302" channel-number="302",Sky Cinema Action HD
+https://www.sky.de/tvguide-7599#channel-116
+#EXTINF:-1 tvg-id="Sky.Cinema.Feelgood.HD.de" tvg-name="Sky Cinema Feelgood HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_331skycinemafeelgoodhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="303" channel-number="303",Sky Cinema Feelgood HD
+https://www.sky.de/tvguide-7599#channel-331
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.de" tvg-name="Sky Cinema Classics HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_107skycinemaclassicshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="304" channel-number="304",Sky Cinema Classics HD
+https://www.sky.de/tvguide-7599#channel-107
+#EXTINF:-1 tvg-id="Warner.TV.Film.HD.de" tvg-name="Warner TV Film HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_140warnertvfilmhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="305" channel-number="305",Warner TV Film HD
+https://www.sky.de/tvguide-7599#channel-140
+#EXTINF:-1 tvg-id="Sky.Cinema.Premiere.HD.+24.de" tvg-name="Sky Cinema Premiere HD +24" tvg-logo="https://de.imageservice.sky.com/logo/skychb_400skycinemapremierehd24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="306" channel-number="306",Sky Cinema Premiere HD +24
+https://www.sky.de/tvguide-7599#channel-400
+#EXTINF:-1 tvg-id="Sky.Cinema.Blockbuster.HD.+24.de" tvg-name="Sky Cinema Blockbuster HD +24" tvg-logo="https://de.imageservice.sky.com/logo/skychb_332skycinemablockbusterhd24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="307" channel-number="307",Sky Cinema Blockbuster HD +24
+https://www.sky.de/tvguide-7599#channel-332
+#EXTINF:-1 tvg-id="Sky.Cinema.Action.HD.+24.de" tvg-name="Sky Cinema Action HD +24" tvg-logo="https://de.imageservice.sky.com/logo/skychb_407skycinemaactionhd24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="308" channel-number="308",Sky Cinema Action HD +24
+https://www.sky.de/tvguide-7599#channel-407
+#EXTINF:-1 tvg-id="Sky.Cinema.Feelgood.HD.+24.de" tvg-name="Sky Cinema Feelgood HD +24" tvg-logo="https://de.imageservice.sky.com/logo/skychb_333skycinemafeelgoodhd24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="309" channel-number="309",Sky Cinema Feelgood HD +24
+https://www.sky.de/tvguide-7599#channel-333
+#EXTINF:-1 tvg-id="Sky.Cinema.Classics.HD.+24.de" tvg-name="Sky Cinema Classics HD +24" tvg-logo="https://de.imageservice.sky.com/logo/skychb_409skycinemaclassicshd24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="310" channel-number="310",Sky Cinema Classics HD +24
+https://www.sky.de/tvguide-7599#channel-409
+#EXTINF:-1 tvg-id="Beate.Uhse.HD.de" tvg-name="Beate Uhse HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_133beateuhsehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="340" channel-number="340",Beate Uhse HD
+https://www.sky.de/tvguide-7599#channel-133
+#EXTINF:-1 tvg-id="TELE.5.HD.de" tvg-name="TELE 5 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5401tele5hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="360" channel-number="360",TELE 5 HD
+https://www.sky.de/tvguide-7599#channel-5401
+#EXTINF:-1 tvg-id="ANIXE.HD.de" tvg-name="ANIXE HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1100anixehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="361" channel-number="361",ANIXE HD
+https://www.sky.de/tvguide-7599#channel-1100
+#EXTINF:-1 tvg-id="Cartoonito.de" tvg-name="Cartoonito" tvg-logo="https://de.imageservice.sky.com/logo/skychb_28cartoonito/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="500" channel-number="500",Cartoonito
+https://www.sky.de/tvguide-7599#channel-28
+#EXTINF:-1 tvg-id="Nick.Jr..de" tvg-name="Nick Jr." tvg-logo="https://de.imageservice.sky.com/logo/skychb_8667nickjr/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="503" channel-number="503",Nick Jr.
+https://www.sky.de/tvguide-7599#channel-8667
+#EXTINF:-1 tvg-id="Nicktoons.de" tvg-name="Nicktoons" tvg-logo="https://de.imageservice.sky.com/logo/skychb_27nicktoons/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="504" channel-number="504",Nicktoons
+https://www.sky.de/tvguide-7599#channel-27
+#EXTINF:-1 tvg-id="Cartoon.Network.de" tvg-name="Cartoon Network" tvg-logo="https://de.imageservice.sky.com/logo/skychb_404cartoonnetwork/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="505" channel-number="505",Cartoon Network
+https://www.sky.de/tvguide-7599#channel-404
+#EXTINF:-1 tvg-id="KiKA.HD.de" tvg-name="KiKA HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1160kikahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="550" channel-number="550",KiKA HD
+https://www.sky.de/tvguide-7599#channel-1160
+#EXTINF:-1 tvg-id="SUPER.RTL.HD.de" tvg-name="SUPER RTL HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1931superrtlhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="551" channel-number="551",SUPER RTL HD
+https://www.sky.de/tvguide-7599#channel-1931
+#EXTINF:-1 tvg-id="Disney.Channel.HD.de" tvg-name="Disney Channel HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5500disneychannelhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="552" channel-number="552",Disney Channel HD
+https://www.sky.de/tvguide-7599#channel-5500
+#EXTINF:-1 tvg-id="TOGGO.plus.de" tvg-name="TOGGO plus" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2030toggoplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="563" channel-number="563",TOGGO plus
+https://www.sky.de/tvguide-7599#channel-2030
+#EXTINF:-1 tvg-id="NICK./.Comedy.Central+1.de" tvg-name="NICK / Comedy Central+1" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8680nickcomedycentral1/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="564" channel-number="564",NICK / Comedy Central+1
+https://www.sky.de/tvguide-7599#channel-8680
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="Jukebox" tvg-logo="https://de.imageservice.sky.com/logo/skychb_401jukebox/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="600" channel-number="600",Jukebox
+https://www.sky.de/tvguide-7599#channel-401
+#EXTINF:-1 tvg-id="MTV.HD.de" tvg-name="MTV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_829mtvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="601" channel-number="601",MTV HD
+https://www.sky.de/tvguide-7599#channel-829
+#EXTINF:-1 tvg-id="Deluxe.Music.HD.de" tvg-name="Deluxe Music HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5503deluxemusichd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="602" channel-number="602",Deluxe Music HD
+https://www.sky.de/tvguide-7599#channel-5503
+#EXTINF:-1 tvg-id="Deluxe.Dance.by.Kontor.HD.de" tvg-name="Deluxe Dance by Kontor HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1439deluxedancebykontorhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="603" channel-number="603",Deluxe Dance by Kontor HD
+https://www.sky.de/tvguide-7599#channel-1439
+#EXTINF:-1 tvg-id="Deluxe.Rap.HD.de" tvg-name="Deluxe Rap HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1449deluxeraphd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="604" channel-number="604",Deluxe Rap HD
+https://www.sky.de/tvguide-7599#channel-1449
+#EXTINF:-1 tvg-id="Schlager.Deluxe.de" tvg-name="Schlager Deluxe" tvg-logo="https://de.imageservice.sky.com/logo/skychb_35schlagerdeluxe/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="609" channel-number="609",Schlager Deluxe
+https://www.sky.de/tvguide-7599#channel-35
+#EXTINF:-1 tvg-id="Volksmusik.TV.de" tvg-name="Volksmusik.TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3018volksmusiktv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="610" channel-number="610",Volksmusik.TV
+https://www.sky.de/tvguide-7599#channel-3018
+#EXTINF:-1 tvg-id="Stimmungsgarten.TV.de" tvg-name="Stimmungsgarten TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3404stimmungsgartentv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="612" channel-number="612",Stimmungsgarten TV
+https://www.sky.de/tvguide-7599#channel-3404
+#EXTINF:-1 tvg-id="Melodie.TV.NEU.de" tvg-name="Melodie TV NEU" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3317melodietvneu/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="613" channel-number="613",Melodie TV NEU
+https://www.sky.de/tvguide-7599#channel-3317
+#EXTINF:-1 tvg-id="TELEGOLD.de" tvg-name="TELEGOLD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1460telegold/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="614" channel-number="614",TELEGOLD
+https://www.sky.de/tvguide-7599#channel-1460
+#EXTINF:-1 tvg-id="WELT.HD.de" tvg-name="WELT HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1108welthd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="702" channel-number="702",WELT HD
+https://www.sky.de/tvguide-7599#channel-1108
+#EXTINF:-1 tvg-id="ntv.HD.de" tvg-name="ntv HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1204ntvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="703" channel-number="703",ntv HD
+https://www.sky.de/tvguide-7599#channel-1204
+#EXTINF:-1 tvg-id="tagesschau24.HD.de" tvg-name="tagesschau24 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_734tagesschau24hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="704" channel-number="704",tagesschau24 HD
+https://www.sky.de/tvguide-7599#channel-734
+#EXTINF:-1 tvg-id="ZDFinfo.HD.de" tvg-name="ZDFinfo HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1170zdfinfohd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="705" channel-number="705",ZDFinfo HD
+https://www.sky.de/tvguide-7599#channel-1170
+#EXTINF:-1 tvg-id="CNBC.HD.de" tvg-name="CNBC HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_125cnbchd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="706" channel-number="706",CNBC HD
+https://www.sky.de/tvguide-7599#channel-125
+#EXTINF:-1 tvg-id="NHK.WORLD-JPN.de" tvg-name="NHK WORLD-JPN" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5021nhkworldjpn/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="707" channel-number="707",NHK WORLD-JPN
+https://www.sky.de/tvguide-7599#channel-5021
+#EXTINF:-1 tvg-id="TRT.World.HD.de" tvg-name="TRT World HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6918trtworldhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="708" channel-number="708",TRT World HD
+https://www.sky.de/tvguide-7599#channel-6918
+#EXTINF:-1 tvg-id="BBC.News.de" tvg-name="BBC News" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5001bbcnews/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="709" channel-number="709",BBC News
+https://www.sky.de/tvguide-7599#channel-5001
+#EXTINF:-1 tvg-id="Al.Jazeera.English.HD.de" tvg-name="Al Jazeera English HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5031aljazeeraenglishhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="710" channel-number="710",Al Jazeera English HD
+https://www.sky.de/tvguide-7599#channel-5031
+#EXTINF:-1 tvg-id="Arirang.HD.de" tvg-name="Arirang HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_7012ariranghd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="711" channel-number="711",Arirang HD
+https://www.sky.de/tvguide-7599#channel-7012
+#EXTINF:-1 tvg-id="TV5MONDE.EUROPE.HD.de" tvg-name="TV5MONDE EUROPE HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6915tv5mondeeuropehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="713" channel-number="713",TV5MONDE EUROPE HD
+https://www.sky.de/tvguide-7599#channel-6915
+#EXTINF:-1 tvg-id="PULS.24.HD.de" tvg-name="PULS 24 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5304puls24hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="714" channel-number="714",PULS 24 HD
+https://www.sky.de/tvguide-7599#channel-5304
+#EXTINF:-1 tvg-id="oe24.TV.HD.de" tvg-name="oe24.TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3314oe24tvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="715" channel-number="715",oe24.TV HD
+https://www.sky.de/tvguide-7599#channel-3314
+#EXTINF:-1 tvg-id="TVRI.WORLD.HD.de" tvg-name="TVRI WORLD HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_7001tvriworldhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="716" channel-number="716",TVRI WORLD HD
+https://www.sky.de/tvguide-7599#channel-7001
+#EXTINF:-1 tvg-id="CGTN.News.HD.de" tvg-name="CGTN News HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6801cgtnnewshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="717" channel-number="717",CGTN News HD
+https://www.sky.de/tvguide-7599#channel-6801
+#EXTINF:-1 tvg-id="CGTN.Francais.HD.de" tvg-name="CGTN Francais HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6803cgtnfrancaishd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="718" channel-number="718",CGTN Francais HD
+https://www.sky.de/tvguide-7599#channel-6803
+#EXTINF:-1 tvg-id="Sky.News.Intl.de" tvg-name="Sky News Intl" tvg-logo="https://de.imageservice.sky.com/logo/skychb_7290skynewsintl/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="719" channel-number="719",Sky News Intl
+https://www.sky.de/tvguide-7599#channel-7290
+#EXTINF:-1 tvg-id="EURONEWS.GERMAN.SD.de" tvg-name="EURONEWS GERMAN SD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1230euronewsgermansd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="723" channel-number="723",EURONEWS GERMAN SD
+https://www.sky.de/tvguide-7599#channel-1230
+#EXTINF:-1 tvg-id="Bloomberg.Europe.TV.de" tvg-name="Bloomberg Europe TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_619bloombergeuropetv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="729" channel-number="729",Bloomberg Europe TV
+https://www.sky.de/tvguide-7599#channel-619
+#EXTINF:-1 tvg-id="CNN.Int..de" tvg-name="CNN Int." tvg-logo="https://de.imageservice.sky.com/logo/skychb_4422cnnint/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="731" channel-number="731",CNN Int.
+https://www.sky.de/tvguide-7599#channel-4422
+#EXTINF:-1 tvg-id="France.24.(in.English).de" tvg-name="France 24 (in English)" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6906france24inenglish/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="732" channel-number="732",France 24 (in English)
+https://www.sky.de/tvguide-7599#channel-6906
+#EXTINF:-1 tvg-id="France.24.(en.Français).de" tvg-name="France 24 (en Français)" tvg-logo="https://de.imageservice.sky.com/logo/skychb_6905france24enfrançais/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="733" channel-number="733",France 24 (en Français)
+https://www.sky.de/tvguide-7599#channel-6905
+#EXTINF:-1 tvg-id="RAI.News.24.de" tvg-name="RAI News 24" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4216rainews24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="736" channel-number="736",RAI News 24
+https://www.sky.de/tvguide-7599#channel-4216
+#EXTINF:-1 tvg-id="BVN.TV.de" tvg-name="BVN TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5701bvntv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="737" channel-number="737",BVN TV
+https://www.sky.de/tvguide-7599#channel-5701
+#EXTINF:-1 tvg-id="ARAGON.TV.INT.de" tvg-name="ARAGON TV INT" tvg-logo="https://de.imageservice.sky.com/logo/skychb_205aragontvint/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="739" channel-number="739",ARAGON TV INT
+https://www.sky.de/tvguide-7599#channel-205
+#EXTINF:-1 tvg-id="ORF1.HD.de" tvg-name="ORF1 HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4911orf1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="751" channel-number="751",ORF1 HD
+https://www.sky.de/tvguide-7599#channel-4911
+#EXTINF:-1 tvg-id="ATV.HD.AT.de" tvg-name="ATV HD AT" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3228atvhdat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="752" channel-number="752",ATV HD AT
+https://www.sky.de/tvguide-7599#channel-3228
+#EXTINF:-1 tvg-id="ServusTV.HD.Oesterreich.de" tvg-name="ServusTV HD Oesterreich" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4913servustvhdoesterreich/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="753" channel-number="753",ServusTV HD Oesterreich
+https://www.sky.de/tvguide-7599#channel-4913
+#EXTINF:-1 tvg-id="ORF.III.HD.de" tvg-name="ORF III HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3308orfiiihd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="754" channel-number="754",ORF III HD
+https://www.sky.de/tvguide-7599#channel-3308
+#EXTINF:-1 tvg-id="ORF.SPORT+.HD.de" tvg-name="ORF SPORT+ HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3309orfsporthd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="755" channel-number="755",ORF SPORT+ HD
+https://www.sky.de/tvguide-7599#channel-3309
+#EXTINF:-1 tvg-id="PULS.4.HD.Austria.de" tvg-name="PULS 4 HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5303puls4hdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="756" channel-number="756",PULS 4 HD Austria
+https://www.sky.de/tvguide-7599#channel-5303
+#EXTINF:-1 tvg-id="SAT.1.HD.Austria.de" tvg-name="SAT.1 HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5300sat1hdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="757" channel-number="757",SAT.1 HD Austria
+https://www.sky.de/tvguide-7599#channel-5300
+#EXTINF:-1 tvg-id="RTL.HD.Austria.de" tvg-name="RTL HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1911rtlhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="758" channel-number="758",RTL HD Austria
+https://www.sky.de/tvguide-7599#channel-1911
+#EXTINF:-1 tvg-id="ProSieben.HD.Austria.de" tvg-name="ProSieben HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5301prosiebenhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="759" channel-number="759",ProSieben HD Austria
+https://www.sky.de/tvguide-7599#channel-5301
+#EXTINF:-1 tvg-id="VOX.HD.Austria.de" tvg-name="VOX HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1921voxhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="760" channel-number="760",VOX HD Austria
+https://www.sky.de/tvguide-7599#channel-1921
+#EXTINF:-1 tvg-id="kabel.eins.HD.Austria.de" tvg-name="kabel eins HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5302kabeleinshdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="761" channel-number="761",kabel eins HD Austria
+https://www.sky.de/tvguide-7599#channel-5302
+#EXTINF:-1 tvg-id="RTLZWEI.HD.Austria.de" tvg-name="RTLZWEI HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1941rtlzweihdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="762" channel-number="762",RTLZWEI HD Austria
+https://www.sky.de/tvguide-7599#channel-1941
+#EXTINF:-1 tvg-id="WELT.HD.AT.de" tvg-name="WELT HD AT" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1118welthdat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="763" channel-number="763",WELT HD AT
+https://www.sky.de/tvguide-7599#channel-1118
+#EXTINF:-1 tvg-id="TELE.5.HD.Austria.de" tvg-name="TELE 5 HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5421tele5hdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="764" channel-number="764",TELE 5 HD Austria
+https://www.sky.de/tvguide-7599#channel-5421
+#EXTINF:-1 tvg-id="Kabel.1.Doku.HD.Austria.de" tvg-name="Kabel 1 Doku HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1325kabel1dokuhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="765" channel-number="765",Kabel 1 Doku HD Austria
+https://www.sky.de/tvguide-7599#channel-1325
+#EXTINF:-1 tvg-id="SAT.1.Gold.HD.Austria.de" tvg-name="SAT.1 Gold HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2520sat1goldhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="767" channel-number="767",SAT.1 Gold HD Austria
+https://www.sky.de/tvguide-7599#channel-2520
+#EXTINF:-1 tvg-id="Pro7.MAXX.HD.Austria.de" tvg-name="Pro7 MAXX HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1324pro7maxxhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="768" channel-number="768",Pro7 MAXX HD Austria
+https://www.sky.de/tvguide-7599#channel-1324
+#EXTINF:-1 tvg-id="sixx.HD.Austria.de" tvg-name="sixx HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1323sixxhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="769" channel-number="769",sixx HD Austria
+https://www.sky.de/tvguide-7599#channel-1323
+#EXTINF:-1 tvg-id="Deluxe.Music.HD.Austria.de" tvg-name="Deluxe Music HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5513deluxemusichdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="770" channel-number="770",Deluxe Music HD Austria
+https://www.sky.de/tvguide-7599#channel-5513
+#EXTINF:-1 tvg-id="Disney.Channel.HD.Austria.de" tvg-name="Disney Channel HD Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5510disneychannelhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="771" channel-number="771",Disney Channel HD Austria
+https://www.sky.de/tvguide-7599#channel-5510
+#EXTINF:-1 tvg-id="SAT.1.A.de" tvg-name="SAT.1 A" tvg-logo="https://de.imageservice.sky.com/logo/skychb_579sat1a/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="773" channel-number="773",SAT.1 A
+https://www.sky.de/tvguide-7599#channel-579
+#EXTINF:-1 tvg-id="Kabel.1.Austria.de" tvg-name="Kabel 1 Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_787kabel1austria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="778" channel-number="778",Kabel 1 Austria
+https://www.sky.de/tvguide-7599#channel-787
+#EXTINF:-1 tvg-id="SUPER.RTL.A.de" tvg-name="SUPER RTL A" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8815superrtla/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="780" channel-number="780",SUPER RTL A
+https://www.sky.de/tvguide-7599#channel-8815
+#EXTINF:-1 tvg-id="ATV2.HD.AT.de" tvg-name="ATV2 HD AT" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3223atv2hdat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="781" channel-number="781",ATV2 HD AT
+https://www.sky.de/tvguide-7599#channel-3223
+#EXTINF:-1 tvg-id="SAT.1.Gold.Österreich.de" tvg-name="SAT.1 Gold Österreich" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5310sat1goldösterreich/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="783" channel-number="783",SAT.1 Gold Österreich
+https://www.sky.de/tvguide-7599#channel-5310
+#EXTINF:-1 tvg-id="DMAX.Austria.de" tvg-name="DMAX Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_73dmaxaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="786" channel-number="786",DMAX Austria
+https://www.sky.de/tvguide-7599#channel-73
+#EXTINF:-1 tvg-id="NITRO.Austria.de" tvg-name="NITRO Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3102nitroaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="787" channel-number="787",NITRO Austria
+https://www.sky.de/tvguide-7599#channel-3102
+#EXTINF:-1 tvg-id="ntv.Austria.de" tvg-name="ntv Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3021ntvaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="791" channel-number="791",ntv Austria
+https://www.sky.de/tvguide-7599#channel-3021
+#EXTINF:-1 tvg-id="RTLup.Austria.de" tvg-name="RTLup Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3229rtlupaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="792" channel-number="792",RTLup Austria
+https://www.sky.de/tvguide-7599#channel-3229
+#EXTINF:-1 tvg-id="TLC.Austria.de" tvg-name="TLC Austria" tvg-logo="https://de.imageservice.sky.com/logo/skychb_71tlcaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="793" channel-number="793",TLC Austria
+https://www.sky.de/tvguide-7599#channel-71
+#EXTINF:-1 tvg-id="krone.tv.de" tvg-name="krone.tv" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3313kronetv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="794" channel-number="794",krone.tv
+https://www.sky.de/tvguide-7599#channel-3313
+#EXTINF:-1 tvg-id="BR.Fernsehen.Nord.HD.de" tvg-name="BR Fernsehen Nord HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_630brfernsehennordhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="800" channel-number="800",BR Fernsehen Nord HD
+https://www.sky.de/tvguide-7599#channel-630
+#EXTINF:-1 tvg-id="BR.Fernsehen.Süd.HD.de" tvg-name="BR Fernsehen Süd HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_631brfernsehensüdhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="801" channel-number="801",BR Fernsehen Süd HD
+https://www.sky.de/tvguide-7599#channel-631
+#EXTINF:-1 tvg-id="NDR.FS.HH.HD.de" tvg-name="NDR FS HH HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_632ndrfshhhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="802" channel-number="802",NDR FS HH HD
+https://www.sky.de/tvguide-7599#channel-632
+#EXTINF:-1 tvg-id="NDR.FS.MV.HD.de" tvg-name="NDR FS MV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_633ndrfsmvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="803" channel-number="803",NDR FS MV HD
+https://www.sky.de/tvguide-7599#channel-633
+#EXTINF:-1 tvg-id="NDR.FS.NDS.HD.de" tvg-name="NDR FS NDS HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_635ndrfsndshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="804" channel-number="804",NDR FS NDS HD
+https://www.sky.de/tvguide-7599#channel-635
+#EXTINF:-1 tvg-id="NDR.FS.SH.HD.de" tvg-name="NDR FS SH HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_636ndrfsshhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="805" channel-number="805",NDR FS SH HD
+https://www.sky.de/tvguide-7599#channel-636
+#EXTINF:-1 tvg-id="SWR.BW.HD.de" tvg-name="SWR BW HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_637swrbwhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="806" channel-number="806",SWR BW HD
+https://www.sky.de/tvguide-7599#channel-637
+#EXTINF:-1 tvg-id="SWR.RP.HD.de" tvg-name="SWR RP HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_638swrrphd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="807" channel-number="807",SWR RP HD
+https://www.sky.de/tvguide-7599#channel-638
+#EXTINF:-1 tvg-id="WDR.HD.Köln.de" tvg-name="WDR HD Köln" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8332wdrhdköln/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="808" channel-number="808",WDR HD Köln
+https://www.sky.de/tvguide-7599#channel-8332
+#EXTINF:-1 tvg-id="WDR.HD.Aachen.de" tvg-name="WDR HD Aachen" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8333wdrhdaachen/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="809" channel-number="809",WDR HD Aachen
+https://www.sky.de/tvguide-7599#channel-8333
+#EXTINF:-1 tvg-id="WDR.HD.Bielefeld.de" tvg-name="WDR HD Bielefeld" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8334wdrhdbielefeld/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="810" channel-number="810",WDR HD Bielefeld
+https://www.sky.de/tvguide-7599#channel-8334
+#EXTINF:-1 tvg-id="WDR.HD.Bonn.de" tvg-name="WDR HD Bonn" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8335wdrhdbonn/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="811" channel-number="811",WDR HD Bonn
+https://www.sky.de/tvguide-7599#channel-8335
+#EXTINF:-1 tvg-id="WDR.HD.Dortmund.de" tvg-name="WDR HD Dortmund" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8336wdrhddortmund/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="812" channel-number="812",WDR HD Dortmund
+https://www.sky.de/tvguide-7599#channel-8336
+#EXTINF:-1 tvg-id="WDR.HD.Duisburg.de" tvg-name="WDR HD Duisburg" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8337wdrhdduisburg/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="813" channel-number="813",WDR HD Duisburg
+https://www.sky.de/tvguide-7599#channel-8337
+#EXTINF:-1 tvg-id="WDR.HD.Düsseldorf.de" tvg-name="WDR HD Düsseldorf" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8338wdrhddüsseldorf/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="814" channel-number="814",WDR HD Düsseldorf
+https://www.sky.de/tvguide-7599#channel-8338
+#EXTINF:-1 tvg-id="WDR.HD.Essen.de" tvg-name="WDR HD Essen" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8339wdrhdessen/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="815" channel-number="815",WDR HD Essen
+https://www.sky.de/tvguide-7599#channel-8339
+#EXTINF:-1 tvg-id="WDR.HD.Münster.de" tvg-name="WDR HD Münster" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8340wdrhdmünster/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="816" channel-number="816",WDR HD Münster
+https://www.sky.de/tvguide-7599#channel-8340
+#EXTINF:-1 tvg-id="WDR.HD.Siegen.de" tvg-name="WDR HD Siegen" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8341wdrhdsiegen/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="817" channel-number="817",WDR HD Siegen
+https://www.sky.de/tvguide-7599#channel-8341
+#EXTINF:-1 tvg-id="WDR.HD.Wuppertal.de" tvg-name="WDR HD Wuppertal" tvg-logo="https://de.imageservice.sky.com/logo/skychb_8342wdrhdwuppertal/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="818" channel-number="818",WDR HD Wuppertal
+https://www.sky.de/tvguide-7599#channel-8342
+#EXTINF:-1 tvg-id="hr-fernsehen.HD.de" tvg-name="hr-fernsehen HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_650hrfernsehenhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="819" channel-number="819",hr-fernsehen HD
+https://www.sky.de/tvguide-7599#channel-650
+#EXTINF:-1 tvg-id="MDR.Sachsen.HD.de" tvg-name="MDR Sachsen HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_651mdrsachsenhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="820" channel-number="820",MDR Sachsen HD
+https://www.sky.de/tvguide-7599#channel-651
+#EXTINF:-1 tvg-id="MDR.S-Anhalt.HD.de" tvg-name="MDR S-Anhalt HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_652mdrsanhalthd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="821" channel-number="821",MDR S-Anhalt HD
+https://www.sky.de/tvguide-7599#channel-652
+#EXTINF:-1 tvg-id="MDR.Thüringen.HD.de" tvg-name="MDR Thüringen HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_653mdrthüringenhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="822" channel-number="822",MDR Thüringen HD
+https://www.sky.de/tvguide-7599#channel-653
+#EXTINF:-1 tvg-id="rbb.Berlin.HD.de" tvg-name="rbb Berlin HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_654rbbberlinhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="823" channel-number="823",rbb Berlin HD
+https://www.sky.de/tvguide-7599#channel-654
+#EXTINF:-1 tvg-id="rbb.Brandenburg.HD.de" tvg-name="rbb Brandenburg HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_655rbbbrandenburghd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="824" channel-number="824",rbb Brandenburg HD
+https://www.sky.de/tvguide-7599#channel-655
+#EXTINF:-1 tvg-id="SR.Fernsehen.HD.de" tvg-name="SR Fernsehen HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_690srfernsehenhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="825" channel-number="825",SR Fernsehen HD
+https://www.sky.de/tvguide-7599#channel-690
+#EXTINF:-1 tvg-id="Radio.Bremen.HD.de" tvg-name="Radio Bremen HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_379radiobremenhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="826" channel-number="826",Radio Bremen HD
+https://www.sky.de/tvguide-7599#channel-379
+#EXTINF:-1 tvg-id="R9.Oesterreich.HD.de" tvg-name="R9 Oesterreich HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3312r9oesterreichhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="827" channel-number="827",R9 Oesterreich HD
+https://www.sky.de/tvguide-7599#channel-3312
+#EXTINF:-1 tvg-id="münchen.tv.HD.de" tvg-name="münchen.tv HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5801münchentvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="828" channel-number="828",münchen.tv HD
+https://www.sky.de/tvguide-7599#channel-5801
+#EXTINF:-1 tvg-id="Franken.Plus.HD.de" tvg-name="Franken Plus HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5809frankenplushd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="829" channel-number="829",Franken Plus HD
+https://www.sky.de/tvguide-7599#channel-5809
+#EXTINF:-1 tvg-id="a.tv.HD.de" tvg-name="a.tv HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5800atvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="830" channel-number="830",a.tv HD
+https://www.sky.de/tvguide-7599#channel-5800
+#EXTINF:-1 tvg-id="OTVA.HD.de" tvg-name="OTVA HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5808otvahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="833" channel-number="833",OTVA HD
+https://www.sky.de/tvguide-7599#channel-5808
+#EXTINF:-1 tvg-id="NIEDERBAYERN.TV.HD.de" tvg-name="NIEDERBAYERN TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5807niederbayerntvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="834" channel-number="834",NIEDERBAYERN TV HD
+https://www.sky.de/tvguide-7599#channel-5807
+#EXTINF:-1 tvg-id="tv.ingolstadt.HD.de" tvg-name="tv.ingolstadt HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5804tvingolstadthd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="835" channel-number="835",tv.ingolstadt HD
+https://www.sky.de/tvguide-7599#channel-5804
+#EXTINF:-1 tvg-id="SACHSEN.EINS.de" tvg-name="SACHSEN EINS" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1308sachseneins/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="836" channel-number="836",SACHSEN EINS
+https://www.sky.de/tvguide-7599#channel-1308
+#EXTINF:-1 tvg-id="RTL.Bayern.de" tvg-name="RTL Bayern" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2006rtlbayern/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="849" channel-number="849",RTL Bayern
+https://www.sky.de/tvguide-7599#channel-2006
+#EXTINF:-1 tvg-id="RTL.HH.SH.de" tvg-name="RTL HH SH" tvg-logo="https://de.imageservice.sky.com/logo/skychb_7510rtlhhsh/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="850" channel-number="850",RTL HH SH
+https://www.sky.de/tvguide-7599#channel-7510
+#EXTINF:-1 tvg-id="RTL.HB.NDS.de" tvg-name="RTL HB NDS" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2005rtlhbnds/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="851" channel-number="851",RTL HB NDS
+https://www.sky.de/tvguide-7599#channel-2005
+#EXTINF:-1 tvg-id="RTL.Regional.NRW.de" tvg-name="RTL Regional NRW" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2004rtlregionalnrw/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="852" channel-number="852",RTL Regional NRW
+https://www.sky.de/tvguide-7599#channel-2004
+#EXTINF:-1 tvg-id="L-TV.de" tvg-name="L-TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3113ltv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="858" channel-number="858",L-TV
+https://www.sky.de/tvguide-7599#channel-3113
+#EXTINF:-1 tvg-id="SAT.1.HH/SH.de" tvg-name="SAT.1 HH/SH" tvg-logo="https://de.imageservice.sky.com/logo/skychb_25sat1hhsh/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="870" channel-number="870",SAT.1 HH/SH
+https://www.sky.de/tvguide-7599#channel-25
+#EXTINF:-1 tvg-id="SAT.1.NS/Bremen.de" tvg-name="SAT.1 NS/Bremen" tvg-logo="https://de.imageservice.sky.com/logo/skychb_26sat1nsbremen/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="871" channel-number="871",SAT.1 NS/Bremen
+https://www.sky.de/tvguide-7599#channel-26
+#EXTINF:-1 tvg-id="SAT.1.RhlPf/Hessen.de" tvg-name="SAT.1 RhlPf/Hessen" tvg-logo="https://de.imageservice.sky.com/logo/skychb_30sat1rhlpfhessen/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="872" channel-number="872",SAT.1 RhlPf/Hessen
+https://www.sky.de/tvguide-7599#channel-30
+#EXTINF:-1 tvg-id="SAT.1.NRW.de" tvg-name="SAT.1 NRW" tvg-logo="https://de.imageservice.sky.com/logo/skychb_7508sat1nrw/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="873" channel-number="873",SAT.1 NRW
+https://www.sky.de/tvguide-7599#channel-7508
+#EXTINF:-1 tvg-id="SAT.1.Bayern.de" tvg-name="SAT.1 Bayern" tvg-logo="https://de.imageservice.sky.com/logo/skychb_7507sat1bayern/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="874" channel-number="874",SAT.1 Bayern
+https://www.sky.de/tvguide-7599#channel-7507
+#EXTINF:-1 tvg-id="RFO.de" tvg-name="RFO" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1030rfo/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="878" channel-number="878",RFO
+https://www.sky.de/tvguide-7599#channel-1030
+#EXTINF:-1 tvg-id="Regio.TV.de" tvg-name="Regio TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2047regiotv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="879" channel-number="879",Regio TV
+https://www.sky.de/tvguide-7599#channel-2047
+#EXTINF:-1 tvg-id="ORF2B.HD.de" tvg-name="ORF2B HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3303orf2bhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="881" channel-number="881",ORF2B HD
+https://www.sky.de/tvguide-7599#channel-3303
+#EXTINF:-1 tvg-id="ORF2K.HD.de" tvg-name="ORF2K HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3302orf2khd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="882" channel-number="882",ORF2K HD
+https://www.sky.de/tvguide-7599#channel-3302
+#EXTINF:-1 tvg-id="ORF2N.HD.de" tvg-name="ORF2N HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4916orf2nhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="883" channel-number="883",ORF2N HD
+https://www.sky.de/tvguide-7599#channel-4916
+#EXTINF:-1 tvg-id="ORF2O.HD.de" tvg-name="ORF2O HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3304orf2ohd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="884" channel-number="884",ORF2O HD
+https://www.sky.de/tvguide-7599#channel-3304
+#EXTINF:-1 tvg-id="ORF2S.HD.de" tvg-name="ORF2S HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3305orf2shd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="885" channel-number="885",ORF2S HD
+https://www.sky.de/tvguide-7599#channel-3305
+#EXTINF:-1 tvg-id="ORF2St.HD.de" tvg-name="ORF2St HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3301orf2sthd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="886" channel-number="886",ORF2St HD
+https://www.sky.de/tvguide-7599#channel-3301
+#EXTINF:-1 tvg-id="ORF2T.HD.de" tvg-name="ORF2T HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3306orf2thd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="887" channel-number="887",ORF2T HD
+https://www.sky.de/tvguide-7599#channel-3306
+#EXTINF:-1 tvg-id="ORF2V.HD.de" tvg-name="ORF2V HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3307orf2vhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="888" channel-number="888",ORF2V HD
+https://www.sky.de/tvguide-7599#channel-3307
+#EXTINF:-1 tvg-id="ORF2W.HD.de" tvg-name="ORF2W HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4912orf2whd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="889" channel-number="889",ORF2W HD
+https://www.sky.de/tvguide-7599#channel-4912
+#EXTINF:-1 tvg-id="LT1-OOE.de" tvg-name="LT1-OOE" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3104lt1ooe/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="899" channel-number="899",LT1-OOE
+https://www.sky.de/tvguide-7599#channel-3104
+#EXTINF:-1 tvg-id="QVC.UHD.de" tvg-name="QVC UHD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_4230qvcuhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="900" channel-number="900",QVC UHD
+https://www.sky.de/tvguide-7599#channel-4230
+#EXTINF:-1 tvg-id="QVC.HD.de" tvg-name="QVC HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1103qvchd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="902" channel-number="902",QVC HD
+https://www.sky.de/tvguide-7599#channel-1103
+#EXTINF:-1 tvg-id="QVC.ZWEI.HD.de" tvg-name="QVC ZWEI HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5504qvczweihd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="903" channel-number="903",QVC ZWEI HD
+https://www.sky.de/tvguide-7599#channel-5504
+#EXTINF:-1 tvg-id="QVC.STYLE.HD.de" tvg-name="QVC STYLE HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_803qvcstylehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="904" channel-number="904",QVC STYLE HD
+https://www.sky.de/tvguide-7599#channel-803
+#EXTINF:-1 tvg-id="HSE.HD.de" tvg-name="HSE HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1104hsehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="905" channel-number="905",HSE HD
+https://www.sky.de/tvguide-7599#channel-1104
+#EXTINF:-1 tvg-id="HSE.Extra.HD.de" tvg-name="HSE Extra HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5501hseextrahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="906" channel-number="906",HSE Extra HD
+https://www.sky.de/tvguide-7599#channel-5501
+#EXTINF:-1 tvg-id="Juwelo.HD.de" tvg-name="Juwelo HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5403juwelohd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="907" channel-number="907",Juwelo HD
+https://www.sky.de/tvguide-7599#channel-5403
+#EXTINF:-1 tvg-id="pearl.tv.HD.Shop.de" tvg-name="pearl.tv HD Shop" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5404pearltvhdshop/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="908" channel-number="908",pearl.tv HD Shop
+https://www.sky.de/tvguide-7599#channel-5404
+#EXTINF:-1 tvg-id="1-2-3.tv.HD.de" tvg-name="1-2-3.tv HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5502123tvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="910" channel-number="910",1-2-3.tv HD
+https://www.sky.de/tvguide-7599#channel-5502
+#EXTINF:-1 tvg-id="sonnenklar.TV.HD.de" tvg-name="sonnenklar.TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5400sonnenklartvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="911" channel-number="911",sonnenklar.TV HD
+https://www.sky.de/tvguide-7599#channel-5400
+#EXTINF:-1 tvg-id="Handystar.TV.HD.de" tvg-name="Handystar TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_102handystartvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="912" channel-number="912",Handystar TV HD
+https://www.sky.de/tvguide-7599#channel-102
+#EXTINF:-1 tvg-id="Bibel.TV.HD.de" tvg-name="Bibel TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3224bibeltvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="913" channel-number="913",Bibel TV HD
+https://www.sky.de/tvguide-7599#channel-3224
+#EXTINF:-1 tvg-id="Hope.TV.de" tvg-name="Hope TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3227hopetv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="914" channel-number="914",Hope TV
+https://www.sky.de/tvguide-7599#channel-3227
+#EXTINF:-1 tvg-id="ShopLC.HD.de" tvg-name="ShopLC HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1107shoplchd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="915" channel-number="915",ShopLC HD
+https://www.sky.de/tvguide-7599#channel-1107
+#EXTINF:-1 tvg-id="K-TV.HD.de" tvg-name="K-TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5002ktvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="916" channel-number="916",K-TV HD
+https://www.sky.de/tvguide-7599#channel-5002
+#EXTINF:-1 tvg-id="EWTN.katholisches.TV.HD.de" tvg-name="EWTN katholisches TV HD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5003ewtnkatholischestvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="917" channel-number="917",EWTN katholisches TV HD
+https://www.sky.de/tvguide-7599#channel-5003
+#EXTINF:-1 tvg-id="Spirit.TV.Germany.de" tvg-name="Spirit TV Germany" tvg-logo="https://de.imageservice.sky.com/logo/skychb_5004spirittvgermany/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="918" channel-number="918",Spirit TV Germany
+https://www.sky.de/tvguide-7599#channel-5004
+#EXTINF:-1 tvg-id="QVC.Deutschland.de" tvg-name="QVC Deutschland" tvg-logo="https://de.imageservice.sky.com/logo/skychb_2100qvcdeutschland/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="920" channel-number="920",QVC Deutschland
+https://www.sky.de/tvguide-7599#channel-2100
+#EXTINF:-1 tvg-id="HSE.SD.de" tvg-name="HSE SD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_40hsesd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="923" channel-number="923",HSE SD
+https://www.sky.de/tvguide-7599#channel-40
+#EXTINF:-1 tvg-id="HSE.Trend.SD.de" tvg-name="HSE Trend SD" tvg-logo="https://de.imageservice.sky.com/logo/skychb_77hsetrendsd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="925" channel-number="925",HSE Trend SD
+https://www.sky.de/tvguide-7599#channel-77
+#EXTINF:-1 tvg-id="meinTVshop.de" tvg-name="meinTVshop" tvg-logo="https://de.imageservice.sky.com/logo/skychb_899meintvshop/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="926" channel-number="926",meinTVshop
+https://www.sky.de/tvguide-7599#channel-899
+#EXTINF:-1 tvg-id="MediaShop-Meine.Einkaufswelt.de" tvg-name="MediaShop-Meine Einkaufswelt" tvg-logo="https://de.imageservice.sky.com/logo/skychb_775mediashopmeineeinkaufswelt/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="929" channel-number="929",MediaShop-Meine Einkaufswelt
+https://www.sky.de/tvguide-7599#channel-775
+#EXTINF:-1 tvg-id="MediaShop-.Neuheiten.de" tvg-name="MediaShop- Neuheiten" tvg-logo="https://de.imageservice.sky.com/logo/skychb_898mediashopneuheiten/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="930" channel-number="930",MediaShop- Neuheiten
+https://www.sky.de/tvguide-7599#channel-898
+#EXTINF:-1 tvg-id="Immer.etwas.Neues.TV.de" tvg-name="Immer etwas Neues TV" tvg-logo="https://de.imageservice.sky.com/logo/skychb_514immeretwasneuestv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="931" channel-number="931",Immer etwas Neues TV
+https://www.sky.de/tvguide-7599#channel-514
+#EXTINF:-1 tvg-id="Handystar.TV.2.de" tvg-name="Handystar TV 2" tvg-logo="https://de.imageservice.sky.com/logo/skychb_46handystartv2/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="933" channel-number="933",Handystar TV 2
+https://www.sky.de/tvguide-7599#channel-46
+#EXTINF:-1 tvg-id="Genius.Trend.de" tvg-name="Genius Trend" tvg-logo="https://de.imageservice.sky.com/logo/skychb_897geniustrend/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="934" channel-number="934",Genius Trend
+https://www.sky.de/tvguide-7599#channel-897
+#EXTINF:-1 tvg-id="Genius.Plus.de" tvg-name="Genius Plus" tvg-logo="https://de.imageservice.sky.com/logo/skychb_1113geniusplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="935" channel-number="935",Genius Plus
+https://www.sky.de/tvguide-7599#channel-1113
+#EXTINF:-1 tvg-id="RiC.de" tvg-name="RiC" tvg-logo="https://de.imageservice.sky.com/logo/skychb_3019ric/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" tvg-chno="982" channel-number="982",RiC
+https://www.sky.de/tvguide-7599#channel-3019
