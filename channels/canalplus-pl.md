@@ -1,7 +1,5 @@
 # Canal+ PL
 
-Canales observados para `canalplus_pl`: **259**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22300/ncplus-ouah/CHN43FB/60-rhKM" alt="CANAL+ 360 HD" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22300/ncplus-ouah/CHN43FB/60-rhKM">URL</a></sub> | CANAL+ 360 HD | 1 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/22300/broadcasts/day/0?channelPosition=1">Abrir</a> |
@@ -263,5 +261,3 @@ Canales observados para `canalplus_pl`: **259**.
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24002/ncplus-ouah/CHN43FB/CANAL_Live2_2000x1500-cIj8" alt="CANAL+ LIVE 2" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24002/ncplus-ouah/CHN43FB/CANAL_Live2_2000x1500-cIj8">URL</a></sub> | CANAL+ LIVE 2 | 901 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24002/broadcasts/day/0?channelPosition=261">Abrir</a> |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24003/ncplus-ouah/CHN43FB/CANAL_Live3_2000x1500-ydq_" alt="CANAL+ LIVE 3" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24003/ncplus-ouah/CHN43FB/CANAL_Live3_2000x1500-ydq_">URL</a></sub> | CANAL+ LIVE 3 | 902 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24003/broadcasts/day/0?channelPosition=262">Abrir</a> |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24004/ncplus-ouah/CHN43FB/CANAL_Live4_2000x1500-pFBA" alt="CANAL+ LIVE 4" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/24004/ncplus-ouah/CHN43FB/CANAL_Live4_2000x1500-pFBA">URL</a></sub> | CANAL+ LIVE 4 | 903 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/6867b388f2b680f808a0922c0fdf43fb/24004/broadcasts/day/0?channelPosition=263">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
