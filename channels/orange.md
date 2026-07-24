@@ -1,7 +1,5 @@
 # Orange
 
-Canales observados para `orange`: **206**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LA1_UHD_176x122.png" alt="La 1 UHD" width="120"><br><sub><a href="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LA1_UHD_176x122.png">URL</a></sub> | La 1 UHD | 1 | <a href="https://orangetv.orange.es/epg?channel=1010">Abrir</a> |
@@ -210,5 +208,3 @@ Canales observados para `orange`: **206**.
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/logo_pruebas ll1_176x122.png" alt="Pruebas LL1" width="120"><br><sub><a href="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/logo_pruebas ll1_176x122.png">URL</a></sub> | Pruebas LL1 | 991 | <a href="https://orangetv.orange.es/epg?channel=11166">Abrir</a> |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/logo_pruebas ll2_176x122.png" alt="Pruebas LL2" width="120"><br><sub><a href="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/logo_pruebas ll2_176x122.png">URL</a></sub> | Pruebas LL2 | 992 | <a href="https://orangetv.orange.es/epg?channel=11167">Abrir</a> |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_2014362ae1936296451130a1d.png" alt="Prueba OTT" width="120"><br><sub><a href="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_2014362ae1936296451130a1d.png">URL</a></sub> | Prueba OTT | 999 | <a href="https://orangetv.orange.es/epg?channel=50001">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
