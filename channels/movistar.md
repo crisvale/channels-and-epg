@@ -1,7 +1,5 @@
 # Movistar
 
-Canales observados para `movistar`: **177**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png" alt="LA 1" width="120"><br><sub><a href="https://www.movistarplus.es/recorte/m-NEO/canal/TVE.png">URL</a></sub> | LA 1 | 01 | <a href="https://www.movistarplus.es/canal/la-1?id=tve">Abrir</a> |
@@ -181,5 +179,3 @@ Canales observados para `movistar`: **177**.
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIUHD.png" alt="M+ LALIGA 2 HDR" width="120"><br><sub><a href="https://www.movistarplus.es/recorte/m-NEO/canal/MLIUHD.png">URL</a></sub> | M+ LALIGA 2 HDR | 441 | <a href="https://www.movistarplus.es/canal/m-plus-laliga-2-hdr?id=mliuhd">Abrir</a> |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/POPUHD.png" alt="M+ Wimbledon UHD" width="120"><br><sub><a href="https://www.movistarplus.es/recorte/m-NEO/canal/POPUHD.png">URL</a></sub> | M+ Wimbledon UHD | 444 | <a href="https://www.movistarplus.es/canal/m-plus-wimbledon-uhd?id=popuhd">Abrir</a> |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" alt="M+ LALIGA 3" width="120"><br><sub><a href="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png">URL</a></sub> | M+ LALIGA 3 | 450 | <a href="https://www.movistarplus.es/canal/m-plus-laliga-3?id=mlig2">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
