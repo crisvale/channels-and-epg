@@ -1,7 +1,5 @@
 # Canal+ CG
 
-Canales observados para `canalplus_cg`: **358**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180435/canal-ouah/CHN43FB/CANALMAGIC_640x480AFRIQUE1-cimv" alt="C+ MAGIC O HD" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180435/canal-ouah/CHN43FB/CANALMAGIC_640x480AFRIQUE1-cimv">URL</a></sub> | C+ MAGIC O HD | 1 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180435/broadcasts/day/0?channelPosition=1">Abrir</a> |
@@ -362,5 +360,3 @@ Canales observados para `canalplus_cg`: **358**.
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180211/canal-ouah/CHN43FB/PRIVATEHD_NOIR_2024_640x480-F-KR" alt="PRIVATE TV" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180211/canal-ouah/CHN43FB/PRIVATEHD_NOIR_2024_640x480-F-KR">URL</a></sub> | PRIVATE TV | 746 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180211/broadcasts/day/0?channelPosition=359">Abrir</a> |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180364/canal-ouah/CHN43FB/CHN43FB_174_20240611-uIxM-5BKA-nvyA-XAQH" alt="TEST AFRIQUE" width="120"><br><sub><a href="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/180364/canal-ouah/CHN43FB/CHN43FB_174_20240611-uIxM-5BKA-nvyA-XAQH">URL</a></sub> | TEST AFRIQUE | 750 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180364/broadcasts/day/0?channelPosition=360">Abrir</a> |
 | — | TEST 19 | 990 | <a href="https://hodor.canalplus.pro/api/v2/mycanal/channels/474e9be1cd4ef7cca51a51cee0a52991/180416/broadcasts/day/0?channelPosition=361">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
