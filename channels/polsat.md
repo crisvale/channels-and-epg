@@ -1,7 +1,5 @@
 # Polsat
 
-Canales observados para `polsat`: **38**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://www.polsat.pl/templates/tv/gfx/polsat.svg" alt="Polsat" width="120"><br><sub><a href="https://www.polsat.pl/templates/tv/gfx/polsat.svg">URL</a></sub> | Polsat | 1 | <a href="https://www.polsat.pl/program-tv/#polsat">Abrir</a> |
@@ -42,5 +40,3 @@ Canales observados para `polsat`: **38**.
 | <img src="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/elevensports2hd.svg?v=1.3" alt="Eleven Sports 2 HD" width="120"><br><sub><a href="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/elevensports2hd.svg?v=1.3">URL</a></sub> | Eleven Sports 2 HD | 36 | <a href="https://www.polsatsport.pl/program-telewizyjny/#elevensports2hd">Abrir</a> |
 | <img src="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/elevensports3hd.svg?v=1.3" alt="Eleven Sports 3 HD" width="120"><br><sub><a href="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/elevensports3hd.svg?v=1.3">URL</a></sub> | Eleven Sports 3 HD | 37 | <a href="https://www.polsatsport.pl/program-telewizyjny/#elevensports3hd">Abrir</a> |
 | <img src="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/elevensports4hd.svg?v=1.3" alt="Eleven Sports 4 HD" width="120"><br><sub><a href="https://www.polsatsport.pl/templates/psport2019/build/gfx/tv/elevensports4hd.svg?v=1.3">URL</a></sub> | Eleven Sports 4 HD | 38 | <a href="https://www.polsatsport.pl/program-telewizyjny/#elevensports4hd">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
