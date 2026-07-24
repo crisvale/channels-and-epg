@@ -1,7 +1,5 @@
 # Freesat
 
-Canales observados para `freesat`: **128**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://img.freeviewplay.tv/s3d96956e25a8787d6ac9e97ca9a9df1f" alt="BBC ONE Ln HD" width="120"><br><sub><a href="https://img.freeviewplay.tv/s3d96956e25a8787d6ac9e97ca9a9df1f">URL</a></sub> | BBC ONE Ln HD | 101 | <a href="https://www.freesat.co.uk/tv-guide/10363">Abrir</a> |
@@ -132,5 +130,3 @@ Canales observados para `freesat`: **128**.
 | <img src="https://img.freeviewplay.tv/s49c8dc411c64d6d57218f205cd6f19c4" alt="Must Have Ideas" width="120"><br><sub><a href="https://img.freeviewplay.tv/s49c8dc411c64d6d57218f205cd6f19c4">URL</a></sub> | Must Have Ideas | 814 | <a href="https://www.freesat.co.uk/tv-guide/50482">Abrir</a> |
 | <img src="https://img.freeviewplay.tv/sdcfd0270493e26a585e142cc5a59428e" alt="Cruise1st.tv" width="120"><br><sub><a href="https://img.freeviewplay.tv/sdcfd0270493e26a585e142cc5a59428e">URL</a></sub> | Cruise1st.tv | 815 | <a href="https://www.freesat.co.uk/tv-guide/54228">Abrir</a> |
 | <img src="https://img.freeviewplay.tv/s106e27e4b4a56027e90c1706363c1505" alt="BBC RB 1 HD" width="120"><br><sub><a href="https://img.freeviewplay.tv/s106e27e4b4a56027e90c1706363c1505">URL</a></sub> | BBC RB 1 HD | 970 | <a href="https://www.freesat.co.uk/tv-guide/10329">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
