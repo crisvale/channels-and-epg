@@ -1,7 +1,5 @@
 # MEO
 
-Canales observados para `meo`: **210**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTP1&amp;profile=corner_transparent_positive&amp;width=100" alt="RTP1" width="120"><br><sub><a href="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=RTP1&amp;profile=corner_transparent_positive&amp;width=100">URL</a></sub> | RTP1 | 1 | <a href="https://tv.meo.pt/player?channel=RTP1_HD">Abrir</a> |
@@ -214,5 +212,3 @@ Canales observados para `meo`: **210**.
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HUSTLER&amp;profile=corner_transparent_positive&amp;width=100" alt="Hustler HD" width="120"><br><sub><a href="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HUSTLER&amp;profile=corner_transparent_positive&amp;width=100">URL</a></sub> | Hustler HD | 363 | <a href="https://tv.meo.pt/private-mode">Abrir</a> |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTV4K&amp;profile=corner_transparent_positive&amp;width=100" alt="Fashion TV 4K" width="120"><br><sub><a href="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTV4K&amp;profile=corner_transparent_positive&amp;width=100">URL</a></sub> | Fashion TV 4K | 401 | <a href="https://tv.meo.pt/player?channel=Fashion_TV_4K">Abrir</a> |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="TV Madeira" width="120"><br><sub><a href="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100">URL</a></sub> | TV Madeira | 445 | <a href="https://tv.meo.pt/player?channel=Evento6_HD">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
