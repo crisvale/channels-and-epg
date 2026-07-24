@@ -1,7 +1,5 @@
 # Magenta DE
 
-Canales observados para `magenta_de`: **366**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/das-erste/stationLogo_20241119.png" alt="Das Erste" width="120"><br><sub><a href="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/das-erste/stationLogo_20241119.png">URL</a></sub> | Das Erste | 1 | <a href="https://www.magenta.tv/tv-guide#channel-das-erste">Abrir</a> |
@@ -370,5 +368,3 @@ Canales observados para `magenta_de`: **366**.
 | <img src="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-11/stationLogo_20221114.png" alt="Sky Sport 9" width="120"><br><sub><a href="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/skysport-11/stationLogo_20221114.png">URL</a></sub> | Sky Sport 9 | 829 | <a href="https://www.magenta.tv/tv-guide#channel-skysport-11">Abrir</a> |
 | <img src="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00981-SkySport10/stationLogo_20221114.png" alt="Sky Sport 10" width="120"><br><sub><a href="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/KID00981-SkySport10/stationLogo_20221114.png">URL</a></sub> | Sky Sport 10 | 830 | <a href="https://www.magenta.tv/tv-guide#channel-KID00981-SkySport10">Abrir</a> |
 | <img src="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/entertain-info/stationLogo_20220211.png" alt="MagentaTV Info" width="120"><br><sub><a href="https://ngiss.t-online.de/iss?client=ftp22&amp;out=webp&amp;x=120&amp;y=48&amp;ar=keep&amp;src=https://ftp-imagehost-prod-public.s3.eu-central-1.amazonaws.com/logos/entertain-info/stationLogo_20220211.png">URL</a></sub> | MagentaTV Info | 998 | <a href="https://www.magenta.tv/tv-guide#channel-entertain-info">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
