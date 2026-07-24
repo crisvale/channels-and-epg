@@ -1,7 +1,5 @@
 # Orange France
 
-Canales observados para `orange_fr`: **247**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tf1/20180417_164011/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" alt="TF1" width="120"><br><sub><a href="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_tf1/20180417_164011/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC">URL</a></sub> | TF1 | 1 | <a href="https://tv.orange.fr/lecture/en-direct/chaines/livetv_tf1">Abrir</a> |
@@ -251,5 +249,3 @@ Canales observados para `orange_fr`: **247**.
 | <img src="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_novelas/20260617_091836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" alt="NOVELAS+" width="120"><br><sub><a href="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_novelas/20260617_091836/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC">URL</a></sub> | NOVELAS+ | 607 | <a href="https://tv.orange.fr/lecture/en-direct/chaines/livetv_novelas">Abrir</a> |
 | <img src="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nollywood_tv/20241112_183315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" alt="NOLLYWOOD TV" width="120"><br><sub><a href="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_nollywood_tv/20241112_183315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC">URL</a></sub> | NOLLYWOOD TV | 608 | <a href="https://tv.orange.fr/lecture/en-direct/chaines/livetv_nollywood_tv">Abrir</a> |
 | <img src="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_sunu_yeuf/20241112_184315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC" alt="SUNU YEUF" width="120"><br><sub><a href="https://cdn-proxymedia-digicert.tv-fr-cdn.orange.net/api/v1/images/2090%2Flogos/v2/logos/livetv_sunu_yeuf/20241112_184315/mobileAppliDark/logo_183x183.png?service=guidetv&amp;device=W_PC">URL</a></sub> | SUNU YEUF | 609 | <a href="https://tv.orange.fr/lecture/en-direct/chaines/livetv_sunu_yeuf">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
