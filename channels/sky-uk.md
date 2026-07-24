@@ -1,7 +1,5 @@
 # Sky UK
 
-Canales observados para `sky_uk`: **344**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | — | BBC One Lon HD | 101 | <a href="https://www.sky.com/tv-guide/101">Abrir</a> |
@@ -348,5 +346,3 @@ Canales observados para `sky_uk`: **344**.
 | — | Get Sky Products | 4904 | <a href="https://www.sky.com/tv-guide/4904">Abrir</a> |
 | — | Help and Support | 4905 | <a href="https://www.sky.com/tv-guide/4905">Abrir</a> |
 | — | Program Your Remote | 4906 | <a href="https://www.sky.com/tv-guide/4906">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
