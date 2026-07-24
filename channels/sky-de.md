@@ -1,7 +1,5 @@
 # Sky DE
 
-Canales observados para `sky_de`: **288**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://de.imageservice.sky.com/logo/skychb_142skyshowcasehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Showcase HD" width="120"><br><sub><a href="https://de.imageservice.sky.com/logo/skychb_142skyshowcasehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ">URL</a></sub> | Sky Showcase HD | 100 | <a href="https://www.sky.de/tvguide-7599#channel-142">Abrir</a> |
@@ -292,5 +290,3 @@ Canales observados para `sky_de`: **288**.
 | <img src="https://de.imageservice.sky.com/logo/skychb_897geniustrend/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Genius Trend" width="120"><br><sub><a href="https://de.imageservice.sky.com/logo/skychb_897geniustrend/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ">URL</a></sub> | Genius Trend | 934 | <a href="https://www.sky.de/tvguide-7599#channel-897">Abrir</a> |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1113geniusplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Genius Plus" width="120"><br><sub><a href="https://de.imageservice.sky.com/logo/skychb_1113geniusplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ">URL</a></sub> | Genius Plus | 935 | <a href="https://www.sky.de/tvguide-7599#channel-1113">Abrir</a> |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3019ric/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RiC" width="120"><br><sub><a href="https://de.imageservice.sky.com/logo/skychb_3019ric/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ">URL</a></sub> | RiC | 982 | <a href="https://www.sky.de/tvguide-7599#channel-3019">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
