@@ -1,7 +1,5 @@
 # Sky IT
 
-Canales observados para `sky_it`: **131**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://guidatv.sky.it/logo/899rai1hd_Dark_Fit.png?checksum=998d5b6a-1188-4aad-8b1c-f486b3fa2969" alt="Rai 1 HD" width="120"><br><sub><a href="https://guidatv.sky.it/logo/899rai1hd_Dark_Fit.png?checksum=998d5b6a-1188-4aad-8b1c-f486b3fa2969">URL</a></sub> | Rai 1 HD | 101 | <a href="https://guidatv.sky.it#channel-899">Abrir</a> |
@@ -135,5 +133,3 @@ Canales observados para `sky_it`: **131**.
 | <img src="https://guidatv.sky.it/logo/9016raiyoyo_Dark_Fit.png?checksum=b5bfdd4eddc3c172c60c9b5802885729" alt="Rai Yoyo" width="120"><br><sub><a href="https://guidatv.sky.it/logo/9016raiyoyo_Dark_Fit.png?checksum=b5bfdd4eddc3c172c60c9b5802885729">URL</a></sub> | Rai Yoyo | 5043 | <a href="https://guidatv.sky.it#channel-6609">Abrir</a> |
 | <img src="https://guidatv.sky.it/logo/9041cartoonitodtt_Dark_Fit.png?checksum=7a74a654bbc6a33c0fbdae5032e2df92" alt="CARTOONITO DTT" width="120"><br><sub><a href="https://guidatv.sky.it/logo/9041cartoonitodtt_Dark_Fit.png?checksum=7a74a654bbc6a33c0fbdae5032e2df92">URL</a></sub> | CARTOONITO DTT | 5046 | <a href="https://guidatv.sky.it#channel-8132">Abrir</a> |
 | <img src="https://guidatv.sky.it/logo/9037raistoria_Dark_Fit.png?checksum=c14af33585495fc78e2a28cd14536a75" alt="Rai Storia" width="120"><br><sub><a href="https://guidatv.sky.it/logo/9037raistoria_Dark_Fit.png?checksum=c14af33585495fc78e2a28cd14536a75">URL</a></sub> | Rai Storia | 5054 | <a href="https://guidatv.sky.it#channel-6630">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
