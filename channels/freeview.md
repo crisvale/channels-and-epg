@@ -1,7 +1,5 @@
 # Freeview
 
-Canales observados para `freeview`: **263**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf" alt="BBC ONE CI" width="120"><br><sub><a href="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf">URL</a></sub> | BBC ONE CI | 1 | <a href="https://www.freeview.co.uk/tv-guide/4174">Abrir</a> |
@@ -267,5 +265,3 @@ Canales observados para `freeview`: **263**.
 | <img src="https://img.freeviewplay.tv/s27610ea8ee497bc62ad957b591a9e3c4" alt="RNIB Connect" width="120"><br><sub><a href="https://img.freeviewplay.tv/s27610ea8ee497bc62ad957b591a9e3c4">URL</a></sub> | RNIB Connect | 730 | <a href="https://www.freeview.co.uk/tv-guide/22624">Abrir</a> |
 | <img src="https://img.freeviewplay.tv/s1c3a51934acece0f3fee864f27cb7acd" alt="Classic FM" width="120"><br><sub><a href="https://img.freeviewplay.tv/s1c3a51934acece0f3fee864f27cb7acd">URL</a></sub> | Classic FM | 731 | <a href="https://www.freeview.co.uk/tv-guide/22848">Abrir</a> |
 | <img src="https://img.freeviewplay.tv/s07b12b600696aef38d960860d10ff2b3" alt="LBC" width="120"><br><sub><a href="https://img.freeviewplay.tv/s07b12b600696aef38d960860d10ff2b3">URL</a></sub> | LBC | 732 | <a href="https://www.freeview.co.uk/tv-guide/22880">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
