@@ -1,7 +1,5 @@
 # NOS
 
-Canales observados para `nos`: **160**.
-
 | Logo | Canal | Dial | Ficha |
 | :---: | --- | :---: | --- |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPHD.png" alt="RTP 1 HD" width="120"><br><sub><a href="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTPHD.png">URL</a></sub> | RTP 1 HD | 1 | <a href="https://nostv.pt/v3/channels/139">Abrir</a> |
@@ -164,5 +162,3 @@ Canales observados para `nos`: **160**.
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png" alt="OneToro TV" width="120"><br><sub><a href="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png">URL</a></sub> | OneToro TV | 254 | <a href="https://nostv.pt/v3/channels/694">Abrir</a> |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png" alt="Caça e Pesca" width="120"><br><sub><a href="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png">URL</a></sub> | Caça e Pesca | 255 | <a href="https://nostv.pt/v3/channels/129">Abrir</a> |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANALNOSHD.png" alt="Canal NOS HD" width="120"><br><sub><a href="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANALNOSHD.png">URL</a></sub> | Canal NOS HD | 500 | <a href="https://nostv.pt/v3/channels/408">Abrir</a> |
-
-_Catálogo generado automáticamente desde las observaciones guardadas en PostgreSQL._
