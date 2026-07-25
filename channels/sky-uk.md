@@ -152,7 +152,7 @@
 | — | Disc.Sci+1 | 267 | <a href="https://www.sky.com/tv-guide/267">Abrir</a> |
 | — | SkyPremiereHD | 301 | <a href="https://www.sky.com/tv-guide/301">Abrir</a> |
 | — | 2026RecapHD | 302 | <a href="https://www.sky.com/tv-guide/302">Abrir</a> |
-| — | SkyKarateKidHD | 303 | <a href="https://www.sky.com/tv-guide/303">Abrir</a> |
+| — | Sky Jaws HD | 303 | <a href="https://www.sky.com/tv-guide/303">Abrir</a> |
 | — | Sky Family HD | 304 | <a href="https://www.sky.com/tv-guide/304">Abrir</a> |
 | — | Disney+CineHD | 305 | <a href="https://www.sky.com/tv-guide/305">Abrir</a> |
 | — | Sky Action HD | 306 | <a href="https://www.sky.com/tv-guide/306">Abrir</a> |
