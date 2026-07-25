@@ -1,4 +1,4 @@
 # Canal+
 
-| Logo | Canal | Dial | Ficha |
-| :---: | --- | :---: | --- |
+| Logo | Canal | Dial |
+| :---: | --- | :---: |
