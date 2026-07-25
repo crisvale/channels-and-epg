@@ -1,348 +1,348 @@
 # Sky UK
 
-| Logo | Canal | Dial | Ficha |
-| :---: | --- | :---: | --- |
-| — | BBC One Lon HD | 101 | <a href="https://www.sky.com/tv-guide/101">Abrir</a> |
-| — | BBC R1 | 0101 | <a href="https://www.sky.com/tv-guide/0101">Abrir</a> |
-| — | BBC R2 | 0102 | <a href="https://www.sky.com/tv-guide/0102">Abrir</a> |
-| — | BBC Two HD | 102 | <a href="https://www.sky.com/tv-guide/102">Abrir</a> |
-| — | BBC R3 | 0103 | <a href="https://www.sky.com/tv-guide/0103">Abrir</a> |
-| — | ITV1 HD | 103 | <a href="https://www.sky.com/tv-guide/103">Abrir</a> |
-| — | BBC R4 | 0104 | <a href="https://www.sky.com/tv-guide/0104">Abrir</a> |
-| — | Channel 4 HD | 104 | <a href="https://www.sky.com/tv-guide/104">Abrir</a> |
-| — | 5 HD | 105 | <a href="https://www.sky.com/tv-guide/105">Abrir</a> |
-| — | BBC R5L | 0105 | <a href="https://www.sky.com/tv-guide/0105">Abrir</a> |
-| — | Classic FM | 0106 | <a href="https://www.sky.com/tv-guide/0106">Abrir</a> |
-| — | Sky One HD | 106 | <a href="https://www.sky.com/tv-guide/106">Abrir</a> |
-| — | Sky Witness HD | 107 | <a href="https://www.sky.com/tv-guide/107">Abrir</a> |
-| — | talkSPORT | 0107 | <a href="https://www.sky.com/tv-guide/0107">Abrir</a> |
-| — | Capital | 0108 | <a href="https://www.sky.com/tv-guide/0108">Abrir</a> |
-| — | Sky Atlantic HD | 108 | <a href="https://www.sky.com/tv-guide/108">Abrir</a> |
-| — | Heart | 0109 | <a href="https://www.sky.com/tv-guide/0109">Abrir</a> |
-| — | U&amp;Alibi HD | 109 | <a href="https://www.sky.com/tv-guide/109">Abrir</a> |
-| — | Heart 80s | 0110 | <a href="https://www.sky.com/tv-guide/0110">Abrir</a> |
-| — | U&amp;Gold HD | 110 | <a href="https://www.sky.com/tv-guide/110">Abrir</a> |
-| — | Radio X | 0111 | <a href="https://www.sky.com/tv-guide/0111">Abrir</a> |
-| — | U&amp;Dave HD | 111 | <a href="https://www.sky.com/tv-guide/111">Abrir</a> |
-| — | Capital XTRA | 0112 | <a href="https://www.sky.com/tv-guide/0112">Abrir</a> |
-| — | ComedyCentHD | 112 | <a href="https://www.sky.com/tv-guide/112">Abrir</a> |
-| — | BBC World Sv | 0113 | <a href="https://www.sky.com/tv-guide/0113">Abrir</a> |
-| — | Sky Comedy HD | 113 | <a href="https://www.sky.com/tv-guide/113">Abrir</a> |
-| — | BBC R Scot | 0114 | <a href="https://www.sky.com/tv-guide/0114">Abrir</a> |
-| — | SkyDocmntrsHD | 114 | <a href="https://www.sky.com/tv-guide/114">Abrir</a> |
-| — | BBC R Wales | 0115 | <a href="https://www.sky.com/tv-guide/0115">Abrir</a> |
-| — | BBC Three HD | 115 | <a href="https://www.sky.com/tv-guide/115">Abrir</a> |
-| — | BBC Four HD | 116 | <a href="https://www.sky.com/tv-guide/116">Abrir</a> |
-| — | BBC R Ulster | 0116 | <a href="https://www.sky.com/tv-guide/0116">Abrir</a> |
-| — | BBC Asian Net | 0117 | <a href="https://www.sky.com/tv-guide/0117">Abrir</a> |
-| — | BBC R6 Music | 0118 | <a href="https://www.sky.com/tv-guide/0118">Abrir</a> |
-| — | ITV2 HD | 118 | <a href="https://www.sky.com/tv-guide/118">Abrir</a> |
-| — | Gold Radio | 0119 | <a href="https://www.sky.com/tv-guide/0119">Abrir</a> |
-| — | ITV3 HD | 119 | <a href="https://www.sky.com/tv-guide/119">Abrir</a> |
-| — | ITV4 HD | 120 | <a href="https://www.sky.com/tv-guide/120">Abrir</a> |
-| — | WRN Europe | 0120 | <a href="https://www.sky.com/tv-guide/0120">Abrir</a> |
-| — | LBC | 0121 | <a href="https://www.sky.com/tv-guide/0121">Abrir</a> |
-| — | Sky Crime HD | 121 | <a href="https://www.sky.com/tv-guide/121">Abrir</a> |
-| — | Sky Arts HD | 122 | <a href="https://www.sky.com/tv-guide/122">Abrir</a> |
-| — | Smooth | 0122 | <a href="https://www.sky.com/tv-guide/0122">Abrir</a> |
-| — | BBC R4 Extra | 0123 | <a href="https://www.sky.com/tv-guide/0123">Abrir</a> |
-| — | Sky HistoryHD | 123 | <a href="https://www.sky.com/tv-guide/123">Abrir</a> |
-| — | BBC R1X | 0124 | <a href="https://www.sky.com/tv-guide/0124">Abrir</a> |
-| — | Sky Nature HD | 124 | <a href="https://www.sky.com/tv-guide/124">Abrir</a> |
-| — | Discovery HD | 125 | <a href="https://www.sky.com/tv-guide/125">Abrir</a> |
-| — | Panjab Radio | 0125 | <a href="https://www.sky.com/tv-guide/0125">Abrir</a> |
-| — | BBC RnGàid | 0126 | <a href="https://www.sky.com/tv-guide/0126">Abrir</a> |
-| — | MTV HD | 126 | <a href="https://www.sky.com/tv-guide/126">Abrir</a> |
-| — | BBC R5SX | 0127 | <a href="https://www.sky.com/tv-guide/0127">Abrir</a> |
-| — | ComedyXtra | 127 | <a href="https://www.sky.com/tv-guide/127">Abrir</a> |
-| — | 5STAR | 128 | <a href="https://www.sky.com/tv-guide/128">Abrir</a> |
-| — | Heart Dance | 0128 | <a href="https://www.sky.com/tv-guide/0128">Abrir</a> |
-| — | BBC R London | 0129 | <a href="https://www.sky.com/tv-guide/0129">Abrir</a> |
-| — | Nat Geo HD | 129 | <a href="https://www.sky.com/tv-guide/129">Abrir</a> |
-| — | BBC R Cymru | 0130 | <a href="https://www.sky.com/tv-guide/0130">Abrir</a> |
-| — | Challenge | 130 | <a href="https://www.sky.com/tv-guide/130">Abrir</a> |
-| — | ITV Quiz HD | 131 | <a href="https://www.sky.com/tv-guide/131">Abrir</a> |
-| — | RTÉ Radio 1 | 0131 | <a href="https://www.sky.com/tv-guide/0131">Abrir</a> |
-| — | RTÉ 2FM | 0132 | <a href="https://www.sky.com/tv-guide/0132">Abrir</a> |
-| — | U&amp;W | 132 | <a href="https://www.sky.com/tv-guide/132">Abrir</a> |
-| — | RTÉ Lyric fm | 0133 | <a href="https://www.sky.com/tv-guide/0133">Abrir</a> |
-| — | TLC | 133 | <a href="https://www.sky.com/tv-guide/133">Abrir</a> |
-| — | RTÉ R na G | 0134 | <a href="https://www.sky.com/tv-guide/0134">Abrir</a> |
-| — | S4C | 134 | <a href="https://www.sky.com/tv-guide/134">Abrir</a> |
-| — | E4 HD | 135 | <a href="https://www.sky.com/tv-guide/135">Abrir</a> |
-| — | EWTN Catholic | 0135 | <a href="https://www.sky.com/tv-guide/0135">Abrir</a> |
-| — | BFBS Radio | 0136 | <a href="https://www.sky.com/tv-guide/0136">Abrir</a> |
-| — | More4 HD | 136 | <a href="https://www.sky.com/tv-guide/136">Abrir</a> |
-| — | 4seven | 137 | <a href="https://www.sky.com/tv-guide/137">Abrir</a> |
-| — | Virgin Radio | 0137 | <a href="https://www.sky.com/tv-guide/0137">Abrir</a> |
-| — | E4 Extra | 138 | <a href="https://www.sky.com/tv-guide/138">Abrir</a> |
-| — | Heart 90s | 0138 | <a href="https://www.sky.com/tv-guide/0138">Abrir</a> |
-| — | BBC R Cymru 2 | 0139 | <a href="https://www.sky.com/tv-guide/0139">Abrir</a> |
-| — | Crime+Inv HD | 139 | <a href="https://www.sky.com/tv-guide/139">Abrir</a> |
-| — | BBC R Foyle | 0140 | <a href="https://www.sky.com/tv-guide/0140">Abrir</a> |
-| — | QUEST HD | 140 | <a href="https://www.sky.com/tv-guide/140">Abrir</a> |
-| — | 5 USA | 141 | <a href="https://www.sky.com/tv-guide/141">Abrir</a> |
-| — | LBC News | 0141 | <a href="https://www.sky.com/tv-guide/0141">Abrir</a> |
-| — | Really | 142 | <a href="https://www.sky.com/tv-guide/142">Abrir</a> |
-| — | Times Radio | 0142 | <a href="https://www.sky.com/tv-guide/0142">Abrir</a> |
-| — | U&amp;Drama | 143 | <a href="https://www.sky.com/tv-guide/143">Abrir</a> |
-| — | Food Network | 144 | <a href="https://www.sky.com/tv-guide/144">Abrir</a> |
-| — | Sky Sci-Fi HD | 145 | <a href="https://www.sky.com/tv-guide/145">Abrir</a> |
-| — | TRUE CRIME | 146 | <a href="https://www.sky.com/tv-guide/146">Abrir</a> |
-| — | TRUE CRIME X | 147 | <a href="https://www.sky.com/tv-guide/147">Abrir</a> |
-| — | LEGEND | 148 | <a href="https://www.sky.com/tv-guide/148">Abrir</a> |
-| — | Quest Red | 149 | <a href="https://www.sky.com/tv-guide/149">Abrir</a> |
-| — | 5ACTION | 150 | <a href="https://www.sky.com/tv-guide/150">Abrir</a> |
-| — | Sky Mix HD | 151 | <a href="https://www.sky.com/tv-guide/151">Abrir</a> |
-| — | 5SELECT | 153 | <a href="https://www.sky.com/tv-guide/153">Abrir</a> |
-| — | ID | 154 | <a href="https://www.sky.com/tv-guide/154">Abrir</a> |
-| — | U&amp;Yesterday | 155 | <a href="https://www.sky.com/tv-guide/155">Abrir</a> |
-| — | BLAZE | 156 | <a href="https://www.sky.com/tv-guide/156">Abrir</a> |
-| — | Great! TV | 157 | <a href="https://www.sky.com/tv-guide/157">Abrir</a> |
-| — | Disc.Turbo | 158 | <a href="https://www.sky.com/tv-guide/158">Abrir</a> |
-| — | DMAX | 159 | <a href="https://www.sky.com/tv-guide/159">Abrir</a> |
-| — | Disc.History | 161 | <a href="https://www.sky.com/tv-guide/161">Abrir</a> |
-| — | Animal Planet | 162 | <a href="https://www.sky.com/tv-guide/162">Abrir</a> |
-| — | Sky History2 | 163 | <a href="https://www.sky.com/tv-guide/163">Abrir</a> |
-| — | NatGeoWild HD | 165 | <a href="https://www.sky.com/tv-guide/165">Abrir</a> |
-| — | U&amp;Eden | 166 | <a href="https://www.sky.com/tv-guide/166">Abrir</a> |
-| — | Disc.Science | 167 | <a href="https://www.sky.com/tv-guide/167">Abrir</a> |
-| — | BBC ALBA HD | 169 | <a href="https://www.sky.com/tv-guide/169">Abrir</a> |
-| — | Together | 170 | <a href="https://www.sky.com/tv-guide/170">Abrir</a> |
-| — | That's TV | 171 | <a href="https://www.sky.com/tv-guide/171">Abrir</a> |
-| — | PBS America | 173 | <a href="https://www.sky.com/tv-guide/173">Abrir</a> |
-| — | Travelxp | 178 | <a href="https://www.sky.com/tv-guide/178">Abrir</a> |
-| — | BBCScotlandHD | 180 | <a href="https://www.sky.com/tv-guide/180">Abrir</a> |
-| — | Rewind TV | 182 | <a href="https://www.sky.com/tv-guide/182">Abrir</a> |
-| — | ITV1+1 | 203 | <a href="https://www.sky.com/tv-guide/203">Abrir</a> |
-| — | Channel 4+1 | 204 | <a href="https://www.sky.com/tv-guide/204">Abrir</a> |
-| — | 5+1 | 205 | <a href="https://www.sky.com/tv-guide/205">Abrir</a> |
-| — | Sky Witness+1 | 207 | <a href="https://www.sky.com/tv-guide/207">Abrir</a> |
-| — | Sky Atlantic+1 | 208 | <a href="https://www.sky.com/tv-guide/208">Abrir</a> |
-| — | U&amp;Alibi+1 | 209 | <a href="https://www.sky.com/tv-guide/209">Abrir</a> |
-| — | U&amp;Gold+1 | 210 | <a href="https://www.sky.com/tv-guide/210">Abrir</a> |
-| — | U&amp;DaveJaVu | 211 | <a href="https://www.sky.com/tv-guide/211">Abrir</a> |
-| — | ComedyCent+1 | 212 | <a href="https://www.sky.com/tv-guide/212">Abrir</a> |
-| — | ITV2+1 | 218 | <a href="https://www.sky.com/tv-guide/218">Abrir</a> |
-| — | ITV3+1 | 219 | <a href="https://www.sky.com/tv-guide/219">Abrir</a> |
-| — | ITV4+1 | 220 | <a href="https://www.sky.com/tv-guide/220">Abrir</a> |
-| — | Sky Crime+1 | 221 | <a href="https://www.sky.com/tv-guide/221">Abrir</a> |
-| — | Discovery+1 | 225 | <a href="https://www.sky.com/tv-guide/225">Abrir</a> |
-| — | 5STAR+1 | 228 | <a href="https://www.sky.com/tv-guide/228">Abrir</a> |
-| — | U&amp;W+1 | 232 | <a href="https://www.sky.com/tv-guide/232">Abrir</a> |
-| — | TLC+1 | 233 | <a href="https://www.sky.com/tv-guide/233">Abrir</a> |
-| — | E4+1 | 235 | <a href="https://www.sky.com/tv-guide/235">Abrir</a> |
-| — | More4+1 | 236 | <a href="https://www.sky.com/tv-guide/236">Abrir</a> |
-| — | Crime+Inv+1 | 239 | <a href="https://www.sky.com/tv-guide/239">Abrir</a> |
-| — | QUEST+1 | 240 | <a href="https://www.sky.com/tv-guide/240">Abrir</a> |
-| — | 5USA+1 | 241 | <a href="https://www.sky.com/tv-guide/241">Abrir</a> |
-| — | Really+1 | 242 | <a href="https://www.sky.com/tv-guide/242">Abrir</a> |
-| — | U&amp;Drama+1 | 243 | <a href="https://www.sky.com/tv-guide/243">Abrir</a> |
-| — | Food Netwrk+1 | 244 | <a href="https://www.sky.com/tv-guide/244">Abrir</a> |
-| — | TRUE CRIME+1 | 246 | <a href="https://www.sky.com/tv-guide/246">Abrir</a> |
-| — | Quest Red+1 | 249 | <a href="https://www.sky.com/tv-guide/249">Abrir</a> |
-| — | ID+1 | 254 | <a href="https://www.sky.com/tv-guide/254">Abrir</a> |
-| — | U&amp;Yesterday+1 | 255 | <a href="https://www.sky.com/tv-guide/255">Abrir</a> |
-| — | Great! TV+1 | 257 | <a href="https://www.sky.com/tv-guide/257">Abrir</a> |
-| — | Disc.Turbo+1 | 258 | <a href="https://www.sky.com/tv-guide/258">Abrir</a> |
-| — | DMAX+1 | 259 | <a href="https://www.sky.com/tv-guide/259">Abrir</a> |
-| — | Disc.History+1 | 261 | <a href="https://www.sky.com/tv-guide/261">Abrir</a> |
-| — | Animal Plnt+1 | 262 | <a href="https://www.sky.com/tv-guide/262">Abrir</a> |
-| — | U&amp;Eden+1 | 266 | <a href="https://www.sky.com/tv-guide/266">Abrir</a> |
-| — | Disc.Sci+1 | 267 | <a href="https://www.sky.com/tv-guide/267">Abrir</a> |
-| — | SkyPremiereHD | 301 | <a href="https://www.sky.com/tv-guide/301">Abrir</a> |
-| — | 2026RecapHD | 302 | <a href="https://www.sky.com/tv-guide/302">Abrir</a> |
-| — | Sky Jaws HD | 303 | <a href="https://www.sky.com/tv-guide/303">Abrir</a> |
-| — | Sky Family HD | 304 | <a href="https://www.sky.com/tv-guide/304">Abrir</a> |
-| — | Disney+CineHD | 305 | <a href="https://www.sky.com/tv-guide/305">Abrir</a> |
-| — | Sky Action HD | 306 | <a href="https://www.sky.com/tv-guide/306">Abrir</a> |
-| — | Sky Greats HD | 307 | <a href="https://www.sky.com/tv-guide/307">Abrir</a> |
-| — | Sky Thriller HD | 309 | <a href="https://www.sky.com/tv-guide/309">Abrir</a> |
-| — | Sky Drama HD | 310 | <a href="https://www.sky.com/tv-guide/310">Abrir</a> |
-| — | Sky ScFi/HorHD | 311 | <a href="https://www.sky.com/tv-guide/311">Abrir</a> |
-| — | Movies24 | 312 | <a href="https://www.sky.com/tv-guide/312">Abrir</a> |
-| — | Film4 HD | 313 | <a href="https://www.sky.com/tv-guide/313">Abrir</a> |
-| — | Film4+1 | 314 | <a href="https://www.sky.com/tv-guide/314">Abrir</a> |
-| — | LEGEND XTRA | 316 | <a href="https://www.sky.com/tv-guide/316">Abrir</a> |
-| — | LEGEND XTRA+1 | 317 | <a href="https://www.sky.com/tv-guide/317">Abrir</a> |
-| — | Great! Action | 318 | <a href="https://www.sky.com/tv-guide/318">Abrir</a> |
-| — | Great! Action+1 | 319 | <a href="https://www.sky.com/tv-guide/319">Abrir</a> |
-| — | Great! Mystery | 320 | <a href="https://www.sky.com/tv-guide/320">Abrir</a> |
-| — | G! Mystery+1 | 321 | <a href="https://www.sky.com/tv-guide/321">Abrir</a> |
-| — | Great! Romance | 322 | <a href="https://www.sky.com/tv-guide/322">Abrir</a> |
-| — | G! Romance+1 | 323 | <a href="https://www.sky.com/tv-guide/323">Abrir</a> |
-| — | TalkingPictures | 324 | <a href="https://www.sky.com/tv-guide/324">Abrir</a> |
-| — | Clubland TV | 354 | <a href="https://www.sky.com/tv-guide/354">Abrir</a> |
-| — | NOW 70s | 355 | <a href="https://www.sky.com/tv-guide/355">Abrir</a> |
-| — | NOW 80s | 356 | <a href="https://www.sky.com/tv-guide/356">Abrir</a> |
-| — | NOW 90s &amp; 00s | 357 | <a href="https://www.sky.com/tv-guide/357">Abrir</a> |
-| — | NOW ROCK | 358 | <a href="https://www.sky.com/tv-guide/358">Abrir</a> |
-| — | SkySpMainEvHD | 401 | <a href="https://www.sky.com/tv-guide/401">Abrir</a> |
-| — | SkySp PL HD | 402 | <a href="https://www.sky.com/tv-guide/402">Abrir</a> |
-| — | SkySp F'ball HD | 403 | <a href="https://www.sky.com/tv-guide/403">Abrir</a> |
-| — | SkySp+ HD | 404 | <a href="https://www.sky.com/tv-guide/404">Abrir</a> |
-| — | SkySpCricket HD | 405 | <a href="https://www.sky.com/tv-guide/405">Abrir</a> |
-| — | SkySp Golf HD | 406 | <a href="https://www.sky.com/tv-guide/406">Abrir</a> |
-| — | SkySp F1 HD | 407 | <a href="https://www.sky.com/tv-guide/407">Abrir</a> |
-| — | SkySp Tennis HD | 408 | <a href="https://www.sky.com/tv-guide/408">Abrir</a> |
-| — | SkySp News HD | 409 | <a href="https://www.sky.com/tv-guide/409">Abrir</a> |
-| — | TNTSports1 HD | 410 | <a href="https://www.sky.com/tv-guide/410">Abrir</a> |
-| — | TNTSports2 HD | 411 | <a href="https://www.sky.com/tv-guide/411">Abrir</a> |
-| — | SkySp ActionHD | 412 | <a href="https://www.sky.com/tv-guide/412">Abrir</a> |
-| — | TNTSports3 HD | 413 | <a href="https://www.sky.com/tv-guide/413">Abrir</a> |
-| — | TNTSports4 HD | 414 | <a href="https://www.sky.com/tv-guide/414">Abrir</a> |
-| — | SkySp Racing HD | 415 | <a href="https://www.sky.com/tv-guide/415">Abrir</a> |
-| — | SkySp Mix HD | 416 | <a href="https://www.sky.com/tv-guide/416">Abrir</a> |
-| — | MUTV HD | 418 | <a href="https://www.sky.com/tv-guide/418">Abrir</a> |
-| — | Premier 1 HD | 419 | <a href="https://www.sky.com/tv-guide/419">Abrir</a> |
-| — | Premier 2 HD | 420 | <a href="https://www.sky.com/tv-guide/420">Abrir</a> |
-| — | LFCTV HD | 423 | <a href="https://www.sky.com/tv-guide/423">Abrir</a> |
-| — | Racing TV HD | 424 | <a href="https://www.sky.com/tv-guide/424">Abrir</a> |
-| — | TNTSBoxOffHD | 490 | <a href="https://www.sky.com/tv-guide/490">Abrir</a> |
-| — | SkySpBoxOffHD | 491 | <a href="https://www.sky.com/tv-guide/491">Abrir</a> |
-| — | TNTSBoxOff2HD | 494 | <a href="https://www.sky.com/tv-guide/494">Abrir</a> |
-| — | Sky News HD | 501 | <a href="https://www.sky.com/tv-guide/501">Abrir</a> |
-| — | Bloomberg HD | 502 | <a href="https://www.sky.com/tv-guide/502">Abrir</a> |
-| — | BBC NEWS HD | 503 | <a href="https://www.sky.com/tv-guide/503">Abrir</a> |
-| — | BBC Parl HD | 504 | <a href="https://www.sky.com/tv-guide/504">Abrir</a> |
-| — | CNBC HD | 505 | <a href="https://www.sky.com/tv-guide/505">Abrir</a> |
-| — | CNN HD | 506 | <a href="https://www.sky.com/tv-guide/506">Abrir</a> |
-| — | NHK World HD | 507 | <a href="https://www.sky.com/tv-guide/507">Abrir</a> |
-| — | Euronews | 508 | <a href="https://www.sky.com/tv-guide/508">Abrir</a> |
-| — | NDTV World | 509 | <a href="https://www.sky.com/tv-guide/509">Abrir</a> |
-| — | FRANCE 24 HD | 510 | <a href="https://www.sky.com/tv-guide/510">Abrir</a> |
-| — | Al Jazeera HD | 511 | <a href="https://www.sky.com/tv-guide/511">Abrir</a> |
-| — | GB News HD | 512 | <a href="https://www.sky.com/tv-guide/512">Abrir</a> |
-| — | TRT World | 513 | <a href="https://www.sky.com/tv-guide/513">Abrir</a> |
-| — | Channels 24 | 515 | <a href="https://www.sky.com/tv-guide/515">Abrir</a> |
-| — | Arise News | 516 | <a href="https://www.sky.com/tv-guide/516">Abrir</a> |
-| — | Arirang TV HD | 518 | <a href="https://www.sky.com/tv-guide/518">Abrir</a> |
-| — | TVC News | 520 | <a href="https://www.sky.com/tv-guide/520">Abrir</a> |
-| — | NTD | 521 | <a href="https://www.sky.com/tv-guide/521">Abrir</a> |
-| — | DM News English | 522 | <a href="https://www.sky.com/tv-guide/522">Abrir</a> |
-| — | GOD Channel | 580 | <a href="https://www.sky.com/tv-guide/580">Abrir</a> |
-| — | revelation | 581 | <a href="https://www.sky.com/tv-guide/581">Abrir</a> |
-| — | TBN UK | 582 | <a href="https://www.sky.com/tv-guide/582">Abrir</a> |
-| — | DAYSTAR HD | 583 | <a href="https://www.sky.com/tv-guide/583">Abrir</a> |
-| — | LoveWorld HD | 585 | <a href="https://www.sky.com/tv-guide/585">Abrir</a> |
-| — | Faith World TV | 588 | <a href="https://www.sky.com/tv-guide/588">Abrir</a> |
-| — | Dunamis TV | 592 | <a href="https://www.sky.com/tv-guide/592">Abrir</a> |
-| — | SonLife | 593 | <a href="https://www.sky.com/tv-guide/593">Abrir</a> |
-| — | Cartoon Net HD | 601 | <a href="https://www.sky.com/tv-guide/601">Abrir</a> |
-| — | CN+1 | 602 | <a href="https://www.sky.com/tv-guide/602">Abrir</a> |
-| — | Boomerang | 603 | <a href="https://www.sky.com/tv-guide/603">Abrir</a> |
-| — | NickelodeonHD | 604 | <a href="https://www.sky.com/tv-guide/604">Abrir</a> |
-| — | Nick Alvinnn!!! | 605 | <a href="https://www.sky.com/tv-guide/605">Abrir</a> |
-| — | Nick Jr. HD | 606 | <a href="https://www.sky.com/tv-guide/606">Abrir</a> |
-| — | CBBC HD | 607 | <a href="https://www.sky.com/tv-guide/607">Abrir</a> |
-| — | CBeebies HD | 608 | <a href="https://www.sky.com/tv-guide/608">Abrir</a> |
-| — | Sky Kids HD | 609 | <a href="https://www.sky.com/tv-guide/609">Abrir</a> |
-| — | Cartoonito | 610 | <a href="https://www.sky.com/tv-guide/610">Abrir</a> |
-| — | Boomerang+1 | 611 | <a href="https://www.sky.com/tv-guide/611">Abrir</a> |
-| — | NickJrPeppa | 612 | <a href="https://www.sky.com/tv-guide/612">Abrir</a> |
-| — | Disney Jr HD | 613 | <a href="https://www.sky.com/tv-guide/613">Abrir</a> |
-| — | Nickelodeon+1 | 615 | <a href="https://www.sky.com/tv-guide/615">Abrir</a> |
-| — | Nick Jr+1 | 619 | <a href="https://www.sky.com/tv-guide/619">Abrir</a> |
-| — | BabyTV | 623 | <a href="https://www.sky.com/tv-guide/623">Abrir</a> |
-| — | Cartoon Netwrk | 640 | <a href="https://www.sky.com/tv-guide/640">Abrir</a> |
-| — | Nickelodeon | 642 | <a href="https://www.sky.com/tv-guide/642">Abrir</a> |
-| — | QVC HD | 660 | <a href="https://www.sky.com/tv-guide/660">Abrir</a> |
-| — | MstHveIdeasHD | 661 | <a href="https://www.sky.com/tv-guide/661">Abrir</a> |
-| — | TJC HD | 662 | <a href="https://www.sky.com/tv-guide/662">Abrir</a> |
-| — | QVC Beauty | 663 | <a href="https://www.sky.com/tv-guide/663">Abrir</a> |
-| — | QVC Style HD | 664 | <a href="https://www.sky.com/tv-guide/664">Abrir</a> |
-| — | Gemporia HD | 665 | <a href="https://www.sky.com/tv-guide/665">Abrir</a> |
-| — | High Street TV 1 | 666 | <a href="https://www.sky.com/tv-guide/666">Abrir</a> |
-| — | High Street TV 2 | 667 | <a href="https://www.sky.com/tv-guide/667">Abrir</a> |
-| — | Ideal World HD | 668 | <a href="https://www.sky.com/tv-guide/668">Abrir</a> |
-| — | Best Direct | 669 | <a href="https://www.sky.com/tv-guide/669">Abrir</a> |
-| — | HobbyMakerHD | 670 | <a href="https://www.sky.com/tv-guide/670">Abrir</a> |
-| — | QVC Extra | 671 | <a href="https://www.sky.com/tv-guide/671">Abrir</a> |
-| — | Shop Unlimited | 672 | <a href="https://www.sky.com/tv-guide/672">Abrir</a> |
-| — | TV Warehouse | 673 | <a href="https://www.sky.com/tv-guide/673">Abrir</a> |
-| — | JewelleryMaker | 674 | <a href="https://www.sky.com/tv-guide/674">Abrir</a> |
-| — | Cruise1st.tv | 675 | <a href="https://www.sky.com/tv-guide/675">Abrir</a> |
-| — | B4U Movies | 701 | <a href="https://www.sky.com/tv-guide/701">Abrir</a> |
-| — | B4U Music | 702 | <a href="https://www.sky.com/tv-guide/702">Abrir</a> |
-| — | SONY TV HD | 703 | <a href="https://www.sky.com/tv-guide/703">Abrir</a> |
-| — | Utsav Bharat | 704 | <a href="https://www.sky.com/tv-guide/704">Abrir</a> |
-| — | Utsav Plus HD | 705 | <a href="https://www.sky.com/tv-guide/705">Abrir</a> |
-| — | COLORS HD | 706 | <a href="https://www.sky.com/tv-guide/706">Abrir</a> |
-| — | Zee TV HD | 707 | <a href="https://www.sky.com/tv-guide/707">Abrir</a> |
-| — | Zee Cinema | 708 | <a href="https://www.sky.com/tv-guide/708">Abrir</a> |
-| — | APNA MA TV | 709 | <a href="https://www.sky.com/tv-guide/709">Abrir</a> |
-| — | AAJ TAK | 710 | <a href="https://www.sky.com/tv-guide/710">Abrir</a> |
-| — | ColorsRishtey | 712 | <a href="https://www.sky.com/tv-guide/712">Abrir</a> |
-| — | ColorsCineplex | 713 | <a href="https://www.sky.com/tv-guide/713">Abrir</a> |
-| — | SONY MAX HD | 714 | <a href="https://www.sky.com/tv-guide/714">Abrir</a> |
-| — | Utsav Gold HD | 715 | <a href="https://www.sky.com/tv-guide/715">Abrir</a> |
-| — | SONY SAB | 716 | <a href="https://www.sky.com/tv-guide/716">Abrir</a> |
-| — | SONY MAX 2 | 717 | <a href="https://www.sky.com/tv-guide/717">Abrir</a> |
-| — | Aastha | 718 | <a href="https://www.sky.com/tv-guide/718">Abrir</a> |
-| — | Sanskar | 719 | <a href="https://www.sky.com/tv-guide/719">Abrir</a> |
-| — | MTA1 World HD | 731 | <a href="https://www.sky.com/tv-guide/731">Abrir</a> |
-| — | HUM News | 732 | <a href="https://www.sky.com/tv-guide/732">Abrir</a> |
-| — | GEO News | 734 | <a href="https://www.sky.com/tv-guide/734">Abrir</a> |
-| — | New Vision TV | 735 | <a href="https://www.sky.com/tv-guide/735">Abrir</a> |
-| — | Islam Channel | 736 | <a href="https://www.sky.com/tv-guide/736">Abrir</a> |
-| — | GEO TV | 737 | <a href="https://www.sky.com/tv-guide/737">Abrir</a> |
-| — | Noor TV | 738 | <a href="https://www.sky.com/tv-guide/738">Abrir</a> |
-| — | IQRA TV | 739 | <a href="https://www.sky.com/tv-guide/739">Abrir</a> |
-| — | Islam TV | 741 | <a href="https://www.sky.com/tv-guide/741">Abrir</a> |
-| — | Ahlebait TV | 742 | <a href="https://www.sky.com/tv-guide/742">Abrir</a> |
-| — | Takbeer TV | 743 | <a href="https://www.sky.com/tv-guide/743">Abrir</a> |
-| — | HUM EUROPE | 744 | <a href="https://www.sky.com/tv-guide/744">Abrir</a> |
-| — | Islam Ch Urdu | 745 | <a href="https://www.sky.com/tv-guide/745">Abrir</a> |
-| — | Madani Chnl | 746 | <a href="https://www.sky.com/tv-guide/746">Abrir</a> |
-| — | Eman Channel | 747 | <a href="https://www.sky.com/tv-guide/747">Abrir</a> |
-| — | ARY Digital | 748 | <a href="https://www.sky.com/tv-guide/748">Abrir</a> |
-| — | QTV Religious | 751 | <a href="https://www.sky.com/tv-guide/751">Abrir</a> |
-| — | PTC PUNJABI | 760 | <a href="https://www.sky.com/tv-guide/760">Abrir</a> |
-| — | Panjab TV | 761 | <a href="https://www.sky.com/tv-guide/761">Abrir</a> |
-| — | Sikh Channel | 762 | <a href="https://www.sky.com/tv-guide/762">Abrir</a> |
-| — | Sangat | 763 | <a href="https://www.sky.com/tv-guide/763">Abrir</a> |
-| — | Akaal Channel | 764 | <a href="https://www.sky.com/tv-guide/764">Abrir</a> |
-| — | Kanshi TV | 765 | <a href="https://www.sky.com/tv-guide/765">Abrir</a> |
-| — | Pitaara | 766 | <a href="https://www.sky.com/tv-guide/766">Abrir</a> |
-| — | PoliticsPunjab | 767 | <a href="https://www.sky.com/tv-guide/767">Abrir</a> |
-| — | PBC | 768 | <a href="https://www.sky.com/tv-guide/768">Abrir</a> |
-| — | Zee Punjabi | 769 | <a href="https://www.sky.com/tv-guide/769">Abrir</a> |
-| — | GTC Punjabi | 770 | <a href="https://www.sky.com/tv-guide/770">Abrir</a> |
-| — | CHSTV | 777 | <a href="https://www.sky.com/tv-guide/777">Abrir</a> |
-| — | IQRA Bangla | 778 | <a href="https://www.sky.com/tv-guide/778">Abrir</a> |
-| — | ATN | 779 | <a href="https://www.sky.com/tv-guide/779">Abrir</a> |
-| — | NTV | 780 | <a href="https://www.sky.com/tv-guide/780">Abrir</a> |
-| — | TV One | 781 | <a href="https://www.sky.com/tv-guide/781">Abrir</a> |
-| — | iON TV | 782 | <a href="https://www.sky.com/tv-guide/782">Abrir</a> |
-| — | Deen TV | 783 | <a href="https://www.sky.com/tv-guide/783">Abrir</a> |
-| — | SkyNewsArabia | 788 | <a href="https://www.sky.com/tv-guide/788">Abrir</a> |
-| — | PCNE Chinese HD | 789 | <a href="https://www.sky.com/tv-guide/789">Abrir</a> |
-| — | ColorsGujarati | 790 | <a href="https://www.sky.com/tv-guide/790">Abrir</a> |
-| — | ComedyCentral | 812 | <a href="https://www.sky.com/tv-guide/812">Abrir</a> |
-| — | SkyDocumntrs | 814 | <a href="https://www.sky.com/tv-guide/814">Abrir</a> |
-| — | Sky History | 821 | <a href="https://www.sky.com/tv-guide/821">Abrir</a> |
-| — | BBC One NE HD | 952 | <a href="https://www.sky.com/tv-guide/952">Abrir</a> |
-| — | BBC One NW HD | 953 | <a href="https://www.sky.com/tv-guide/953">Abrir</a> |
-| — | BBC One Yks HD | 954 | <a href="https://www.sky.com/tv-guide/954">Abrir</a> |
-| — | BBC One Y&amp;L HD | 955 | <a href="https://www.sky.com/tv-guide/955">Abrir</a> |
-| — | BBC One WM HD | 956 | <a href="https://www.sky.com/tv-guide/956">Abrir</a> |
-| — | BBC One EMidHD | 957 | <a href="https://www.sky.com/tv-guide/957">Abrir</a> |
-| — | BBC One EastHD | 958 | <a href="https://www.sky.com/tv-guide/958">Abrir</a> |
-| — | BBC One SE HD | 959 | <a href="https://www.sky.com/tv-guide/959">Abrir</a> |
-| — | BBC One Wst HD | 960 | <a href="https://www.sky.com/tv-guide/960">Abrir</a> |
-| — | BBC One Sth HD | 961 | <a href="https://www.sky.com/tv-guide/961">Abrir</a> |
-| — | BBC One SW HD | 962 | <a href="https://www.sky.com/tv-guide/962">Abrir</a> |
-| — | BBC One CI HD | 963 | <a href="https://www.sky.com/tv-guide/963">Abrir</a> |
-| — | BBC One ScotHD | 964 | <a href="https://www.sky.com/tv-guide/964">Abrir</a> |
-| — | BBC One Wal HD | 965 | <a href="https://www.sky.com/tv-guide/965">Abrir</a> |
-| — | BBC One NI HD | 966 | <a href="https://www.sky.com/tv-guide/966">Abrir</a> |
-| — | BBC Two Wal HD | 968 | <a href="https://www.sky.com/tv-guide/968">Abrir</a> |
-| — | BBC Two NI HD | 969 | <a href="https://www.sky.com/tv-guide/969">Abrir</a> |
-| — | BBC RB 1 HD | 970 | <a href="https://www.sky.com/tv-guide/970">Abrir</a> |
-| — | Chl Line-up | 996 | <a href="https://www.sky.com/tv-guide/996">Abrir</a> |
-| — | My Sky | 2049 | <a href="https://www.sky.com/tv-guide/2049">Abrir</a> |
-| — | Reset your PIN | 4902 | <a href="https://www.sky.com/tv-guide/4902">Abrir</a> |
-| — | My Account | 4903 | <a href="https://www.sky.com/tv-guide/4903">Abrir</a> |
-| — | Get Sky Products | 4904 | <a href="https://www.sky.com/tv-guide/4904">Abrir</a> |
-| — | Help and Support | 4905 | <a href="https://www.sky.com/tv-guide/4905">Abrir</a> |
-| — | Program Your Remote | 4906 | <a href="https://www.sky.com/tv-guide/4906">Abrir</a> |
+| Logo | Canal | Dial |
+| :---: | --- | :---: |
+| - | BBC One Lon HD | 101 |
+| - | BBC R1 | 0101 |
+| - | BBC R2 | 0102 |
+| - | BBC Two HD | 102 |
+| - | BBC R3 | 0103 |
+| - | ITV1 HD | 103 |
+| - | BBC R4 | 0104 |
+| - | Channel 4 HD | 104 |
+| - | 5 HD | 105 |
+| - | BBC R5L | 0105 |
+| - | Classic FM | 0106 |
+| - | Sky One HD | 106 |
+| - | Sky Witness HD | 107 |
+| - | talkSPORT | 0107 |
+| - | Capital | 0108 |
+| - | Sky Atlantic HD | 108 |
+| - | Heart | 0109 |
+| - | U&amp;Alibi HD | 109 |
+| - | Heart 80s | 0110 |
+| - | U&amp;Gold HD | 110 |
+| - | Radio X | 0111 |
+| - | U&amp;Dave HD | 111 |
+| - | Capital XTRA | 0112 |
+| - | ComedyCentHD | 112 |
+| - | BBC World Sv | 0113 |
+| - | Sky Comedy HD | 113 |
+| - | BBC R Scot | 0114 |
+| - | SkyDocmntrsHD | 114 |
+| - | BBC R Wales | 0115 |
+| - | BBC Three HD | 115 |
+| - | BBC Four HD | 116 |
+| - | BBC R Ulster | 0116 |
+| - | BBC Asian Net | 0117 |
+| - | BBC R6 Music | 0118 |
+| - | ITV2 HD | 118 |
+| - | Gold Radio | 0119 |
+| - | ITV3 HD | 119 |
+| - | ITV4 HD | 120 |
+| - | WRN Europe | 0120 |
+| - | LBC | 0121 |
+| - | Sky Crime HD | 121 |
+| - | Sky Arts HD | 122 |
+| - | Smooth | 0122 |
+| - | BBC R4 Extra | 0123 |
+| - | Sky HistoryHD | 123 |
+| - | BBC R1X | 0124 |
+| - | Sky Nature HD | 124 |
+| - | Discovery HD | 125 |
+| - | Panjab Radio | 0125 |
+| - | BBC RnGàid | 0126 |
+| - | MTV HD | 126 |
+| - | BBC R5SX | 0127 |
+| - | ComedyXtra | 127 |
+| - | 5STAR | 128 |
+| - | Heart Dance | 0128 |
+| - | BBC R London | 0129 |
+| - | Nat Geo HD | 129 |
+| - | BBC R Cymru | 0130 |
+| - | Challenge | 130 |
+| - | ITV Quiz HD | 131 |
+| - | RTÉ Radio 1 | 0131 |
+| - | RTÉ 2FM | 0132 |
+| - | U&amp;W | 132 |
+| - | RTÉ Lyric fm | 0133 |
+| - | TLC | 133 |
+| - | RTÉ R na G | 0134 |
+| - | S4C | 134 |
+| - | E4 HD | 135 |
+| - | EWTN Catholic | 0135 |
+| - | BFBS Radio | 0136 |
+| - | More4 HD | 136 |
+| - | 4seven | 137 |
+| - | Virgin Radio | 0137 |
+| - | E4 Extra | 138 |
+| - | Heart 90s | 0138 |
+| - | BBC R Cymru 2 | 0139 |
+| - | Crime+Inv HD | 139 |
+| - | BBC R Foyle | 0140 |
+| - | QUEST HD | 140 |
+| - | 5 USA | 141 |
+| - | LBC News | 0141 |
+| - | Really | 142 |
+| - | Times Radio | 0142 |
+| - | U&amp;Drama | 143 |
+| - | Food Network | 144 |
+| - | Sky Sci-Fi HD | 145 |
+| - | TRUE CRIME | 146 |
+| - | TRUE CRIME X | 147 |
+| - | LEGEND | 148 |
+| - | Quest Red | 149 |
+| - | 5ACTION | 150 |
+| - | Sky Mix HD | 151 |
+| - | 5SELECT | 153 |
+| - | ID | 154 |
+| - | U&amp;Yesterday | 155 |
+| - | BLAZE | 156 |
+| - | Great! TV | 157 |
+| - | Disc.Turbo | 158 |
+| - | DMAX | 159 |
+| - | Disc.History | 161 |
+| - | Animal Planet | 162 |
+| - | Sky History2 | 163 |
+| - | NatGeoWild HD | 165 |
+| - | U&amp;Eden | 166 |
+| - | Disc.Science | 167 |
+| - | BBC ALBA HD | 169 |
+| - | Together | 170 |
+| - | That's TV | 171 |
+| - | PBS America | 173 |
+| - | Travelxp | 178 |
+| - | BBCScotlandHD | 180 |
+| - | Rewind TV | 182 |
+| - | ITV1+1 | 203 |
+| - | Channel 4+1 | 204 |
+| - | 5+1 | 205 |
+| - | Sky Witness+1 | 207 |
+| - | Sky Atlantic+1 | 208 |
+| - | U&amp;Alibi+1 | 209 |
+| - | U&amp;Gold+1 | 210 |
+| - | U&amp;DaveJaVu | 211 |
+| - | ComedyCent+1 | 212 |
+| - | ITV2+1 | 218 |
+| - | ITV3+1 | 219 |
+| - | ITV4+1 | 220 |
+| - | Sky Crime+1 | 221 |
+| - | Discovery+1 | 225 |
+| - | 5STAR+1 | 228 |
+| - | U&amp;W+1 | 232 |
+| - | TLC+1 | 233 |
+| - | E4+1 | 235 |
+| - | More4+1 | 236 |
+| - | Crime+Inv+1 | 239 |
+| - | QUEST+1 | 240 |
+| - | 5USA+1 | 241 |
+| - | Really+1 | 242 |
+| - | U&amp;Drama+1 | 243 |
+| - | Food Netwrk+1 | 244 |
+| - | TRUE CRIME+1 | 246 |
+| - | Quest Red+1 | 249 |
+| - | ID+1 | 254 |
+| - | U&amp;Yesterday+1 | 255 |
+| - | Great! TV+1 | 257 |
+| - | Disc.Turbo+1 | 258 |
+| - | DMAX+1 | 259 |
+| - | Disc.History+1 | 261 |
+| - | Animal Plnt+1 | 262 |
+| - | U&amp;Eden+1 | 266 |
+| - | Disc.Sci+1 | 267 |
+| - | SkyPremiereHD | 301 |
+| - | 2026RecapHD | 302 |
+| - | Sky Jaws HD | 303 |
+| - | Sky Family HD | 304 |
+| - | Disney+CineHD | 305 |
+| - | Sky Action HD | 306 |
+| - | Sky Greats HD | 307 |
+| - | Sky Thriller HD | 309 |
+| - | Sky Drama HD | 310 |
+| - | Sky ScFi/HorHD | 311 |
+| - | Movies24 | 312 |
+| - | Film4 HD | 313 |
+| - | Film4+1 | 314 |
+| - | LEGEND XTRA | 316 |
+| - | LEGEND XTRA+1 | 317 |
+| - | Great! Action | 318 |
+| - | Great! Action+1 | 319 |
+| - | Great! Mystery | 320 |
+| - | G! Mystery+1 | 321 |
+| - | Great! Romance | 322 |
+| - | G! Romance+1 | 323 |
+| - | TalkingPictures | 324 |
+| - | Clubland TV | 354 |
+| - | NOW 70s | 355 |
+| - | NOW 80s | 356 |
+| - | NOW 90s &amp; 00s | 357 |
+| - | NOW ROCK | 358 |
+| - | SkySpMainEvHD | 401 |
+| - | SkySp PL HD | 402 |
+| - | SkySp F'ball HD | 403 |
+| - | SkySp+ HD | 404 |
+| - | SkySpCricket HD | 405 |
+| - | SkySp Golf HD | 406 |
+| - | SkySp F1 HD | 407 |
+| - | SkySp Tennis HD | 408 |
+| - | SkySp News HD | 409 |
+| - | TNTSports1 HD | 410 |
+| - | TNTSports2 HD | 411 |
+| - | SkySp ActionHD | 412 |
+| - | TNTSports3 HD | 413 |
+| - | TNTSports4 HD | 414 |
+| - | SkySp Racing HD | 415 |
+| - | SkySp Mix HD | 416 |
+| - | MUTV HD | 418 |
+| - | Premier 1 HD | 419 |
+| - | Premier 2 HD | 420 |
+| - | LFCTV HD | 423 |
+| - | Racing TV HD | 424 |
+| - | TNTSBoxOffHD | 490 |
+| - | SkySpBoxOffHD | 491 |
+| - | TNTSBoxOff2HD | 494 |
+| - | Sky News HD | 501 |
+| - | Bloomberg HD | 502 |
+| - | BBC NEWS HD | 503 |
+| - | BBC Parl HD | 504 |
+| - | CNBC HD | 505 |
+| - | CNN HD | 506 |
+| - | NHK World HD | 507 |
+| - | Euronews | 508 |
+| - | NDTV World | 509 |
+| - | FRANCE 24 HD | 510 |
+| - | Al Jazeera HD | 511 |
+| - | GB News HD | 512 |
+| - | TRT World | 513 |
+| - | Channels 24 | 515 |
+| - | Arise News | 516 |
+| - | Arirang TV HD | 518 |
+| - | TVC News | 520 |
+| - | NTD | 521 |
+| - | DM News English | 522 |
+| - | GOD Channel | 580 |
+| - | revelation | 581 |
+| - | TBN UK | 582 |
+| - | DAYSTAR HD | 583 |
+| - | LoveWorld HD | 585 |
+| - | Faith World TV | 588 |
+| - | Dunamis TV | 592 |
+| - | SonLife | 593 |
+| - | Cartoon Net HD | 601 |
+| - | CN+1 | 602 |
+| - | Boomerang | 603 |
+| - | NickelodeonHD | 604 |
+| - | Nick Alvinnn!!! | 605 |
+| - | Nick Jr. HD | 606 |
+| - | CBBC HD | 607 |
+| - | CBeebies HD | 608 |
+| - | Sky Kids HD | 609 |
+| - | Cartoonito | 610 |
+| - | Boomerang+1 | 611 |
+| - | NickJrPeppa | 612 |
+| - | Disney Jr HD | 613 |
+| - | Nickelodeon+1 | 615 |
+| - | Nick Jr+1 | 619 |
+| - | BabyTV | 623 |
+| - | Cartoon Netwrk | 640 |
+| - | Nickelodeon | 642 |
+| - | QVC HD | 660 |
+| - | MstHveIdeasHD | 661 |
+| - | TJC HD | 662 |
+| - | QVC Beauty | 663 |
+| - | QVC Style HD | 664 |
+| - | Gemporia HD | 665 |
+| - | High Street TV 1 | 666 |
+| - | High Street TV 2 | 667 |
+| - | Ideal World HD | 668 |
+| - | Best Direct | 669 |
+| - | HobbyMakerHD | 670 |
+| - | QVC Extra | 671 |
+| - | Shop Unlimited | 672 |
+| - | TV Warehouse | 673 |
+| - | JewelleryMaker | 674 |
+| - | Cruise1st.tv | 675 |
+| - | B4U Movies | 701 |
+| - | B4U Music | 702 |
+| - | SONY TV HD | 703 |
+| - | Utsav Bharat | 704 |
+| - | Utsav Plus HD | 705 |
+| - | COLORS HD | 706 |
+| - | Zee TV HD | 707 |
+| - | Zee Cinema | 708 |
+| - | APNA MA TV | 709 |
+| - | AAJ TAK | 710 |
+| - | ColorsRishtey | 712 |
+| - | ColorsCineplex | 713 |
+| - | SONY MAX HD | 714 |
+| - | Utsav Gold HD | 715 |
+| - | SONY SAB | 716 |
+| - | SONY MAX 2 | 717 |
+| - | Aastha | 718 |
+| - | Sanskar | 719 |
+| - | MTA1 World HD | 731 |
+| - | HUM News | 732 |
+| - | GEO News | 734 |
+| - | New Vision TV | 735 |
+| - | Islam Channel | 736 |
+| - | GEO TV | 737 |
+| - | Noor TV | 738 |
+| - | IQRA TV | 739 |
+| - | Islam TV | 741 |
+| - | Ahlebait TV | 742 |
+| - | Takbeer TV | 743 |
+| - | HUM EUROPE | 744 |
+| - | Islam Ch Urdu | 745 |
+| - | Madani Chnl | 746 |
+| - | Eman Channel | 747 |
+| - | ARY Digital | 748 |
+| - | QTV Religious | 751 |
+| - | PTC PUNJABI | 760 |
+| - | Panjab TV | 761 |
+| - | Sikh Channel | 762 |
+| - | Sangat | 763 |
+| - | Akaal Channel | 764 |
+| - | Kanshi TV | 765 |
+| - | Pitaara | 766 |
+| - | PoliticsPunjab | 767 |
+| - | PBC | 768 |
+| - | Zee Punjabi | 769 |
+| - | GTC Punjabi | 770 |
+| - | CHSTV | 777 |
+| - | IQRA Bangla | 778 |
+| - | ATN | 779 |
+| - | NTV | 780 |
+| - | TV One | 781 |
+| - | iON TV | 782 |
+| - | Deen TV | 783 |
+| - | SkyNewsArabia | 788 |
+| - | PCNE Chinese HD | 789 |
+| - | ColorsGujarati | 790 |
+| - | ComedyCentral | 812 |
+| - | SkyDocumntrs | 814 |
+| - | Sky History | 821 |
+| - | BBC One NE HD | 952 |
+| - | BBC One NW HD | 953 |
+| - | BBC One Yks HD | 954 |
+| - | BBC One Y&amp;L HD | 955 |
+| - | BBC One WM HD | 956 |
+| - | BBC One EMidHD | 957 |
+| - | BBC One EastHD | 958 |
+| - | BBC One SE HD | 959 |
+| - | BBC One Wst HD | 960 |
+| - | BBC One Sth HD | 961 |
+| - | BBC One SW HD | 962 |
+| - | BBC One CI HD | 963 |
+| - | BBC One ScotHD | 964 |
+| - | BBC One Wal HD | 965 |
+| - | BBC One NI HD | 966 |
+| - | BBC Two Wal HD | 968 |
+| - | BBC Two NI HD | 969 |
+| - | BBC RB 1 HD | 970 |
+| - | Chl Line-up | 996 |
+| - | My Sky | 2049 |
+| - | Reset your PIN | 4902 |
+| - | My Account | 4903 |
+| - | Get Sky Products | 4904 |
+| - | Help and Support | 4905 |
+| - | Program Your Remote | 4906 |
