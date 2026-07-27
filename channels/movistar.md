@@ -71,10 +71,10 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" alt="M+ Vamos 3" width="120"> | M+ Vamos 3 | 52 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" alt="Primera Federación" width="120"> | Primera Federación | 53 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" alt="M+ LALIGA" width="120"> | M+ LALIGA | 54 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" alt="DAZN MUNDIAL" width="120"> | DAZN MUNDIAL | 55 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" alt="DAZN LALIGA" width="120"> | DAZN LALIGA | 55 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" alt="LALIGA TV HYPERMOTION" width="120"> | LALIGA TV HYPERMOTION | 56 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" alt="M+ LALIGA 2" width="120"> | M+ LALIGA 2 | 57 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" alt="DAZN MUNDIAL 2" width="120"> | DAZN MUNDIAL 2 | 58 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" alt="DAZN LALIGA 2" width="120"> | DAZN LALIGA 2 | 58 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" alt="LALIGA TV HYPERMOTION 2" width="120"> | LALIGA TV HYPERMOTION 2 | 59 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" alt="M+ Liga de Campeones" width="120"> | M+ Liga de Campeones | 60 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP1.png" alt="M+ Liga de Campeones 2" width="120"> | M+ Liga de Campeones 2 | 61 |
@@ -162,8 +162,6 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" alt="etb2ON" width="120"> | etb2ON | 159 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" alt="Esport 3" width="120"> | Esport 3 | 164 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/BTV.png" alt="Betevé" width="120"> | Betevé | 166 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL3.png" alt="DAZN MUNDIAL 3" width="120"> | DAZN MUNDIAL 3 | 173 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL4.png" alt="DAZN MUNDIAL 4" width="120"> | DAZN MUNDIAL 4 | 174 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" alt="LALIGA TV HYPERMOTION 3" width="120"> | LALIGA TV HYPERMOTION 3 | 178 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" alt="M+ Liga de Campeones 4" width="120"> | M+ Liga de Campeones 4 | 180 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" alt="M+ Liga de Campeones 5" width="120"> | M+ Liga de Campeones 5 | 181 |
