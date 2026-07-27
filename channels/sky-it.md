@@ -100,7 +100,6 @@
 | <img src="https://guidatv.sky.it/logo/544foxbusiness_Dark_Fit.png?checksum=a5000f5a853556b4ec8fa81ba8ebc49d" alt="Fox Business" width="120"> | Fox Business | 527 |
 | <img src="https://guidatv.sky.it/logo/245cnbchd_Dark_Fit.png?checksum=93cf9101-ff85-42dd-8df5-a45f5f023eb7" alt="CNBC HD" width="120"> | CNBC HD | 528 |
 | <img src="https://guidatv.sky.it/logo/5256bloomberg_Dark_Fit.png?checksum=5a34539b3dd28c9896600b11443c4499" alt="Bloomberg" width="120"> | Bloomberg | 529 |
-| <img src="https://guidatv.sky.it/logo/891bbcworldnews_Dark_Fit.png?checksum=1cea25b6-7bb0-4341-8131-c2ccd3663773" alt="BBC World News" width="120"> | BBC World News | 530 |
 | <img src="https://guidatv.sky.it/logo/5296france24englishhd_Dark_Fit.png?checksum=19a1afb854c82083a56fa52df0314262" alt="France 24 English HD" width="120"> | France 24 English HD | 531 |
 | <img src="https://guidatv.sky.it/logo/5113aljazeeraintlhd_Dark_Fit.png?checksum=5156473432ae2f2087010729e216d04d" alt="Al Jazeera Intl. HD" width="120"> | Al Jazeera Intl. HD | 532 |
 | <img src="https://guidatv.sky.it/logo/5297nhkworldtvhd_Dark_Fit.png?checksum=850b553d-ddc3-4b00-b8f9-c7a36f436076" alt="NHK World TV HD" width="120"> | NHK World TV HD | 533 |
@@ -111,7 +110,6 @@
 | <img src="https://guidatv.sky.it/logo/320nickelodeon_Dark_Fit.png?checksum=b3341710a4c547732edfcd2773b3be9b" alt="Nickelodeon" width="120"> | Nickelodeon | 605 |
 | <img src="https://guidatv.sky.it/logo/258cartoonnetwork_Dark_Fit.png?checksum=ff59700d-aaea-4db7-96d3-ba42afa633d0" alt="Cartoon Network" width="120"> | Cartoon Network | 607 |
 | <img src="https://guidatv.sky.it/logo/367boomerang_Dark_Fit.png?checksum=0671910302f4ecae3e6359bf65b54dfe" alt="Boomerang" width="120"> | Boomerang | 609 |
-| <img src="https://guidatv.sky.it/logo/343boomerang1_Dark_Fit.png?checksum=dd0c06f2d9efa6c6122b3c15722327be" alt="Boomerang +1" width="120"> | Boomerang +1 | 610 |
 | <img src="https://guidatv.sky.it/logo/313deajunior_Dark_Fit.png?checksum=a8d99384-74cd-44eb-aba4-52e7b2eb8833" alt="DeAJunior" width="120"> | DeAJunior | 623 |
 | <img src="https://guidatv.sky.it/logo/421super_Dark_Fit.png?checksum=094c8813-fdae-4962-a4bd-e2f01acbc79a" alt="Super!" width="120"> | Super! | 625 |
 | <img src="https://guidatv.sky.it/logo/466k2_Dark_Fit.png?checksum=a270a174199274e37b779bddc20d9e2c" alt="K2" width="120"> | K2 | 626 |
