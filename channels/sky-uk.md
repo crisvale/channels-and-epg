@@ -151,8 +151,8 @@
 | - | U&amp;Eden+1 | 266 |
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
-| - | 2026RecapHD | 302 |
-| - | Sky Jaws HD | 303 |
+| - | SkyAnimationHD | 302 |
+| - | PitchPerfectHD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
