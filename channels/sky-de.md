@@ -205,6 +205,7 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_3229rtlupaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTLup Austria" width="120"> | RTLup Austria | 792 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_71tlcaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="TLC Austria" width="120"> | TLC Austria | 793 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3313kronetv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="krone.tv" width="120"> | krone.tv | 794 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_5010inplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="INPLUS." width="120"> | INPLUS. | 796 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_630brfernsehennordhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="BR Fernsehen Nord HD" width="120"> | BR Fernsehen Nord HD | 800 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_631brfernsehensüdhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="BR Fernsehen Süd HD" width="120"> | BR Fernsehen Süd HD | 801 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_632ndrfshhhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="NDR FS HH HD" width="120"> | NDR FS HH HD | 802 |
