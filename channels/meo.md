@@ -211,3 +211,4 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VIXEN&amp;profile=corner_transparent_positive&amp;width=100" alt="VIXEN" width="120"> | VIXEN | 362 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HUSTLER&amp;profile=corner_transparent_positive&amp;width=100" alt="Hustler HD" width="120"> | Hustler HD | 363 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTV4K&amp;profile=corner_transparent_positive&amp;width=100" alt="Fashion TV 4K" width="120"> | Fashion TV 4K | 401 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="TV Madeira" width="120"> | TV Madeira | 445 |
