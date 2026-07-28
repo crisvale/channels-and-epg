@@ -244,8 +244,6 @@
 | - | Nickelodeon+1 | 615 |
 | - | Nick Jr+1 | 619 |
 | - | BabyTV | 623 |
-| - | Cartoon Netwrk | 640 |
-| - | Nickelodeon | 642 |
 | - | QVC HD | 660 |
 | - | MstHveIdeasHD | 661 |
 | - | TJC HD | 662 |
@@ -319,8 +317,6 @@
 | - | PCNE Chinese HD | 789 |
 | - | ColorsGujarati | 790 |
 | - | ComedyCentral | 812 |
-| - | SkyDocumntrs | 814 |
-| - | Sky History | 821 |
 | - | BBC One NE HD | 952 |
 | - | BBC One NW HD | 953 |
 | - | BBC One Yks HD | 954 |
