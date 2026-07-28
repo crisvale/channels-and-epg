@@ -194,7 +194,6 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_1323sixxhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="sixx HD Austria" width="120"> | sixx HD Austria | 769 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5513deluxemusichdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Music HD Austria" width="120"> | Deluxe Music HD Austria | 770 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5510disneychannelhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Disney Channel HD Austria" width="120"> | Disney Channel HD Austria | 771 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_579sat1a/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SAT.1 A" width="120"> | SAT.1 A | 773 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_787kabel1austria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Kabel 1 Austria" width="120"> | Kabel 1 Austria | 778 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_8815superrtla/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SUPER RTL A" width="120"> | SUPER RTL A | 780 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3223atv2hdat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ATV2 HD AT" width="120"> | ATV2 HD AT | 781 |
