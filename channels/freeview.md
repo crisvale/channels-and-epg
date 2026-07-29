@@ -126,15 +126,10 @@
 | <img src="https://img.freeviewplay.tv/s247d53fb9ffb39180cea93fbbc922715" alt="TLC+1" width="120"> | TLC+1 | 99 |
 | <img src="https://img.freeviewplay.tv/sf8c9c3c900788e4f2c98cd1e7c1dd3d6" alt="BBC 1 Scot HD" width="120"> | BBC 1 Scot HD | 101 |
 | <img src="https://img.freeviewplay.tv/sdbed5b25e313b99505ec887bc62412cc" alt="BBC 1 Wales HD" width="120"> | BBC 1 Wales HD | 101 |
-| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE EastHD" width="120"> | BBC ONE EastHD | 101 |
-| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE EMidHD" width="120"> | BBC ONE EMidHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE NE&amp;CHD" width="120"> | BBC ONE NE&amp;CHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE NWstHD" width="120"> | BBC ONE NWstHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE SE HD" width="120"> | BBC ONE SE HD | 101 |
-| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE Sth HD" width="120"> | BBC ONE Sth HD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE SW HD" width="120"> | BBC ONE SW HD | 101 |
-| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE WestHD" width="120"> | BBC ONE WestHD | 101 |
-| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE WMidHD" width="120"> | BBC ONE WMidHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE Yk&amp;LHD" width="120"> | BBC ONE Yk&amp;LHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39" alt="BBC ONE Yks HD" width="120"> | BBC ONE Yks HD | 101 |
 | <img src="https://img.freeviewplay.tv/s7f5fd630f4b912a52d3d1be1f94d0feb" alt="BBC 2 Wales HD" width="120"> | BBC 2 Wales HD | 102 |
