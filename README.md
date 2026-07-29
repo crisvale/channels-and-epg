@@ -2,7 +2,6 @@
 
 [![Last commit](https://img.shields.io/github/last-commit/crisvale/channels-and-epg?style=flat-square)](https://github.com/crisvale/channels-and-epg/commits/main)
 [![Repo size](https://img.shields.io/github/repo-size/crisvale/channels-and-epg?style=flat-square)](https://github.com/crisvale/channels-and-epg)
-[![License](https://img.shields.io/github/license/crisvale/channels-and-epg?style=flat-square)](./LICENSE)
 
 Automated, consolidated XMLTV guides by country, plus channel catalogs by operator. Updated four times per day.
 
