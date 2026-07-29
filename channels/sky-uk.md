@@ -316,7 +316,6 @@
 | - | SkyNewsArabia | 788 |
 | - | PCNE Chinese HD | 789 |
 | - | ColorsGujarati | 790 |
-| - | ComedyCentral | 812 |
 | - | BBC One NE HD | 952 |
 | - | BBC One NW HD | 953 |
 | - | BBC One Yks HD | 954 |
