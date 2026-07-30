@@ -95,7 +95,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_176x122.png" alt="M LALIGA" width="120"> | M LALIGA | 110 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_176x122.png" alt="DAZN LALIGA" width="120"> | DAZN LALIGA | 111 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_2_176x122.png" alt="DAZN LALIGA 2" width="120"> | DAZN LALIGA 2 | 112 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUSICAL_3_176x122.png" alt="DAZN MUNDIAL 3" width="120"> | DAZN MUNDIAL 3 | 113 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_3_176x122.png" alt="DAZN LALIGA 3" width="120"> | DAZN LALIGA 3 | 113 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_4_176x122.png" alt="DAZN MUNDIAL 4" width="120"> | DAZN MUNDIAL 4 | 114 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_5_176x122.png" alt="DAZN MUNDIAL 5" width="120"> | DAZN MUNDIAL 5 | 115 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_6_176x122.png" alt="DAZN MUNDIAL 6" width="120"> | DAZN MUNDIAL 6 | 116 |
