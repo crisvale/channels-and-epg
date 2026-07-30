@@ -12,8 +12,8 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" alt="Clásicos" width="120"> | Clásicos | 8 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" alt="Kidz" width="120"> | Kidz | 9 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" alt="Aquí no hay quién viva" width="120"> | Aquí no hay quién viva | 10 |
-| - | Eventos 4 | 11 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/HORMIGUERO.png" alt="El Hormiguero" width="120"> | El Hormiguero | 12 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/HORMIGUERO.png" alt="El Hormiguero" width="120"> | El Hormiguero | 11 |
+| - | Eventos 4 | 12 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/EQUIPO_DE_INVESTIGACION.png" alt="Equipo de investigación" width="120"> | Equipo de investigación | 13 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/FOQ.png" alt="FoQ" width="120"> | FoQ | 14 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png" alt="El club de la comedia" width="120"> | El club de la comedia | 15 |
