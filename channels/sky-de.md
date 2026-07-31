@@ -63,7 +63,6 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_2003rtltelevision/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTL Television" width="120"> | RTL Television | 166 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_48n24doku/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="N24 DOKU" width="120"> | N24 DOKU | 185 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2604dmf/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="DMF" width="120"> | DMF | 187 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_2019hoehenrauschsd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Hoehenrausch SD" width="120"> | Hoehenrausch SD | 194 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2029dokusat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Dokusat" width="120"> | Dokusat | 197 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_108skysportnewshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport News HD" width="120"> | Sky Sport News HD | 200 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_129skysporttopeventhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Top Event HD" width="120"> | Sky Sport Top Event HD | 201 |
