@@ -71,6 +71,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-history2.png" alt="Sky HISTORY 2 HD" width="120"> | Sky HISTORY 2 HD | 186 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/pbs.png" alt="PBS America" width="120"> | PBS America | 187 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/god-tv.png" alt="GOD TV" width="120"> | GOD TV | 192 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 243 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-70s.png" alt="NOW 70s" width="120"> | NOW 70s | 285 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-80s.png" alt="NOW 80s" width="120"> | NOW 80s | 286 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-90s-00s.png" alt="NOW 90s &amp; 00s" width="120"> | NOW 90s &amp; 00s | 287 |
