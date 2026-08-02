@@ -17,3 +17,5 @@
 | - | Rai Sport | - |
 | - | Rai Storia | - |
 | - | Rai Yoyo | - |
+| - | RaiPlay Sport 1 | - |
+| - | RaiPlay Sport 2 | - |
