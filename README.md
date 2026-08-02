@@ -27,7 +27,7 @@ Each country has a single XMLTV file combining all supported operators.
 | Spain | `epg/spain.xml.gz` | 305 | Movistar Plus+, Orange, Atresplayer |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 255 | MEO, NOS |
-| Italy | `epg/italy.xml.gz` | 159 | Sky IT, RaiPlay, Tivu |
+| Italy | `epg/italy.xml.gz` | 161 | Sky IT, RaiPlay, Tivu |
 
 - Coverage: **3 days of programming**
 - Format: XMLTV (`.xml.gz`)
