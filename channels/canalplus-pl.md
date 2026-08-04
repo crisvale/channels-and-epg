@@ -230,8 +230,8 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22385/ncplus-ouah/CHN43FB/extra9-8sb4" alt="CANAL+ EXTRA 9 HD" width="120"> | CANAL+ EXTRA 9 HD | 346 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22386/ncplus-ouah/CHN43FB/CExtra10_1200x900-VcBN-JAoe" alt="CANAL+ EXTRA 10 HD" width="120"> | CANAL+ EXTRA 10 HD | 347 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22387/ncplus-ouah/CHN43FB/CExtra11_1200x900-qiF6-AlMn" alt="CANAL+ EXTRA 11 HD" width="120"> | CANAL+ EXTRA 11 HD | 348 |
-| - | CANAL+ SPORT 6 HD | 700 |
-| - | CANAL+ SPORT 7 HD | 701 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22396/ncplus-ouah/CHN43FB/Logo_CANAL_SPORT_6-K7rD" alt="CANAL+ SPORT 6 HD" width="120"> | CANAL+ SPORT 6 HD | 700 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22397/ncplus-ouah/CHN43FB/Logo_CANAL_SPORT_7-reib" alt="CANAL+ SPORT 7 HD" width="120"> | CANAL+ SPORT 7 HD | 701 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22041/ncplus-ouah/CHN43FB/T1_1000-1000" alt="Program 1" width="120"> | Program 1 | 710 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22042/ncplus-ouah/CHN43FB/T2_1000-1000" alt="Program 2" width="120"> | Program 2 | 711 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22043/ncplus-ouah/CHN43FB/T3_1000-1000" alt="Program 3" width="120"> | Program 3 | 712 |
