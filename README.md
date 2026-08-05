@@ -3,7 +3,7 @@
 [![Last commit](https://img.shields.io/github/last-commit/crisvale/channels-and-epg?style=flat-square)](https://github.com/crisvale/channels-and-epg/commits/main)
 [![Repo size](https://img.shields.io/github/repo-size/crisvale/channels-and-epg?style=flat-square)](https://github.com/crisvale/channels-and-epg)
 
-Automated, consolidated XMLTV guides by country, plus channel catalogs by operator. Updated four times per day.
+Automated, consolidated XMLTV guides by country, plus channel catalogs by operator. Updated three times per day.
 
 ## Features
 
@@ -22,14 +22,14 @@ Each country has a single XMLTV file combining all supported operators.
 | --- | --- | ---: | --- |
 | France | `epg/france.xml.gz` | 659 | Canal+, Orange, SFR |
 | United Kingdom | `epg/united-kingdom.xml.gz` | 535 | Freeview, Freesat, Sky UK, Virgin TV Go |
-| Germany | `epg/germany.xml.gz` | 498 | Magenta TV, Sky DE |
+| Germany | `epg/germany.xml.gz` | 490 | Magenta TV, Sky DE |
 | Congo | `epg/congo.xml.gz` | 355 | Canal+ Congo |
-| Spain | `epg/spain.xml.gz` | 306 | Movistar Plus+, Orange, Atresplayer |
+| Spain | `epg/spain.xml.gz` | 495 | Movistar Plus+, Orange, Atresplayer, Tivify |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 255 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 161 | Sky IT, RaiPlay, Tivu |
 
-- Coverage: **3 days of programming**
+- Coverage: **7 days of programming**
 - Format: XMLTV (`.xml.gz`)
 
 ### Usage
@@ -52,14 +52,12 @@ curl -sL https://raw.githubusercontent.com/crisvale/channels-and-epg/main/epg/sp
 
 Depending on availability from the source and TMDB, entries may include:
 
-- Title and description.
+- Title and description, with the season and episode number folded into the title for series (for example, "NCIS - 21x09 Prime Cut").
 - Poster or image.
 - Year and category.
-- Season and episode.
 - Age rating.
 - Cast and crew.
 - Country of production.
-- Keywords.
 
 Additional behavior:
 
@@ -76,12 +74,13 @@ Per-operator channel listings are provided in Markdown format.
 - Unlike the XMLTV guides, these catalogs are not unified across operators.
 
 ```text
-channels/atresplayer.md    channels/magenta-de.md   channels/orange.md
-channels/canalplus.md      channels/meo.md          channels/polsat.md
-channels/canalplus-cg.md   channels/movistar.md     channels/sfr.md
-channels/canalplus-pl.md   channels/nos.md          channels/sky-de.md
-channels/freesat.md        channels/orange-fr.md    channels/sky-it.md
-channels/freeview.md                                channels/sky-uk.md
+channels/atresplayer.md    channels/meo.md          channels/sfr.md
+channels/canalplus.md      channels/movistar.md     channels/sky-de.md
+channels/canalplus-cg.md   channels/nos.md          channels/sky-it.md
+channels/canalplus-pl.md   channels/orange.md       channels/sky-uk.md
+channels/freesat.md        channels/orange-fr.md    channels/tivify.md
+channels/freeview.md       channels/polsat.md       channels/tivu.md
+channels/magenta-de.md     channels/raiplay.md      channels/virgin-uk.md
 ```
 
 ## Update Schedule
@@ -90,10 +89,9 @@ All times are in Europe/Madrid.
 
 | Time | Scope |
 | --- | --- |
-| 09:00 | Full 3-day refresh |
-| 13:00 | Current day only |
-| 17:00 | Current day only |
-| 21:00 | Full 3-day refresh |
+| 01:00 | Full 7-day refresh |
+| 09:00 | Current day only |
+| 18:00 | Next 3 days |
 
 Behavior:
 
