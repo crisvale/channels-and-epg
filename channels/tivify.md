@@ -196,7 +196,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9fb1628d1e700655d6c44_1775741749679.png" alt="ETB 2 ON" width="120"> | ETB 2 ON | 288 |
 | <img src="https://media.tvup.cloud/canales/color_lg_60d9ee5620076b001a8401af.png" alt="IB3 Global" width="120"> | IB3 Global | 289 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6050a6723662e20039601c62.png" alt="Bon Dia TV" width="120"> | Bon Dia TV | 290 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5afea59fd2fc610babd2b87b_1777295673344.png" alt="La 1 | Catalunya" width="120"> | La 1 &#124; Catalunya | 291 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5afea59fd2fc610babd2b87b_1777295673344.png" alt="La 1 &#124; Catalunya" width="120"> | La 1 &#124; Catalunya | 291 |
 | <img src="https://media.tvup.cloud/canales/color_lg_69b2eb3e5136c743f88eaa77_1773335379130.png" alt="Distrito TV" width="120"> | Distrito TV | 293 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5cdc1465d1a7460050d8af0a.png" alt="Betevé" width="120"> | Betevé | 294 |
 | <img src="https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png" alt="La 8 Mediterráneo" width="120"> | La 8 Mediterráneo | 295 |
@@ -261,9 +261,9 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_69a6d9fa3700a6374fc1224d_1773141790843.png" alt="Goierri Irrati TV" width="120"> | Goierri Irrati TV | 386 |
 | <img src="https://media.tvup.cloud/canales/color_lg_63d11c83cdcc0f0023cc5db7.png" alt="Durangaldeko Telebista" width="120"> | Durangaldeko Telebista | 389 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62bb01b53dcf680021c84cc6.png" alt="AWE Plus" width="120"> | AWE Plus | 450 |
-| <img src="https://media.tvup.cloud/canales/color_lg_628ced78865c19002327fcb2.png" alt="ITA | Principiante" width="120"> | ITA &#124; Principiante | 452 |
-| <img src="https://media.tvup.cloud/canales/color_lg_628cef295233d0002213a77a.png" alt="ITA | Intermedio" width="120"> | ITA &#124; Intermedio | 453 |
-| <img src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" alt="ITA | Avanzado" width="120"> | ITA &#124; Avanzado | 454 |
+| <img src="https://media.tvup.cloud/canales/color_lg_628ced78865c19002327fcb2.png" alt="ITA &#124; Principiante" width="120"> | ITA &#124; Principiante | 452 |
+| <img src="https://media.tvup.cloud/canales/color_lg_628cef295233d0002213a77a.png" alt="ITA &#124; Intermedio" width="120"> | ITA &#124; Intermedio | 453 |
+| <img src="https://media.tvup.cloud/canales/color_lg_628cf020a435f6001b3a903a.png" alt="ITA &#124; Avanzado" width="120"> | ITA &#124; Avanzado | 454 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6294d04cffcafa001a294054.png" alt="Cooking Panda" width="120"> | Cooking Panda | 455 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3b62f4e3ab06e97db5be.png" alt="4K Travel TV" width="120"> | 4K Travel TV | 456 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
