@@ -113,7 +113,6 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_341primesportsbar/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Prime Sportsbar" width="120"> | Prime Sportsbar | 294 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2502eurosport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Eurosport 1 HD" width="120"> | Eurosport 1 HD | 295 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5505sport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SPORT1 HD" width="120"> | SPORT1 HD | 296 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_1202eurosport1deutschland/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Eurosport 1 Deutschland" width="120"> | Eurosport 1 Deutschland | 298 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_103dynsportmix/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Dyn Sport Mix" width="120"> | Dyn Sport Mix | 299 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_131skycinemapremierehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Premiere HD" width="120"> | Sky Cinema Premiere HD | 300 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_330skycinemablockbusterhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Blockbuster HD" width="120"> | Sky Cinema Blockbuster HD | 301 |
@@ -278,8 +277,6 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_5002ktvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="K-TV HD" width="120"> | K-TV HD | 916 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5003ewtnkatholischestvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="EWTN katholisches TV HD" width="120"> | EWTN katholisches TV HD | 917 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5004spirittvgermany/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Spirit TV Germany" width="120"> | Spirit TV Germany | 918 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_2100qvcdeutschland/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="QVC Deutschland" width="120"> | QVC Deutschland | 920 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_40hsesd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HSE SD" width="120"> | HSE SD | 923 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_77hsetrendsd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HSE Trend SD" width="120"> | HSE Trend SD | 925 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_899meintvshop/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="meinTVshop" width="120"> | meinTVshop | 926 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_775mediashopmeineeinkaufswelt/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="MediaShop-Meine Einkaufswelt" width="120"> | MediaShop-Meine Einkaufswelt | 929 |
