@@ -152,6 +152,7 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/TLESUR.png" alt="Telesur" width="120"> | Telesur | 148 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAYST.png" alt="Daystar Español HD" width="120"> | Daystar Español HD | 149 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/EWTN.png" alt="EWTN" width="120"> | EWTN | 149 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/RED.png" alt="Canal RED" width="120"> | Canal RED | 150 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ANTV.png" alt="Canal Sur Andalucía" width="120"> | Canal Sur Andalucía | 151 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/TVG.png" alt="TVG Europa" width="120"> | TVG Europa | 152 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/EXTREM.png" alt="Canal Extremadura Sat" width="120"> | Canal Extremadura Sat | 153 |
