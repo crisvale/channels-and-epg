@@ -187,7 +187,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_67b4673312c340d44a9a4090_1740572313860.png" alt="1+1 News" width="120"> | 1+1 News | 260 |
 | <img src="https://media.tvup.cloud/canales/5c6d7d27a1759118f52096c6logoColor.png" alt="Al Jazeera Arabic" width="120"> | Al Jazeera Arabic | 262 |
 | <img src="https://media.tvup.cloud/canales/5cb8469bf75662004cbb4481logoColor.png" alt="TRT Arabi" width="120"> | TRT Arabi | 263 |
-| <img src="https://media.tvup.cloud/canales/5c59a481df377c004c5519aalogoColor.png" alt="TV3 CAT" width="120"> | TV3 CAT | 280 |
+| <img src="https://media.tvup.cloud/canales/color_lg_63ce5d3736bfb800227ada7d.png" alt="TV3 CAT" width="120"> | TV3 CAT | 280 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9fff71ce1aa005e15903a.png" alt="Canal Sur Andalucía" width="120"> | Canal Sur Andalucía | 281 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9f9b1b5254100802858a6.png?t=1657533648" alt="TVG Sat" width="120"> | TVG Sat | 282 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5eea025168808e0075a18ebf.png" alt="Canal Extremadura Sat" width="120"> | Canal Extremadura Sat | 285 |
