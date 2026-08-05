@@ -24,7 +24,7 @@ Each country has a single XMLTV file combining all supported operators.
 | United Kingdom | `epg/united-kingdom.xml.gz` | 535 | Freeview, Freesat, Sky UK, Virgin TV Go |
 | Germany | `epg/germany.xml.gz` | 490 | Magenta TV, Sky DE |
 | Congo | `epg/congo.xml.gz` | 355 | Canal+ Congo |
-| Spain | `epg/spain.xml.gz` | 495 | Tivify, Orange, Movistar Plus+, Atresplayer |
+| Spain | `epg/spain.xml.gz` | 495 | Tivify, Orange, Movistar Plus+, Atresplayer, RTVE |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 255 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 161 | Sky IT, RaiPlay, Tivu |
@@ -74,13 +74,14 @@ Per-operator channel listings are provided in Markdown format.
 - Unlike the XMLTV guides, these catalogs are not unified across operators.
 
 ```text
-channels/atresplayer.md    channels/meo.md          channels/sfr.md
-channels/canalplus.md      channels/movistar.md     channels/sky-de.md
-channels/canalplus-cg.md   channels/nos.md          channels/sky-it.md
-channels/canalplus-pl.md   channels/orange.md       channels/sky-uk.md
-channels/freesat.md        channels/orange-fr.md    channels/tivify.md
-channels/freeview.md       channels/polsat.md       channels/tivu.md
-channels/magenta-de.md     channels/raiplay.md      channels/virgin-uk.md
+channels/atresplayer.md    channels/movistar.md     channels/sky-de.md
+channels/canalplus.md      channels/nos.md          channels/sky-it.md
+channels/canalplus-cg.md   channels/orange.md       channels/sky-uk.md
+channels/canalplus-pl.md   channels/orange-fr.md    channels/tivify.md
+channels/freesat.md        channels/polsat.md       channels/tivu.md
+channels/freeview.md       channels/raiplay.md      channels/virgin-uk.md
+channels/magenta-de.md     channels/rtve.md
+channels/meo.md            channels/sfr.md
 ```
 
 ## Update Schedule
