@@ -9,7 +9,6 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/T5.png" alt="Telecinco" width="120"> | Telecinco | 05 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/SEXTA.png" alt="La Sexta" width="120"> | La Sexta | 06 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MPLUS.png" alt="Movistar Plus" width="120"> | Movistar Plus | 07 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" alt="M+ Vamos" width="120"> | M+ Vamos | 08 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/7TVMUR.png" alt="7 TV Región Murcia" width="120"> | 7 TV Región Murcia | 09 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ARAGTV.png" alt="Aragón TV" width="120"> | Aragón TV | 09 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/EXTRE.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 09 |
@@ -67,6 +66,7 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/FDFIC.png" alt="Factoría de Ficción" width="120"> | Factoría de Ficción | 47 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/NEOX.png" alt="Neox" width="120"> | Neox | 48 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ATRESS.png" alt="Atreseries" width="120"> | Atreseries | 49 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" alt="M+ Vamos" width="120"> | M+ Vamos | 50 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/VAM2SD.png" alt="M+ Vamos 2" width="120"> | M+ Vamos 2 | 51 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MELLAV.png" alt="M+ Vamos 3" width="120"> | M+ Vamos 3 | 52 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MCOPA.png" alt="Primera Federación" width="120"> | Primera Federación | 53 |
