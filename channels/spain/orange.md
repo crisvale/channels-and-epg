@@ -93,17 +93,19 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ORANGE_FUTBOL_1_176x122.png" alt="Fútbol 1" width="120"> | Fútbol 1 | 107 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ORANGE_FUTBOL_3_176x122.png" alt="Fútbol 3" width="120"> | Fútbol 3 | 109 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_176x122.png" alt="M LALIGA" width="120"> | M LALIGA | 110 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_176x122.png" alt="DAZN LALIGA" width="120"> | DAZN LALIGA | 111 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_2_176x122.png" alt="DAZN LALIGA 2" width="120"> | DAZN LALIGA 2 | 112 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_HDR_176x122.png" alt="M LALIGA HDR" width="120"> | M LALIGA HDR | 111 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_2_176x122.png" alt="M LALIGA 2" width="120"> | M LALIGA 2 | 112 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_176x122.png" alt="DAZN LALIGA" width="120"> | DAZN LALIGA | 113 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_3_176x122.png" alt="DAZN LALIGA 3" width="120"> | DAZN LALIGA 3 | 113 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_2_176x122.png" alt="DAZN LALIGA 2" width="120"> | DAZN LALIGA 2 | 114 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_4_176x122.png" alt="DAZN MUNDIAL 4" width="120"> | DAZN MUNDIAL 4 | 114 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_5_176x122.png" alt="DAZN MUNDIAL 5" width="120"> | DAZN MUNDIAL 5 | 115 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_176x122.png" alt="M Liga de Campeones" width="120"> | M Liga de Campeones | 115 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_6_176x122.png" alt="DAZN MUNDIAL 6" width="120"> | DAZN MUNDIAL 6 | 116 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_176x122.png" alt="M Liga de Campeones" width="120"> | M Liga de Campeones | 117 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_2_176x122.png" alt="M Liga de Campeones 2" width="120"> | M Liga de Campeones 2 | 118 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_2_176x122.png" alt="M Liga de Campeones 2" width="120"> | M Liga de Campeones 2 | 117 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_176x122.png" alt="LALIGATV HYPERMOTION" width="120"> | LALIGATV HYPERMOTION | 120 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_2_176x122.png" alt="LALIGATV HYPERMOTION 2" width="120"> | LALIGATV HYPERMOTION 2 | 121 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_2_176x122.png" alt="M LALIGA 2" width="120"> | M LALIGA 2 | 122 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_2_HDR_176x122.png" alt="M LALIGA 2 HDR" width="120"> | M LALIGA 2 HDR | 122 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_3_176x122.png" alt="M LALIGA 3" width="120"> | M LALIGA 3 | 123 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/PRIMERA_FEDERACION_176x122.png" alt="LaLiga PrimeraREF" width="120"> | LaLiga PrimeraREF | 125 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_176x122.png" alt="DAZN Baloncesto" width="120"> | DAZN Baloncesto | 126 |
