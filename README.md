@@ -72,16 +72,21 @@ Per-operator channel listings are provided in Markdown format.
 - Each file includes logo, name, and channel number.
 - Each catalog preserves the original naming and numbering used by the operator.
 - Unlike the XMLTV guides, these catalogs are not unified across operators.
+- Grouped one folder per country, matching the country XMLTV guide it feeds into.
 
 ```text
-channels/atresplayer.md    channels/movistar.md     channels/sky-de.md
-channels/canalplus.md      channels/nos.md          channels/sky-it.md
-channels/canalplus-cg.md   channels/orange.md       channels/sky-uk.md
-channels/canalplus-pl.md   channels/orange-fr.md    channels/tivify.md
-channels/freesat.md        channels/polsat.md       channels/tivu.md
-channels/freeview.md       channels/raiplay.md      channels/virgin-uk.md
-channels/magenta-de.md     channels/rtve.md
-channels/meo.md            channels/sfr.md
+channels/spain/atresplayer.md         channels/italy/tivu.md
+channels/spain/movistar.md            channels/united-kingdom/freesat.md
+channels/spain/orange.md              channels/united-kingdom/freeview.md
+channels/spain/rtve.md                channels/united-kingdom/sky-uk.md
+channels/spain/tivify.md              channels/united-kingdom/virgin-uk.md
+channels/france/canalplus.md          channels/portugal/meo.md
+channels/france/orange-fr.md          channels/portugal/nos.md
+channels/france/sfr.md                channels/congo/canalplus-cg.md
+channels/germany/magenta-de.md        channels/poland/canalplus-pl.md
+channels/germany/sky-de.md            channels/poland/polsat.md
+channels/italy/raiplay.md
+channels/italy/sky-it.md
 ```
 
 ## Update Schedule
