@@ -107,7 +107,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_2_176x122.png" alt="LALIGATV HYPERMOTION 2" width="120"> | LALIGATV HYPERMOTION 2 | 121 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_2_HDR_176x122.png" alt="M LALIGA 2 HDR" width="120"> | M LALIGA 2 HDR | 122 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_3_176x122.png" alt="M LALIGA 3" width="120"> | M LALIGA 3 | 123 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/PRIMERA_FEDERACION_176x122.png" alt="LaLiga PrimeraREF" width="120"> | LaLiga PrimeraREF | 125 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/PRIMERA_FED_26_27_176x122.png" alt="LaLiga PrimeraREF" width="120"> | LaLiga PrimeraREF | 125 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_176x122.png" alt="DAZN Baloncesto" width="120"> | DAZN Baloncesto | 126 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_2_176x122.png" alt="DAZN Baloncesto 2" width="120"> | DAZN Baloncesto 2 | 127 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_3_176x122.png" alt="DAZN Baloncesto 3" width="120"> | DAZN Baloncesto 3 | 128 |
