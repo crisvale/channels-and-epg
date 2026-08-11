@@ -115,7 +115,7 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_5505sport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SPORT1 HD" width="120"> | SPORT1 HD | 296 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_103dynsportmix/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Dyn Sport Mix" width="120"> | Dyn Sport Mix | 299 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_131skycinemapremierehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Premiere HD" width="120"> | Sky Cinema Premiere HD | 300 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_330skycinemablockbusterhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Blockbuster HD" width="120"> | Sky Cinema Blockbuster HD | 301 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_330skycinemajurassichd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Jurassic HD" width="120"> | Sky Cinema Jurassic HD | 301 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_116skycinemaactionhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Action HD" width="120"> | Sky Cinema Action HD | 302 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_331skycinemafeelgoodhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Feelgood HD" width="120"> | Sky Cinema Feelgood HD | 303 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_107skycinemaclassicshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Classics HD" width="120"> | Sky Cinema Classics HD | 304 |
