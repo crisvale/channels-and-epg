@@ -60,7 +60,6 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 49 |
 | <img src="https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 50 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
-| <img src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 53 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" alt="Runtime Crimen" width="120"> | Runtime Crimen | 55 |
@@ -269,6 +268,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" alt="Wedo Big Stories" width="120"> | Wedo Big Stories | 458 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png" alt="Xtrem Sports" width="120"> | Xtrem Sports | 459 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6461f86c9b363733fddb9c92.png" alt="Runtime Acción" width="120"> | Runtime Acción | 503 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png" alt="SIC Internacional" width="120"> | SIC Internacional | 510 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png" alt="SIC Noticias" width="120"> | SIC Noticias | 511 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png" alt="RTPi" width="120"> | RTPi | 512 |
