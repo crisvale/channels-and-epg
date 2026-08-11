@@ -199,7 +199,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DH_176x122.png" alt="Déjate de historias TV" width="120"> | Déjate de historias TV | 972 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TELEVIGO_176x122.png" alt="Televigo" width="120"> | Televigo | 973 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TELEMINO_176x122.png" alt="Telemiño" width="120"> | Telemiño | 974 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ASTURIAS_TV_176x122.png" alt="TPA" width="120"> | TPA | 975 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/A7_176x122.png" alt="TPA" width="120"> | TPA | 975 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CMM_176x122.png" alt="CMM" width="120"> | CMM | 976 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CASTILLA_LEON_TV_LA_7_176x122.png" alt="La 7" width="120"> | La 7 | 977 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LA_OTRA_176x122.png" alt="LaOtra" width="120"> | LaOtra | 983 |
