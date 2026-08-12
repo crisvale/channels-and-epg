@@ -26,7 +26,7 @@ Each country has a single XMLTV file combining all supported operators.
 | Congo | `epg/congo.xml.gz` | 355 | Canal+ Congo |
 | Spain | `epg/spain.xml.gz` | 509 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
-| Portugal | `epg/portugal.xml.gz` | 255 | MEO, NOS |
+| Portugal | `epg/portugal.xml.gz` | 256 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 161 | Sky IT, RaiPlay, Tivu |
 
 - Coverage: **7 days of programming**
