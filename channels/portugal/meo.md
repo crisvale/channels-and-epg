@@ -18,6 +18,7 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICNOV&amp;profile=corner_transparent_positive&amp;width=100" alt="SIC Novelas" width="120"> | SIC Novelas | 14 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CONTALA&amp;profile=corner_transparent_positive&amp;width=100" alt="Conta Lá" width="120"> | Conta Lá | 15 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VEJA&amp;profile=corner_transparent_positive&amp;width=100" alt="Veja" width="120"> | Veja | 17 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LIVE2&amp;profile=corner_transparent_positive&amp;width=100" alt="MEO" width="120"> | MEO | 18 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPTVHD&amp;profile=corner_transparent_positive&amp;width=100" alt="Sport TV +" width="120"> | Sport TV + | 20 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT1HD&amp;profile=corner_transparent_positive&amp;width=100" alt="Sport TV1" width="120"> | Sport TV1 | 21 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPT2HD&amp;profile=corner_transparent_positive&amp;width=100" alt="Sport TV2" width="120"> | Sport TV2 | 22 |
