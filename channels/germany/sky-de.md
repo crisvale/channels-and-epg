@@ -61,8 +61,31 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_2018justfishinghd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Just Fishing HD" width="120"> | Just Fishing HD | 162 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_9138hgtvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HGTV HD" width="120"> | HGTV HD | 163 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2003rtltelevision/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTL Television" width="120"> | RTL Television | 166 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2060vox/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="VOX" width="120"> | VOX | 167 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7500sat1/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SAT.1" width="120"> | SAT.1 | 168 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7501prosieben/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ProSieben" width="120"> | ProSieben | 169 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7502kabeleins/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="kabel eins" width="120"> | kabel eins | 170 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2020rtlzwei/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTLZWEI" width="120"> | RTLZWEI | 172 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2080rtlup/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTLup" width="120"> | RTLup | 173 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7504sat1gold/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SAT.1 Gold" width="120"> | SAT.1 Gold | 174 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2061nitro/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="NITRO" width="120"> | NITRO | 175 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_63dmax/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="DMAX" width="120"> | DMAX | 177 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7509kabeleinsdoku/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="kabel eins Doku" width="120"> | kabel eins Doku | 178 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_776sixx/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SIXX" width="120"> | SIXX | 179 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7505pro7maxx/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Pro7 MAXX" width="120"> | Pro7 MAXX | 180 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_772tlc/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="TLC" width="120"> | TLC | 181 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_8820voxup/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="VOXup" width="120"> | VOXup | 182 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_8676comedycentral/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Comedy Central" width="120"> | Comedy Central | 184 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_48n24doku/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="N24 DOKU" width="120"> | N24 DOKU | 185 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2604dmf/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="DMF" width="120"> | DMF | 187 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_38hgtv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HGTV" width="120"> | HGTV | 188 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2001justcooking/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Just Cooking" width="120"> | Just Cooking | 189 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2002xplore/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="XPLORE" width="120"> | XPLORE | 190 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2008oneterra/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="One TERRA" width="120"> | One TERRA | 192 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2009crimetime/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Crime Time" width="120"> | Crime Time | 193 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2019hoehenrauschsd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Hoehenrausch SD" width="120"> | Hoehenrausch SD | 194 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2021serien/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SERIEN+" width="120"> | SERIEN+ | 195 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2022justfishing/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Just Fishing" width="120"> | Just Fishing | 196 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2029dokusat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Dokusat" width="120"> | Dokusat | 197 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_108skysportnewshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport News HD" width="120"> | Sky Sport News HD | 200 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_129skysporttopeventhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Top Event HD" width="120"> | Sky Sport Top Event HD | 201 |
@@ -113,6 +136,8 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_341primesportsbar/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Prime Sportsbar" width="120"> | Prime Sportsbar | 294 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2502eurosport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Eurosport 1 HD" width="120"> | Eurosport 1 HD | 295 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5505sport1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SPORT1 HD" width="120"> | SPORT1 HD | 296 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_900sport1/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SPORT1" width="120"> | SPORT1 | 297 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_1202eurosport1deutschland/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Eurosport 1 Deutschland" width="120"> | Eurosport 1 Deutschland | 298 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_103dynsportmix/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Dyn Sport Mix" width="120"> | Dyn Sport Mix | 299 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_131skycinemapremierehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Premiere HD" width="120"> | Sky Cinema Premiere HD | 300 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_330skycinemajurassichd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Jurassic HD" width="120"> | Sky Cinema Jurassic HD | 301 |
@@ -128,6 +153,8 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_133beateuhsehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Beate Uhse HD" width="120"> | Beate Uhse HD | 340 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5401tele5hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="TELE 5 HD" width="120"> | TELE 5 HD | 360 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1100anixehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ANIXE HD" width="120"> | ANIXE HD | 361 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_764anixe/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ANIXE+" width="120"> | ANIXE+ | 362 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_51tele5/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="TELE 5" width="120"> | TELE 5 | 365 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_28cartoonito/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Cartoonito" width="120"> | Cartoonito | 500 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_8667nickjr/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Nick Jr." width="120"> | Nick Jr. | 503 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_27nicktoons/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Nicktoons" width="120"> | Nicktoons | 504 |
@@ -135,6 +162,8 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_1160kikahd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="KiKA HD" width="120"> | KiKA HD | 550 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1931superrtlhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SUPER RTL HD" width="120"> | SUPER RTL HD | 551 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5500disneychannelhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Disney Channel HD" width="120"> | Disney Channel HD | 552 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2040superrtl/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SUPER RTL" width="120"> | SUPER RTL | 560 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_1793disneychannel/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Disney Channel" width="120"> | Disney Channel | 561 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_2030toggoplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="TOGGO plus" width="120"> | TOGGO plus | 563 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_8680nickcomedycentral1/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="NICK / Comedy Central+1" width="120"> | NICK / Comedy Central+1 | 564 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_401jukebox/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Jukebox" width="120"> | Jukebox | 600 |
@@ -142,6 +171,10 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_5503deluxemusichd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Music HD" width="120"> | Deluxe Music HD | 602 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1439deluxedancebykontorhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Dance by Kontor HD" width="120"> | Deluxe Dance by Kontor HD | 603 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1449deluxeraphd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Rap HD" width="120"> | Deluxe Rap HD | 604 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_8678mtv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="MTV" width="120"> | MTV | 605 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_65deluxemusic/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="DELUXE MUSIC" width="120"> | DELUXE MUSIC | 606 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_505deluxedancebykontor/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Dance by Kontor" width="120"> | Deluxe Dance by Kontor | 607 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_504deluxerap/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Rap" width="120"> | Deluxe Rap | 608 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_35schlagerdeluxe/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Schlager Deluxe" width="120"> | Schlager Deluxe | 609 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3018volksmusiktv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Volksmusik.TV" width="120"> | Volksmusik.TV | 610 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3404stimmungsgartentv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Stimmungsgarten TV" width="120"> | Stimmungsgarten TV | 612 |
@@ -164,6 +197,8 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_6801cgtnnewshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="CGTN News HD" width="120"> | CGTN News HD | 717 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_6803cgtnfrancaishd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="CGTN Francais HD" width="120"> | CGTN Francais HD | 718 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_7290skynewsintl/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky News Intl" width="120"> | Sky News Intl | 719 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_7503welt/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="WELT" width="120"> | WELT | 721 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2090ntv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ntv" width="120"> | ntv | 722 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1230euronewsgermansd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="EURONEWS GERMAN SD" width="120"> | EURONEWS GERMAN SD | 723 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_619bloombergeuropetv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Bloomberg Europe TV" width="120"> | Bloomberg Europe TV | 729 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_4422cnnint/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="CNN Int." width="120"> | CNN Int. | 731 |
@@ -192,12 +227,21 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_1323sixxhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="sixx HD Austria" width="120"> | sixx HD Austria | 769 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5513deluxemusichdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Deluxe Music HD Austria" width="120"> | Deluxe Music HD Austria | 770 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5510disneychannelhdaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Disney Channel HD Austria" width="120"> | Disney Channel HD Austria | 771 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_578puls4austria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="PULS 4 Austria" width="120"> | PULS 4 Austria | 772 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_579sat1a/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SAT.1 A" width="120"> | SAT.1 A | 773 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_8800rtlaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTL Austria" width="120"> | RTL Austria | 774 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_581prosiebenaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ProSieben Austria" width="120"> | ProSieben Austria | 775 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_8805voxaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="VOX Austria" width="120"> | VOX Austria | 776 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_5309sixxaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="sixx AUSTRIA" width="120"> | sixx AUSTRIA | 777 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_787kabel1austria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Kabel 1 Austria" width="120"> | Kabel 1 Austria | 778 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_8810rtlzweiaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTLZWEI Austria" width="120"> | RTLZWEI Austria | 779 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_8815superrtla/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SUPER RTL A" width="120"> | SUPER RTL A | 780 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3223atv2hdat/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ATV2 HD AT" width="120"> | ATV2 HD AT | 781 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_5311pro7maxxaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Pro7 MAXX Austria" width="120"> | Pro7 MAXX Austria | 782 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5310sat1goldösterreich/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="SAT.1 Gold Österreich" width="120"> | SAT.1 Gold Österreich | 783 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_73dmaxaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="DMAX Austria" width="120"> | DMAX Austria | 786 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3102nitroaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="NITRO Austria" width="120"> | NITRO Austria | 787 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_5312kabel1dokuaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="kabel1 Doku austria" width="120"> | kabel1 Doku austria | 789 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3021ntvaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="ntv Austria" width="120"> | ntv Austria | 791 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3229rtlupaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RTLup Austria" width="120"> | RTLup Austria | 792 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_71tlcaustria/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="TLC Austria" width="120"> | TLC Austria | 793 |
@@ -277,12 +321,23 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_5002ktvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="K-TV HD" width="120"> | K-TV HD | 916 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5003ewtnkatholischestvhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="EWTN katholisches TV HD" width="120"> | EWTN katholisches TV HD | 917 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_5004spirittvgermany/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Spirit TV Germany" width="120"> | Spirit TV Germany | 918 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2100qvcdeutschland/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="QVC Deutschland" width="120"> | QVC Deutschland | 920 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_40hsesd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HSE SD" width="120"> | HSE SD | 923 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_1210hseextra/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HSE Extra" width="120"> | HSE Extra | 924 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_77hsetrendsd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="HSE Trend SD" width="120"> | HSE Trend SD | 925 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_899meintvshop/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="meinTVshop" width="120"> | meinTVshop | 926 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_662123tv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="1-2-3.tv" width="120"> | 1-2-3.tv | 928 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_775mediashopmeineeinkaufswelt/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="MediaShop-Meine Einkaufswelt" width="120"> | MediaShop-Meine Einkaufswelt | 929 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_898mediashopneuheiten/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="MediaShop- Neuheiten" width="120"> | MediaShop- Neuheiten | 930 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_514immeretwasneuestv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Immer etwas Neues TV" width="120"> | Immer etwas Neues TV | 931 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_659handystartv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Handystar TV" width="120"> | Handystar TV | 932 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_46handystartv2/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Handystar TV 2" width="120"> | Handystar TV 2 | 933 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_897geniustrend/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Genius Trend" width="120"> | Genius Trend | 934 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_1113geniusplus/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Genius Plus" width="120"> | Genius Plus | 935 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_765pearltvshop/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="pearl.tv Shop" width="120"> | pearl.tv Shop | 937 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_3106shoplc/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Shop LC" width="120"> | Shop LC | 938 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_32sonnenklartv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sonnenklar TV" width="120"> | Sonnenklar TV | 940 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2122bibeltv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Bibel TV" width="120"> | Bibel TV | 970 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_62ewtnkatholischestv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="EWTN katholisches TV" width="120"> | EWTN katholisches TV | 972 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_2601ktv/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="K-TV" width="120"> | K-TV | 973 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_3019ric/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="RiC" width="120"> | RiC | 982 |
