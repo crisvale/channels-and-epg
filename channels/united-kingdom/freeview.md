@@ -18,9 +18,18 @@
 | <img src="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf/16x9/colour?w=800" alt="BBC ONE West" width="120"> | BBC ONE West | 1 |
 | <img src="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf/16x9/colour?w=800" alt="BBC ONE Yk&amp;Li" width="120"> | BBC ONE Yk&amp;Li | 1 |
 | <img src="https://img.freeviewplay.tv/s9eaa3ae15dae43a2352c7f3baf201aaf/16x9/colour?w=800" alt="BBC ONE Yorks" width="120"> | BBC ONE Yorks | 1 |
+| <img src="https://img.freeviewplay.tv/s4bf1f3c97f71f087f0eca0268b0c0138/16x9/colour?w=800" alt="BBC TWO" width="120"> | BBC TWO | 2 |
+| <img src="https://img.freeviewplay.tv/sefc630d90bb00227495ba63b4e770212/16x9/colour?w=800" alt="BBC TWO NI" width="120"> | BBC TWO NI | 2 |
 | <img src="https://img.freeviewplay.tv/s90557fef7ddcb2d1a5b8c9633cb225af/16x9/colour?w=800" alt="BBC TWO Wales" width="120"> | BBC TWO Wales | 2 |
+| <img src="https://img.freeviewplay.tv/sc3ba25353c0ef5ab7fde0cc03fae1904/16x9/colour?w=800" alt="ITV1" width="120"> | ITV1 | 3 |
 | <img src="https://img.freeviewplay.tv/sc3ba25353c0ef5ab7fde0cc03fae1904/16x9/colour?w=800" alt="ITV1 Border England" width="120"> | ITV1 Border England | 3 |
 | <img src="https://img.freeviewplay.tv/sc3ba25353c0ef5ab7fde0cc03fae1904/16x9/colour?w=800" alt="ITV1 Border Scotland" width="120"> | ITV1 Border Scotland | 3 |
+| <img src="https://img.freeviewplay.tv/sc3ba25353c0ef5ab7fde0cc03fae1904/16x9/colour?w=800" alt="ITV1 Wales" width="120"> | ITV1 Wales | 3 |
+| <img src="https://img.freeviewplay.tv/s702c66daa2ea81b6c89cffd6932a4c47/16x9/colour?w=800" alt="STV" width="120"> | STV | 3 |
+| <img src="https://img.freeviewplay.tv/s7da5998df2454c65e9c92f47703acdb9/16x9/colour?w=800" alt="UTV" width="120"> | UTV | 3 |
+| <img src="https://img.freeviewplay.tv/s2d43a98ba9a88e002faf81ce78979f6e/16x9/colour?w=800" alt="Channel 4" width="120"> | Channel 4 | 4 |
+| <img src="https://img.freeviewplay.tv/s122952d6175a9b63aab16bf9f14560c6/16x9/colour?w=800" alt="S4C" width="120"> | S4C | 4 |
+| <img src="https://img.freeviewplay.tv/s5ffdadc9435867239ce9fce7316f5601/16x9/colour?w=800" alt="5" width="120"> | 5 | 5 |
 | <img src="https://img.freeviewplay.tv/sa2ce64c95d4daf1c7fa650cb99773442/16x9/colour?w=800" alt="ITV2" width="120"> | ITV2 | 6 |
 | <img src="https://img.freeviewplay.tv/s403da3287d84e440c5fda8e1cf0228e7/16x9/colour?w=800" alt="BBC ALBA" width="120"> | BBC ALBA | 7 |
 | <img src="https://img.freeviewplay.tv/s2b415765e3fc46619e92e055b4205275/16x9/colour?w=800" alt="Birmingham TV" width="120"> | Birmingham TV | 7 |
@@ -35,6 +44,9 @@
 | <img src="https://img.freeviewplay.tv/sb2c44e9420a53dd7e5b09c520a6a9e08/16x9/colour?w=800" alt="Cardiff TV" width="120"> | Cardiff TV | 8 |
 | <img src="https://img.freeviewplay.tv/s4081a8b4db869ffe27b795757daa8b47/16x9/colour?w=800" alt="London TV" width="120"> | London TV | 8 |
 | <img src="https://img.freeviewplay.tv/sb84693adc83b95dc62dc90245d184e02/16x9/colour?w=800" alt="North Wales TV" width="120"> | North Wales TV | 8 |
+| <img src="https://img.freeviewplay.tv/sfdb38abf445be6d2faa16306ab0569ad/16x9/colour?w=800" alt="That&#x27;s TV" width="120"> | That's TV | 8 |
+| <img src="https://img.freeviewplay.tv/s893c7a664fd07d4796f9b647bb44c477/16x9/colour?w=800" alt="BBC FOUR" width="120"> | BBC FOUR | 9 |
+| <img src="https://img.freeviewplay.tv/s2f5a9732d4265f0df9f0715d8b2bae69/16x9/colour?w=800" alt="BBC Scotland" width="120"> | BBC Scotland | 9 |
 | <img src="https://img.freeviewplay.tv/s4b9c5363866d7a55988564c4bd4cb424/16x9/colour?w=800" alt="ITV3" width="120"> | ITV3 | 10 |
 | <img src="https://img.freeviewplay.tv/sbe7f1008a15136c579928347db508f1e/16x9/colour?w=800" alt="Sky Mix" width="120"> | Sky Mix | 11 |
 | <img src="https://img.freeviewplay.tv/saaae6ce60289226c34402300e36a9b72/16x9/colour?w=800" alt="TLC" width="120"> | TLC | 12 |
@@ -48,6 +60,7 @@
 | <img src="https://img.freeviewplay.tv/s5a9ddc7c1573fd949c4313a2014fa736/16x9/colour?w=800" alt="U&amp;Drama" width="120"> | U&amp;Drama | 20 |
 | <img src="https://img.freeviewplay.tv/s94f727e7678cf533b3a42f08bae21dcf/16x9/colour?w=800" alt="5USA" width="120"> | 5USA | 21 |
 | <img src="https://img.freeviewplay.tv/s8a6b066ffe0f027c7a5dfaa2a5e63e71/16x9/colour?w=800" alt="TJC" width="120"> | TJC | 22 |
+| <img src="https://img.freeviewplay.tv/sc00c2d2321a4c5db5dedea644fa7638a/16x9/colour?w=800" alt="BBC THREE" width="120"> | BBC THREE | 23 |
 | <img src="https://img.freeviewplay.tv/s066a3c6b6d91a734c6e51db9c6edbcdb/16x9/colour?w=800" alt="U&amp;W" width="120"> | U&amp;W | 25 |
 | <img src="https://img.freeviewplay.tv/se1526a8af795522bfb4c70fb858ecbe5/16x9/colour?w=800" alt="ITV4" width="120"> | ITV4 | 26 |
 | <img src="https://img.freeviewplay.tv/sbc3a77bdb91164191007b081e3f435c2/16x9/colour?w=800" alt="U&amp;Yesterday" width="120"> | U&amp;Yesterday | 27 |
@@ -119,6 +132,7 @@
 | <img src="https://img.freeviewplay.tv/s8c1e311497b3cccd2b172a08a62b2a21/16x9/colour?w=800" alt="WildEarth" width="120"> | WildEarth | 91 |
 | <img src="https://img.freeviewplay.tv/s9ac6d637a0983bcc9e6b8398bad3517b/16x9/colour?w=800" alt="Blaze+1" width="120"> | Blaze+1 | 92 |
 | <img src="https://img.freeviewplay.tv/s3d0053ece675ed5d052808a20a84c6f2/16x9/colour?w=800" alt="That&#x27;s Classics" width="120"> | That's Classics | 93 |
+| <img src="https://img.freeviewplay.tv/s4f8e3d9c3ac92c991ff71c1a2437905e/16x9/colour?w=800" alt="SonLife" width="120"> | SonLife | 94 |
 | <img src="https://img.freeviewplay.tv/s06fb6b46ed17185d0bdb192a46b1a95a/16x9/colour?w=800" alt="High Street TV" width="120"> | High Street TV | 95 |
 | <img src="https://img.freeviewplay.tv/sfba201dbf25ba7515bacd6c33b776399/16x9/colour?w=800" alt="Must Have Ideas" width="120"> | Must Have Ideas | 96 |
 | <img src="https://img.freeviewplay.tv/sb3cece9da461d19a2b914b62a0c92cc5/16x9/colour?w=800" alt="Shop Unlimited" width="120"> | Shop Unlimited | 97 |
@@ -126,10 +140,18 @@
 | <img src="https://img.freeviewplay.tv/s247d53fb9ffb39180cea93fbbc922715/16x9/colour?w=800" alt="TLC+1" width="120"> | TLC+1 | 99 |
 | <img src="https://img.freeviewplay.tv/sf8c9c3c900788e4f2c98cd1e7c1dd3d6/16x9/colour?w=800" alt="BBC 1 Scot HD" width="120"> | BBC 1 Scot HD | 101 |
 | <img src="https://img.freeviewplay.tv/sdbed5b25e313b99505ec887bc62412cc/16x9/colour?w=800" alt="BBC 1 Wales HD" width="120"> | BBC 1 Wales HD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE CI HD" width="120"> | BBC ONE CI HD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE EastHD" width="120"> | BBC ONE EastHD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE EMidHD" width="120"> | BBC ONE EMidHD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE Lon HD" width="120"> | BBC ONE Lon HD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE NE&amp;CHD" width="120"> | BBC ONE NE&amp;CHD | 101 |
+| <img src="https://img.freeviewplay.tv/s65abf10e55dfe922787dd5c9c960dd32/16x9/colour?w=800" alt="BBC ONE NI HD" width="120"> | BBC ONE NI HD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE NWstHD" width="120"> | BBC ONE NWstHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE SE HD" width="120"> | BBC ONE SE HD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE Sth HD" width="120"> | BBC ONE Sth HD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE SW HD" width="120"> | BBC ONE SW HD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE WestHD" width="120"> | BBC ONE WestHD | 101 |
+| <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE WMidHD" width="120"> | BBC ONE WMidHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE Yk&amp;LHD" width="120"> | BBC ONE Yk&amp;LHD | 101 |
 | <img src="https://img.freeviewplay.tv/s210a81942c909451daf38c567c71af39/16x9/colour?w=800" alt="BBC ONE Yks HD" width="120"> | BBC ONE Yks HD | 101 |
 | <img src="https://img.freeviewplay.tv/s7f5fd630f4b912a52d3d1be1f94d0feb/16x9/colour?w=800" alt="BBC 2 Wales HD" width="120"> | BBC 2 Wales HD | 102 |
@@ -147,6 +169,8 @@
 | <img src="https://img.freeviewplay.tv/s7029f4a24b78c6857f58f0ae8ef32374/16x9/colour?w=800" alt="BBC THREE HD" width="120"> | BBC THREE HD | 107 |
 | <img src="https://img.freeviewplay.tv/sf60a7287740d068dc088d39f4d3cee1a/16x9/colour?w=800" alt="CBBC" width="120"> | CBBC | 201 |
 | <img src="https://img.freeviewplay.tv/s6a9ffef5942a85ddca478c367a2a14d8/16x9/colour?w=800" alt="CBeebies" width="120"> | CBeebies | 202 |
+| <img src="https://img.freeviewplay.tv/s4d72cb85f4bbe54d3e94595852f8a298/16x9/colour?w=800" alt="CBBC HD" width="120"> | CBBC HD | 203 |
+| <img src="https://img.freeviewplay.tv/sa2062da612f9f9ec8594f66315ed8a44/16x9/colour?w=800" alt="CBeebies HD" width="120"> | CBeebies HD | 204 |
 | <img src="https://img.freeviewplay.tv/s923f354ebbc467c8b156143eaec10f9a/16x9/colour?w=800" alt="POP" width="120"> | POP | 205 |
 | <img src="https://img.freeviewplay.tv/s8a7f827d881e501abf92e1ea8d75b0a8/16x9/colour?w=800" alt="Tiny Pop" width="120"> | Tiny Pop | 206 |
 | <img src="https://img.freeviewplay.tv/sd21b29267613b35bcf95906e5cbc91d5/16x9/colour?w=800" alt="POP UP" width="120"> | POP UP | 207 |
