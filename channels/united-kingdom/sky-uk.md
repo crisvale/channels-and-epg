@@ -270,8 +270,8 @@
 | - | B4U Movies | 701 |
 | - | B4U Music | 702 |
 | - | SONY TV HD | 703 |
-| - | Utsav Bharat | 704 |
-| - | Utsav Plus HD | 705 |
+| - | Star Bharat | 704 |
+| - | Star Plus HD | 705 |
 | - | COLORS HD | 706 |
 | - | Zee TV HD | 707 |
 | - | Zee Cinema | 708 |
@@ -280,7 +280,7 @@
 | - | ColorsRishtey | 712 |
 | - | ColorsCineplex | 713 |
 | - | SONY MAX HD | 714 |
-| - | Utsav Gold HD | 715 |
+| - | Star Gold HD | 715 |
 | - | SONY SAB | 716 |
 | - | SONY MAX 2 | 717 |
 | - | Aastha | 718 |
@@ -351,10 +351,10 @@
 | - | Sky News | 881 |
 | - | TRT World HD | 886 |
 | - | SONY TV | 892 |
-| - | Utsav Plus | 893 |
+| - | Star Plus | 893 |
 | - | COLORS | 894 |
 | - | SONY MAX | 895 |
-| - | Utsav Gold | 896 |
+| - | Star Gold | 896 |
 | - | Zee TV | 898 |
 | - | BBC One NE HD | 952 |
 | - | BBC One NW HD | 953 |
