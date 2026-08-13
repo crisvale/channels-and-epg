@@ -207,6 +207,8 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TV_RIOJA_176x122.png" alt="TVR" width="120"> | TVR | 985 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ARAGON_TV_1 LINEA_176x122.png" alt="Aragón Televisión" width="120"> | Aragón Televisión | 986 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/IB3_176x122.png" alt="IB3" width="120"> | IB3 | 987 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/EUROSPORT_1_WHITE_176x122.png" alt="Eurosport 1" width="120"> | Eurosport 1 | 990 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/logo_pruebas ll1_176x122.png" alt="Pruebas LL1" width="120"> | Pruebas LL1 | 991 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/logo_pruebas ll2_176x122.png" alt="Pruebas LL2" width="120"> | Pruebas LL2 | 992 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_176x122.png" alt="M Liga de Campeones" width="120"> | M Liga de Campeones | 995 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_2014362ae1936296451130a1d.png" alt="Prueba OTT" width="120"> | Prueba OTT | 999 |
