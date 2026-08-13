@@ -141,6 +141,7 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" alt="Negocios TV" width="120"> | Negocios TV | 140 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CCTV-E.png" alt="CGTN Español" width="120"> | CGTN Español | 141 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CGTND.png" alt="CGTN Documentary" width="120"> | CGTN Documentary | 142 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CGTNDO.png" alt="CGTN Documentary HD" width="120"> | CGTN Documentary HD | 142 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CGTNEN.png" alt="CGTN English HD" width="120"> | CGTN English HD | 143 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/UCL.png" alt="UCL" width="120"> | UCL | 143 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/GALAV.png" alt="Canal de las Estrellas" width="120"> | Canal de las Estrellas | 144 |
