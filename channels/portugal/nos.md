@@ -105,6 +105,7 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTrace_Toca.png" alt="Trace Toca" width="120"> | Trace Toca | 166 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRACEURBANHD.png" alt="Trace Urban HD" width="120"> | Trace Urban HD | 167 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTRACEBRAS.png" alt="Trace Brasil" width="120"> | Trace Brasil | 168 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVBRASIL.png" alt="TV Brasil Internacional" width="120"> | TV Brasil Internacional | 172 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNEWBRASIL.png" alt="New Brasil" width="120"> | New Brasil | 174 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRECORDNEWS.png" alt="Record News" width="120"> | Record News | 176 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVRHD.png" alt="Record" width="120"> | Record | 177 |
