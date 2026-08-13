@@ -12,6 +12,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png" alt="Canal Sur" width="120"> | Canal Sur | 7 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png" alt="CMM TV" width="120"> | CMM TV | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png" alt="ETB2" width="120"> | ETB2 | 7 |
 | <img src="https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png" alt="IB3" width="120"> | IB3 | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png" alt="Telemadrid" width="120"> | Telemadrid | 7 |
@@ -60,6 +61,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 49 |
 | <img src="https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 50 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6461f86c9b363733fddb9c92.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 53 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" alt="Runtime Crimen" width="120"> | Runtime Crimen | 55 |
@@ -143,6 +145,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_698306c8497ec26c754c85f9_1770898604967.png" alt="Stingray Classica" width="120"> | Stingray Classica | 152 |
 | <img src="https://media.tvup.cloud/canales/color_lg_683ef0750f3cea6ce5be7721_1756996692168.png" alt="Clips Don&#x27;t Lie" width="120"> | Clips Don't Lie | 154 |
 | <img src="https://media.tvup.cloud/canales/color_lg_653ba0f052f985e26c4180b1.png" alt="SOL Música" width="120"> | SOL Música | 155 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6450e32e71fda6c361d2f38a.png" alt="Qello Concerts" width="120"> | Qello Concerts | 156 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458ca8827684c477680a0d9.png" alt="Trace Urban" width="120"> | Trace Urban | 157 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png" alt="Trace Latina" width="120"> | Trace Latina | 158 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png" alt="Trace Brasil" width="120"> | Trace Brasil | 159 |
@@ -157,6 +160,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" alt="Canal 24 horas" width="120"> | Canal 24 horas | 200 |
 | <img src="https://media.tvup.cloud/canales/color_lg_60dab53deb84d1001aa69c13.png" alt="Negocios TV" width="120"> | Negocios TV | 201 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png" alt="3CatInfo" width="120"> | 3CatInfo | 202 |
+| <img src="https://media.tvup.cloud/canales/color_lg_643d2785f5716200225c35bf.png" alt="El País" width="120"> | El País | 203 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png" alt="El Toro TV" width="120"> | El Toro TV | 204 |
 | <img src="https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png" alt="El Confidencial" width="120"> | El Confidencial | 205 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png" alt="Canal Parlamento" width="120"> | Canal Parlamento | 207 |
