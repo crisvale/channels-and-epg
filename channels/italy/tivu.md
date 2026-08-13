@@ -6,6 +6,8 @@
 | <img src="https://services.tivulaguida.it/uploads/channel/582c6fa76c14905c004c3c8ca1c3ec66f973daf6.png" alt="Rai 2 HD" width="120"> | Rai 2 HD | 2 |
 | <img src="https://services.tivulaguida.it/uploads/channel/7361e4b61e3d68f0ae98ddbc1940a4514a8655b8.png" alt="Rai 3 HD" width="120"> | Rai 3 HD | 3 |
 | <img src="https://services.tivulaguida.it/uploads/channel/e1795d225ff2b9751f56a3bb4bd3a01f3938895f.png" alt="Rete 4 HD" width="120"> | Rete 4 HD | 4 |
+| <img src="https://services.tivulaguida.it/uploads/channel/93d2cfab028e959fb827c63096c2a7625300ea4f.png" alt="Canale 5 HD" width="120"> | Canale 5 HD | 5 |
+| <img src="https://services.tivulaguida.it/uploads/channel/6242fadef6be0f1d87d166ee36673bcdd7818d13.png" alt="Italia 1 HD" width="120"> | Italia 1 HD | 6 |
 | <img src="https://services.tivulaguida.it/uploads/channel/fac6777fc66cb5d347a16b0888558b78e00703f8.png" alt="La7 HD" width="120"> | La7 HD | 7 |
 | <img src="https://services.tivulaguida.it/uploads/channel/4e6eb31f261d5426fc7cb17306d3a130f9869e1c.png" alt="TV8 HD" width="120"> | TV8 HD | 8 |
 | <img src="https://services.tivulaguida.it/uploads/channel/141bbb9c3fe1342a094ba4b503c8f3550bb8fae5.png" alt="NOVE HD" width="120"> | NOVE HD | 9 |
