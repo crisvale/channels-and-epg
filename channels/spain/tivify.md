@@ -12,7 +12,6 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png" alt="Canal Sur" width="120"> | Canal Sur | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png" alt="CMM TV" width="120"> | CMM TV | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png" alt="ETB2" width="120"> | ETB2 | 7 |
 | <img src="https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png" alt="IB3" width="120"> | IB3 | 7 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png" alt="Telemadrid" width="120"> | Telemadrid | 7 |
