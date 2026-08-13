@@ -69,6 +69,7 @@
 | - | TLC | 133 |
 | - | RTÉ R na G | 0134 |
 | - | S4C | 134 |
+| - | S4C HD | 134 |
 | - | E4 HD | 135 |
 | - | EWTN Catholic | 0135 |
 | - | BFBS Radio | 0136 |
@@ -157,12 +158,14 @@
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
 | - | Sky Greats HD | 307 |
+| - | Sky Comedy HD | 308 |
 | - | Sky Thriller HD | 309 |
 | - | Sky Drama HD | 310 |
 | - | Sky ScFi/HorHD | 311 |
 | - | Movies24 | 312 |
 | - | Film4 HD | 313 |
 | - | Film4+1 | 314 |
+| - | Movies24+ | 315 |
 | - | LEGEND XTRA | 316 |
 | - | LEGEND XTRA+1 | 317 |
 | - | Great! Action | 318 |
@@ -225,6 +228,7 @@
 | - | TBN UK | 582 |
 | - | DAYSTAR HD | 583 |
 | - | LoveWorld HD | 585 |
+| - | EWTN Catholic | 586 |
 | - | Faith World TV | 588 |
 | - | Dunamis TV | 592 |
 | - | SonLife | 593 |
@@ -244,6 +248,9 @@
 | - | Nickelodeon+1 | 615 |
 | - | Nick Jr+1 | 619 |
 | - | BabyTV | 623 |
+| - | Cartoon Netwrk | 640 |
+| - | Nickelodeon | 642 |
+| - | Nick Jr. | 645 |
 | - | QVC HD | 660 |
 | - | MstHveIdeasHD | 661 |
 | - | TJC HD | 662 |
@@ -316,6 +323,39 @@
 | - | SkyNewsArabia | 788 |
 | - | PCNE Chinese HD | 789 |
 | - | ColorsGujarati | 790 |
+| - | Sky One | 806 |
+| - | Sky Witness | 807 |
+| - | Sky Atlantic | 808 |
+| - | U&amp;Alibi | 809 |
+| - | U&amp;Gold | 810 |
+| - | U&amp;Dave | 811 |
+| - | ComedyCentral | 812 |
+| - | Sky Comedy | 813 |
+| - | SkyDocumntrs | 814 |
+| - | Sky Crime | 819 |
+| - | Sky Arts | 820 |
+| - | Sky History | 821 |
+| - | Sky Nature | 822 |
+| - | Discovery | 823 |
+| - | MTV | 824 |
+| - | Nat Geo | 825 |
+| - | TLC HD | 828 |
+| - | E4 | 830 |
+| - | More4 | 831 |
+| - | Sky Sci-Fi | 836 |
+| - | Crime+Inv | 837 |
+| - | Nat Geo Wild | 841 |
+| - | Film4 | 855 |
+| - | SkySp News | 867 |
+| - | SkySp Mix | 873 |
+| - | Sky News | 881 |
+| - | TRT World HD | 886 |
+| - | SONY TV | 892 |
+| - | Utsav Plus | 893 |
+| - | COLORS | 894 |
+| - | SONY MAX | 895 |
+| - | Utsav Gold | 896 |
+| - | Zee TV | 898 |
 | - | BBC One NE HD | 952 |
 | - | BBC One NW HD | 953 |
 | - | BBC One Yks HD | 954 |
