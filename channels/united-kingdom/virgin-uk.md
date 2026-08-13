@@ -72,6 +72,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/pbs.png" alt="PBS America" width="120"> | PBS America | 187 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/god-tv.png" alt="GOD TV" width="120"> | GOD TV | 192 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 243 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 244 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-70s.png" alt="NOW 70s" width="120"> | NOW 70s | 285 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-80s.png" alt="NOW 80s" width="120"> | NOW 80s | 286 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-90s-00s.png" alt="NOW 90s &amp; 00s" width="120"> | NOW 90s &amp; 00s | 287 |
@@ -114,10 +115,12 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-greats-hd.png" alt="Sky Greats HD" width="120"> | Sky Greats HD | 404 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-family-hd.png" alt="Sky Family HD" width="120"> | Sky Family HD | 406 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-action-hd.png" alt="Sky Action HD" width="120"> | Sky Action HD | 407 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-comedy-hd.png" alt="Sky Comedy HD" width="120"> | Sky Comedy HD | 408 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-thriller-hd.png" alt="Sky Thriller HD" width="120"> | Sky Thriller HD | 409 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-drama-hd.png" alt="Sky Drama HD" width="120"> | Sky Drama HD | 410 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-scifi-horror-hd.png" alt="SkySciFi &amp; Hor HD" width="120"> | SkySciFi &amp; Hor HD | 411 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/movies-24.png" alt="Movies 24" width="120"> | Movies 24 | 419 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/movies-24-plus.png" alt="Movies 24+" width="120"> | Movies 24+ | 420 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/great-romance.png" alt="GREAT! Romance" width="120"> | GREAT! Romance | 424 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/great-mystery.png" alt="GREAT! mystery" width="120"> | GREAT! mystery | 425 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/great-action.png" alt="GREAT! action" width="120"> | GREAT! action | 426 |
@@ -149,6 +152,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/premier-sports-2.png" alt="Premier Sports 2" width="120"> | Premier Sports 2 | 529 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/premier-sports-rugby.png" alt="Premier Sports Rugby" width="120"> | Premier Sports Rugby | 530 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/racing-tv.png" alt="Racing TV" width="120"> | Racing TV | 536 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 541 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/mutv.png" alt="MUTV" width="120"> | MUTV | 550 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/liverpool-fc-tv-hd.png" alt="Liverpool FC TV" width="120"> | Liverpool FC TV | 551 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-news-hd.png" alt="BBC NEWS HD" width="120"> | BBC NEWS HD | 601 |
@@ -203,7 +207,9 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/colors-cineplex.png" alt="Colors Cineplex" width="120"> | Colors Cineplex | 828 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/aljazeera.png" alt="Al Jazeera Arabic" width="120"> | Al Jazeera Arabic | 831 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/islam-channel-english.png" alt="Islam Channel English" width="120"> | Islam Channel English | 838 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-one-london-hd.png" alt="BBC ONE London HD" width="120"> | BBC ONE London HD | 861 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-one-hd-scotland.png" alt="BBC ONE Scotland HD" width="120"> | BBC ONE Scotland HD | 862 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-one-hd-north-ireland.png" alt="BBC ONE NI HD" width="120"> | BBC ONE NI HD | 863 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-one-hd-wales.png" alt="BBC ONE Wales HD" width="120"> | BBC ONE Wales HD | 864 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-two-hd.png" alt="BBC TWO HD" width="120"> | BBC TWO HD | 865 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/vtv-whats-on.png" alt="Virgin TV Highlights" width="120"> | Virgin TV Highlights | 998 |
