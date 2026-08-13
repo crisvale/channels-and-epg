@@ -75,6 +75,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20839/ncplus-ouah/CHN43FB/1200x900_filmbox_action-5sjT" alt="FILMBOX+ action" width="120"> | FILMBOX+ action | 82 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20744/ncplus-ouah/CHN43FB/1200x900_filmbox_comedy-u2IF" alt="FILMBOX+ comedy" width="120"> | FILMBOX+ comedy | 83 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20961/ncplus-ouah/CHN43FB/1200x900_filmbox_festival--t5v" alt="FILMBOX+ festival" width="120"> | FILMBOX+ festival | 84 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20683/ncplus-ouah/CHN43FB/1200x900_c_now-OP2h" alt="CANAL+ NOW" width="120"> | CANAL+ NOW | 91 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20861/ncplus-ouah/CHN43FB/tvprozrywkalogo" alt="TVP ROZRYWKA" width="120"> | TVP ROZRYWKA | 92 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20316/ncplus-ouah/CHN43FB/logo2-PKWk" alt="TVP KULTURA" width="120"> | TVP KULTURA | 93 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20556/ncplus-ouah/CHN43FB/TVP_HD_logo.svg-qcM2" alt="TVP HD" width="120"> | TVP HD | 94 |
@@ -237,7 +238,10 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22044/ncplus-ouah/CHN43FB/T4_1000-1000" alt="Program 4" width="120"> | Program 4 | 713 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22045/ncplus-ouah/CHN43FB/T5_1000-1000" alt="Program 5" width="120"> | Program 5 | 714 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22046/ncplus-ouah/CHN43FB/T6_1000-1000" alt="Program 6" width="120"> | Program 6 | 715 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22376/ncplus-ouah/CHN43FB/polsat-logotyp-przezroczysty-1Kal" alt="Polsat" width="120"> | Polsat | 716 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22377/ncplus-ouah/CHN43FB/pulse2-hDzy-U3eV" alt="PULS" width="120"> | PULS | 717 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22378/ncplus-ouah/CHN43FB/tv4-AcjC-j_h_" alt="TV4" width="120"> | TV4 | 718 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22379/ncplus-ouah/CHN43FB/zoom_reformats284x184-5tfh" alt="Zoom TV" width="120"> | Zoom TV | 719 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22380/ncplus-ouah/CHN43FB/stopklatkafb-BiqM" alt="Stopklatka TV" width="120"> | Stopklatka TV | 720 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21925/ncplus-ouah/CHN43FB/1200x900_c_now-mt_3" alt="Canal+ Now" width="120"> | Canal+ Now | 721 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22363/ncplus-ouah/CHN43FB/TEST7-uZda" alt="Program 7" width="120"> | Program 7 | 722 |
