@@ -64,7 +64,16 @@
 | <img src="https://guidatv.sky.it/logo/261milantv_Dark_Fit.png?checksum=5fd4db7c2105183d1684cb388d3e9a3f" alt="Milan TV" width="120"> | Milan TV | 230 |
 | <img src="https://guidatv.sky.it/logo/487intertv_Dark_Fit.png?checksum=bb975964a81a33784cd85d6089e6a634" alt="Inter TV" width="120"> | Inter TV | 232 |
 | <img src="https://guidatv.sky.it/logo/344cacciaepesca_Dark_Fit.png?checksum=153baa96e7093a68e7ee601279bdb7b1" alt="CACCIA e Pesca" width="120"> | CACCIA e Pesca | 235 |
+| <img src="https://guidatv.sky.it/logo/350cacciaepesca_Dark_Fit.png?checksum=6638cdb0a1ba833182e4f5987048b3f8" alt="Caccia e PESCA" width="120"> | Caccia e PESCA | 236 |
 | <img src="https://guidatv.sky.it/logo/917skysport_Dark_Fit.png?checksum=5b1ad201-03b6-4a88-bdd3-eda9e3cead6a" alt="Sky Sport" width="120"> | Sky Sport | 251 |
+| <img src="https://guidatv.sky.it/logo/951skysport_Dark_Fit.png?checksum=3ae492a2-cc17-4c0e-a40f-b4ed73b6761d" alt="Sky Sport" width="120"> | Sky Sport | 252 |
+| <img src="https://guidatv.sky.it/logo/233233_Dark_Fit.png?checksum=80e6da20-c7d0-46ce-99cf-26be73c1a781" alt="Sky Sport" width="120"> | Sky Sport | 253 |
+| <img src="https://guidatv.sky.it/logo/234skysport_Dark_Fit.png?checksum=adbe075a-954b-4d6c-a938-571e3008491e" alt="Sky Sport" width="120"> | Sky Sport | 254 |
+| <img src="https://guidatv.sky.it/logo/910skysport_Dark_Fit.png?checksum=81ea4c26-4c01-467f-a7c1-5c30e6bfbc6f" alt="Sky Sport" width="120"> | Sky Sport | 255 |
+| <img src="https://guidatv.sky.it/logo/912skysport_Dark_Fit.png?checksum=6f69fe01-457c-45ac-bb6e-3c21a4be2f7f" alt="Sky Sport" width="120"> | Sky Sport | 256 |
+| <img src="https://guidatv.sky.it/logo/775skysport_Dark_Fit.png?checksum=abd03636-41d5-4df0-b031-c536f23192a1" alt="Sky Sport" width="120"> | Sky Sport | 257 |
+| <img src="https://guidatv.sky.it/logo/772skysport_Dark_Fit.png?checksum=d0c93561-9994-490d-878b-57a6d673d9ce" alt="Sky Sport" width="120"> | Sky Sport | 258 |
+| <img src="https://guidatv.sky.it/logo/613skysport_Dark_Fit.png?checksum=3ce7cc28-34ea-4d9d-9c0a-40a4bac90fa5" alt="Sky Sport" width="120"> | Sky Sport | 259 |
 | <img src="https://guidatv.sky.it/logo/615skycalcio10_Dark_Fit.png" alt="Sky Calcio 10" width="120"> | Sky Calcio 10 | 260 |
 | <img src="https://guidatv.sky.it/logo/617skycalcio11_Dark_Fit.png" alt="Sky Calcio 11" width="120"> | Sky Calcio 11 | 261 |
 | <img src="https://guidatv.sky.it/logo/202skycinemauno_Dark_Fit.png?checksum=8a5e7998-b741-4dcc-ace9-bb87c429c469" alt="Sky Cinema Uno" width="120"> | Sky Cinema Uno | 301 |
@@ -79,7 +88,14 @@
 | <img src="https://guidatv.sky.it/logo/224skycinemauno24_Dark_Fit.png?checksum=bd2aa3ca-7f86-4585-a0b8-d80d3623418d" alt="Sky Cinema Uno +24" width="120"> | Sky Cinema Uno +24 | 310 |
 | <img src="https://guidatv.sky.it/logo/5436irishd_Dark_Fit.png?checksum=dd860730-a67a-4841-adf8-0ad22cf62054" alt="Iris HD" width="120"> | Iris HD | 325 |
 | <img src="https://guidatv.sky.it/logo/5481cine34hd_Dark_Fit.png?checksum=287c5762-90e6-4bc5-9753-13524cb674bf" alt="Cine34 HD" width="120"> | Cine34 HD | 327 |
+| <img src="https://guidatv.sky.it/logo/75skyarte_Dark_Fit.png?checksum=4ed9431f-34e1-4843-a8b7-375e8dd91e57" alt="Sky Arte" width="120"> | Sky Arte | 400 |
+| <img src="https://guidatv.sky.it/logo/698skydocumentaries_Dark_Fit.png?checksum=2b559be9-2ae6-48ae-b0cd-2ba8ff999bd5" alt="Sky Documentaries" width="120"> | Sky Documentaries | 402 |
+| <img src="https://guidatv.sky.it/logo/934skydocumentaries1hd_Dark_Fit.png?checksum=124da1e4-c644-481e-9184-b35553bbc2f0" alt="Sky Documentaries +1 HD" width="120"> | Sky Documentaries +1 HD | 403 |
+| <img src="https://guidatv.sky.it/logo/710skynature_Dark_Fit.png?checksum=488dcb7b-46c7-415b-a47b-f1ecbbf9adff" alt="Sky Nature" width="120"> | Sky Nature | 404 |
+| <img src="https://guidatv.sky.it/logo/128skycrime_Dark_Fit.png?checksum=71fa0f4e-e982-440b-9682-f95ee2342cc8" alt="Sky Crime" width="120"> | Sky Crime | 405 |
+| <img src="https://guidatv.sky.it/logo/962skyadventure_Dark_Fit.png?checksum=2f25309d-a7b6-48a7-b156-c5ffce9d9418" alt="Sky Adventure" width="120"> | Sky Adventure | 407 |
 | <img src="https://guidatv.sky.it/logo/513history_Dark_Fit.png?checksum=e13f1942-1f18-4256-8bb1-fc73a1b98c36" alt="History" width="120"> | History | 409 |
+| <img src="https://guidatv.sky.it/logo/228gamberorossohd_Dark_Fit.png?checksum=b62c411c1a166b2f10cf1e4639ac31a0" alt="Gambero Rosso HD" width="120"> | Gambero Rosso HD | 415 |
 | <img src="https://guidatv.sky.it/logo/5447focushd_Dark_Fit.png?checksum=4033b2db-53ba-4015-be04-fa76cad3a195" alt="Focus HD" width="120"> | Focus HD | 416 |
 | <img src="https://guidatv.sky.it/logo/722foodnetworkhd_Dark_Fit.png?checksum=ad349263c802fa2f2a3815f96c1da266" alt="Food Network HD" width="120"> | Food Network HD | 417 |
 | <img src="https://guidatv.sky.it/logo/4334hgtvhd_Dark_Fit.png" alt="HGTV HD" width="120"> | HGTV HD | 418 |
@@ -114,6 +130,7 @@
 | <img src="https://guidatv.sky.it/logo/421super_Dark_Fit.png?checksum=094c8813-fdae-4962-a4bd-e2f01acbc79a" alt="Super!" width="120"> | Super! | 625 |
 | <img src="https://guidatv.sky.it/logo/466k2_Dark_Fit.png?checksum=a270a174199274e37b779bddc20d9e2c" alt="K2" width="120"> | K2 | 626 |
 | <img src="https://guidatv.sky.it/logo/418frisbee_Dark_Fit.png" alt="Frisbee" width="120"> | Frisbee | 627 |
+| <img src="https://guidatv.sky.it/logo/428mtvmusic_Dark_Fit.png?checksum=45c6d0879889ea6beaf733b7a0062286" alt="MTV Music" width="120"> | MTV Music | 704 |
 | <img src="https://guidatv.sky.it/logo/304deejaytv_Dark_Fit.png?checksum=f2afc01361fba95c375eeff83abd8014" alt="Deejay TV" width="120"> | Deejay TV | 714 |
 | <img src="https://guidatv.sky.it/logo/5415radiomontecarlo_Dark_Fit.png?checksum=ccbf468d612272fa90432896c46737bd" alt="Radio Monte Carlo" width="120"> | Radio Monte Carlo | 716 |
 | <img src="https://guidatv.sky.it/logo/5426virginradio_Dark_Fit.png?checksum=cc546229-d2f5-4e6e-ae1f-ce7e54d7618f" alt="Virgin Radio" width="120"> | Virgin Radio | 717 |
@@ -126,6 +143,7 @@
 | <img src="https://guidatv.sky.it/logo/9019rai5_Dark_Fit.png?checksum=e44a0f01f202cb78f4af4261c8c262e4" alt="Rai 5" width="120"> | Rai 5 | 5023 |
 | <img src="https://guidatv.sky.it/logo/9018raimovie_Dark_Fit.png?checksum=fc1399345bfd0b6144b1025a298ad2c5" alt="Rai Movie" width="120"> | Rai Movie | 5024 |
 | <img src="https://guidatv.sky.it/logo/9020raipremium_Dark_Fit.png?checksum=14d382dfc7f0b3709557011ad75edd72" alt="Rai Premium" width="120"> | Rai Premium | 5025 |
+| <img src="https://guidatv.sky.it/logo/9024la7cinema_Dark_Fit.png?checksum=26ded6ad-c86f-4b20-ad2f-a416e9b8596d" alt="LA7CINEMA" width="120"> | LA7CINEMA | 5029 |
 | <img src="https://guidatv.sky.it/logo/9014boing_Dark_Fit.png?checksum=c4d0b12b8755d08c5d817e5e5ea045d7" alt="Boing" width="120"> | Boing | 5040 |
 | <img src="https://guidatv.sky.it/logo/9038raigulp_Dark_Fit.png?checksum=4ee1f93ceb93dba9b8d821861bb7e6d1" alt="Rai Gulp" width="120"> | Rai Gulp | 5042 |
 | <img src="https://guidatv.sky.it/logo/9016raiyoyo_Dark_Fit.png?checksum=b5bfdd4eddc3c172c60c9b5802885729" alt="Rai Yoyo" width="120"> | Rai Yoyo | 5043 |
