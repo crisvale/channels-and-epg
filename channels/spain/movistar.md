@@ -180,3 +180,8 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIUHD.png" alt="M+ LALIGA 2 HDR" width="120"> | M+ LALIGA 2 HDR | 441 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/POPUHD.png" alt="M+ Wimbledon UHD" width="120"> | M+ Wimbledon UHD | 444 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" alt="M+ LALIGA 3" width="120"> | M+ LALIGA 3 | 450 |
+| - | LALIGA TV BAR | - |
+| - | LALIGA TV BAR 2 | - |
+| - | LALIGA TV BAR 3 | - |
+| - | LALIGA TV BAR 4 | - |
+| - | M+ Vamos BAR | - |
