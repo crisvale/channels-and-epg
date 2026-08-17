@@ -20,7 +20,7 @@ Each country has a single XMLTV file combining all supported operators.
 
 | Country | File | Channels | Operators |
 | --- | --- | ---: | --- |
-| France | `epg/france.xml.gz` | 659 | Canal+, Orange, SFR |
+| France | `epg/france.xml.gz` | 955 | Canal+, Orange, SFR, Free |
 | United Kingdom | `epg/united-kingdom.xml.gz` | 535 | Freeview, Freesat, Sky UK, Virgin TV Go |
 | Germany | `epg/germany.xml.gz` | 490 | Magenta TV, Sky DE |
 | Congo | `epg/congo.xml.gz` | 355 | Canal+ Congo |
@@ -84,10 +84,11 @@ channels/spain/agiletv-r.md           channels/france/canalplus.md
 channels/spain/agiletv-telecable.md   channels/france/orange-fr.md
 channels/spain/agiletv-simple.md      channels/france/sfr.md
 channels/spain/agiletv-euskaltel.md   channels/portugal/meo.md
-channels/germany/magenta-de.md        channels/portugal/nos.md
-channels/germany/sky-de.md            channels/congo/canalplus-cg.md
-channels/italy/raiplay.md             channels/poland/canalplus-pl.md
-channels/italy/sky-it.md              channels/poland/polsat.md
+channels/france/free.md               channels/portugal/nos.md
+channels/germany/magenta-de.md        channels/congo/canalplus-cg.md
+channels/germany/sky-de.md            channels/poland/canalplus-pl.md
+channels/italy/raiplay.md             channels/poland/polsat.md
+channels/italy/sky-it.md
 ```
 
 ## Update Schedule
