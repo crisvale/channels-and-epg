@@ -22,7 +22,7 @@ Each country has a single XMLTV file combining all supported operators.
 | --- | --- | ---: | --- |
 | France | `epg/france.xml.gz` | 955 | Canal+, Orange, SFR, Free |
 | United Kingdom | `epg/united-kingdom.xml.gz` | 535 | Freeview, Freesat, Sky UK, Virgin TV Go |
-| Germany | `epg/germany.xml.gz` | 490 | Magenta TV, Sky DE |
+| Germany | `epg/germany.xml.gz` | 731 | Magenta TV, Sky DE, waipu.tv |
 | Congo | `epg/congo.xml.gz` | 355 | Canal+ Congo |
 | Spain | `epg/spain.xml.gz` | 540 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
@@ -87,7 +87,8 @@ channels/spain/agiletv-euskaltel.md   channels/portugal/meo.md
 channels/france/free.md               channels/portugal/nos.md
 channels/germany/magenta-de.md        channels/congo/canalplus-cg.md
 channels/germany/sky-de.md            channels/poland/canalplus-pl.md
-channels/italy/raiplay.md             channels/poland/polsat.md
+channels/germany/waipu.md             channels/poland/polsat.md
+channels/italy/raiplay.md
 channels/italy/sky-it.md
 ```
 
