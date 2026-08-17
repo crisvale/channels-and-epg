@@ -104,7 +104,9 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_176x122.png" alt="M Liga de Campeones" width="120"> | M Liga de Campeones | 115 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_2_176x122.png" alt="M Liga de Campeones 2" width="120"> | M Liga de Campeones 2 | 117 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_5_176x122.png" alt="DAZN MUNDIAL 5" width="120"> | DAZN MUNDIAL 5 | 118 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_3_176x122.png" alt="M Liga de Campeones 3" width="120"> | M Liga de Campeones 3 | 118 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_MUNDIAL_6_176x122.png" alt="DAZN MUNDIAL 6" width="120"> | DAZN MUNDIAL 6 | 119 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_4_176x122.png" alt="M Liga de Campeones 4" width="120"> | M Liga de Campeones 4 | 119 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/LALIGA_HYPERMOTION_176x122.png" alt="LALIGATV HYPERMOTION" width="120"> | LALIGATV HYPERMOTION | 120 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LALIGA_6_COLOR_176x122.png" alt="M LALIGA 6" width="120"> | M LALIGA 6 | 120 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_LALIGA_3_176x122.png" alt="DAZN LALIGA 3" width="120"> | DAZN LALIGA 3 | 121 |
@@ -115,9 +117,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/PRIMERA_FED_26_27_176x122.png" alt="LaLiga PrimeraREF" width="120"> | LaLiga PrimeraREF | 125 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_176x122.png" alt="DAZN Baloncesto" width="120"> | DAZN Baloncesto | 126 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_2_176x122.png" alt="DAZN Baloncesto 2" width="120"> | DAZN Baloncesto 2 | 127 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_3_176x122.png" alt="M Liga de Campeones 3" width="120"> | M Liga de Campeones 3 | 127 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/DAZN_BALONCESTO_3_176x122.png" alt="DAZN Baloncesto 3" width="120"> | DAZN Baloncesto 3 | 128 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_4_176x122.png" alt="M Liga de Campeones 4" width="120"> | M Liga de Campeones 4 | 128 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/MOVISTAR_LIGA_DE_CAMPEONES_5_176x122.png" alt="M Liga de Campeones 5" width="120"> | M Liga de Campeones 5 | 129 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUGBY_SPAIN_WHITE_176x122.png" alt="Rugby Challenge Spain" width="120"> | Rugby Challenge Spain | 130 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TENNIS_CHANNEL_176x122.png" alt="Tennis Channel" width="120"> | Tennis Channel | 131 |
