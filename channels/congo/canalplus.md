@@ -1,4 +1,4 @@
-# Canal+ CG
+# Canal+ Congo
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
