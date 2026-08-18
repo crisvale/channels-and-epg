@@ -1,4 +1,4 @@
-# Orange France
+# Orange
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
