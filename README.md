@@ -92,12 +92,6 @@ channels/italy/raiplay.md
 channels/italy/sky.md
 ```
 
-Filenames drop a provider's country suffix once it is nested under that
-country's own folder (`sky-de.md`/`sky-it.md`/`sky-uk.md` all become
-`sky.md`, `canalplus-cg.md`/`canalplus-pl.md` both become `canalplus.md`):
-the suffix only ever existed to tell them apart when every catalog shared one
-flat folder.
-
 ## Update Schedule
 
 All times are in Europe/Madrid.
