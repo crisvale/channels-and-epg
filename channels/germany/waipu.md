@@ -1,4 +1,4 @@
-# waipu
+# waipu.tv
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
