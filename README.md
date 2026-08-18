@@ -21,13 +21,13 @@ Each country has a single XMLTV file combining all supported operators.
 | Country | File | Channels | Operators |
 | --- | --- | ---: | --- |
 | France | `epg/france.xml.gz` | 955 | Canal+, Orange, SFR, Free |
-| United Kingdom | `epg/united-kingdom.xml.gz` | 535 | Freeview, Freesat, Sky UK, Virgin TV Go |
+| United Kingdom | `epg/united-kingdom.xml.gz` | 557 | Freeview, Freesat, Sky UK, Virgin TV Go, EE TV |
 | Germany | `epg/germany.xml.gz` | 731 | Magenta TV, Sky DE, waipu.tv |
 | Congo | `epg/congo.xml.gz` | 355 | Canal+ Congo |
 | Spain | `epg/spain.xml.gz` | 540 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 256 | MEO, NOS |
-| Italy | `epg/italy.xml.gz` | 161 | Sky IT, RaiPlay, Tivu |
+| Italy | `epg/italy.xml.gz` | 161 | Sky IT, RaiPlay, Tivu, Mediaset |
 
 - Coverage: **7 days of programming**
 - Format: XMLTV (`.xml.gz`)
@@ -76,20 +76,20 @@ Per-operator channel listings are provided in Markdown format.
 
 ```text
 channels/spain/atresplayer.md         channels/italy/tivu.md
-channels/spain/movistar.md            channels/united-kingdom/freesat.md
-channels/spain/orange.md              channels/united-kingdom/freeview.md
-channels/spain/rtve.md                channels/united-kingdom/sky.md
-channels/spain/tivify.md              channels/united-kingdom/virgin.md
-channels/spain/agiletv-r.md           channels/france/canalplus.md
-channels/spain/agiletv-telecable.md   channels/france/orange.md
-channels/spain/agiletv-simple.md      channels/france/sfr.md
-channels/spain/agiletv-euskaltel.md   channels/portugal/meo.md
-channels/france/free.md               channels/portugal/nos.md
-channels/germany/magenta.md           channels/congo/canalplus.md
-channels/germany/sky.md               channels/poland/canalplus.md
-channels/germany/waipu.md             channels/poland/polsat.md
-channels/italy/raiplay.md
-channels/italy/sky.md
+channels/spain/movistar.md            channels/italy/mediaset.md
+channels/spain/orange.md              channels/united-kingdom/freesat.md
+channels/spain/rtve.md                channels/united-kingdom/freeview.md
+channels/spain/tivify.md              channels/united-kingdom/sky.md
+channels/spain/agiletv-r.md           channels/united-kingdom/virgin.md
+channels/spain/agiletv-telecable.md   channels/united-kingdom/eetv.md
+channels/spain/agiletv-simple.md      channels/france/canalplus.md
+channels/spain/agiletv-euskaltel.md   channels/france/orange.md
+channels/france/free.md               channels/france/sfr.md
+channels/germany/magenta.md           channels/portugal/meo.md
+channels/germany/sky.md               channels/portugal/nos.md
+channels/germany/waipu.md             channels/congo/canalplus.md
+channels/italy/raiplay.md             channels/poland/canalplus.md
+channels/italy/sky.md                 channels/poland/polsat.md
 ```
 
 ## Update Schedule
