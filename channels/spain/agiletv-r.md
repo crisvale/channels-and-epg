@@ -1,4 +1,4 @@
-# AgileTV R
+# AgileTV (R)
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
