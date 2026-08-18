@@ -1,4 +1,4 @@
-# Magenta DE
+# Magenta TV
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
