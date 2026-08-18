@@ -78,19 +78,25 @@ Per-operator channel listings are provided in Markdown format.
 channels/spain/atresplayer.md         channels/italy/tivu.md
 channels/spain/movistar.md            channels/united-kingdom/freesat.md
 channels/spain/orange.md              channels/united-kingdom/freeview.md
-channels/spain/rtve.md                channels/united-kingdom/sky-uk.md
-channels/spain/tivify.md              channels/united-kingdom/virgin-uk.md
+channels/spain/rtve.md                channels/united-kingdom/sky.md
+channels/spain/tivify.md              channels/united-kingdom/virgin.md
 channels/spain/agiletv-r.md           channels/france/canalplus.md
-channels/spain/agiletv-telecable.md   channels/france/orange-fr.md
+channels/spain/agiletv-telecable.md   channels/france/orange.md
 channels/spain/agiletv-simple.md      channels/france/sfr.md
 channels/spain/agiletv-euskaltel.md   channels/portugal/meo.md
 channels/france/free.md               channels/portugal/nos.md
-channels/germany/magenta-de.md        channels/congo/canalplus-cg.md
-channels/germany/sky-de.md            channels/poland/canalplus-pl.md
+channels/germany/magenta.md           channels/congo/canalplus.md
+channels/germany/sky.md               channels/poland/canalplus.md
 channels/germany/waipu.md             channels/poland/polsat.md
 channels/italy/raiplay.md
-channels/italy/sky-it.md
+channels/italy/sky.md
 ```
+
+Filenames drop a provider's country suffix once it is nested under that
+country's own folder (`sky-de.md`/`sky-it.md`/`sky-uk.md` all become
+`sky.md`, `canalplus-cg.md`/`canalplus-pl.md` both become `canalplus.md`):
+the suffix only ever existed to tell them apart when every catalog shared one
+flat folder.
 
 ## Update Schedule
 
