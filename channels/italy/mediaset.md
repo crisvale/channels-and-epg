@@ -2,16 +2,18 @@
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
-| - | 20 Mediaset | - |
-| - | Boing | - |
-| - | Canale 5 | - |
-| - | Cartoonito | - |
-| - | Focus | - |
-| - | Iris | - |
-| - | Italia 1 | - |
-| - | Italia 2 | - |
-| - | La5 | - |
-| - | Mediaset Extra | - |
-| - | Rete 4 | - |
-| - | TGCom24 | - |
-| - | Top Crime | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMi8wNS8wOS8xNDEzMzg4ODMtOGNjNGVmY2ItODU4ZC00NWIyLWFjNjYtMTE3NTgzNDZkNzQ1LnBuZw/editorial_image_channel_logo/128/128" alt="20 Mediaset" width="120"> | 20 Mediaset | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzIyMTg3OTItYWY1Y2UzYTItMDI1My00MTVlLTgzMGQtNGMzMjg2MzI4ZmYyLnBuZw/editorial_image_channel_logo/128/128" alt="Boing" width="120"> | Boing | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjU0NTkzNTgtNmFlNGJkYWQtMDhkYS00YjQyLTg2MjgtZTQ5MTU2YTBhZjdlLnBuZw/editorial_image_channel_logo/128/128" alt="Canale 5" width="120"> | Canale 5 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMi8wNi8xNS8xMzExNDc2NTUtZWFlNjEyNjAtZTUyMy00NmZiLWJhNTEtYmIwMjc3ZTNiMDZiLnBuZw/editorial_image_channel_logo/128/128" alt="Cartoonito" width="120"> | Cartoonito | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzA5MDU5MjEtMmJmZWUyOWYtNjI3Mi00Zjc3LWI2MzEtNzIyMzk1MDIyM2RhLnBuZw/editorial_image_channel_logo/128/128" alt="Cine34" width="120"> | Cine34 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzE2Mzc3NDItNjIxODU5ZGQtNTYwYy00YzhhLWI4MDAtOTNjMWI1MDg5YjkxLnBuZw/editorial_image_channel_logo/128/128" alt="Focus" width="120"> | Focus | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzIwMTMwODAtNmZhMmYyN2EtMmExZi00M2U5LTg2ZDAtZWJlMjRlMDkzZmZlLnBuZw/editorial_image_channel_logo/128/128" alt="Iris" width="120"> | Iris | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNjUwMjI4ODctMTMzMzY2M2QtYzRjMi00MTE1LWE3ZDAtMTNjYzE2ZWVlNmM4LnBuZw/editorial_image_channel_logo/128/128" alt="Italia 1" width="120"> | Italia 1 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzA1MTk0ODgtMDJkNTBkNjUtY2M1Zi00MzJlLWFjZjUtODMyODhjM2E5M2FlLnBuZw/editorial_image_channel_logo/128/128" alt="Italia 2" width="120"> | Italia 2 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzA2MjYyODItZDhmZWYxNTktNWVkYy00OWNiLWE0NjMtMTQ4OWQ0NGQ2NjM5LnBuZw/editorial_image_channel_logo/128/128" alt="La 5" width="120"> | La 5 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzExNTI0NTUtY2Q5NGViYzEtNmZmNi00NjhiLTk4N2ItODdmNmIzZTQxMzI1LnBuZw/editorial_image_channel_logo/128/128" alt="Mediaset Extra" width="120"> | Mediaset Extra | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzE0NDY0MTktMGZiY2Q4YjAtYWE5My00M2FkLTkxMjItMTFlYWI5MThhNjkyLnBuZw/editorial_image_channel_logo/128/128" alt="Rete 4" width="120"> | Rete 4 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzI3MTgwNTUtMWFjZTRhMzItMmRlZC00NWJkLWI1NDUtYTAyNjkxZGI1MGU4LnBuZw/editorial_image_channel_logo/128/128" alt="TGCOM24" width="120"> | TGCOM24 | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMS8wMy8zMC8xNzE4MTA1NzUtY2JjZTcwZGMtZGRjYy00M2UzLTg1YzctZDY4NWQ2NGUyY2RkLnBuZw/editorial_image_channel_logo/128/128" alt="Top Crime" width="120"> | Top Crime | - |
+| <img src="https://img-prod-api2.mediasetplay.mediaset.it/api/images/cu/v3/aHR0cHM6Ly9zdGF0aWMyLm1lZGlhc2V0cGxheS5tZWRpYXNldC5pdC9tYW0vMjAyMi8wMS8xNC8xMzM0NDkyNTktMWM1Y2QzYWUtZjc1ZC00MGIyLTlhZWUtODgxNzJiYmViMTBmLnBuZw/editorial_image_channel_logo/128/128" alt="TwentySeven" width="120"> | TwentySeven | - |
