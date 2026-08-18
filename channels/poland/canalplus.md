@@ -1,4 +1,4 @@
-# Canal+ PL
+# Canal+ Poland
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
