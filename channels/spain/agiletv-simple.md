@@ -1,4 +1,4 @@
-# AgileTV SIMple
+# AgileTV (SIMple)
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
