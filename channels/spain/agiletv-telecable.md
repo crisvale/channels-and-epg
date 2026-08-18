@@ -1,4 +1,4 @@
-# AgileTV Telecable
+# AgileTV (Telecable)
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
