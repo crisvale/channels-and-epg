@@ -1,4 +1,4 @@
-# AgileTV Euskaltel
+# AgileTV (Euskaltel)
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
