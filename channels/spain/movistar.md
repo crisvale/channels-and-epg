@@ -1,4 +1,4 @@
-# Movistar
+# Movistar Plus+
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
