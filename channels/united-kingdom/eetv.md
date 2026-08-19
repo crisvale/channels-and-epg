@@ -70,6 +70,7 @@
 | <img src="https://images-live.youview.tv/images/entity/6d6fb116-4043-51aa-a7bc-cfec8abbfccc/ident/1_128x128.png" alt="Jewellery Maker" width="120"> | Jewellery Maker | 72 |
 | <img src="https://images-live.youview.tv/images/entity/34b49347-546b-5655-99ec-fd4ac189c4c7/ident/1_128x128.png" alt="Hobby Maker" width="120"> | Hobby Maker | 73 |
 | <img src="https://images-live.youview.tv/images/entity/39219dfb-0134-5f10-bad1-df803128876f/ident/1_128x128.png" alt="U&amp;Dave Ja Vu" width="120"> | U&amp;Dave Ja Vu | 74 |
+| <img src="https://images-live.youview.tv/images/entity/75243725-c3b9-5e36-966a-38f7debd0471/ident/1_128x128.png" alt="That&#x27;s Entertainment" width="120"> | That's Entertainment | 75 |
 | <img src="https://images-live.youview.tv/images/entity/6626e568-2471-57d0-b131-79931733def6/ident/1_128x128.png" alt="That&#x27;s 60s" width="120"> | That's 60s | 76 |
 | <img src="https://images-live.youview.tv/images/entity/bd8350bc-3a39-52cf-b376-5eac9272520a/ident/1_128x128.png" alt="That&#x27;s 70s" width="120"> | That's 70s | 78 |
 | <img src="https://images-live.youview.tv/images/entity/02a3b101-fd50-553b-afe1-571a82d8ecfb/ident/1_128x128.png" alt="Rewind TV" width="120"> | Rewind TV | 81 |
