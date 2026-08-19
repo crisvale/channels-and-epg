@@ -28,6 +28,7 @@ Each country has a single XMLTV file combining all supported operators.
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 256 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 162 | Sky IT, RaiPlay, Tivu, Mediaset |
+| Canada | `epg/canada.xml.gz` | 506 | Cogeco (QC), Cogeco (ON), Sportsnet, TSN |
 
 - Coverage: **7 days of programming**
 - Format: XMLTV (`.xml.gz`)
@@ -75,21 +76,24 @@ Per-operator channel listings are provided in Markdown format.
 - Grouped one folder per country, matching the country XMLTV guide it feeds into.
 
 ```text
-channels/spain/atresplayer.md         channels/italy/tivu.md
-channels/spain/movistar.md            channels/italy/mediaset.md
-channels/spain/orange.md              channels/united-kingdom/freesat.md
-channels/spain/rtve.md                channels/united-kingdom/freeview.md
-channels/spain/tivify.md              channels/united-kingdom/sky.md
-channels/spain/agiletv-r.md           channels/united-kingdom/virgin.md
-channels/spain/agiletv-telecable.md   channels/united-kingdom/eetv.md
-channels/spain/agiletv-simple.md      channels/france/canalplus.md
-channels/spain/agiletv-euskaltel.md   channels/france/orange.md
-channels/france/free.md               channels/france/sfr.md
-channels/germany/magenta.md           channels/portugal/meo.md
-channels/germany/sky.md               channels/portugal/nos.md
-channels/germany/waipu.md             channels/congo/canalplus.md
-channels/italy/raiplay.md             channels/poland/canalplus.md
-channels/italy/sky.md                 channels/poland/polsat.md
+channels/spain/atresplayer.md         channels/italy/mediaset.md
+channels/spain/movistar.md            channels/united-kingdom/freesat.md
+channels/spain/orange.md              channels/united-kingdom/freeview.md
+channels/spain/rtve.md                channels/united-kingdom/sky.md
+channels/spain/tivify.md              channels/united-kingdom/virgin.md
+channels/spain/agiletv-r.md           channels/united-kingdom/eetv.md
+channels/spain/agiletv-telecable.md   channels/france/canalplus.md
+channels/spain/agiletv-simple.md      channels/france/orange.md
+channels/spain/agiletv-euskaltel.md   channels/france/sfr.md
+channels/france/free.md               channels/portugal/meo.md
+channels/germany/magenta.md           channels/portugal/nos.md
+channels/germany/sky.md               channels/congo/canalplus.md
+channels/germany/waipu.md             channels/poland/canalplus.md
+channels/italy/raiplay.md             channels/poland/polsat.md
+channels/italy/sky.md                 channels/canada/cogeco-qc.md
+channels/italy/tivu.md                channels/canada/cogeco-on.md
+                                       channels/canada/sportsnet.md
+                                       channels/canada/tsn.md
 ```
 
 ## Update Schedule
