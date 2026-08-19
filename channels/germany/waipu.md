@@ -147,6 +147,7 @@
 | <img src="https://images.wpstr.tv/station/haberturk/a9b739bd/hd/small?res=216x162" alt="HABERTURK" width="120"> | HABERTURK | - |
 | <img src="https://images.wpstr.tv/station/hakunan/54b22e6b/hd/small?res=216x162" alt="Hakunan" width="120"> | Hakunan | - |
 | <img src="https://images.wpstr.tv/station/handystar/3f5dafa9/hd/small?res=216x162" alt="Handystar.tv" width="120"> | Handystar.tv | - |
+| <img src="https://images.wpstr.tv/station/happyentertainment/708b2789/hd/small?res=216x162" alt="Happy Entertainment" width="120"> | Happy Entertainment | - |
 | <img src="https://images.wpstr.tv/station/heimatkanal/0a2164be/hd/small?res=216x162" alt="Heimatkanal" width="120"> | Heimatkanal | - |
 | <img src="https://images.wpstr.tv/station/herzfrequenztv/29337588/hd/small?res=216x162" alt="Herzfrequenz" width="120"> | Herzfrequenz | - |
 | <img src="https://images.wpstr.tv/station/heyaaron/ed8e0bc6/hd/small?res=216x162" alt="Hey Aaron!!!" width="120"> | Hey Aaron!!! | - |
