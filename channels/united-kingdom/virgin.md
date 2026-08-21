@@ -114,7 +114,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-box-set-hd.png" alt="Sky Box Set" width="120"> | Sky Box Set | 403 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-greats-hd.png" alt="Sky Greats HD" width="120"> | Sky Greats HD | 404 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-family-hd.png" alt="Sky Family HD" width="120"> | Sky Family HD | 406 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-action-hd.png" alt="Sky Action HD" width="120"> | Sky Action HD | 407 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-statham-hd.png" alt="Sky Statham" width="120"> | Sky Statham | 407 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-comedy-hd.png" alt="Sky Comedy HD" width="120"> | Sky Comedy HD | 408 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-thriller-hd.png" alt="Sky Thriller HD" width="120"> | Sky Thriller HD | 409 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-drama-hd.png" alt="Sky Drama HD" width="120"> | Sky Drama HD | 410 |
@@ -189,9 +189,9 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/gemporia.png" alt="Gemporia" width="120"> | Gemporia | 755 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/jewellery-channel.png" alt="TJC HD" width="120"> | TJC HD | 757 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/cruise1st-tv.png" alt="Cruise1st.tv" width="120"> | Cruise1st.tv | 758 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/utsav-gold-hd.png" alt="Utsav Gold HD" width="120"> | Utsav Gold HD | 801 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/utsav-bharat.png" alt="Utsav Bharat" width="120"> | Utsav Bharat | 802 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/utsav-plus-hd.png" alt="Utsav Plus HD" width="120"> | Utsav Plus HD | 803 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/star-gold-hd.png" alt="Star Gold HD" width="120"> | Star Gold HD | 801 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/star-bharat.png" alt="Star Bharat" width="120"> | Star Bharat | 802 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/starplus-hd.png" alt="Star Plus HD" width="120"> | Star Plus HD | 803 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sony-tv-hd.png" alt="SONY TV HD" width="120"> | SONY TV HD | 805 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sony-max-hd.png" alt="SONY MAX HD" width="120"> | SONY MAX HD | 806 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sony-sab.png" alt="SONY SAB HD" width="120"> | SONY SAB HD | 807 |
