@@ -93,8 +93,9 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_17skysportf1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport F1 HD" width="120"> | Sky Sport F1 HD | 203 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_145skysportpremierleaguehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Premier League HD" width="120"> | Sky Sport Premier League HD | 204 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_141skysportmixhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Mix HD" width="120"> | Sky Sport Mix HD | 205 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_114skysporttennishd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Tennis HD" width="120"> | Sky Sport Tennis HD | 206 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_144skysportgolfhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Golf HD" width="120"> | Sky Sport Golf HD | 207 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_104skysportnflhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport NFL HD" width="120"> | Sky Sport NFL HD | 206 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_114skysporttennishd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Tennis HD" width="120"> | Sky Sport Tennis HD | 207 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_144skysportgolfhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Golf HD" width="120"> | Sky Sport Golf HD | 208 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_553skysportuhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport UHD" width="120"> | Sky Sport UHD | 209 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_552skysportbundesligauhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Bundesliga UHD" width="120"> | Sky Sport Bundesliga UHD | 210 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_267skysportbundesliga1hd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Sport Bundesliga 1 HD" width="120"> | Sky Sport Bundesliga 1 HD | 211 |
