@@ -114,7 +114,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-box-set-hd.png" alt="Sky Box Set" width="120"> | Sky Box Set | 403 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-greats-hd.png" alt="Sky Greats HD" width="120"> | Sky Greats HD | 404 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-family-hd.png" alt="Sky Family HD" width="120"> | Sky Family HD | 406 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-statham-hd.png" alt="Sky Statham" width="120"> | Sky Statham | 407 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-action-hd.png" alt="Sky Action" width="120"> | Sky Action | 407 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-comedy-hd.png" alt="Sky Comedy HD" width="120"> | Sky Comedy HD | 408 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-thriller-hd.png" alt="Sky Thriller HD" width="120"> | Sky Thriller HD | 409 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-drama-hd.png" alt="Sky Drama HD" width="120"> | Sky Drama HD | 410 |
