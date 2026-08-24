@@ -156,7 +156,7 @@
 | - | Sky Box Set HD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
-| - | SkyStathamHD | 306 |
+| - | Sky Action HD | 306 |
 | - | Sky Greats HD | 307 |
 | - | Sky Comedy HD | 308 |
 | - | Sky Thriller HD | 309 |
