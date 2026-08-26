@@ -77,12 +77,11 @@
 | <img src="https://img1.oqee.net/channel_pictures/3254/w400" alt="Ciné Western+" width="120"> | Ciné Western+ | 182 |
 | <img src="https://img2.oqee.net/channel_pictures/3249/w400" alt="Fréquence Novelas+" width="120"> | Fréquence Novelas+ | 183 |
 | <img src="https://img1.oqee.net/channel_pictures/2994/w400" alt="DocuBox" width="120"> | DocuBox | 185 |
-| <img src="https://img1.oqee.net/channel_pictures/3858/w400" alt="Love Nature" width="120"> | Love Nature | 198 |
 | <img src="https://img2.oqee.net/channel_pictures/1177/w400" alt="Equidia" width="120"> | Equidia | 201 |
 | <img src="https://img2.oqee.net/channel_pictures/2251/w400" alt="Sport en France" width="120"> | Sport en France | 202 |
 | <img src="https://img1.oqee.net/channel_pictures/2848/w400" alt="Journal du Golf" width="120"> | Journal du Golf | 203 |
-| <img src="https://img2.oqee.net/channel_pictures/3847/w400" alt="Winamax TV" width="120"> | Winamax TV | 205 |
-| <img src="https://img2.oqee.net/channel_pictures/3849/w400" alt="Winamax Poker" width="120"> | Winamax Poker | 206 |
+| <img src="https://img2.oqee.net/channel_pictures/3847/w400" alt="Winamax TV Sport" width="120"> | Winamax TV Sport | 205 |
+| <img src="https://img2.oqee.net/channel_pictures/3849/w400" alt="Winamax TV Poker" width="120"> | Winamax TV Poker | 206 |
 | <img src="https://img1.oqee.net/channel_pictures/3648/w400" alt="Zack Nani Foot" width="120"> | Zack Nani Foot | 207 |
 | <img src="https://img1.oqee.net/channel_pictures/3116/w400" alt="W-Sport" width="120"> | W-Sport | 229 |
 | <img src="https://img2.oqee.net/channel_pictures/1183/w400" alt="Automoto" width="120"> | Automoto | 230 |
@@ -115,7 +114,6 @@
 | <img src="https://img2.oqee.net/channel_pictures/2997/w400" alt="FightBox" width="120"> | FightBox | 288 |
 | <img src="https://img2.oqee.net/channel_pictures/2999/w400" alt="FastnFunBox" width="120"> | FastnFunBox | 289 |
 | <img src="https://img1.oqee.net/channel_pictures/2600/w400" alt="Cheval TV" width="120"> | Cheval TV | 291 |
-| <img src="https://img2.oqee.net/channel_pictures/3823/w400" alt="France 3 national" width="120"> | France 3 national | 301 |
 | <img src="https://img1.oqee.net/channel_pictures/3176/w400" alt="Nickelodeon Junior" width="120"> | Nickelodeon Junior | 330 |
 | <img src="https://img2.oqee.net/channel_pictures/3553/w400" alt="NickToons" width="120"> | NickToons | 334 |
 | <img src="https://img1.oqee.net/channel_pictures/1144/w400" alt="Boomerang +1" width="120"> | Boomerang +1 | 336 |
@@ -161,7 +159,6 @@
 | <img src="https://img1.oqee.net/channel_pictures/1092/w400" alt="GONG" width="120"> | GONG | 527 |
 | <img src="https://img2.oqee.net/channel_pictures/2635/w400" alt="MGG TV" width="120"> | MGG TV | 529 |
 | <img src="https://img1.oqee.net/channel_pictures/1096/w400" alt="Comedy Central" width="120"> | Comedy Central | 530 |
-| <img src="https://img1.oqee.net/channel_pictures/2656/w400" alt="TLC" width="120"> | TLC | 531 |
 | <img src="https://img1.oqee.net/channel_pictures/2846/w400" alt="L&#x27;Esprit Sorcier TV" width="120"> | L'Esprit Sorcier TV | 532 |
 | <img src="https://img2.oqee.net/channel_pictures/3093/w400" alt="Trotters TV" width="120"> | Trotters TV | 533 |
 | <img src="https://img2.oqee.net/channel_pictures/3555/w400" alt="Sophia TV" width="120"> | Sophia TV | 534 |
@@ -173,6 +170,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/3748/w400" alt="Ushuaïa TV" width="120"> | Ushuaïa TV | 552 |
 | <img src="https://img2.oqee.net/channel_pictures/1211/w400" alt="Toute l&#x27;Histoire" width="120"> | Toute l'Histoire | 553 |
 | <img src="https://img1.oqee.net/channel_pictures/3832/w400" alt="Bravo" width="120"> | Bravo | 554 |
+| <img src="https://img1.oqee.net/channel_pictures/3858/w400" alt="Love Nature" width="120"> | Love Nature | 555 |
 | <img src="https://img1.oqee.net/channel_pictures/3014/w400" alt="Discovery Channel" width="120"> | Discovery Channel | 556 |
 | <img src="https://img2.oqee.net/channel_pictures/2983/w400" alt="Discovery Investigation" width="120"> | Discovery Investigation | 557 |
 | <img src="https://img2.oqee.net/channel_pictures/1205/w400" alt="Crime District" width="120"> | Crime District | 559 |
@@ -220,6 +218,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1337/w400" alt="i24 News" width="120"> | i24 News | 673 |
 | <img src="https://img2.oqee.net/channel_pictures/1339/w400" alt="NHK World-Japan" width="120"> | NHK World-Japan | 674 |
 | <img src="https://img1.oqee.net/channel_pictures/1374/w400" alt="Africa 24" width="120"> | Africa 24 | 675 |
+| <img src="https://img2.oqee.net/channel_pictures/3851/w400" alt="Global Africa Telesud" width="120"> | Global Africa Telesud | 676 |
 | <img src="https://img2.oqee.net/channel_pictures/1327/w400" alt="Fox News" width="120"> | Fox News | 680 |
 | <img src="https://img1.oqee.net/channel_pictures/3726/w400" alt="Newsmax" width="120"> | Newsmax | 681 |
 | <img src="https://img2.oqee.net/channel_pictures/3819/w400" alt="Now News Global" width="120"> | Now News Global | 683 |
@@ -317,6 +316,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/958/w400" alt="France 3 Poitou-Charentes" width="120"> | France 3 Poitou-Charentes | 924 |
 | <img src="https://img1.oqee.net/channel_pictures/774/w400" alt="France 3 Provence-Alpes-Côte d&#x27;Azur" width="120"> | France 3 Provence-Alpes-Côte d'Azur | 925 |
 | <img src="https://img2.oqee.net/channel_pictures/959/w400" alt="France 3 Rhône-Alpes" width="120"> | France 3 Rhône-Alpes | 926 |
+| <img src="https://img2.oqee.net/channel_pictures/3823/w400" alt="France 3 national" width="120"> | France 3 national | 927 |
 | <img src="https://img1.oqee.net/channel_pictures/2938/w400" alt="MyTV Caraïbes" width="120"> | MyTV Caraïbes | 928 |
 | <img src="https://img1.oqee.net/channel_pictures/2658/w400" alt="ASTV" width="120"> | ASTV | 931 |
 | <img src="https://img1.oqee.net/channel_pictures/2608/w400" alt="La Chaîne 32" width="120"> | La Chaîne 32 | 932 |
@@ -340,6 +340,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/1892/w400" alt="Tébésud" width="120"> | Tébésud | 956 |
 | <img src="https://img2.oqee.net/channel_pictures/2955/w400" alt="LMtv Sarthe" width="120"> | LMtv Sarthe | 958 |
 | <img src="https://img1.oqee.net/channel_pictures/1946/w400" alt="Angers TV" width="120"> | Angers TV | 959 |
+| <img src="https://img1.oqee.net/channel_pictures/2656/w400" alt="TLC" width="120"> | TLC | 960 |
 | <img src="https://img1.oqee.net/channel_pictures/2476/w400" alt="Télénantes" width="120"> | Télénantes | 961 |
 | <img src="https://img2.oqee.net/channel_pictures/1941/w400" alt="TV Vendée" width="120"> | TV Vendée | 962 |
 | <img src="https://img2.oqee.net/channel_pictures/3463/w400" alt="Brionnais TV" width="120"> | Brionnais TV | 964 |
@@ -466,7 +467,6 @@
 | <img src="https://img1.oqee.net/channel_pictures/1478/w400" alt="MBC Sat" width="120"> | MBC Sat | 1270 |
 | <img src="https://img2.oqee.net/channel_pictures/3587/w400" alt="BIM TV" width="120"> | BIM TV | 1280 |
 | <img src="https://img2.oqee.net/channel_pictures/3697/w400" alt="NCA TV" width="120"> | NCA TV | 1281 |
-| <img src="https://img2.oqee.net/channel_pictures/3851/w400" alt="Global Africa Telesud" width="120"> | Global Africa Telesud | 1282 |
 | <img src="https://img1.oqee.net/channel_pictures/1480/w400" alt="Vox Africa" width="120"> | Vox Africa | 1283 |
 | <img src="https://img1.oqee.net/channel_pictures/1768/w400" alt="Al Rawda" width="120"> | Al Rawda | 1294 |
 | <img src="https://img1.oqee.net/channel_pictures/2268/w400" alt="Gulli Bil Arabi" width="120"> | Gulli Bil Arabi | 1295 |
@@ -549,8 +549,6 @@
 | <img src="https://img2.oqee.net/channel_pictures/2427/w400" alt="Lana TV" width="120"> | Lana TV | 1475 |
 | <img src="https://img2.oqee.net/channel_pictures/3405/w400" alt="Israel Plus" width="120"> | Israel Plus | 1479 |
 | <img src="https://img2.oqee.net/channel_pictures/3395/w400" alt="Oman TV" width="120"> | Oman TV | 1483 |
-| <img src="https://img1.oqee.net/channel_pictures/3562/w400" alt="Daystar Español" width="120"> | Daystar Español | 1511 |
-| <img src="https://img2.oqee.net/channel_pictures/1567/w400" alt="Telesur" width="120"> | Telesur | 1512 |
 | <img src="https://img2.oqee.net/channel_pictures/973/w400" alt="Antena 3" width="120"> | Antena 3 | 1523 |
 | <img src="https://img2.oqee.net/channel_pictures/1565/w400" alt="Star TVE" width="120"> | Star TVE | 1524 |
 | <img src="https://img2.oqee.net/channel_pictures/981/w400" alt="Atres Series" width="120"> | Atres Series | 1525 |
@@ -661,11 +659,13 @@
 | <img src="https://img2.oqee.net/channel_pictures/3805/w400" alt="Times Now Navbharat" width="120"> | Times Now Navbharat | 1938 |
 | <img src="https://img2.oqee.net/channel_pictures/1663/w400" alt="Geo TV" width="120"> | Geo TV | 1949 |
 | <img src="https://img2.oqee.net/channel_pictures/1665/w400" alt="Geo News" width="120"> | Geo News | 1950 |
+| <img src="https://img2.oqee.net/channel_pictures/1567/w400" alt="Telesur" width="120"> | Telesur | 1963 |
 | <img src="https://img2.oqee.net/channel_pictures/1571/w400" alt="De Pelicula" width="120"> | De Pelicula | 1966 |
 | <img src="https://img1.oqee.net/channel_pictures/1574/w400" alt="Las Estrellas" width="120"> | Las Estrellas | 1967 |
 | <img src="https://img2.oqee.net/channel_pictures/1569/w400" alt="Telehit Musica" width="120"> | Telehit Musica | 1968 |
 | <img src="https://img2.oqee.net/channel_pictures/1577/w400" alt="Telehit" width="120"> | Telehit | 1969 |
 | <img src="https://img2.oqee.net/channel_pictures/1573/w400" alt="TL Novelas" width="120"> | TL Novelas | 1970 |
+| <img src="https://img1.oqee.net/channel_pictures/3562/w400" alt="Daystar Español" width="120"> | Daystar Español | 1971 |
 | <img src="https://img1.oqee.net/channel_pictures/814/w400" alt="HLIVE" width="120"> | HLIVE | 1974 |
 | <img src="https://img1.oqee.net/channel_pictures/810/w400" alt="Daystar" width="120"> | Daystar | 1978 |
 | <img src="https://img1.oqee.net/channel_pictures/3208/w400" alt="TF1 4K" width="120"> | TF1 4K | 1981 |
