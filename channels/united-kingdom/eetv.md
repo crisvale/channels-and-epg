@@ -50,7 +50,7 @@
 | <img src="https://images-live.youview.tv/images/entity/1776ffd9-be8b-5f3d-a2cc-c56d2872d34f/ident/1_128x128.png" alt="4seven" width="120"> | 4seven | 49 |
 | <img src="https://images-live.youview.tv/images/entity/2938f8b8-4af2-5214-a21b-ff371d88af18/ident/1_128x128.png" alt="Great! Mystery" width="120"> | Great! Mystery | 50 |
 | <img src="https://images-live.youview.tv/images/entity/582f5e13-c661-5cb4-9144-c6a37f18ee10/ident/1_128x128.png" alt="Ideal World" width="120"> | Ideal World | 51 |
-| <img src="https://images-live.youview.tv/images/entity/d304e543-d655-5329-8fb3-adb5dde8a190/ident/1_128x128.png" alt="Great! Romance" width="120"> | Great! Romance | 52 |
+| <img src="https://images-live.youview.tv/images/entity/d304e543-d655-5329-8fb3-adb5dde8a190/ident/1_128x128.png" alt="Great! Christmas" width="120"> | Great! Christmas | 52 |
 | <img src="https://images-live.youview.tv/images/entity/adcc3fee-dae0-5dbe-a5e5-57497282529b/ident/1_128x128.png" alt="That&#x27;s TV (UK)" width="120"> | That's TV (UK) | 56 |
 | <img src="https://images-live.youview.tv/images/entity/90e2f8b0-3b93-5412-9602-1f8e021a71f7/ident/1_128x128.png" alt="U&amp;Eden" width="120"> | U&amp;Eden | 57 |
 | <img src="https://images-live.youview.tv/images/entity/1aab1110-fdc8-5259-ac19-d7950058dbdb/ident/1_128x128.png" alt="ITV3 +1" width="120"> | ITV3 +1 | 58 |
