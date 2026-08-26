@@ -172,8 +172,8 @@
 | - | Great! Action+1 | 319 |
 | - | Great! Mystery | 320 |
 | - | G! Mystery+1 | 321 |
-| - | Great! Romance | 322 |
-| - | G! Romance+1 | 323 |
+| - | Great!Christmas | 322 |
+| - | Great! Xmas+1 | 323 |
 | - | TalkingPictures | 324 |
 | - | Clubland TV | 354 |
 | - | NOW 70s | 355 |
