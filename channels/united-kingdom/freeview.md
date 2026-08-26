@@ -90,7 +90,7 @@
 | <img src="https://img.freeviewplay.tv/sed7f82f2a88e9e05e05d09bac7c937f8/16x9/colour?w=800" alt="4seven" width="120"> | 4seven | 49 |
 | <img src="https://img.freeviewplay.tv/seec7b1b29159bc6c7bee1945d60f8c1f/16x9/colour?w=800" alt="Great! Mystery" width="120"> | Great! Mystery | 50 |
 | <img src="https://img.freeviewplay.tv/s74ef628d463e5e3414723a94ad5fd115/16x9/colour?w=800" alt="Ideal World" width="120"> | Ideal World | 51 |
-| <img src="https://img.freeviewplay.tv/sf845eca826db07a706de09c7bd846e01/16x9/colour?w=800" alt="Great! Romance" width="120"> | Great! Romance | 52 |
+| <img src="https://img.freeviewplay.tv/s7309755814f840f09bd909553a351a99/16x9/colour?w=800" alt="Great! Christmas" width="120"> | Great! Christmas | 52 |
 | <img src="https://img.freeviewplay.tv/se04887a959e0340006e8c8520129f064/16x9/colour?w=800" alt="TG4" width="120"> | TG4 | 53 |
 | <img src="https://img.freeviewplay.tv/s84ec9639c27c4bc4ca956ee1fed87f4c/16x9/colour?w=800" alt="RTÉ One" width="120"> | RTÉ One | 54 |
 | <img src="https://img.freeviewplay.tv/s5dba372b79e84a27bab38d67bb69a025/16x9/colour?w=800" alt="RTÉ Two" width="120"> | RTÉ Two | 55 |
