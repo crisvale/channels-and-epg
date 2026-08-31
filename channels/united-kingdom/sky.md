@@ -153,7 +153,7 @@
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
 | - | SkyAnimationHD | 302 |
-| - | Sky LOTR HD | 303 |
+| - | TransformersHD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
@@ -243,7 +243,7 @@
 | - | Sky Kids HD | 609 |
 | - | Cartoonito | 610 |
 | - | Boomerang+1 | 611 |
-| - | NickJrPeppa | 612 |
+| - | Nick Jr. Too | 612 |
 | - | Disney Jr HD | 613 |
 | - | Nickelodeon+1 | 615 |
 | - | Nick Jr+1 | 619 |
