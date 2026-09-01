@@ -236,7 +236,7 @@
 | - | CN+1 | 602 |
 | - | Boomerang | 603 |
 | - | NickelodeonHD | 604 |
-| - | Nick Alvinnn!!! | 605 |
+| - | Nicktoons | 605 |
 | - | Nick Jr. HD | 606 |
 | - | CBBC HD | 607 |
 | - | CBeebies HD | 608 |
@@ -263,7 +263,7 @@
 | - | Best Direct | 669 |
 | - | HobbyMakerHD | 670 |
 | - | QVC Extra | 671 |
-| - | Shop Unlimited | 672 |
+| - | High Street TV 3 | 672 |
 | - | TV Warehouse | 673 |
 | - | JewelleryMaker | 674 |
 | - | Cruise1st.tv | 675 |
