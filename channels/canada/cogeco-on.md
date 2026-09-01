@@ -399,6 +399,7 @@
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s102146_h15_ab.png" alt="Vision TV HD" width="120"> | Vision TV HD | 797 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s102175_h15_ac.png" alt="ONE TV HD" width="120"> | ONE TV HD | 798 |
 | - | Pay Per View HD | 799 |
+| <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s115832_h15_aa.png" alt="The News Forum" width="120"> | The News Forum | 806 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10084_h15_ab.png" alt="CBC - Network HD" width="120"> | CBC - Network HD | 807 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s58646_h15_ac.png" alt="CNN HD" width="120"> | CNN HD | 808 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s64549_h15_ac.png" alt="HLN HD" width="120"> | HLN HD | 809 |
