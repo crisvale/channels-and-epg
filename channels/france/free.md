@@ -9,7 +9,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/719/w400" alt="France 5" width="120"> | France 5 | 5 |
 | <img src="https://img1.oqee.net/channel_pictures/2514/w400" alt="M6" width="120"> | M6 | 6 |
 | <img src="https://img1.oqee.net/channel_pictures/2512/w400" alt="Arte" width="120"> | Arte | 7 |
-| <img src="https://img1.oqee.net/channel_pictures/926/w400" alt="La Chaîne Parlementaire" width="120"> | La Chaîne Parlementaire | 8 |
+| <img src="https://img1.oqee.net/channel_pictures/3976/w400" alt="La Chaîne Parlementaire" width="120"> | La Chaîne Parlementaire | 8 |
 | <img src="https://img1.oqee.net/channel_pictures/794/w400" alt="W9" width="120"> | W9 | 9 |
 | <img src="https://img1.oqee.net/channel_pictures/798/w400" alt="TMC" width="120"> | TMC | 10 |
 | <img src="https://img1.oqee.net/channel_pictures/842/w400" alt="TFX" width="120"> | TFX | 11 |
@@ -55,7 +55,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/3142/w400" alt="13ème Rue" width="120"> | 13ème Rue | 147 |
 | <img src="https://img1.oqee.net/channel_pictures/3830/w400" alt="SciFi" width="120"> | SciFi | 148 |
 | <img src="https://img2.oqee.net/channel_pictures/909/w400" alt="Polar+" width="120"> | Polar+ | 149 |
-| <img src="https://img1.oqee.net/channel_pictures/1078/w400" alt="Novelas+" width="120"> | Novelas+ | 150 |
+| <img src="https://img2.oqee.net/channel_pictures/3979/w400" alt="Novelas+" width="120"> | Novelas+ | 150 |
 | <img src="https://img2.oqee.net/channel_pictures/911/w400" alt="serieclub" width="120"> | serieclub | 152 |
 | <img src="https://img2.oqee.net/channel_pictures/2765/w400" alt="Mangas" width="120"> | Mangas | 153 |
 | <img src="https://img2.oqee.net/channel_pictures/3263/w400" alt="OCS" width="120"> | OCS | 162 |
@@ -102,7 +102,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/3539/w400" alt="Ligue 1+ 8" width="120"> | Ligue 1+ 8 | 262 |
 | <img src="https://img2.oqee.net/channel_pictures/3541/w400" alt="Ligue 1+ 9" width="120"> | Ligue 1+ 9 | 263 |
 | <img src="https://img2.oqee.net/channel_pictures/3543/w400" alt="Ligue 1+ 10" width="120"> | Ligue 1+ 10 | 264 |
-| <img src="https://img1.oqee.net/channel_pictures/2790/w400" alt="OLPLAY" width="120"> | OLPLAY | 267 |
+| <img src="https://img2.oqee.net/channel_pictures/3981/w400" alt="OLPLAY" width="120"> | OLPLAY | 267 |
 | <img src="https://img2.oqee.net/channel_pictures/3583/w400" alt="Lutte TV" width="120"> | Lutte TV | 274 |
 | <img src="https://img1.oqee.net/channel_pictures/2526/w400" alt="Fuel TV" width="120"> | Fuel TV | 275 |
 | <img src="https://img2.oqee.net/channel_pictures/2547/w400" alt="Horse TV" width="120"> | Horse TV | 276 |
@@ -186,8 +186,8 @@
 | <img src="https://img2.oqee.net/channel_pictures/3809/w400" alt="LingoToons" width="120"> | LingoToons | 573 |
 | <img src="https://img2.oqee.net/channel_pictures/3811/w400" alt="TinyTeen" width="120"> | TinyTeen | 574 |
 | <img src="https://img2.oqee.net/channel_pictures/1225/w400" alt="Travel Channel" width="120"> | Travel Channel | 576 |
-| <img src="https://img2.oqee.net/channel_pictures/1323/w400" alt="BFM Business" width="120"> | BFM Business | 602 |
-| <img src="https://img1.oqee.net/channel_pictures/3720/w400" alt="Europe 1" width="120"> | Europe 1 | 605 |
+| <img src="https://img2.oqee.net/channel_pictures/3983/w400" alt="BFM Business" width="120"> | BFM Business | 602 |
+| <img src="https://img2.oqee.net/channel_pictures/3985/w400" alt="Europe 1" width="120"> | Europe 1 | 605 |
 | <img src="https://img1.oqee.net/channel_pictures/3722/w400" alt="CNews Prime" width="120"> | CNews Prime | 606 |
 | <img src="https://img1.oqee.net/channel_pictures/2306/w400" alt="B Smart" width="120"> | B Smart | 607 |
 | <img src="https://img2.oqee.net/channel_pictures/3105/w400" alt="Le Média TV" width="120"> | Le Média TV | 608 |
@@ -207,7 +207,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/2650/w400" alt="France 24 Arab" width="120"> | France 24 Arab | 651 |
 | <img src="https://img1.oqee.net/channel_pictures/2646/w400" alt="France 24 English" width="120"> | France 24 English | 652 |
 | <img src="https://img2.oqee.net/channel_pictures/3323/w400" alt="France 24 Español" width="120"> | France 24 Español | 653 |
-| <img src="https://img2.oqee.net/channel_pictures/1313/w400" alt="Euronews" width="120"> | Euronews | 657 |
+| <img src="https://img2.oqee.net/channel_pictures/3987/w400" alt="Euronews" width="120"> | Euronews | 657 |
 | <img src="https://img2.oqee.net/channel_pictures/1315/w400" alt="Euronews International" width="120"> | Euronews International | 658 |
 | <img src="https://img1.oqee.net/channel_pictures/2958/w400" alt="BBC News" width="120"> | BBC News | 667 |
 | <img src="https://img2.oqee.net/channel_pictures/1325/w400" alt="CNN International" width="120"> | CNN International | 668 |
@@ -218,7 +218,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1337/w400" alt="i24 News" width="120"> | i24 News | 673 |
 | <img src="https://img2.oqee.net/channel_pictures/1339/w400" alt="NHK World-Japan" width="120"> | NHK World-Japan | 674 |
 | <img src="https://img1.oqee.net/channel_pictures/1374/w400" alt="Africa 24" width="120"> | Africa 24 | 675 |
-| <img src="https://img2.oqee.net/channel_pictures/3851/w400" alt="Global Africa Telesud" width="120"> | Global Africa Telesud | 676 |
+| <img src="https://img2.oqee.net/channel_pictures/3989/w400" alt="Global Africa Telesud" width="120"> | Global Africa Telesud | 676 |
 | <img src="https://img2.oqee.net/channel_pictures/1327/w400" alt="Fox News" width="120"> | Fox News | 680 |
 | <img src="https://img1.oqee.net/channel_pictures/3726/w400" alt="Newsmax" width="120"> | Newsmax | 681 |
 | <img src="https://img2.oqee.net/channel_pictures/3819/w400" alt="Now News Global" width="120"> | Now News Global | 683 |
@@ -328,7 +328,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1921/w400" alt="TV78" width="120"> | TV78 | 940 |
 | <img src="https://img1.oqee.net/channel_pictures/2300/w400" alt="Canal 31" width="120"> | Canal 31 | 941 |
 | <img src="https://img2.oqee.net/channel_pictures/3097/w400" alt="Mosaik Cristal" width="120"> | Mosaik Cristal | 943 |
-| <img src="https://img1.oqee.net/channel_pictures/3764/w400" alt="Moselle TV" width="120"> | Moselle TV | 944 |
+| <img src="https://img2.oqee.net/channel_pictures/3991/w400" alt="Moselle TV" width="120"> | Moselle TV | 944 |
 | <img src="https://img2.oqee.net/channel_pictures/3447/w400" alt="TV8 Moselle-Est" width="120"> | TV8 Moselle-Est | 945 |
 | <img src="https://img1.oqee.net/channel_pictures/2666/w400" alt="Vosges TV" width="120"> | Vosges TV | 946 |
 | <img src="https://img2.oqee.net/channel_pictures/1943/w400" alt="Canal 32" width="120"> | Canal 32 | 947 |
@@ -351,7 +351,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1911/w400" alt="8 Mont-Blanc" width="120"> | 8 Mont-Blanc | 970 |
 | <img src="https://img1.oqee.net/channel_pictures/2844/w400" alt="NA TV" width="120"> | NA TV | 972 |
 | <img src="https://img1.oqee.net/channel_pictures/2736/w400" alt="7ALimoges" width="120"> | 7ALimoges | 973 |
-| <img src="https://img2.oqee.net/channel_pictures/1913/w400" alt="TV7" width="120"> | TV7 | 974 |
+| <img src="https://img2.oqee.net/channel_pictures/3993/w400" alt="TV7" width="120"> | TV7 | 974 |
 | <img src="https://img1.oqee.net/channel_pictures/2956/w400" alt="Kanaldude" width="120"> | Kanaldude | 975 |
 | <img src="https://img1.oqee.net/channel_pictures/2516/w400" alt="TVPI" width="120"> | TVPI | 976 |
 | <img src="https://img1.oqee.net/channel_pictures/3716/w400" alt="TéléPaese" width="120"> | TéléPaese | 981 |
@@ -365,7 +365,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/3050/w400" alt="ETV Guadeloupe" width="120"> | ETV Guadeloupe | 991 |
 | <img src="https://img2.oqee.net/channel_pictures/3383/w400" alt="Fusion TV" width="120"> | Fusion TV | 992 |
 | <img src="https://img2.oqee.net/channel_pictures/3449/w400" alt="Zitata" width="120"> | Zitata | 993 |
-| <img src="https://img1.oqee.net/channel_pictures/3730/w400" alt="Zouk TV" width="120"> | Zouk TV | 994 |
+| <img src="https://img2.oqee.net/channel_pictures/3995/w400" alt="Zouk TV" width="120"> | Zouk TV | 994 |
 | <img src="https://img1.oqee.net/channel_pictures/3550/w400" alt="KTV Guyane" width="120"> | KTV Guyane | 995 |
 | <img src="https://img2.oqee.net/channel_pictures/827/w400" alt="Télé Kréol" width="120"> | Télé Kréol | 996 |
 | <img src="https://img2.oqee.net/channel_pictures/3461/w400" alt="AL 24 News" width="120"> | AL 24 News | 1011 |
@@ -576,7 +576,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1693/w400" alt="SIC Internacional" width="120"> | SIC Internacional | 1604 |
 | <img src="https://img2.oqee.net/channel_pictures/1695/w400" alt="TVI Internacional" width="120"> | TVI Internacional | 1605 |
 | <img src="https://img1.oqee.net/channel_pictures/2870/w400" alt="Correio da Manhã" width="120"> | Correio da Manhã | 1606 |
-| <img src="https://img1.oqee.net/channel_pictures/866/w400" alt="SIC Noticias" width="120"> | SIC Noticias | 1607 |
+| <img src="https://img2.oqee.net/channel_pictures/3997/w400" alt="SIC Noticias" width="120"> | SIC Noticias | 1607 |
 | <img src="https://img1.oqee.net/channel_pictures/1698/w400" alt="A Bola TV" width="120"> | A Bola TV | 1608 |
 | <img src="https://img1.oqee.net/channel_pictures/3750/w400" alt="V+ TVI" width="120"> | V+ TVI | 1609 |
 | <img src="https://img1.oqee.net/channel_pictures/3732/w400" alt="SIC Novelas" width="120"> | SIC Novelas | 1610 |
@@ -662,7 +662,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1567/w400" alt="Telesur" width="120"> | Telesur | 1963 |
 | <img src="https://img2.oqee.net/channel_pictures/1571/w400" alt="De Pelicula" width="120"> | De Pelicula | 1966 |
 | <img src="https://img1.oqee.net/channel_pictures/1574/w400" alt="Las Estrellas" width="120"> | Las Estrellas | 1967 |
-| <img src="https://img2.oqee.net/channel_pictures/1569/w400" alt="Telehit Musica" width="120"> | Telehit Musica | 1968 |
+| <img src="https://img2.oqee.net/channel_pictures/3999/w400" alt="Telehit Musica" width="120"> | Telehit Musica | 1968 |
 | <img src="https://img2.oqee.net/channel_pictures/1577/w400" alt="Telehit" width="120"> | Telehit | 1969 |
 | <img src="https://img2.oqee.net/channel_pictures/1573/w400" alt="TL Novelas" width="120"> | TL Novelas | 1970 |
 | <img src="https://img1.oqee.net/channel_pictures/3562/w400" alt="Daystar Español" width="120"> | Daystar Español | 1971 |
