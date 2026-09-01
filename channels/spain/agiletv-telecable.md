@@ -6,7 +6,7 @@
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_Cuatro_A.png" alt="Cuatro HD" width="120"> | Cuatro HD | 4 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/channel_telecinco.png" alt="Telecinco" width="120"> | Telecinco | 5 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/sexta.png" alt="LaSexta" width="120"> | LaSexta | 6 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_tpa7.png" alt="TPA7" width="120"> | TPA7 | 7 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/TPA7_Logo.png" alt="TPA7" width="120"> | TPA7 | 7 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/INVITEDCH-AGILE.png" alt="Canal invitado" width="120"> | Canal invitado | 11 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ChannelStarChannel.png" alt="STAR CHANNEL" width="120"> | STAR CHANNEL | 12 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_warner_tv.png" alt="Warner" width="120"> | Warner | 14 |
