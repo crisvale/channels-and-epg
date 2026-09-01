@@ -5,7 +5,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22300/ncplus-ouah/CHN43FB/60-rhKM" alt="CANAL+ 360" width="120"> | CANAL+ 360 | 1 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20586/ncplus-ouah/CHN43FB/CANAL_Premium_black" alt="CANAL+ PREMIUM" width="120"> | CANAL+ PREMIUM | 2 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20841/ncplus-ouah/CHN43FB/canal_domo_logo_4x3-gYw3" alt="CANAL+ DOMO" width="120"> | CANAL+ DOMO | 3 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20838/ncplus-ouah/CHN43FB/CANALKuchnia" alt="CANAL+ KUCHNIA" width="120"> | CANAL+ KUCHNIA | 4 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20838/ncplus-ouah/CHN43FB/canal_kuchnia20_logo_4x3-2scO" alt="CANAL+ KUCHNIA" width="120"> | CANAL+ KUCHNIA | 4 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20756/ncplus-ouah/CHN43FB/TVNlogo-uH4G-1ZpH" alt="TVN" width="120"> | TVN | 5 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20309/ncplus-ouah/CHN43FB/tvn24logo" alt="TVN 24 HD" width="120"> | TVN 24 HD | 6 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20790/ncplus-ouah/CHN43FB/polsat-logotyp-przezroczysty" alt="POLSAT" width="120"> | POLSAT | 7 |
