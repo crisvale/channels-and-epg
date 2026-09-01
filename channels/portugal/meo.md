@@ -185,6 +185,7 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=1E1INT&amp;profile=corner_transparent_positive&amp;width=100" alt="1+1 International" width="120"> | 1+1 International | 282 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=1E1UNEW&amp;profile=corner_transparent_positive&amp;width=100" alt="1+1 United News" width="120"> | 1+1 United News | 283 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=KVARTV&amp;profile=corner_transparent_positive&amp;width=100" alt="Kvartal TV International" width="120"> | Kvartal TV International | 284 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=OTV&amp;profile=corner_transparent_positive&amp;width=100" alt="OTV" width="120"> | OTV | 284 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARCIN&amp;profile=corner_transparent_positive&amp;width=100" alt="Star Cinema" width="120"> | Star Cinema | 285 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FILMUADR&amp;profile=corner_transparent_positive&amp;width=100" alt="FILMUADRAMA" width="120"> | FILMUADRAMA | 287 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DUCKTV&amp;profile=corner_transparent_positive&amp;width=100" alt="Duck TV" width="120"> | Duck TV | 288 |
