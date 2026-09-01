@@ -20,7 +20,6 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSICRHD.png" alt="SIC Radical HD" width="120"> | SIC Radical HD | 16 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNOSSTUDIOSHD.png" alt="NOS Studios HD" width="120"> | NOS Studios HD | 17 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FVmaisTVI.png" alt="V+TVI" width="120"> | V+TVI | 18 |
-| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCONV.png" alt="Canal Convidado" width="120"> | Canal Convidado | 19 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_1HD.png" alt="SPORT TV1 HD" width="120"> | SPORT TV1 HD | 20 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_2HD.png" alt="SPORT TV2 HD" width="120"> | SPORT TV2 HD | 21 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSPTV_3HD.png" alt="SPORT TV3 HD" width="120"> | SPORT TV3 HD | 22 |
@@ -163,3 +162,4 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png" alt="OneToro TV" width="120"> | OneToro TV | 254 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png" alt="Caça e Pesca" width="120"> | Caça e Pesca | 255 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANALNOSHD.png" alt="Canal NOS HD" width="120"> | Canal NOS HD | 500 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCONV.png" alt="Canal Convidado" width="120"> | Canal Convidado | 519 |
