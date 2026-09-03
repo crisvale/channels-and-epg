@@ -41,6 +41,7 @@
 | <img src="https://images.wpstr.tv/station/planet/26d10a59/hd/small?res=216x162" alt="Bergblick" width="120"> | Bergblick | - |
 | <img src="https://images.wpstr.tv/station/bestofcomedy/9a30c677/hd/small?res=216x162" alt="Best of Comedy" width="120"> | Best of Comedy | - |
 | <img src="https://images.wpstr.tv/station/bestofthevoice/18186e61/hd/small?res=216x162" alt="Best of The Voice" width="120"> | Best of The Voice | - |
+| <img src="https://images.wpstr.tv/station/beverlyhills90210/b511128f/hd/small?res=216x162" alt="Beverly Hills, 90210" width="120"> | Beverly Hills, 90210 | - |
 | <img src="https://images.wpstr.tv/station/beyaz/8d5a110d/hd/small?res=216x162" alt="Beyaz TV" width="120"> | Beyaz TV | - |
 | <img src="https://images.wpstr.tv/station/beyblade/641c2a3c/hd/small?res=216x162" alt="Beyblade" width="120"> | Beyblade | - |
 | <img src="https://images.wpstr.tv/station/bibel/94395c05/hd/small?res=216x162" alt="Bibel TV" width="120"> | Bibel TV | - |
