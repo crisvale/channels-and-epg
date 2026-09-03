@@ -168,6 +168,14 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" alt="LALIGA TV HYPERMOTION 3" width="120"> | LALIGA TV HYPERMOTION 3 | 178 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" alt="M+ Liga de Campeones 4" width="120"> | M+ Liga de Campeones 4 | 180 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" alt="M+ Liga de Campeones 5" width="120"> | M+ Liga de Campeones 5 | 181 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP5.png" alt="M+ Liga de Campeones 6" width="120"> | M+ Liga de Campeones 6 | 182 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP6.png" alt="M+ Liga de Campeones 7" width="120"> | M+ Liga de Campeones 7 | 183 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP7.png" alt="M+ Liga de Campeones 8" width="120"> | M+ Liga de Campeones 8 | 184 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP8.png" alt="M+ Liga de Campeones 9" width="120"> | M+ Liga de Campeones 9 | 185 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP9.png" alt="M+ Liga de Campeones 10" width="120"> | M+ Liga de Campeones 10 | 186 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP10.png" alt="M+ Liga de Campeones 11" width="120"> | M+ Liga de Campeones 11 | 187 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP11.png" alt="M+ Liga de Campeones 12" width="120"> | M+ Liga de Campeones 12 | 188 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP12.png" alt="M+ Liga de Campeones 13" width="120"> | M+ Liga de Campeones 13 | 189 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/USOP3.png" alt="M+ Deportes 4" width="120"> | M+ Deportes 4 | 191 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" alt="M+ Deportes 5" width="120"> | M+ Deportes 5 | 192 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" alt="M+ Deportes 6" width="120"> | M+ Deportes 6 | 193 |
