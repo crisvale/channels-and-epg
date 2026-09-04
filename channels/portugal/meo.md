@@ -214,5 +214,6 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HUSTLER&amp;profile=corner_transparent_positive&amp;width=100" alt="Hustler HD" width="120"> | Hustler HD | 363 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTV4K&amp;profile=corner_transparent_positive&amp;width=100" alt="Fashion TV 4K" width="120"> | Fashion TV 4K | 401 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EUROS4K&amp;profile=corner_transparent_positive&amp;width=100" alt="Eurosport 4K" width="120"> | Eurosport 4K | 444 |
-| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="TV Madeira" width="120"> | TV Madeira | 445 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="Direto Rampa Regional do Porto da Cruz / CS Marítimo" width="120"> | Direto Rampa Regional do Porto da Cruz / CS Marítimo | 445 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LIVE3&amp;profile=corner_transparent_positive&amp;width=100" alt="Direto Meo Sons do Mar" width="120"> | Direto Meo Sons do Mar | 448 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BABYTSD&amp;profile=corner_transparent_positive&amp;width=100" alt="Baby TV" width="120"> | Baby TV | 549 |
