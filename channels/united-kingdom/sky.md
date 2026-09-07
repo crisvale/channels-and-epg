@@ -152,8 +152,8 @@
 | - | U&amp;Eden+1 | 266 |
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
-| - | SkyAnimationHD | 302 |
-| - | MenInBlackHD | 303 |
+| - | SuperheroHD | 302 |
+| - | AmericanPieHD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
@@ -191,7 +191,7 @@
 | - | SkySp News HD | 409 |
 | - | TNTSports1 HD | 410 |
 | - | TNTSports2 HD | 411 |
-| - | SkySp ActionHD | 412 |
+| - | SkySp NFL HD | 412 |
 | - | TNTSports3 HD | 413 |
 | - | TNTSports4 HD | 414 |
 | - | SkySp Racing HD | 415 |
