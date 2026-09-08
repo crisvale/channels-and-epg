@@ -272,6 +272,9 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" alt="Wedo Big Stories" width="120"> | Wedo Big Stories | 458 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png" alt="Xtrem Sports" width="120"> | Xtrem Sports | 459 |
+| <img src="https://media.tvup.cloud/canales/color_lg_642c2b9dc27d59001cf7e050.png" alt="Pocoyó" width="120"> | Pocoyó | 500 |
+| <img src="https://media.tvup.cloud/canales/color_lg_69898ce91451746315ca25fd_1770622186115.png" alt="El Mueble" width="120"> | El Mueble | 501 |
+| <img src="https://media.tvup.cloud/canales/color_lg_683d7abc0f3cea6ce5bdd128_1748859580525.png" alt="Anime Visión Classics" width="120"> | Anime Visión Classics | 502 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png" alt="SIC Internacional" width="120"> | SIC Internacional | 510 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png" alt="SIC Noticias" width="120"> | SIC Noticias | 511 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png" alt="RTPi" width="120"> | RTPi | 512 |
