@@ -394,6 +394,7 @@
 | <img src="https://images.wpstr.tv/station/zdfkocht/d88ecabf/hd/small?res=216x162" alt="ZDF kocht!" width="120"> | ZDF kocht! | - |
 | <img src="https://images.wpstr.tv/station/zdfkrimi/e468e38c/hd/small?res=216x162" alt="ZDF Krimi" width="120"> | ZDF Krimi | - |
 | <img src="https://images.wpstr.tv/station/zdftelenovela/ce9a39dc/hd/small?res=216x162" alt="ZDF Telenovela" width="120"> | ZDF Telenovela | - |
+| <img src="https://images.wpstr.tv/station/zdfzuhause/2ef97e76/hd/small?res=216x162" alt="ZDF zu Hause" width="120"> | ZDF zu Hause | - |
 | <img src="https://images.wpstr.tv/station/zdfinfo/29ff9c38/hd/small?res=216x162" alt="ZDFinfo" width="120"> | ZDFinfo | - |
 | <img src="https://images.wpstr.tv/station/zdfneo/a4169661/hd/small?res=216x162" alt="ZDFneo" width="120"> | ZDFneo | - |
 | <img src="https://images.wpstr.tv/station/zender/773acb8f/hd/small?res=216x162" alt="Zender" width="120"> | Zender | - |
