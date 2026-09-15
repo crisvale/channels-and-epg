@@ -135,6 +135,8 @@
 | <img src="https://img2.oqee.net/channel_pictures/3321/w400" alt="Marmiton TV" width="120"> | Marmiton TV | 437 |
 | <img src="https://img2.oqee.net/channel_pictures/3899/w400" alt="Doctissimo TV" width="120"> | Doctissimo TV | 438 |
 | <img src="https://img1.oqee.net/channel_pictures/2644/w400" alt="Maison &amp; Travaux TV" width="120"> | Maison &amp; Travaux TV | 439 |
+| <img src="https://img2.oqee.net/channel_pictures/4003/w400" alt="TravelXP" width="120"> | TravelXP | 472 |
+| <img src="https://img1.oqee.net/channel_pictures/3548/w400" alt="Opsis TV" width="120"> | Opsis TV | 473 |
 | <img src="https://img1.oqee.net/channel_pictures/2618/w400" alt="Imearth" width="120"> | Imearth | 476 |
 | <img src="https://img2.oqee.net/channel_pictures/3679/w400" alt="Fashion TV Secrets" width="120"> | Fashion TV Secrets | 477 |
 | <img src="https://img2.oqee.net/channel_pictures/3585/w400" alt="Mieux TV" width="120"> | Mieux TV | 478 |
@@ -223,8 +225,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/3726/w400" alt="Newsmax" width="120"> | Newsmax | 681 |
 | <img src="https://img2.oqee.net/channel_pictures/3819/w400" alt="Now News Global" width="120"> | Now News Global | 683 |
 | <img src="https://img2.oqee.net/channel_pictures/3817/w400" alt="Now News Arabic" width="120"> | Now News Arabic | 684 |
-| <img src="https://img1.oqee.net/channel_pictures/3548/w400" alt="Opsis TV" width="120"> | Opsis TV | 702 |
-| <img src="https://img1.oqee.net/channel_pictures/2202/w400" alt="NRJ Hits" width="120"> | NRJ Hits | 721 |
+| <img src="https://img1.oqee.net/channel_pictures/2202/w400" alt="NRJ Hits" width="120"> | NRJ Hits | 701 |
 | <img src="https://img1.oqee.net/channel_pictures/2698/w400" alt="MTV" width="120"> | MTV | 722 |
 | <img src="https://img2.oqee.net/channel_pictures/3035/w400" alt="Vibes TV" width="120"> | Vibes TV | 723 |
 | <img src="https://img1.oqee.net/channel_pictures/1282/w400" alt="Clubbing TV" width="120"> | Clubbing TV | 724 |
