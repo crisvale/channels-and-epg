@@ -35,9 +35,11 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" alt="M+ Estrenos" width="120"> | M+ Estrenos | 12 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MHITS.png" alt="M+ Hits" width="120"> | M+ Hits | 13 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MORIG.png" alt="M+ Originales" width="120"> | M+ Originales | 14 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/TERROR.png" alt="M+ Terror" width="120"> | M+ Terror | 15 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MVCIVA.png" alt="M+ Vacaciones" width="120"> | M+ Vacaciones | 15 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MDOC.png" alt="M+ Documentales" width="120"> | M+ Documentales | 17 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MORGUL.png" alt="M+ Orgullo" width="120"> | M+ Orgullo | 18 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MROMA.png" alt="M+ Romance" width="120"> | M+ Romance | 18 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" alt="M+ Clásicos" width="120"> | M+ Clásicos | 20 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" alt="M+ Acción" width="120"> | M+ Acción | 21 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" alt="M+ Comedia" width="120"> | M+ Comedia | 22 |
