@@ -240,12 +240,12 @@
 | <img src="https://images.wpstr.tv/station/pridetv/eba151c8/hd/small?res=216x162" alt="PRIDEtv" width="120"> | PRIDEtv | - |
 | <img src="https://images.wpstr.tv/station/pro7/97cd877d/hd/small?res=216x162" alt="ProSieben" width="120"> | ProSieben | - |
 | <img src="https://images.wpstr.tv/station/prosiebenfun/d6fb0e7c/hd/small?res=216x162" alt="ProSieben FUN" width="120"> | ProSieben FUN | - |
-| <img src="https://images.wpstr.tv/station/prosieben_maxx/737efcbf/hd/small?res=216x162" alt="ProSieben MAXX" width="120"> | ProSieben MAXX | - |
+| <img src="https://images.wpstr.tv/station/prosieben_maxx/7ffb0c73/hd/small?res=216x162" alt="ProSieben MAXX" width="120"> | ProSieben MAXX | - |
 | <img src="https://images.wpstr.tv/station/quello/7d7c1f26/hd/small?res=216x162" alt="Qello Concerts by Stingray" width="120"> | Qello Concerts by Stingray | - |
 | <img src="https://images.wpstr.tv/station/qvc/11270411/hd/small?res=216x162" alt="QVC" width="120"> | QVC | - |
 | <img src="https://images.wpstr.tv/station/qwest/e11da816/hd/small?res=216x162" alt="QWEST TV" width="120"> | QWEST TV | - |
 | <img src="https://images.wpstr.tv/station/n3_bremen/69e82cf5/hd/small?res=216x162" alt="Radio Bremen" width="120"> | Radio Bremen | - |
-| <img src="https://images.wpstr.tv/station/rauchendecolts/9520101b/hd/small?res=216x162" alt="Rauchende Colts" width="120"> | Rauchende Colts | - |
+| <img src="https://images.wpstr.tv/station/rauchendecolts/a6228e84/sd/small?res=216x162" alt="Rauchende Colts" width="120"> | Rauchende Colts | - |
 | <img src="https://images.wpstr.tv/station/rbb_berlin/7e38cd07/hd/small?res=216x162" alt="RBB Berlin" width="120"> | RBB Berlin | - |
 | <img src="https://images.wpstr.tv/station/rbb_bb/617fd5f5/hd/small?res=216x162" alt="RBB Brandenburg" width="120"> | RBB Brandenburg | - |
 | <img src="https://images.wpstr.tv/station/realcrime/2487a06b/hd/small?res=216x162" alt="Real Crime Deutschland" width="120"> | Real Crime Deutschland | - |
