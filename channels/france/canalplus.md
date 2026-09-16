@@ -115,7 +115,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/324/canal-ouah/CHN43FB/EURONEWS2023_myCANAL_640x480" alt="EURONEWS" width="120"> | EURONEWS | 169 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/589/canal-ouah/CHN43FB/BBCNEWS_POURFB_myCANAL_640x480" alt="BBC NEWS" width="120"> | BBC NEWS | 170 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/13453566" alt="CNN INT." width="120"> | CNN INT. | 171 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54238008" alt="BFM BUSINESS" width="120"> | BFM BUSINESS | 172 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/645/canal-ouah/CHN43FB/CHN43FB_40294-XUrW" alt="BFM BUSINESS" width="120"> | BFM BUSINESS | 172 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/47/canal-ouah/CHN43FB/CHN43FB_47_20220117" alt="BLOOMBERG TV" width="120"> | BLOOMBERG TV | 173 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/64/canal-ouah/CHN43FB/CHN43FB_64_20251213-2rhq" alt="CNBC" width="120"> | CNBC | 174 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/61715905" alt="I24 NEWS" width="120"> | I24 NEWS | 175 |
