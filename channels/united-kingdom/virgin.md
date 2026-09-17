@@ -136,7 +136,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-f1-hd.png" alt="Sky Sports F1 HD" width="120"> | Sky Sports F1 HD | 507 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-tennis-hd.png" alt="Sky Sports Tennis HD" width="120"> | Sky Sports Tennis HD | 508 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-news-hd.png" alt="Sky Sports News HD" width="120"> | Sky Sports News HD | 509 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-action-hd.png" alt="Sky Sports Action HD" width="120"> | Sky Sports Action HD | 510 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-nfl-hd.png" alt="Sky Sports NFL HD" width="120"> | Sky Sports NFL HD | 510 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-mix-hd.png" alt="Sky Sports Mix HD" width="120"> | Sky Sports Mix HD | 511 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-racing-hd.png" alt="Sky Sports Racing HD" width="120"> | Sky Sports Racing HD | 512 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-sports-main-event-uhd.png" alt="Sky SportMainEventUHD" width="120"> | Sky SportMainEventUHD | 513 |
