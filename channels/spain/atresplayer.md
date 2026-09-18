@@ -23,4 +23,4 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" alt="Comedia" width="120"> | Comedia | 17 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" alt="Mentes inquietas" width="120"> | Mentes inquietas | 18 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" alt="atresplayer PREMIUM" width="120"> | atresplayer PREMIUM | 19 |
-| - | Eventos 2 | 19 |
+| - | Eventos 2 | 20 |
