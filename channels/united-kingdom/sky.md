@@ -152,8 +152,8 @@
 | - | U&amp;Eden+1 | 266 |
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
-| - | SuperheroHD | 302 |
-| - | ExpendablesHD | 303 |
+| - | Sky5*MoviesHD | 302 |
+| - | Sky Bourne HD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
