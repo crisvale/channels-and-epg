@@ -182,7 +182,9 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/USOP11.png" alt="M+ Deportes 5" width="120"> | M+ Deportes 5 | 192 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI8.png" alt="M+ Deportes 6" width="120"> | M+ Deportes 6 | 193 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MBALC3.png" alt="M+ Baloncesto 3" width="120"> | M+ Baloncesto 3 | 194 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MBALC4.png" alt="M+ Baloncesto 4" width="120"> | M+ Baloncesto 4 | 195 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MULTI6.png" alt="M+ Deportes 7" width="120"> | M+ Deportes 7 | 195 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MBALC5.png" alt="M+ Baloncesto 5" width="120"> | M+ Baloncesto 5 | 196 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN3.png" alt="DAZN 3" width="120"> | DAZN 3 | 197 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZN4.png" alt="DAZN 4" width="120"> | DAZN 4 | 198 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/FUTREP.png" alt="Canal Fútbol Replay" width="120"> | Canal Fútbol Replay | 199 |
