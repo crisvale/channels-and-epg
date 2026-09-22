@@ -29,7 +29,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20833/ncplus-ouah/CHN43FB/Minimini_web_2019-1200x900-ICMi" alt="MINIMINI+" width="120"> | MINIMINI+ | 25 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20842/CHN43FB/teleTOON_640_480_0503.png" alt="TELETOON+" width="120"> | TELETOON+ | 26 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20295/ncplus-ouah/CHN43FB/KinoPolska_green-4HyX" alt="KINO POLSKA" width="120"> | KINO POLSKA | 28 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21841/ncplus-ouah/CHN43FB/NOVELAS_red" alt="NOVELAS+" width="120"> | NOVELAS+ | 29 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21841/ncplus-ouah/CHN43FB/1200x900_Novelas_wersja_dopisek-1-PrAD" alt="NOVELAS+" width="120"> | NOVELAS+ | 29 |
 | - | Strefa Abonenta | 30 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20845/CHN43FB/CANAL_FILM_640_480_0503.png" alt="CANAL+ FILM" width="120"> | CANAL+ FILM | 33 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20927/CHN43FB/CANAL_SERIALE_640_480_0503.png" alt="CANAL+ SERIALE" width="120"> | CANAL+ SERIALE | 34 |
