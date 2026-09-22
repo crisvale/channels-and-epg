@@ -273,6 +273,9 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" alt="Wedo Big Stories" width="120"> | Wedo Big Stories | 458 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png" alt="Xtrem Sports" width="120"> | Xtrem Sports | 459 |
+| <img src="https://media.tvup.cloud/canales/color_lg_649977e7ca8cb98b3d9ccf7c.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 501 |
+| <img src="https://media.tvup.cloud/canales/color_lg_647454e566328d12f03b379b.png" alt="Euronews" width="120"> | Euronews | 502 |
+| <img src="https://media.tvup.cloud/canales/color_lg_68c7df647c00ba20368f22dc_1757929316669.png" alt="Rabbids Invasion" width="120"> | Rabbids Invasion | 503 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png" alt="SIC Internacional" width="120"> | SIC Internacional | 510 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png" alt="SIC Noticias" width="120"> | SIC Noticias | 511 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png" alt="RTPi" width="120"> | RTPi | 512 |
