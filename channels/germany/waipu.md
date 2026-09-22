@@ -18,7 +18,7 @@
 | <img src="https://images.wpstr.tv/station/adventure/c94044b5/hd/small?res=216x162" alt="Adventure Channel" width="120"> | Adventure Channel | - |
 | <img src="https://images.wpstr.tv/station/aljazeera_en/d90edd44/hd/small?res=216x162" alt="Al Jazeera English" width="120"> | Al Jazeera English | - |
 | <img src="https://images.wpstr.tv/station/alexibexi/e10fd98f/hd/small?res=216x162" alt="AlexiBexi" width="120"> | AlexiBexi | - |
-| <img src="https://images.wpstr.tv/station/alleswaszaehlt/9ab47cbe/sd/small?res=216x162" alt="Alles was zählt Classics" width="120"> | Alles was zählt Classics | - |
+| <img src="https://images.wpstr.tv/station/alleswaszaehlt/bc051bc9/sd/small?res=216x162" alt="Alles was zählt Classics" width="120"> | Alles was zählt Classics | - |
 | <img src="https://images.wpstr.tv/station/animalplanet/d0c4489d/hd/small?res=216x162" alt="Animal Planet" width="120"> | Animal Planet | - |
 | <img src="https://images.wpstr.tv/station/aquarium/8c9d236c/hd/small?res=216x162" alt="Aquarium" width="120"> | Aquarium | - |
 | <img src="https://images.wpstr.tv/station/krimiklassiker/fee5b724/hd/small?res=216x162" alt="ARD Plus Krimiklassiker" width="120"> | ARD Plus Krimiklassiker | - |
@@ -41,7 +41,7 @@
 | <img src="https://images.wpstr.tv/station/planet/26d10a59/hd/small?res=216x162" alt="Bergblick" width="120"> | Bergblick | - |
 | <img src="https://images.wpstr.tv/station/bestofcomedy/9a30c677/hd/small?res=216x162" alt="Best of Comedy" width="120"> | Best of Comedy | - |
 | <img src="https://images.wpstr.tv/station/bestofthevoice/18186e61/hd/small?res=216x162" alt="Best of The Voice" width="120"> | Best of The Voice | - |
-| <img src="https://images.wpstr.tv/station/beverlyhills90210/b511128f/hd/small?res=216x162" alt="Beverly Hills, 90210" width="120"> | Beverly Hills, 90210 | - |
+| <img src="https://images.wpstr.tv/station/beverlyhills90210/141c9c77/hd/small?res=216x162" alt="Beverly Hills, 90210" width="120"> | Beverly Hills, 90210 | - |
 | <img src="https://images.wpstr.tv/station/beyaz/8d5a110d/hd/small?res=216x162" alt="Beyaz TV" width="120"> | Beyaz TV | - |
 | <img src="https://images.wpstr.tv/station/beyblade/641c2a3c/hd/small?res=216x162" alt="Beyblade" width="120"> | Beyblade | - |
 | <img src="https://images.wpstr.tv/station/bibel/94395c05/hd/small?res=216x162" alt="Bibel TV" width="120"> | Bibel TV | - |
@@ -77,13 +77,13 @@
 | <img src="https://images.wpstr.tv/station/dazn1/afe606fb/hd/small?res=216x162" alt="DAZN 1" width="120"> | DAZN 1 | - |
 | <img src="https://images.wpstr.tv/station/dazn2/69c596e2/hd/small?res=216x162" alt="DAZN 2" width="120"> | DAZN 2 | - |
 | <img src="https://images.wpstr.tv/station/daznfast/ebb43bab/hd/small?res=216x162" alt="DAZN FAST" width="120"> | DAZN FAST | - |
-| <img src="https://images.wpstr.tv/station/daznrise/9a8e5e81/hd/small?res=216x162" alt="DAZN RISE" width="120"> | DAZN RISE | - |
+| <img src="https://images.wpstr.tv/station/daznrise/cadc62a3/hd/small?res=216x162" alt="DAZN RISE" width="120"> | DAZN RISE | - |
 | <img src="https://images.wpstr.tv/station/ddrtv/fb59b25f/hd/small?res=216x162" alt="DDR TV-Archiv" width="120"> | DDR TV-Archiv | - |
 | <img src="https://images.wpstr.tv/station/defatv/a25a2cc0/sd/small?res=216x162" alt="DEFA TV" width="120"> | DEFA TV | - |
-| <img src="https://images.wpstr.tv/station/deluxedance/117dfd7a/hd/small?res=216x162" alt="DELUXE DANCE by Kontor" width="120"> | DELUXE DANCE by Kontor | - |
+| <img src="https://images.wpstr.tv/station/deluxedance/36334b06/hd/small?res=216x162" alt="DELUXE DANCE by Kontor" width="120"> | DELUXE DANCE by Kontor | - |
 | <img src="https://images.wpstr.tv/station/deluxelounge/c7570d51/hd/small?res=216x162" alt="DELUXE LOUNGE" width="120"> | DELUXE LOUNGE | - |
 | <img src="https://images.wpstr.tv/station/deluxetv/54dbedd1/hd/small?res=216x162" alt="DELUXE MUSIC" width="120"> | DELUXE MUSIC | - |
-| <img src="https://images.wpstr.tv/station/deluxerap/59151c8b/hd/small?res=216x162" alt="DELUXE RAP" width="120"> | DELUXE RAP | - |
+| <img src="https://images.wpstr.tv/station/deluxerap/cbf86445/hd/small?res=216x162" alt="DELUXE RAP" width="120"> | DELUXE RAP | - |
 | <img src="https://images.wpstr.tv/station/derspiegel/4856f553/hd/small?res=216x162" alt="DER SPIEGEL" width="120"> | DER SPIEGEL | - |
 | <img src="https://images.wpstr.tv/station/alleskino/d813c8b2/hd/small?res=216x162" alt="Deutsche Filme" width="120"> | Deutsche Filme | - |
 | <img src="https://images.wpstr.tv/station/df1/d4febd2d/hd/small?res=216x162" alt="DF1" width="120"> | DF1 | - |
@@ -91,9 +91,9 @@
 | <img src="https://images.wpstr.tv/station/disney/e34c2a22/hd/small?res=216x162" alt="Disney Channel" width="120"> | Disney Channel | - |
 | <img src="https://images.wpstr.tv/station/diyanet/0d2cc097/hd/small?res=216x162" alt="Diyanet TV" width="120"> | Diyanet TV | - |
 | <img src="https://images.wpstr.tv/station/dmax/9b319bf5/hd/small?res=216x162" alt="DMAX" width="120"> | DMAX | - |
-| <img src="https://images.wpstr.tv/station/dmaxblaulicht/a6eace8b/hd/small?res=216x162" alt="DMAX Blaulicht" width="120"> | DMAX Blaulicht | - |
-| <img src="https://images.wpstr.tv/station/dmaxmotor/38db36f9/hd/small?res=216x162" alt="DMAX Motor" width="120"> | DMAX Motor | - |
-| <img src="https://images.wpstr.tv/station/dmaxschatzsucher/60a42be0/hd/small?res=216x162" alt="DMAX Schatzsucher" width="120"> | DMAX Schatzsucher | - |
+| <img src="https://images.wpstr.tv/station/dmaxblaulicht/ca26be21/hd/small?res=216x162" alt="DMAX Blaulicht" width="120"> | DMAX Blaulicht | - |
+| <img src="https://images.wpstr.tv/station/dmaxmotor/87376854/hd/small?res=216x162" alt="DMAX Motor" width="120"> | DMAX Motor | - |
+| <img src="https://images.wpstr.tv/station/dmaxschatzsucher/704c8bcb/hd/small?res=216x162" alt="DMAX Schatzsucher" width="120"> | DMAX Schatzsucher | - |
 | <img src="https://images.wpstr.tv/station/deutschesmusikfernsehen/4f46fb30/hd/small?res=216x162" alt="DMF" width="120"> | DMF | - |
 | <img src="https://images.wpstr.tv/station/doityourself/1ac2af68/hd/small?res=216x162" alt="Do it yourself" width="120"> | Do it yourself | - |
 | <img src="https://images.wpstr.tv/station/docubox/221de2bf/hd/small?res=216x162" alt="DocuBox" width="120"> | DocuBox | - |
@@ -127,7 +127,7 @@
 | <img src="https://images.wpstr.tv/station/fight24/7c4fa8d3/hd/small?res=216x162" alt="Fight24" width="120"> | Fight24 | - |
 | <img src="https://images.wpstr.tv/station/fightbox/b49d73ea/hd/small?res=216x162" alt="FightBox" width="120"> | FightBox | - |
 | <img src="https://images.wpstr.tv/station/filmtotal/cd606ee4/hd/small?res=216x162" alt="Film Total" width="120"> | Film Total | - |
-| <img src="https://images.wpstr.tv/station/filmboxarthouse/68014173/hd/small?res=216x162" alt="Filmbox+ Festival" width="120"> | Filmbox+ Festival | - |
+| <img src="https://images.wpstr.tv/station/filmboxarthouse/f1e587f1/hd/small?res=216x162" alt="Filmbox+ Festival" width="120"> | Filmbox+ Festival | - |
 | <img src="https://images.wpstr.tv/station/filmlegenden/09b15d30/hd/small?res=216x162" alt="Filmlegenden" width="120"> | Filmlegenden | - |
 | <img src="https://images.wpstr.tv/station/filmpalast/cbbb75b6/hd/small?res=216x162" alt="Filmpalast" width="120"> | Filmpalast | - |
 | <img src="https://images.wpstr.tv/station/filmrise/e5bab90b/hd/small?res=216x162" alt="FilmRise Serien" width="120"> | FilmRise Serien | - |
@@ -145,10 +145,11 @@
 | <img src="https://images.wpstr.tv/station/gronkh/60f4a895/hd/small?res=216x162" alt="Gronkh" width="120"> | Gronkh | - |
 | <img src="https://images.wpstr.tv/station/gutelaune/0c36779c/hd/small?res=216x162" alt="Gute Laune TV" width="120"> | Gute Laune TV | - |
 | <img src="https://images.wpstr.tv/station/gymondo/85ff24ef/hd/small?res=216x162" alt="Gymondo" width="120"> | Gymondo | - |
+| <img src="https://images.wpstr.tv/station/h2o/1066646b/hd/small?res=216x162" alt="H2O &amp; Friends" width="120"> | H2O &amp; Friends | - |
 | <img src="https://images.wpstr.tv/station/haberturk/a9b739bd/hd/small?res=216x162" alt="HABERTURK" width="120"> | HABERTURK | - |
 | <img src="https://images.wpstr.tv/station/hakunan/54b22e6b/hd/small?res=216x162" alt="Hakunan" width="120"> | Hakunan | - |
 | <img src="https://images.wpstr.tv/station/handystar/3f5dafa9/hd/small?res=216x162" alt="Handystar.tv" width="120"> | Handystar.tv | - |
-| <img src="https://images.wpstr.tv/station/happyentertainment/708b2789/hd/small?res=216x162" alt="Happy Entertainment" width="120"> | Happy Entertainment | - |
+| <img src="https://images.wpstr.tv/station/happyentertainment/b2f07f88/hd/small?res=216x162" alt="Happy Entertainment" width="120"> | Happy Entertainment | - |
 | <img src="https://images.wpstr.tv/station/heimatkanal/0a2164be/hd/small?res=216x162" alt="Heimatkanal" width="120"> | Heimatkanal | - |
 | <img src="https://images.wpstr.tv/station/herzfrequenztv/29337588/hd/small?res=216x162" alt="Herzfrequenz" width="120"> | Herzfrequenz | - |
 | <img src="https://images.wpstr.tv/station/heyaaron/ed8e0bc6/hd/small?res=216x162" alt="Hey Aaron!!!" width="120"> | Hey Aaron!!! | - |
@@ -163,12 +164,12 @@
 | <img src="https://images.wpstr.tv/station/hotpassion/38a48c15/hd/small?res=216x162" alt="Hot Passion" width="120"> | Hot Passion | - |
 | <img src="https://images.wpstr.tv/station/hr/f449d093/hd/small?res=216x162" alt="hr-fernsehen" width="120"> | hr-fernsehen | - |
 | <img src="https://images.wpstr.tv/station/home_shopping_europe/e5a28066/hd/small?res=216x162" alt="HSE" width="120"> | HSE | - |
-| <img src="https://images.wpstr.tv/station/hundkatzemaus/47bdbfca/sd/small?res=216x162" alt="Hundkatzemaus" width="120"> | Hundkatzemaus | - |
+| <img src="https://images.wpstr.tv/station/hundkatzemaus/96a0bbbc/sd/small?res=216x162" alt="Hundkatzemaus" width="120"> | Hundkatzemaus | - |
 | <img src="https://images.wpstr.tv/station/janosch/cc24e715/hd/small?res=216x162" alt="Janoschs Traumstunde" width="120"> | Janoschs Traumstunde | - |
 | <img src="https://images.wpstr.tv/station/jpperformance/f2308c9d/hd/small?res=216x162" alt="JP Performance" width="120"> | JP Performance | - |
 | <img src="https://images.wpstr.tv/station/jukebox/a08c7acb/hd/small?res=216x162" alt="Jukebox" width="120"> | Jukebox | - |
 | <img src="https://images.wpstr.tv/station/justcooking/9b9b1983/hd/small?res=216x162" alt="Just Cooking" width="120"> | Just Cooking | - |
-| <img src="https://images.wpstr.tv/station/ktv/88b6fbac/hd/small?res=216x162" alt="K-TV" width="120"> | K-TV | - |
+| <img src="https://images.wpstr.tv/station/ktv/d89a9f7a/hd/small?res=216x162" alt="K-TV" width="120"> | K-TV | - |
 | <img src="https://images.wpstr.tv/station/kabeleins/0db6b3a0/hd/small?res=216x162" alt="Kabel Eins" width="120"> | Kabel Eins | - |
 | <img src="https://images.wpstr.tv/station/kabeleinsclassics/535a5372/hd/small?res=216x162" alt="Kabel Eins CLASSICS" width="120"> | Kabel Eins CLASSICS | - |
 | <img src="https://images.wpstr.tv/station/kabeleinsdoku/e68ed845/hd/small?res=216x162" alt="Kabel Eins Doku" width="120"> | Kabel Eins Doku | - |
@@ -181,7 +182,7 @@
 | <img src="https://images.wpstr.tv/station/kinoweltcatchup/08ca8239/hd/small?res=216x162" alt="KinoweltTV Catch-Up" width="120"> | KinoweltTV Catch-Up | - |
 | <img src="https://images.wpstr.tv/station/kultkrimi/45da634e/hd/small?res=216x162" alt="KultKrimi" width="120"> | KultKrimi | - |
 | <img src="https://images.wpstr.tv/station/ladykracher/d4f862a6/hd/small?res=216x162" alt="Ladykracher" width="120"> | Ladykracher | - |
-| <img src="https://images.wpstr.tv/station/landlust/0ac19159/hd/small?res=216x162" alt="Landlust TV" width="120"> | Landlust TV | - |
+| <img src="https://images.wpstr.tv/station/landlust/ffe05cf2/hd/small?res=216x162" alt="Landlust TV" width="120"> | Landlust TV | - |
 | <img src="https://images.wpstr.tv/station/lindenstrasse/b5e84c78/sd/small?res=216x162" alt="Lindenstraße" width="120"> | Lindenstraße | - |
 | <img src="https://images.wpstr.tv/station/looloo/9f52ba02/hd/small?res=216x162" alt="LooLoo Kids TV" width="120"> | LooLoo Kids TV | - |
 | <img src="https://images.wpstr.tv/station/lovepassion/2112b581/hd/small?res=216x162" alt="Love &amp; Passion" width="120"> | Love &amp; Passion | - |
@@ -191,7 +192,7 @@
 | <img src="https://images.wpstr.tv/station/mdr_th/6806835d/hd/small?res=216x162" alt="MDR Thüringen" width="120"> | MDR Thüringen | - |
 | <img src="https://images.wpstr.tv/station/meisterderkueche/6eaff4be/hd/small?res=216x162" alt="Meister der Küche" width="120"> | Meister der Küche | - |
 | <img src="https://images.wpstr.tv/station/melodietv/5ba1f88a/sd/small?res=216x162" alt="Melodie TV" width="120"> | Melodie TV | - |
-| <img src="https://images.wpstr.tv/station/metalrocks/76a7186e/hd/small?res=216x162" alt="Metal.Rocks" width="120"> | Metal.Rocks | - |
+| <img src="https://images.wpstr.tv/station/metalrocks/7467df0e/hd/small?res=216x162" alt="Metal.Rocks" width="120"> | Metal.Rocks | - |
 | <img src="https://images.wpstr.tv/station/miniaturwunderland/e2eb5732/hd/small?res=216x162" alt="Miniaturwunderland" width="120"> | Miniaturwunderland | - |
 | <img src="https://images.wpstr.tv/station/moconomy/c6b11469/hd/small?res=216x162" alt="Moconomy" width="120"> | Moconomy | - |
 | <img src="https://images.wpstr.tv/station/eotv/f5781936/hd/small?res=216x162" alt="More Than Sports TV" width="120"> | More Than Sports TV | - |
@@ -207,7 +208,7 @@
 | <img src="https://images.wpstr.tv/station/musicbox00/1dc11d6e/hd/small?res=216x162" alt="Music Box 00s" width="120"> | Music Box 00s | - |
 | <img src="https://images.wpstr.tv/station/musicbox80/eb4d027f/hd/small?res=216x162" alt="Music Box 80s" width="120"> | Music Box 80s | - |
 | <img src="https://images.wpstr.tv/station/musicbox90/badb5edd/hd/small?res=216x162" alt="Music Box 90s" width="120"> | Music Box 90s | - |
-| <img src="https://images.wpstr.tv/station/musicboxclassic/99bfb7de/hd/small?res=216x162" alt="Music Box Classic" width="120"> | Music Box Classic | - |
+| <img src="https://images.wpstr.tv/station/musicboxclassic/10c6bd7b/hd/small?res=216x162" alt="Music Box Classic" width="120"> | Music Box Classic | - |
 | <img src="https://images.wpstr.tv/station/musicboxdance/13323b8e/hd/small?res=216x162" alt="Music Box Dance" width="120"> | Music Box Dance | - |
 | <img src="https://images.wpstr.tv/station/musicboxhits/39564b48/hd/small?res=216x162" alt="Music Box Hits" width="120"> | Music Box Hits | - |
 | <img src="https://images.wpstr.tv/station/myanimationkids/313838f5/hd/small?res=216x162" alt="My Animation Kids" width="120"> | My Animation Kids | - |
@@ -217,7 +218,7 @@
 | <img src="https://images.wpstr.tv/station/ntv/b71927b9/hd/small?res=216x162" alt="n-tv" width="120"> | n-tv | - |
 | <img src="https://images.wpstr.tv/station/n24doku/8e23088b/hd/small?res=216x162" alt="N24 Doku" width="120"> | N24 Doku | - |
 | <img src="https://images.wpstr.tv/station/kixi/bab6d25e/hd/small?res=216x162" alt="nanoki" width="120"> | nanoki | - |
-| <img src="https://images.wpstr.tv/station/naruto/53390cd8/hd/small?res=216x162" alt="NARUTO" width="120"> | NARUTO | - |
+| <img src="https://images.wpstr.tv/station/naruto/3362c411/hd/small?res=216x162" alt="NARUTO" width="120"> | NARUTO | - |
 | <img src="https://images.wpstr.tv/station/natgeo/5e79004a/hd/small?res=216x162" alt="National Geographic" width="120"> | National Geographic | - |
 | <img src="https://images.wpstr.tv/station/natgeowild/a7d4bad9/hd/small?res=216x162" alt="National Geographic WILD" width="120"> | National Geographic WILD | - |
 | <img src="https://images.wpstr.tv/station/n3_hamburg/e34b584d/hd/small?res=216x162" alt="NDR Hamburg" width="120"> | NDR Hamburg | - |
@@ -245,12 +246,12 @@
 | <img src="https://images.wpstr.tv/station/qvc/11270411/hd/small?res=216x162" alt="QVC" width="120"> | QVC | - |
 | <img src="https://images.wpstr.tv/station/qwest/e11da816/hd/small?res=216x162" alt="QWEST TV" width="120"> | QWEST TV | - |
 | <img src="https://images.wpstr.tv/station/n3_bremen/69e82cf5/hd/small?res=216x162" alt="Radio Bremen" width="120"> | Radio Bremen | - |
-| <img src="https://images.wpstr.tv/station/rauchendecolts/a6228e84/sd/small?res=216x162" alt="Rauchende Colts" width="120"> | Rauchende Colts | - |
+| <img src="https://images.wpstr.tv/station/rauchendecolts/c68253eb/sd/small?res=216x162" alt="Rauchende Colts" width="120"> | Rauchende Colts | - |
 | <img src="https://images.wpstr.tv/station/rbb_berlin/7e38cd07/hd/small?res=216x162" alt="RBB Berlin" width="120"> | RBB Berlin | - |
 | <img src="https://images.wpstr.tv/station/rbb_bb/617fd5f5/hd/small?res=216x162" alt="RBB Brandenburg" width="120"> | RBB Brandenburg | - |
 | <img src="https://images.wpstr.tv/station/realcrime/2487a06b/hd/small?res=216x162" alt="Real Crime Deutschland" width="120"> | Real Crime Deutschland | - |
 | <img src="https://images.wpstr.tv/station/rechtgerechtigkeit/c01cc0a0/hd/small?res=216x162" alt="Recht &amp; Gerechtigkeit" width="120"> | Recht &amp; Gerechtigkeit | - |
-| <img src="https://images.wpstr.tv/station/redbull/8de2b3ab/hd/small?res=216x162" alt="Red Bull TV" width="120"> | Red Bull TV | - |
+| <img src="https://images.wpstr.tv/station/redbull/30f7ab60/hd/small?res=216x162" alt="Red Bull TV" width="120"> | Red Bull TV | - |
 | <img src="https://images.wpstr.tv/station/redbullexplore/ef4d687c/hd/small?res=216x162" alt="Red Bull TV Extreme" width="120"> | Red Bull TV Extreme | - |
 | <img src="https://images.wpstr.tv/station/retroserien/f72acf81/hd/small?res=216x162" alt="Retro Serien" width="120"> | Retro Serien | - |
 | <img src="https://images.wpstr.tv/station/retrotv/775c7c9b/sd/small?res=216x162" alt="Retro TV" width="120"> | Retro TV | - |
@@ -261,12 +262,12 @@
 | <img src="https://images.wpstr.tv/station/romancecatchup/dfd43a8d/hd/small?res=216x162" alt="Romance TV Catch-Up" width="120"> | Romance TV Catch-Up | - |
 | <img src="https://images.wpstr.tv/station/royalworld/69b63fd5/hd/small?res=216x162" alt="Royalworld - Adel &amp; Dynastien" width="120"> | Royalworld - Adel &amp; Dynastien | - |
 | <img src="https://images.wpstr.tv/station/rtl/7f467b35/hd/small?res=216x162" alt="RTL" width="120"> | RTL | - |
-| <img src="https://images.wpstr.tv/station/rtlcomedy/18d26e4b/sd/small?res=216x162" alt="RTL Comedy" width="120"> | RTL Comedy | - |
+| <img src="https://images.wpstr.tv/station/rtlcomedy/e7f0ebe6/sd/small?res=216x162" alt="RTL Comedy" width="120"> | RTL Comedy | - |
 | <img src="https://images.wpstr.tv/station/rtlcrime/69cde3fd/hd/small?res=216x162" alt="RTL Crime" width="120"> | RTL Crime | - |
-| <img src="https://images.wpstr.tv/station/rtlhausgarten/514bffd5/sd/small?res=216x162" alt="RTL Haus &amp; Garten" width="120"> | RTL Haus &amp; Garten | - |
+| <img src="https://images.wpstr.tv/station/rtlhausgarten/20cfc979/sd/small?res=216x162" alt="RTL Haus &amp; Garten" width="120"> | RTL Haus &amp; Garten | - |
 | <img src="https://images.wpstr.tv/station/rtlliving/fa60f4d6/hd/small?res=216x162" alt="RTL Living" width="120"> | RTL Living | - |
 | <img src="https://images.wpstr.tv/station/rtlpassion/2b06a022/hd/small?res=216x162" alt="RTL Passion" width="120"> | RTL Passion | - |
-| <img src="https://images.wpstr.tv/station/rtlshine/2c69176c/sd/small?res=216x162" alt="RTL Shine" width="120"> | RTL Shine | - |
+| <img src="https://images.wpstr.tv/station/rtlshine/8aca55a1/sd/small?res=216x162" alt="RTL Shine" width="120"> | RTL Shine | - |
 | <img src="https://images.wpstr.tv/station/rtlplus/2b3b43b6/hd/small?res=216x162" alt="RTLup" width="120"> | RTLup | - |
 | <img src="https://images.wpstr.tv/station/rtl2/89d52a50/hd/small?res=216x162" alt="RTLZWEI" width="120"> | RTLZWEI | - |
 | <img src="https://images.wpstr.tv/station/rtlzweiclips/5bb21597/hd/small?res=216x162" alt="RTLZWEI Clips" width="120"> | RTLZWEI Clips | - |
@@ -319,7 +320,7 @@
 | <img src="https://images.wpstr.tv/station/tagesschau24/91448dff/hd/small?res=216x162" alt="tagesschau24" width="120"> | tagesschau24 | - |
 | <img src="https://images.wpstr.tv/station/tele5/92127733/hd/small?res=216x162" alt="TELE 5" width="120"> | TELE 5 | - |
 | <img src="https://images.wpstr.tv/station/tempora/6a376444/sd/small?res=216x162" alt="Tempora" width="120"> | Tempora | - |
-| <img src="https://images.wpstr.tv/station/tennischannel/d237f29d/hd/small?res=216x162" alt="Tennis Channel" width="120"> | Tennis Channel | - |
+| <img src="https://images.wpstr.tv/station/tennischannel/a0d78426/hd/small?res=216x162" alt="Tennis Channel" width="120"> | Tennis Channel | - |
 | <img src="https://images.wpstr.tv/station/terramater/2de460ad/hd/small?res=216x162" alt="Terra Mater WILD" width="120"> | Terra Mater WILD | - |
 | <img src="https://images.wpstr.tv/station/teve2/fd43a3bb/hd/small?res=216x162" alt="teve2" width="120"> | teve2 | - |
 | <img src="https://images.wpstr.tv/station/tgrtbelgesel/a75919c8/hd/small?res=216x162" alt="TGRT Belgesel" width="120"> | TGRT Belgesel | - |
@@ -329,14 +330,14 @@
 | <img src="https://images.wpstr.tv/station/time2rlx/fb915c7e/hd/small?res=216x162" alt="time2Rlx" width="120"> | time2Rlx | - |
 | <img src="https://images.wpstr.tv/station/timeline/7f810233/hd/small?res=216x162" alt="Timeline Deutschland" width="120"> | Timeline Deutschland | - |
 | <img src="https://images.wpstr.tv/station/tlc/170f129b/hd/small?res=216x162" alt="TLC" width="120"> | TLC | - |
-| <img src="https://images.wpstr.tv/station/tlccrime/fc737f7e/hd/small?res=216x162" alt="TLC Crime" width="120"> | TLC Crime | - |
-| <img src="https://images.wpstr.tv/station/tlcmystery/3f091334/hd/small?res=216x162" alt="TLC Mystery" width="120"> | TLC Mystery | - |
+| <img src="https://images.wpstr.tv/station/tlccrime/35cf5e24/hd/small?res=216x162" alt="TLC Crime" width="120"> | TLC Crime | - |
+| <img src="https://images.wpstr.tv/station/tlcmystery/60380b47/hd/small?res=216x162" alt="TLC Mystery" width="120"> | TLC Mystery | - |
 | <img src="https://images.wpstr.tv/station/toggoplus/e0ba4635/hd/small?res=216x162" alt="TOGGO plus" width="120"> | TOGGO plus | - |
 | <img src="https://images.wpstr.tv/station/topfilme/b5a9d79b/hd/small?res=216x162" alt="Top Filme" width="120"> | Top Filme | - |
-| <img src="https://images.wpstr.tv/station/topscifi/f5154f31/hd/small?res=216x162" alt="TOP SCI-FI" width="120"> | TOP SCI-FI | - |
+| <img src="https://images.wpstr.tv/station/topscifi/ab83dbf7/hd/small?res=216x162" alt="TOP SCI-FI" width="120"> | TOP SCI-FI | - |
 | <img src="https://images.wpstr.tv/station/craction/ebb81abc/hd/small?res=216x162" alt="Top Serien" width="120"> | Top Serien | - |
-| <img src="https://images.wpstr.tv/station/toptruecrime/39c8b8f3/hd/small?res=216x162" alt="TOP TRUE CRIME" width="120"> | TOP TRUE CRIME | - |
-| <img src="https://images.wpstr.tv/station/travelxp/f1a47c5d/hd/small?res=216x162" alt="travelxp" width="120"> | travelxp | - |
+| <img src="https://images.wpstr.tv/station/toptruecrime/ecc5305b/hd/small?res=216x162" alt="TOP TRUE CRIME" width="120"> | TOP TRUE CRIME | - |
+| <img src="https://images.wpstr.tv/station/travelxp/9c18d0e9/hd/small?res=216x162" alt="travelxp" width="120"> | travelxp | - |
 | <img src="https://images.wpstr.tv/station/trtarapca/b8cae87a/hd/small?res=216x162" alt="TRT Arabi" width="120"> | TRT Arabi | - |
 | <img src="https://images.wpstr.tv/station/trtavaz/3afba8b7/hd/small?res=216x162" alt="TRT Avaz" width="120"> | TRT Avaz | - |
 | <img src="https://images.wpstr.tv/station/trtbelgesel/b9cb18eb/hd/small?res=216x162" alt="TRT Belgesel" width="120"> | TRT Belgesel | - |
@@ -387,15 +388,15 @@
 | <img src="https://images.wpstr.tv/station/wirangeln/34c58601/hd/small?res=216x162" alt="Wir angeln" width="120"> | Wir angeln | - |
 | <img src="https://images.wpstr.tv/station/wir24/c202fdcf/hd/small?res=216x162" alt="Wir24.tv - Der Haushalts Channel" width="120"> | Wir24.tv - Der Haushalts Channel | - |
 | <img src="https://images.wpstr.tv/station/xfactor/670de5db/hd/small?res=216x162" alt="X-Factor by Filmrise" width="120"> | X-Factor by Filmrise | - |
-| <img src="https://images.wpstr.tv/station/xitehits/4d7225c2/hd/small?res=216x162" alt="XITE Hits" width="120"> | XITE Hits | - |
-| <img src="https://images.wpstr.tv/station/xiterb/10f6d985/hd/small?res=216x162" alt="xite R&amp;B Classic Jams" width="120"> | xite R&amp;B Classic Jams | - |
+| <img src="https://images.wpstr.tv/station/xitehits/cc37cb58/hd/small?res=216x162" alt="XITE Hits" width="120"> | XITE Hits | - |
+| <img src="https://images.wpstr.tv/station/xiterb/b06e073f/hd/small?res=216x162" alt="xite R&amp;B Classic Jams" width="120"> | xite R&amp;B Classic Jams | - |
 | <img src="https://images.wpstr.tv/station/xplorefree/b9c83832/hd/small?res=216x162" alt="XPLORE" width="120"> | XPLORE | - |
 | <img src="https://images.wpstr.tv/station/yugioh/4bd941f1/sd/small?res=216x162" alt="Yu-Gi-Oh!" width="120"> | Yu-Gi-Oh! | - |
 | <img src="https://images.wpstr.tv/station/zdf/74d6f9f9/hd/small?res=216x162" alt="ZDF" width="120"> | ZDF | - |
 | <img src="https://images.wpstr.tv/station/zdfkocht/d88ecabf/hd/small?res=216x162" alt="ZDF kocht!" width="120"> | ZDF kocht! | - |
 | <img src="https://images.wpstr.tv/station/zdfkrimi/e468e38c/hd/small?res=216x162" alt="ZDF Krimi" width="120"> | ZDF Krimi | - |
 | <img src="https://images.wpstr.tv/station/zdftelenovela/ce9a39dc/hd/small?res=216x162" alt="ZDF Telenovela" width="120"> | ZDF Telenovela | - |
-| <img src="https://images.wpstr.tv/station/zdfzuhause/2ef97e76/hd/small?res=216x162" alt="ZDF zu Hause" width="120"> | ZDF zu Hause | - |
+| <img src="https://images.wpstr.tv/station/zdfzuhause/0b7d3148/hd/small?res=216x162" alt="ZDF zu Hause" width="120"> | ZDF zu Hause | - |
 | <img src="https://images.wpstr.tv/station/zdfinfo/29ff9c38/hd/small?res=216x162" alt="ZDFinfo" width="120"> | ZDFinfo | - |
 | <img src="https://images.wpstr.tv/station/zdfneo/a4169661/hd/small?res=216x162" alt="ZDFneo" width="120"> | ZDFneo | - |
 | <img src="https://images.wpstr.tv/station/zender/773acb8f/hd/small?res=216x162" alt="Zender" width="120"> | Zender | - |
