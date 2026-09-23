@@ -29,10 +29,10 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png" alt="TPA8" width="120"> | TPA8 | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png" alt="TVG 2" width="120"> | TVG 2 | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png" alt="2Cat" width="120"> | 2Cat | 9 |
-| <img src="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png?t=1689255642" alt="Pocoyó" width="120"> | Pocoyó | 10 |
+| <img src="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 10 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 11 |
-| <img src="https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png" alt="El Mueble" width="120"> | El Mueble | 11 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6788ed16eb47e03b4d571b79_1742820515097.png" alt="Anime Visión Classics" width="120"> | Anime Visión Classics | 12 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png" alt="Euronews" width="120"> | Euronews | 11 |
+| <img src="https://media.tvup.cloud/canales/color_lg_68245fddfd0e5f592c906fb5_1756896784354.png" alt="Rabbids Invasion" width="120"> | Rabbids Invasion | 12 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png" alt="TRECE" width="120"> | TRECE | 13 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png?t=1660723494" alt="AXN" width="120"> | AXN | 15 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png" alt="AMC" width="120"> | AMC | 17 |
@@ -49,7 +49,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_67ea6a60da42272606a72910_1748330325630.png" alt="Piel Salvaje" width="120"> | Piel Salvaje | 32 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67cec24e79bd3c9b51c27afa_1741619914243.png" alt="Águila Roja" width="120"> | Águila Roja | 33 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6788eca1eb47e03b4d571b46_1742820319584.png" alt="Anime Visión" width="120"> | Anime Visión | 34 |
-| <img src="https://media.tvup.cloud/canales/color_lg_683d7abc0f3cea6ce5bdd128_1748859580525.png" alt="Anime Visión Classics" width="120"> | Anime Visión Classics | 35 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6788ed16eb47e03b4d571b79_1742820515097.png" alt="Anime Visión Classics" width="120"> | Anime Visión Classics | 35 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67e67ee2c3fb97fb7204d759_1744374103578.png" alt="Yu-Gi-Oh!" width="120"> | Yu-Gi-Oh! | 36 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68e64dbf30980f47123943bd_1759934147723.png" alt="Beyblade" width="120"> | Beyblade | 37 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b48767e6fddcd0fa1d473c2_1780297162727.png" alt="Hollywood" width="120"> | Hollywood | 40 |
@@ -59,7 +59,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5bd893517525c60f90c0ba6a.png" alt="Sundance TV" width="120"> | Sundance TV | 45 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c066ce8af988941cfbcb14f.png?t=1664334405" alt="Somos" width="120"> | Somos | 46 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c4c303080405b20a4fe1.png" alt="Be Mad" width="120"> | Be Mad | 48 |
-| <img src="https://media.tvup.cloud/canales/color_lg_65a905a6a09a899ac73f0f5e.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 49 |
+| <img src="https://media.tvup.cloud/canales/color_lg_649977e7ca8cb98b3d9ccf7c.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 49 |
 | <img src="https://media.tvup.cloud/canales/color_lg_65b0fa5ea9d9e0e7df13780e.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 50 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
@@ -94,7 +94,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_639737a1355098001a413cbf.png" alt="Fashion TV" width="120"> | Fashion TV | 88 |
 | <img src="https://media.tvup.cloud/canales/color_lg_668507f37af6025d72e24193.png" alt="Historia y Vida" width="120"> | Historia y Vida | 89 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png" alt="Love The Planet" width="120"> | Love The Planet | 90 |
-| <img src="https://media.tvup.cloud/canales/color_lg_69898ce91451746315ca25fd_1770622186115.png" alt="El Mueble" width="120"> | El Mueble | 91 |
+| <img src="https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png" alt="El Mueble" width="120"> | El Mueble | 91 |
 | <img src="https://media.tvup.cloud/canales/color_lg_667eb39f46a1b3c800aa90cd_1775745272122.png" alt="EscapaTV" width="120"> | EscapaTV | 92 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png" alt="Oficios perdidos" width="120"> | Oficios perdidos | 93 |
 | <img src="https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png" alt="ZenLIFE" width="120"> | ZenLIFE | 94 |
@@ -131,9 +131,9 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" alt="Boing" width="120"> | Boing | 132 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5af069f7e05c6c75f9537c3d_1777295907627.png" alt="Clan" width="120"> | Clan | 133 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68b93d3e4d93469d16944395_1761736989866.png" alt="El Reino Infantil" width="120"> | El Reino Infantil | 134 |
-| <img src="https://media.tvup.cloud/canales/color_lg_642c2b9dc27d59001cf7e050.png" alt="Pocoyó" width="120"> | Pocoyó | 135 |
+| <img src="https://media.tvup.cloud/canales/color_lg_61ea6fef709aaf001a5581ae.png?t=1689255642" alt="Pocoyó" width="120"> | Pocoyó | 135 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68245fd4fd0e5f592c906fa7_1753883786472.png" alt="Cry Babies" width="120"> | Cry Babies | 136 |
-| <img src="https://media.tvup.cloud/canales/color_lg_68245fddfd0e5f592c906fb5_1756896784354.png" alt="Rabbids Invasion" width="120"> | Rabbids Invasion | 137 |
+| <img src="https://media.tvup.cloud/canales/color_lg_68c7df647c00ba20368f22dc_1757929316669.png" alt="Rabbids Invasion" width="120"> | Rabbids Invasion | 137 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6479dd1666328d12f0eb0843_1741875413804.png" alt="La Abeja Maya" width="120"> | La Abeja Maya | 138 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6523ac255350806fd25f836e.png" alt="Pitufo TV" width="120"> | Pitufo TV | 139 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67601bfe7efca0ff1f329ae4_1737652886676.png" alt="Cartoon Classics" width="120"> | Cartoon Classics | 141 |
@@ -166,7 +166,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png" alt="El Confidencial" width="120"> | El Confidencial | 205 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png" alt="Canal Parlamento" width="120"> | Canal Parlamento | 207 |
 | <img src="https://media.tvup.cloud/canales/color_lg_679b4ebbfb38496ae410cd19_1739869091770.png" alt="Actualidad 360" width="120"> | Actualidad 360 | 208 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png" alt="Euronews" width="120"> | Euronews | 220 |
+| <img src="https://media.tvup.cloud/canales/color_lg_647454e566328d12f03b379b.png" alt="Euronews" width="120"> | Euronews | 220 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e4541672a9605005a02bab0.png" alt="DW en español" width="120"> | DW en español | 221 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5be96ae4d4f8fd004b02e03b.png" alt="France 24 ES" width="120"> | France 24 ES | 222 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c05177bb7adda22348eadc4_1785319588314.png" alt="France 24 EN" width="120"> | France 24 EN | 223 |
@@ -273,9 +273,6 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" alt="Wedo Big Stories" width="120"> | Wedo Big Stories | 458 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png" alt="Xtrem Sports" width="120"> | Xtrem Sports | 459 |
-| <img src="https://media.tvup.cloud/canales/color_lg_649977e7ca8cb98b3d9ccf7c.png" alt="Cines Verdi TV" width="120"> | Cines Verdi TV | 501 |
-| <img src="https://media.tvup.cloud/canales/color_lg_647454e566328d12f03b379b.png" alt="Euronews" width="120"> | Euronews | 502 |
-| <img src="https://media.tvup.cloud/canales/color_lg_68c7df647c00ba20368f22dc_1757929316669.png" alt="Rabbids Invasion" width="120"> | Rabbids Invasion | 503 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png" alt="SIC Internacional" width="120"> | SIC Internacional | 510 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png" alt="SIC Noticias" width="120"> | SIC Noticias | 511 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png" alt="RTPi" width="120"> | RTPi | 512 |
