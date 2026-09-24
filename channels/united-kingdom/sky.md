@@ -262,7 +262,7 @@
 | - | Ideal World HD | 668 |
 | - | Best Direct | 669 |
 | - | HobbyMakerHD | 670 |
-| - | QVC Extra | 671 |
+| - | QVC Christmas | 671 |
 | - | High Street TV 3 | 672 |
 | - | TV Warehouse | 673 |
 | - | JewelleryMaker | 674 |
