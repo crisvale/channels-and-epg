@@ -183,7 +183,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/qvc-hd.png" alt="QVC" width="120"> | QVC | 740 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/qvc-beauty.png" alt="QVC Beauty" width="120"> | QVC Beauty | 741 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/qvc-style-hd.png" alt="QVC Style" width="120"> | QVC Style | 742 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/qvc-extra.png" alt="QVC Extra" width="120"> | QVC Extra | 743 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/q-christmas.png" alt="QVC Christmas" width="120"> | QVC Christmas | 743 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/ideal-world.png" alt="Ideal World" width="120"> | Ideal World | 747 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/hobbymaker-hd.png" alt="HobbyMaker HD" width="120"> | HobbyMaker HD | 754 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/gemporia.png" alt="Gemporia" width="120"> | Gemporia | 755 |
