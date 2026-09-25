@@ -120,7 +120,7 @@
 | <img src="https://img.freeviewplay.tv/saf0dc9d4ad5960db777b013c783d7ecb/16x9/colour?w=800" alt="BFBS Radio" width="120"> | BFBS Radio | 786 |
 | <img src="https://img.freeviewplay.tv/sb89c10b45710c727ea03026287c22085/16x9/colour?w=800" alt="QVC HD" width="120"> | QVC HD | 800 |
 | <img src="https://img.freeviewplay.tv/s230cb0b9c6afe5d4754838a3956a604f/16x9/colour?w=800" alt="QVC Beauty" width="120"> | QVC Beauty | 801 |
-| <img src="https://img.freeviewplay.tv/s8fadcb0dd8b3b7f3a9e89553e3eec10e/16x9/colour?w=800" alt="QVC Extra" width="120"> | QVC Extra | 802 |
+| <img src="https://img.freeviewplay.tv/sc4bacccbf04a2ff76af4f5863d326c14/16x9/colour?w=800" alt="QVC Christmas" width="120"> | QVC Christmas | 802 |
 | <img src="https://img.freeviewplay.tv/s3d0a7fe33dc35df6992f6c4a29dd0d29/16x9/colour?w=800" alt="QVC Style HD" width="120"> | QVC Style HD | 803 |
 | <img src="https://img.freeviewplay.tv/s6395b658a9dc02baa3f94b30944eb74b/16x9/colour?w=800" alt="Gemporia" width="120"> | Gemporia | 805 |
 | <img src="https://img.freeviewplay.tv/s099c7837855e09f8f01b3a6372c8a12f/16x9/colour?w=800" alt="HobbyMaker" width="120"> | HobbyMaker | 806 |
