@@ -153,7 +153,7 @@
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
 | - | Sky5*MoviesHD | 302 |
-| - | Sky Bourne HD | 303 |
+| - | SkyJurassicHD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
