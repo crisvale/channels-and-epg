@@ -206,7 +206,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png" alt="La 8 Mediterráneo" width="120"> | La 8 Mediterráneo | 295 |
 | <img src="https://media.tvup.cloud/canales/color_lg_60d9f0a21627ac0021b5163a.png" alt="7TV Andalucía" width="120"> | 7TV Andalucía | 296 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67fe47b34f9cb1be714d6adc_1744717748635.png" alt="Telegranada" width="120"> | Telegranada | 301 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5c6d7b39a1759118f5209679_1770304520641.png" alt="Canal Málaga" width="120"> | Canal Málaga | 302 |
+| <img src="https://media.tvup.cloud/channels/6a9e7407d9677bb9ed68e6e4logoColor.png" alt="Canal Málaga" width="120"> | Canal Málaga | 302 |
 | <img src="https://media.tvup.cloud/canales/color_lg_615bf5b52d185400263f4fa1.png" alt="Onda Algeciras" width="120"> | Onda Algeciras | 303 |
 | <img src="https://media.tvup.cloud/canales/color_lg_615bf89a2d185400263f544e.png?t=1649678472?t=1649687765?t=1649758826?t=1649769082" alt="Canal San Roque" width="120"> | Canal San Roque | 304 |
 | <img src="https://media.tvup.cloud/canales/color_lg_615c5924f6e98a001d68f893.jpg?t=1649758841" alt="Estepona TV" width="120"> | Estepona TV | 305 |
@@ -219,6 +219,10 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_69e1f5f14926ce1ecabe3b7c_1776935451216.png" alt="Canal Costa" width="120"> | Canal Costa | 312 |
 | <img src="https://media.tvup.cloud/canales/color_lg_69e1f66c4926ce1ecabe3b97_1776848145030.png" alt="Teleonuba" width="120"> | Teleonuba | 313 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64071465501362001b232195.png" alt="50TV" width="120"> | 50TV | 314 |
+| <img src="https://media.tvup.cloud/channels/69f3591feaa0de5140851995logoColor.png" alt="Vinx TV" width="120"> | Vinx TV | 315 |
+| <img src="https://media.tvup.cloud/channels/6a9e7336d9677bb9ed68e6d2logoColor.png" alt="TeleVitoria" width="120"> | TeleVitoria | 316 |
+| <img src="https://media.tvup.cloud/channels/6a9e75194fc08aaba4f562ddlogoColor.png" alt="TeleDonosti" width="120"> | TeleDonosti | 317 |
+| <img src="https://media.tvup.cloud/channels/6aab9f0a9d5fda4125d8d480logoColor.png" alt="Nós Televisión" width="120"> | Nós Televisión | 318 |
 | <img src="https://media.tvup.cloud/canales/5b042f54b63af22346518c50logoColor.png" alt="VOTV" width="120"> | VOTV | 330 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png" alt="Canal 4 Televisió" width="120"> | Canal 4 Televisió | 331 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6048fa49f585750031e19839.png" alt="Vallès Visió" width="120"> | Vallès Visió | 332 |
@@ -229,7 +233,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_69a6cc7a6535201300cb941a_1773130701192.png" alt="Canal Terrassa" width="120"> | Canal Terrassa | 337 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5bb5d815968944004b1fb4fd.png" alt="Fibwi TV Autonómica" width="120"> | Fibwi TV Autonómica | 350 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6915b9aa884f6dff8a65fc68_1765814597577.png" alt="TeleVigo" width="120"> | TeleVigo | 351 |
-| <img src="https://media.tvup.cloud/canales/color_lg_61a7b668b34bf5001a596e98.png?t=1648727061" alt="Teleribera" width="120"> | Teleribera | 352 |
+| <img src="https://media.tvup.cloud/channels/6aabcb5df0ede66b08878e54logoColor.png" alt="Teleribera" width="120"> | Teleribera | 352 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6390883685f6a400200dd4f9.png" alt="Afortunadas TV" width="120"> | Afortunadas TV | 353 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68dbacf408f02632a129362b_1760097164503.png" alt="TeleBilbao" width="120"> | TeleBilbao | 355 |
 | <img src="https://media.tvup.cloud/canales/color_lg_699d7accabee81b71e8e3ae2_1772622612516.png" alt="LevanteTV" width="120"> | LevanteTV | 356 |
