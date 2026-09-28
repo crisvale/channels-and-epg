@@ -265,7 +265,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/1298/w400" alt="Melody d&#x27;Afrique" width="120"> | Melody d'Afrique | 782 |
 | <img src="https://img2.oqee.net/channel_pictures/2993/w400" alt="360 TuneBox" width="120"> | 360 TuneBox | 784 |
 | <img src="https://img1.oqee.net/channel_pictures/1288/w400" alt="Generations TV" width="120"> | Generations TV | 786 |
-| <img src="https://img1.oqee.net/channel_pictures/2936/w400" alt="Playboy TV" width="120"> | Playboy TV | 801 |
+| <img src="https://img1.oqee.net/channel_pictures/4004/w400" alt="Playboy TV" width="120"> | Playboy TV | 801 |
 | <img src="https://img1.oqee.net/channel_pictures/3752/w400" alt="XXL" width="120"> | XXL | 808 |
 | <img src="https://img2.oqee.net/channel_pictures/2677/w400" alt="Dorcel TV" width="120"> | Dorcel TV | 809 |
 | <img src="https://img2.oqee.net/channel_pictures/2675/w400" alt="Dorcel XXX" width="120"> | Dorcel XXX | 810 |
