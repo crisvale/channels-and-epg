@@ -153,7 +153,7 @@
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
 | - | Sky5*MoviesHD | 302 |
-| - | SkyJurassicHD | 303 |
+| - | SkyOriginalsHD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
@@ -236,7 +236,7 @@
 | - | CN+1 | 602 |
 | - | Boomerang | 603 |
 | - | NickelodeonHD | 604 |
-| - | Nicktoons | 605 |
+| - | Nick SpongeBob | 605 |
 | - | Nick Jr. HD | 606 |
 | - | CBBC HD | 607 |
 | - | CBeebies HD | 608 |
