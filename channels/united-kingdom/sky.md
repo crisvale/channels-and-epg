@@ -236,7 +236,7 @@
 | - | CN+1 | 602 |
 | - | Boomerang | 603 |
 | - | NickelodeonHD | 604 |
-| - | Nick SpongeBob | 605 |
+| - | Nick Alvinnn!!! | 605 |
 | - | Nick Jr. HD | 606 |
 | - | CBBC HD | 607 |
 | - | CBeebies HD | 608 |
