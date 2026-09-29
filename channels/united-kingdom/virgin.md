@@ -68,7 +68,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/discovery-history.png" alt="Discovery History" width="120"> | Discovery History | 181 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nat-geo-wild-hd.png" alt="Nat Geo WILD HD" width="120"> | Nat Geo WILD HD | 182 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nat-geo-hd.png" alt="National GeographicHD" width="120"> | National GeographicHD | 183 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-history2.png" alt="Sky HISTORY 2 HD" width="120"> | Sky HISTORY 2 HD | 186 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/mystery-x.png" alt="Mystery X" width="120"> | Mystery X | 186 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/pbs.png" alt="PBS America" width="120"> | PBS America | 187 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/god-tv.png" alt="GOD TV" width="120"> | GOD TV | 192 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 243 |
