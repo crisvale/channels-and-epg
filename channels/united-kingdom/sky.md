@@ -104,7 +104,7 @@
 | - | DMAX | 159 |
 | - | Disc.History | 161 |
 | - | Animal Planet | 162 |
-| - | Sky History2 | 163 |
+| - | MysteryX | 163 |
 | - | NatGeoWild HD | 165 |
 | - | U&amp;Eden | 166 |
 | - | Disc.Science | 167 |
