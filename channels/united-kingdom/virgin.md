@@ -71,8 +71,9 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/mystery-x.png" alt="Mystery X" width="120"> | Mystery X | 186 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/pbs.png" alt="PBS America" width="120"> | PBS America | 187 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/god-tv.png" alt="GOD TV" width="120"> | GOD TV | 192 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 243 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 244 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 277 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 278 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 279 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-70s.png" alt="NOW 70s" width="120"> | NOW 70s | 285 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-80s.png" alt="NOW 80s" width="120"> | NOW 80s | 286 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-90s-00s.png" alt="NOW 90s &amp; 00s" width="120"> | NOW 90s &amp; 00s | 287 |
@@ -152,7 +153,6 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/premier-sports-2.png" alt="Premier Sports 2" width="120"> | Premier Sports 2 | 529 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/premier-sports-rugby.png" alt="Premier Sports Rugby" width="120"> | Premier Sports Rugby | 530 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/racing-tv.png" alt="Racing TV" width="120"> | Racing TV | 536 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 541 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/mutv.png" alt="MUTV" width="120"> | MUTV | 550 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/liverpool-fc-tv-hd.png" alt="Liverpool FC TV" width="120"> | Liverpool FC TV | 551 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-news-hd.png" alt="BBC NEWS HD" width="120"> | BBC NEWS HD | 601 |
