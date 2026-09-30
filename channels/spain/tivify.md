@@ -173,7 +173,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_61f7b07144278f00213e4772.png?t=1664334187" alt="Cubavisión" width="120"> | Cubavisión | 231 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6523ab28416c1045648ebdcc.png" alt="Azteca Internacional" width="120"> | Azteca Internacional | 232 |
 | <img src="https://media.tvup.cloud/canales/color_lg_651e64f3f6f120941fda9012.png" alt="Clic" width="120"> | Clic | 234 |
-| <img src="https://media.tvup.cloud/canales/color_lg_651fb35205baf16cc0cee4b0.png" alt="Corazón" width="120"> | Corazón | 235 |
+| <img src="https://media.tvup.cloud/channels/651fb35205baf16cc0cee4b0logoColor.png" alt="Latidos" width="120"> | Latidos | 235 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6523b7b6fd971de6c5568129.png" alt="Record News" width="120"> | Record News | 238 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67370b261e1c3816fa9569c1_1738687237781.png" alt="Ecuavisa" width="120"> | Ecuavisa | 239 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67dc515bd0b0cf2397ebee56_1742495177522.png" alt="Daystar" width="120"> | Daystar | 240 |
