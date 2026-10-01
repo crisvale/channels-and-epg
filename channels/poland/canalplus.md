@@ -84,7 +84,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20779/ncplus-ouah/CHN43FB/bbcfirst" alt="BBC FIRST HD" width="120"> | BBC FIRST HD | 105 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20696/ncplus-ouah/CHN43FB/warnertvCHN43FB2" alt="Warner TV" width="120"> | Warner TV | 106 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20883/ncplus-ouah/CHN43FB/13Ulica_black_new" alt="13 ULICA HD" width="120"> | 13 ULICA HD | 107 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20880/ncplus-ouah/CHN43FB/SCIFI_Poland_Logo_HORIZONTAL_BW_ouah" alt="SCI FI" width="120"> | SCI FI | 108 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20880/ncplus-ouah/CHN43FB/1200x900_sci_fi-4xi6" alt="SCI FI" width="120"> | SCI FI | 108 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20785/ncplus-ouah/CHN43FB/ComedyCentralEXTRA_black" alt="POLSAT COMEDY CENTRAL EXTRA HD" width="120"> | POLSAT COMEDY CENTRAL EXTRA HD | 109 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20925/ncplus-ouah/CHN43FB/TVN_Fabua.svg-vx0r" alt="TVN FABUŁA HD" width="120"> | TVN FABUŁA HD | 111 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20793/ncplus-ouah/CHN43FB/RomanceTV_black1" alt="ROMANCE TV HD" width="120"> | ROMANCE TV HD | 112 |
