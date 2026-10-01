@@ -27,7 +27,7 @@
 | <img src="https://services.tivulaguida.it/uploads/channel/27c8358ebf46bff2f496f65456f76264357d5c4f.png" alt="Rai storia HD" width="120"> | Rai storia HD | 23 |
 | <img src="https://services.tivulaguida.it/uploads/channel/314beca093599969dfc51f73063f913d26ceb3e3.png" alt="Rai News 24 HD" width="120"> | Rai News 24 HD | 24 |
 | <img src="https://services.tivulaguida.it/uploads/channel/d842f7a650ef2594ca23b28b1d649b3d7fad08f9.png" alt="TGCOM24 HD" width="120"> | TGCOM24 HD | 25 |
-| <img src="https://services.tivulaguida.it/uploads/channel/1e0b6009d9baeab317302b5282962f979e9fbaca.png" alt="Rai scuola HD" width="120"> | Rai scuola HD | 26 |
+| <img src="https://services.tivulaguida.it/uploads/channel/5e8c635b6f3fd9d230f748f9cb56c5ef6873f893.png" alt="Italiana" width="120"> | Italiana | 26 |
 | <img src="https://services.tivulaguida.it/uploads/channel/77cf0f200782826d35b1571e02c6e5d4300d51a8.png" alt="27 Twentyseven HD" width="120"> | 27 Twentyseven HD | 27 |
 | <img src="https://services.tivulaguida.it/uploads/channel/2bf76c50524056812e0d7077c2566abb346b9d3d.png" alt="DMAX HD" width="120"> | DMAX HD | 28 |
 | <img src="https://services.tivulaguida.it/uploads/channel/c51d7357002fa61e6c04a39ac260a42031746e96.png" alt="LA7CINEMA" width="120"> | LA7CINEMA | 29 |
