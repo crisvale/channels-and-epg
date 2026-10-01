@@ -2,6 +2,7 @@
 
 | Logo | Canal | Dial |
 | :---: | --- | :---: |
+| - | Italiana | - |
 | - | Rai 1 | - |
 | - | Rai 2 | - |
 | - | Rai 3 | - |
