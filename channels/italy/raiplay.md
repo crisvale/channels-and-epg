@@ -20,6 +20,7 @@
 | - | Rai Yoyo | - |
 | - | RaiPlay | - |
 | - | RaiPlay 2 | - |
+| - | RaiPlay 3 | - |
 | - | RaiPlay Sport 1 | - |
 | - | RaiPlay Sport 2 | - |
 | - | RaiPlay Sport 3 | - |
