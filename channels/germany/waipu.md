@@ -326,6 +326,7 @@
 | <img src="https://images.wpstr.tv/station/tgrtbelgesel/a75919c8/hd/small?res=216x162" alt="TGRT Belgesel" width="120"> | TGRT Belgesel | - |
 | <img src="https://images.wpstr.tv/station/tgrteu/82ac337a/hd/small?res=216x162" alt="TGRT EU" width="120"> | TGRT EU | - |
 | <img src="https://images.wpstr.tv/station/tgrthaber/ebc77a48/hd/small?res=216x162" alt="TGRT Haber" width="120"> | TGRT Haber | - |
+| <img src="https://images.wpstr.tv/station/christmaschannel/d2cd237a/hd/small?res=216x162" alt="The Christmas Channel" width="120"> | The Christmas Channel | - |
 | <img src="https://images.wpstr.tv/station/tierweltlive/fca67632/hd/small?res=216x162" alt="TIERWELT Live" width="120"> | TIERWELT Live | - |
 | <img src="https://images.wpstr.tv/station/time2rlx/fb915c7e/hd/small?res=216x162" alt="time2Rlx" width="120"> | time2Rlx | - |
 | <img src="https://images.wpstr.tv/station/timeline/7f810233/hd/small?res=216x162" alt="Timeline Deutschland" width="120"> | Timeline Deutschland | - |
@@ -381,6 +382,7 @@
 | <img src="https://images.wpstr.tv/station/watch4crime/014a1963/hd/small?res=216x162" alt="wedo movies" width="120"> | wedo movies | - |
 | <img src="https://images.wpstr.tv/station/wedosports/32cf468f/hd/small?res=216x162" alt="wedo sports" width="120"> | wedo sports | - |
 | <img src="https://images.wpstr.tv/station/wedotruestories/fd32e211/hd/small?res=216x162" alt="wedo true stories" width="120"> | wedo true stories | - |
+| <img src="https://images.wpstr.tv/station/weihnachtskino/7a2f6d9b/hd/small?res=216x162" alt="Weihnachtskino" width="120"> | Weihnachtskino | - |
 | <img src="https://images.wpstr.tv/station/n24/3d7529a3/hd/small?res=216x162" alt="WELT" width="120"> | WELT | - |
 | <img src="https://images.wpstr.tv/station/weltderwunder/32edd290/hd/small?res=216x162" alt="Welt der Wunder" width="120"> | Welt der Wunder | - |
 | <img src="https://images.wpstr.tv/station/wettercom/badb7202/sd/small?res=216x162" alt="wetter.com TV" width="120"> | wetter.com TV | - |
