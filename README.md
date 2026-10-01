@@ -27,7 +27,7 @@ Each country has a single XMLTV file combining all supported operators.
 | Spain | `epg/spain.xml.gz` | 561 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 259 | MEO, NOS |
-| Italy | `epg/italy.xml.gz` | 165 | Sky IT, RaiPlay, Tivu, Mediaset |
+| Italy | `epg/italy.xml.gz` | 166 | Sky IT, RaiPlay, Tivu, Mediaset |
 | Canada | `epg/canada.xml.gz` | 506 | Cogeco (QC), Cogeco (ON), Sportsnet, TSN |
 
 - Coverage: **7 days of programming**
