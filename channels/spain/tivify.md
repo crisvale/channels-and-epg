@@ -64,7 +64,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 53 |
-| <img src="https://media.tvup.cloud/canales/color_lg_62d04789109c93001a7ccd1c.png?t=1657816969" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
+| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" alt="Runtime Crimen" width="120"> | Runtime Crimen | 55 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" alt="Runtime Romance" width="120"> | Runtime Romance | 56 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" alt="Runtime Clásicos" width="120"> | Runtime Clásicos | 57 |
