@@ -15,7 +15,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_dde0c997baec3438b3bfa0e25.png" alt="Comedy Central" width="120"> | Comedy Central | 16 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/calle_logo.png" alt="Calle 13" width="120"> | Calle 13 | 17 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/XTRM_176x122.png" alt="XTRM" width="120"> | XTRM | 18 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/syfy_logo.png" alt="SYFY" width="120"> | SYFY | 19 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SCI_FI_176x122.png" alt="SciFi" width="120"> | SciFi | 19 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/COSMO_176x122.png" alt="Cosmo" width="120"> | Cosmo | 20 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/BBC_SERIES_WHITE_176x122.png" alt="BBC Series" width="120"> | BBC Series | 21 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VIN_TV_176x122.png" alt="VinTV" width="120"> | VinTV | 22 |
@@ -36,7 +36,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_def6ba5cbe35084391ddfc6f5.png" alt="Sundance TV" width="120"> | Sundance TV | 39 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/IMAGES/O/x_21c53db99c70d70f49a133e00.png" alt="Dark" width="120"> | Dark | 40 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CINE_Y_SERIES_WHITE_176x122.png" alt="Runtime Cine y Series" width="120"> | Runtime Cine y Series | 41 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_THRILLER_HORROR_WHITE_176x122.png" alt="Runtime Thriller/Terror" width="120"> | Runtime Thriller/Terror | 42 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_HALLOWEEN_176x122.png" alt="Runtime Halloween" width="120"> | Runtime Halloween | 42 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_ACTION_WHITE_176x122.png" alt="Runtime Acción" width="120"> | Runtime Acción | 43 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_COMEDY_WHITE_176x122.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 44 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/RUNTIME_CRIME_WHITE_176x122.png" alt="Runtime Crimen" width="120"> | Runtime Crimen | 45 |
@@ -124,7 +124,7 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/HORSE_TV_176x122.png" alt="Horse TV" width="120"> | Horse TV | 133 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/NAUTICAL_CHANNEL_176x122.png" alt="Nautical Channel" width="120"> | Nautical Channel | 134 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/SURF_CHANNEL_BLANCO_176X122.png" alt="Surf Channel" width="120"> | Surf Channel | 135 |
-| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/GOL_176x122.png" alt="GOL" width="120"> | GOL | 137 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/REPLAY_176x122.png" alt="Replay" width="120"> | Replay | 137 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_LIGA_DE_CAMPEONES_14_176x122.png" alt="M Liga de Campeones 14" width="120"> | M Liga de Campeones 14 | 138 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/M_LIGA_DE_CAMPEONES_15_176x122.png" alt="M Liga de Campeones 15" width="120"> | M Liga de Campeones 15 | 139 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments/REAL_MADRID_TV_176x122.png" alt="Real Madrid TV" width="120"> | Real Madrid TV | 139 |
@@ -201,6 +201,10 @@
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ETB_2_176x122.png" alt="etb2" width="120"> | etb2 | 599 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/ETB_1_176x122.png" alt="etb1" width="120"> | etb1 | 600 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/3CAT_INFO_176x122.png" alt="3CatInfo" width="120"> | 3CatInfo | 601 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/VINX_H_176x122.png" alt="Vinx" width="120"> | Vinx | 602 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_MALAGA_176x122.png" alt="Canal Málaga" width="120"> | Canal Málaga | 603 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/TELEVITORIA_176x122.png" alt="Televitoria" width="120"> | Televitoria | 604 |
+| <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/A8_176x122.png" alt="A8" width="120"> | A8 | 605 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/FIBWI_176x122.png" alt="Fibwi" width="120"> | Fibwi | 952 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/11TV_176x122.png" alt="11TvCantabria" width="120"> | 11TvCantabria | 953 |
 | <img src="https://pc.orangetv.orange.es/pc/api/rtv/v1/images/attachments_new/CANAL_13_CANARIAS_176x122.png" alt="13 Canarias" width="120"> | 13 Canarias | 954 |
