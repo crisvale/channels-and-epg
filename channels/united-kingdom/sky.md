@@ -162,10 +162,10 @@
 | - | Sky Thriller HD | 309 |
 | - | Sky Drama HD | 310 |
 | - | Sky ScFi/HorHD | 311 |
-| - | Movies24 | 312 |
+| - | Christmas24 | 312 |
 | - | Film4 HD | 313 |
 | - | Film4+1 | 314 |
-| - | Movies24+ | 315 |
+| - | Christmas24+ | 315 |
 | - | LEGEND XTRA | 316 |
 | - | LEGEND XTRA+1 | 317 |
 | - | Great! Action | 318 |
