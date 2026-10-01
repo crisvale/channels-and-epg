@@ -62,7 +62,7 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/PCM.png" alt="Comedy Central" width="120"> | Comedy Central | 40 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CL13.png" alt="Calle 13" width="120"> | Calle 13 | 41 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/COSMO.png" alt="COSMO" width="120"> | COSMO | 42 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" alt="SYFY" width="120"> | SYFY | 43 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/SCI-FI.png" alt="SciFi" width="120"> | SciFi | 43 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/VEO7.png" alt="Veo7" width="120"> | Veo7 | 44 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/13TV.png" alt="TRECE" width="120"> | TRECE | 45 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ENERGY.png" alt="Energy" width="120"> | Energy | 46 |
@@ -97,7 +97,7 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/DAZB3.png" alt="DAZN Baloncesto 3" width="120"> | DAZN Baloncesto 3 | 76 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" alt="Eurosport 1" width="120"> | Eurosport 1 | 77 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" alt="Eurosport 2" width="120"> | Eurosport 2 | 78 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" alt="GOL" width="120"> | GOL | 79 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" alt="Replay" width="120"> | Replay | 79 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" alt="Teledeporte" width="120"> | Teledeporte | 80 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" alt="Real Madrid TV" width="120"> | Real Madrid TV | 81 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CAZPES.png" alt="Caza y Pesca" width="120"> | Caza y Pesca | 82 |
