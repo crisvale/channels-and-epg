@@ -64,7 +64,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 53 |
-| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
+| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor.png" alt="Runtime Halloween" width="120"> | Runtime Halloween | 54 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" alt="Runtime Crimen" width="120"> | Runtime Crimen | 55 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" alt="Runtime Romance" width="120"> | Runtime Romance | 56 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" alt="Runtime Clásicos" width="120"> | Runtime Clásicos | 57 |
@@ -189,6 +189,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_6731ebee592b6de6d6789d04_1737111214259.png" alt="Bloomberg Originals" width="120"> | Bloomberg Originals | 258 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901eb373c9880074cc406f.png" alt="BFM TV" width="120"> | BFM TV | 259 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67b4673312c340d44a9a4090_1740572313860.png" alt="1+1 News" width="120"> | 1+1 News | 260 |
+| <img src="https://media.tvup.cloud/channels/6aabd61af0ede66b08878fd2logoColor.png" alt="CGTN-E" width="120"> | CGTN-E | 261 |
 | <img src="https://media.tvup.cloud/canales/5c6d7d27a1759118f52096c6logoColor.png" alt="Al Jazeera Arabic" width="120"> | Al Jazeera Arabic | 262 |
 | <img src="https://media.tvup.cloud/canales/5cb8469bf75662004cbb4481logoColor.png" alt="TRT Arabi" width="120"> | TRT Arabi | 263 |
 | <img src="https://media.tvup.cloud/canales/color_lg_63ce5d3736bfb800227ada7d.png" alt="TV3 CAT" width="120"> | TV3 CAT | 280 |
