@@ -11,7 +11,7 @@
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Comedycentral.png" alt="Comedy Central" width="120"> | Comedy Central | 15 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Calle13.png" alt="CALLE 13" width="120"> | CALLE 13 | 16 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/xtrm.png" alt="XTRM" width="120"> | XTRM | 17 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Syfy.png" alt="SYFY" width="120"> | SYFY | 18 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/SCIFI_Logo.png" alt="SciFi" width="120"> | SciFi | 18 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_Cosmo.png" alt="COSMO" width="120"> | COSMO | 19 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/VinTV_Logo.png" alt="VinTV" width="120"> | VinTV | 20 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/AMCSelektTV_Logo.png" alt="AMC Selekt TV" width="120"> | AMC Selekt TV | 21 |
@@ -48,7 +48,7 @@
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Eurosport_2@2x.png" alt="Eurosport 2" width="120"> | Eurosport 2 | 111 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Logo_RFEF.png" alt="Primera Federación" width="120"> | Primera Federación | 119 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Logo-My-Padel-TV.png" alt="My Padel TV" width="120"> | My Padel TV | 121 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/gol_play_logo.png" alt="GOL" width="120"> | GOL | 125 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Replay_Logo.png" alt="Replay" width="120"> | Replay | 125 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/realmadridtv.png" alt="Realmadrid TV" width="120"> | Realmadrid TV | 126 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Surf-Channel@2x.png" alt="Surf Channel" width="120"> | Surf Channel | 128 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_Nautical.png" alt="NAUTICAL CHANNEL" width="120"> | NAUTICAL CHANNEL | 129 |
