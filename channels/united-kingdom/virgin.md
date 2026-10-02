@@ -71,9 +71,9 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/mystery-x.png" alt="Mystery X" width="120"> | Mystery X | 186 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/pbs.png" alt="PBS America" width="120"> | PBS America | 187 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/god-tv.png" alt="GOD TV" width="120"> | GOD TV | 192 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 277 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 278 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-update.png" alt="Channel Update" width="120"> | Channel Update | 279 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/5-cops.png" alt="Channel Update" width="120"> | Channel Update | 277 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/catfish.png" alt="Channel Update" width="120"> | Channel Update | 278 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/csi.png" alt="Channel Update" width="120"> | Channel Update | 279 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-70s.png" alt="NOW 70s" width="120"> | NOW 70s | 285 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-80s.png" alt="NOW 80s" width="120"> | NOW 80s | 286 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-90s-00s.png" alt="NOW 90s &amp; 00s" width="120"> | NOW 90s &amp; 00s | 287 |
@@ -112,7 +112,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/vtv-movies.png" alt="Store" width="120"> | Store | 400 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-premiere-hd.png" alt="Sky Premiere HD" width="120"> | Sky Premiere HD | 401 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-select-hd.png" alt="Sky Select" width="120"> | Sky Select | 402 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-hits-hd.png" alt="Sky Hits" width="120"> | Sky Hits | 403 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-hunger-games-hd.png" alt="Sky Mockingjay" width="120"> | Sky Mockingjay | 403 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-greats-hd.png" alt="Sky Greats HD" width="120"> | Sky Greats HD | 404 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-family-hd.png" alt="Sky Family HD" width="120"> | Sky Family HD | 406 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-action-hd.png" alt="Sky Action" width="120"> | Sky Action | 407 |
