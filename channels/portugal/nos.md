@@ -61,7 +61,7 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FAXNMoviesHD.png" alt="AXN Movies HD" width="120"> | AXN Movies HD | 87 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXLIFEHD.png" alt="Star Life HD" width="120"> | Star Life HD | 88 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXHD.png" alt="Star Channel HD" width="120"> | Star Channel HD | 89 |
-| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSYFYHD.png" alt="Syfy HD" width="120"> | Syfy HD | 90 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2Fscifi.png" alt="SciFi" width="120"> | SciFi | 90 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXCRIMEHD.png" alt="Star Crime HD" width="120"> | Star Crime HD | 91 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FFOXMOVIESHD.png" alt="Star Movies HD" width="120"> | Star Movies HD | 92 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSONYTVHD.png" alt="AXN White HD" width="120"> | AXN White HD | 93 |
