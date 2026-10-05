@@ -152,8 +152,8 @@
 | - | U&amp;Eden+1 | 266 |
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
-| - | Sky5*MoviesHD | 302 |
-| - | MockingjayHD | 303 |
+| - | SkyAnimationHD | 302 |
+| - | TransformersHD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
