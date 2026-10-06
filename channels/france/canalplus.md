@@ -17,6 +17,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/198/canal-ouah/CHN43FB/CHN43FB_198_29082023" alt="CANAL+ CINEMA(S)" width="120"> | CANAL+ CINEMA(S) | 15 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" alt="CANAL+ DOCS" width="120"> | CANAL+ DOCS | 17 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" alt="CANAL+ KIDS" width="120"> | CANAL+ KIDS | 18 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/72/canal-ouah/CHN43FB/TV_pivot_FB_SPORT-XCPz" alt="SPORT+" width="120"> | SPORT+ | 25 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/31731404" alt="A LA UNE" width="120"> | A LA UNE | 28 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/289/canal-ouah/CHN43FB/CHN43FB_289_20190201" alt="CHAINE EVENEMENT" width="120"> | CHAINE EVENEMENT | 29 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1079/canal-ouah/CHN43FB/CHN43FB_1079_20231219-zLZy" alt="CANAL+ BOX OFFICE UHD" width="120"> | CANAL+ BOX OFFICE UHD | 30 |
@@ -43,11 +44,14 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48979952" alt="BEIN SPORTS 3" width="120"> | BEIN SPORTS 3 | 68 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/101/canal-ouah/CHN43FB/CHN43FB_101_20220110" alt="EUROSPORT 1" width="120"> | EUROSPORT 1 | 69 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/436/canal-ouah/CHN43FB/CHN43FB_436_20220110" alt="EUROSPORT 2" width="120"> | EUROSPORT 2 | 70 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/732/canal-ouah/CHN43FB/CHN43FB_732_20261005-c350" alt="RMC SPORT 1" width="120"> | RMC SPORT 1 | 71 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/2951335" alt="GOLF+" width="120"> | GOLF+ | 72 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79135434" alt="AUTOMOTO LA CHAINE" width="120"> | AUTOMOTO LA CHAINE | 73 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66126191" alt="EQUIDIA" width="120"> | EQUIDIA | 74 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1080/canal-ouah/CHN43FB/CHN43FB_1080_20240206-ykFF" alt="SPORT EN FRANCE" width="120"> | SPORT EN FRANCE | 75 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1182/canal-ouah/CHN43FB/CHN43FB_1182_20251013-UlME" alt="CHEVAL TV" width="120"> | CHEVAL TV | 76 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1182/canal-ouah/CHN43FB/CHN43FB_1182_20251013-UlME" alt="CHEVAL TV" width="120"> | CHEVAL TV | 74 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/66126191" alt="EQUIDIA" width="120"> | EQUIDIA | 75 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1080/canal-ouah/CHN43FB/CHN43FB_1080_20240206-ykFF" alt="SPORT EN FRANCE" width="120"> | SPORT EN FRANCE | 76 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1211/canal-ouah/CHN43FB/CHN43FB_1211_EPGID-mkrg" alt="RED BULL TV" width="120"> | RED BULL TV | 77 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1215/canal-ouah/CHN43FB/CHN43FB_1215_20261001-oD0b" alt="AFTER FOOT TV" width="120"> | AFTER FOOT TV | 78 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44861875" alt="L&#x27;EQUIPE" width="120"> | L'EQUIPE | 79 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/21522961" alt="COMEDIE+" width="120"> | COMEDIE+ | 80 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/294/canal-ouah/CHN43FB/CHN43FB_Paris_Premiere_20220415" alt="PARIS PREMIERE" width="120"> | PARIS PREMIERE | 83 |
@@ -194,6 +198,9 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48980071" alt="BEIN SPORTS MAX 8" width="120"> | BEIN SPORTS MAX 8 | 288 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48980073" alt="BEIN SPORTS MAX 9" width="120"> | BEIN SPORTS MAX 9 | 289 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/48980075" alt="BEIN SPORTS MAX 10" width="120"> | BEIN SPORTS MAX 10 | 290 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/733/canal-ouah/CHN43FB/CHN43FB_733_20261005-fXxP" alt="RMC SPORT LIVE 2" width="120"> | RMC SPORT LIVE 2 | 291 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/734/canal-ouah/CHN43FB/CHN43FB_734_20261005-cmsR" alt="RMC SPORT LIVE 3" width="120"> | RMC SPORT LIVE 3 | 292 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/735/canal-ouah/CHN43FB/CHN43FB_735_20261005-UylE" alt="RMC SPORT LIVE 4" width="120"> | RMC SPORT LIVE 4 | 293 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/93739263" alt="CANAL+ PREMIER LEAGUE" width="120"> | CANAL+ PREMIER LEAGUE | 294 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79236354" alt="F3 ALPES" width="120"> | F3 ALPES | 350 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/79237070" alt="F3 ALSACE" width="120"> | F3 ALSACE | 351 |
