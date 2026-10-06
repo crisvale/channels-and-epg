@@ -65,7 +65,7 @@
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/LaLigaHypermotion.png" alt="LaLiga Hypermotion tv" width="120"> | LaLiga Hypermotion tv | 116 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Hypermotion2.png" alt="LaLiga Hypermotion TV Multi 2" width="120"> | LaLiga Hypermotion TV Multi 2 | 117 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Hypermotion3.png" alt="LaLiga Hypermotion TV Multi 3" width="120"> | LaLiga Hypermotion TV Multi 3 | 118 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Logo_RFEF.png" alt="Primera Federación" width="120"> | Primera Federación | 119 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Primera_Federacion_Logo.png" alt="Primera Federación" width="120"> | Primera Federación | 119 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Logo-My-Padel-TV.png" alt="My Padel TV" width="120"> | My Padel TV | 121 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Replay_Logo.png" alt="Replay" width="120"> | Replay | 125 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/realmadridtv.png" alt="Realmadrid TV" width="120"> | Realmadrid TV | 126 |
