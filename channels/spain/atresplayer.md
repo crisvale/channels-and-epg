@@ -14,13 +14,13 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" alt="Aquí no hay quién viva" width="120"> | Aquí no hay quién viva | 10 |
 | - | Eventos 4 | 11 |
 | - | Eventos 8 | 11 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/HORMIGUERO.png" alt="El Hormiguero" width="120"> | El Hormiguero | 12 |
 | - | Eventos 3 | 12 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/EQUIPO_DE_INVESTIGACION.png" alt="Equipo de investigación" width="120"> | Equipo de investigación | 13 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/FOQ.png" alt="FoQ" width="120"> | FoQ | 14 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png" alt="El club de la comedia" width="120"> | El club de la comedia | 15 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" alt="Multicine" width="120"> | Multicine | 16 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" alt="Comedia" width="120"> | Comedia | 17 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" alt="Mentes inquietas" width="120"> | Mentes inquietas | 18 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" alt="atresplayer PREMIUM" width="120"> | atresplayer PREMIUM | 19 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/HORMIGUERO.png" alt="El Hormiguero" width="120"> | El Hormiguero | 13 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/EQUIPO_DE_INVESTIGACION.png" alt="Equipo de investigación" width="120"> | Equipo de investigación | 14 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/FOQ.png" alt="FoQ" width="120"> | FoQ | 15 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png" alt="El club de la comedia" width="120"> | El club de la comedia | 16 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" alt="Multicine" width="120"> | Multicine | 17 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" alt="Comedia" width="120"> | Comedia | 18 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" alt="Mentes inquietas" width="120"> | Mentes inquietas | 19 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" alt="atresplayer PREMIUM" width="120"> | atresplayer PREMIUM | 20 |
 | - | Eventos 2 | 20 |
