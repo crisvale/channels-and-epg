@@ -46,7 +46,7 @@
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/babytv.png" alt="Baby TV" width="120"> | Baby TV | 96 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Eurosport_1@2x.png" alt="Eurosport 1" width="120"> | Eurosport 1 | 110 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Eurosport_2@2x.png" alt="Eurosport 2" width="120"> | Eurosport 2 | 111 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Logo_RFEF.png" alt="Primera Federación" width="120"> | Primera Federación | 119 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Primera_Federacion_Logo.png" alt="Primera Federación" width="120"> | Primera Federación | 119 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Logo-My-Padel-TV.png" alt="My Padel TV" width="120"> | My Padel TV | 121 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Replay_Logo.png" alt="Replay" width="120"> | Replay | 125 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/realmadridtv.png" alt="Realmadrid TV" width="120"> | Realmadrid TV | 126 |
