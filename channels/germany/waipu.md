@@ -172,7 +172,7 @@
 | <img src="https://images.wpstr.tv/station/ktv/d89a9f7a/hd/small?res=216x162" alt="K-TV" width="120"> | K-TV | - |
 | <img src="https://images.wpstr.tv/station/kabeleins/0db6b3a0/hd/small?res=216x162" alt="Kabel Eins" width="120"> | Kabel Eins | - |
 | <img src="https://images.wpstr.tv/station/kabeleinsclassics/535a5372/hd/small?res=216x162" alt="Kabel Eins CLASSICS" width="120"> | Kabel Eins CLASSICS | - |
-| <img src="https://images.wpstr.tv/station/kabeleinsdoku/e68ed845/hd/small?res=216x162" alt="Kabel Eins Doku" width="120"> | Kabel Eins Doku | - |
+| <img src="https://images.wpstr.tv/station/kabeleinsdoku/a170eecd/hd/small?res=216x162" alt="Kabel Eins Doku" width="120"> | Kabel Eins Doku | - |
 | <img src="https://images.wpstr.tv/station/kaminfeuer/97ddaef6/hd/small?res=216x162" alt="Kaminfeuer" width="120"> | Kaminfeuer | - |
 | <img src="https://images.wpstr.tv/station/trkanal7avrupa/cabd02d2/hd/small?res=216x162" alt="Kanal 7" width="120"> | Kanal 7 | - |
 | <img src="https://images.wpstr.tv/station/kartoon/903c5e51/hd/small?res=216x162" alt="Kartoon Channel" width="120"> | Kartoon Channel | - |
@@ -241,7 +241,7 @@
 | <img src="https://images.wpstr.tv/station/pridetv/eba151c8/hd/small?res=216x162" alt="PRIDEtv" width="120"> | PRIDEtv | - |
 | <img src="https://images.wpstr.tv/station/pro7/97cd877d/hd/small?res=216x162" alt="ProSieben" width="120"> | ProSieben | - |
 | <img src="https://images.wpstr.tv/station/prosiebenfun/d6fb0e7c/hd/small?res=216x162" alt="ProSieben FUN" width="120"> | ProSieben FUN | - |
-| <img src="https://images.wpstr.tv/station/prosieben_maxx/7ffb0c73/hd/small?res=216x162" alt="ProSieben MAXX" width="120"> | ProSieben MAXX | - |
+| <img src="https://images.wpstr.tv/station/prosieben_maxx/58252781/hd/small?res=216x162" alt="ProSieben MAXX" width="120"> | ProSieben MAXX | - |
 | <img src="https://images.wpstr.tv/station/quello/7d7c1f26/hd/small?res=216x162" alt="Qello Concerts by Stingray" width="120"> | Qello Concerts by Stingray | - |
 | <img src="https://images.wpstr.tv/station/qvc/11270411/hd/small?res=216x162" alt="QVC" width="120"> | QVC | - |
 | <img src="https://images.wpstr.tv/station/qwest/e11da816/hd/small?res=216x162" alt="QWEST TV" width="120"> | QWEST TV | - |
@@ -275,7 +275,7 @@
 | <img src="https://images.wpstr.tv/station/sallyswelt/fa85587b/hd/small?res=216x162" alt="Sallys Welt" width="120"> | Sallys Welt | - |
 | <img src="https://images.wpstr.tv/station/sat1/d3f99bee/hd/small?res=216x162" alt="SAT.1" width="120"> | SAT.1 | - |
 | <img src="https://images.wpstr.tv/station/sat1emotions/d700ce4e/hd/small?res=216x162" alt="SAT.1 emotions" width="120"> | SAT.1 emotions | - |
-| <img src="https://images.wpstr.tv/station/sat1gold/1b908a36/hd/small?res=216x162" alt="SAT.1 GOLD" width="120"> | SAT.1 GOLD | - |
+| <img src="https://images.wpstr.tv/station/sat1gold/7ea25347/hd/small?res=216x162" alt="SAT.1 GOLD" width="120"> | SAT.1 GOLD | - |
 | <img src="https://images.wpstr.tv/station/schlagerdeluxe/f6dc7dcd/sd/small?res=216x162" alt="SCHLAGER DELUXE" width="120"> | SCHLAGER DELUXE | - |
 | <img src="https://images.wpstr.tv/station/screamtime/a49e1172/hd/small?res=216x162" alt="Screamtime" width="120"> | Screamtime | - |
 | <img src="https://images.wpstr.tv/station/serienhits/f6059f80/hd/small?res=216x162" alt="Serien Hits" width="120"> | Serien Hits | - |
