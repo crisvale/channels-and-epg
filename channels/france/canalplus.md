@@ -17,7 +17,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/198/canal-ouah/CHN43FB/CHN43FB_198_29082023" alt="CANAL+ CINEMA(S)" width="120"> | CANAL+ CINEMA(S) | 15 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/899/canal-ouah/CHN43FB/CHN43FB_899_29082023" alt="CANAL+ DOCS" width="120"> | CANAL+ DOCS | 17 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/259/canal-ouah/CHN43FB/CHN43FB_259_29082023" alt="CANAL+ KIDS" width="120"> | CANAL+ KIDS | 18 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/72/canal-ouah/CHN43FB/TV_pivot_FB_SPORT-XCPz" alt="SPORT+" width="120"> | SPORT+ | 25 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/72/canal-ouah/CHN43FB/CHN43FB_72_20261007-VG6S" alt="SPORT+" width="120"> | SPORT+ | 25 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/31731404" alt="A LA UNE" width="120"> | A LA UNE | 28 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/289/canal-ouah/CHN43FB/CHN43FB_289_20190201" alt="CHAINE EVENEMENT" width="120"> | CHAINE EVENEMENT | 29 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1079/canal-ouah/CHN43FB/CHN43FB_1079_20231219-zLZy" alt="CANAL+ BOX OFFICE UHD" width="120"> | CANAL+ BOX OFFICE UHD | 30 |
