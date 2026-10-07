@@ -66,7 +66,7 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=STARCOM&amp;profile=corner_transparent_positive&amp;width=100" alt="STAR Comedy" width="120"> | STAR Comedy | 73 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AXNHD&amp;profile=corner_transparent_positive&amp;width=100" alt="AXN HD" width="120"> | AXN HD | 74 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AXWHD&amp;profile=corner_transparent_positive&amp;width=100" alt="AXN White HD" width="120"> | AXN White HD | 75 |
-| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SYFHD&amp;profile=corner_transparent_positive&amp;width=100" alt="SyFy" width="120"> | SyFy | 76 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SYFHD&amp;profile=corner_transparent_positive&amp;width=100" alt="SciFi" width="120"> | SciFi | 76 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DIZI&amp;profile=corner_transparent_positive&amp;width=100" alt="Dizi Channel" width="120"> | Dizi Channel | 77 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VINTV&amp;profile=corner_transparent_positive&amp;width=100" alt="VinTV" width="120"> | VinTV | 78 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=DEST&amp;profile=corner_transparent_positive&amp;width=100" alt="MEO Destaques" width="120"> | MEO Destaques | 89 |
