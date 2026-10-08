@@ -101,7 +101,7 @@
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Luxe_TV_color.png" alt="Luxe TV" width="120"> | Luxe TV | 183 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Fashion_TV_color.png" alt="Fashion TV" width="120"> | Fashion TV | 184 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Mens_Up_TV_color.png" alt="Men&#x27;s Up TV" width="120"> | Men's Up TV | 185 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EspritSorcier100x100.png" alt="L&#x27;Esprit Sorcier TV" width="120"> | L'Esprit Sorcier TV | 186 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/vasco-100x100.png" alt="VASCO" width="120"> | VASCO | 186 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/myzentv-100x100.png" alt="My Zen TV" width="120"> | My Zen TV | 187 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/MUSEUMTV100x100.png" alt="MUSEUM TV" width="120"> | MUSEUM TV | 191 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/EXPLORE100x100.png" alt="EXPLORE" width="120"> | EXPLORE | 193 |
@@ -444,9 +444,9 @@
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/NTD_color.png" alt="NTD" width="120"> | NTD | 921 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/KBS_World_color.png" alt="KBS World" width="120"> | KBS World | 924 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Colors_color.png" alt="Colors" width="120"> | Colors | 925 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/UtsavBharat100x100couleur.png" alt="Utsav Bharat" width="120"> | Utsav Bharat | 926 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/star--bharat-100x100.png" alt="Star Bharat" width="120"> | Star Bharat | 926 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Rishtey_color.png" alt="Rishtey" width="120"> | Rishtey | 927 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/UtsavPluslogo100x100couleur.png" alt="Utsav Plus" width="120"> | Utsav Plus | 928 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/star--plus-hd-100x100.png" alt="Star Plus" width="120"> | Star Plus | 928 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Zee_TV_color.png" alt="Zee TV" width="120"> | Zee TV | 929 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/NHK-_WORLD_PREMIUM_100x100-couleur.png" alt="NHK World Premium" width="120"> | NHK World Premium | 938 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/B4U_Movies_color.png" alt="B4U Movies" width="120"> | B4U Movies | 939 |
