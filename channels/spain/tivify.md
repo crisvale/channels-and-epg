@@ -31,7 +31,6 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png" alt="2Cat" width="120"> | 2Cat | 9 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6788eca1eb47e03b4d571b46_1742820319584.png" alt="Anime Visión" width="120"> | Anime Visión | 10 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 11 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png" alt="Euronews" width="120"> | Euronews | 11 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68ed080f18549f63c2c541e8_1763553329707.png" alt="Todo Pasión" width="120"> | Todo Pasión | 11 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6499789683eadd42faa1bb63.png" alt="Oficios perdidos" width="120"> | Oficios perdidos | 12 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png" alt="TRECE" width="120"> | TRECE | 13 |
@@ -167,6 +166,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png" alt="El Confidencial" width="120"> | El Confidencial | 205 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png" alt="Canal Parlamento" width="120"> | Canal Parlamento | 207 |
 | <img src="https://media.tvup.cloud/canales/color_lg_679b4ebbfb38496ae410cd19_1739869091770.png" alt="Actualidad 360" width="120"> | Actualidad 360 | 208 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png" alt="Euronews" width="120"> | Euronews | 220 |
 | <img src="https://media.tvup.cloud/canales/color_lg_647454e566328d12f03b379b.png" alt="Euronews (NO USAR)" width="120"> | Euronews (NO USAR) | 220 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e4541672a9605005a02bab0.png" alt="DW en español" width="120"> | DW en español | 221 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5be96ae4d4f8fd004b02e03b.png" alt="France 24 ES" width="120"> | France 24 ES | 222 |
