@@ -153,7 +153,7 @@
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
 | - | SkyAnimationHD | 302 |
-| - | TransformersHD | 303 |
+| - | Halloween HD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
@@ -161,7 +161,7 @@
 | - | Sky Comedy HD | 308 |
 | - | Sky Thriller HD | 309 |
 | - | Sky Drama HD | 310 |
-| - | Sky ScFi/HorHD | 311 |
+| - | Sky Sci-Fi HD | 311 |
 | - | Christmas24 | 312 |
 | - | Film4 HD | 313 |
 | - | Film4+1 | 314 |
