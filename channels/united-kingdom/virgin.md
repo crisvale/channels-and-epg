@@ -112,14 +112,14 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/vtv-movies.png" alt="Store" width="120"> | Store | 400 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-premiere-hd.png" alt="Sky Premiere HD" width="120"> | Sky Premiere HD | 401 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-animation-hd.png" alt="Sky Animation" width="120"> | Sky Animation | 402 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-transformers-hd.png" alt="Sky Transformers" width="120"> | Sky Transformers | 403 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-halloween-hd.png" alt="Sky Halloween" width="120"> | Sky Halloween | 403 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-greats-hd.png" alt="Sky Greats HD" width="120"> | Sky Greats HD | 404 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-family-hd.png" alt="Sky Family HD" width="120"> | Sky Family HD | 406 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-action-hd.png" alt="Sky Action" width="120"> | Sky Action | 407 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-comedy-hd.png" alt="Sky Comedy HD" width="120"> | Sky Comedy HD | 408 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-thriller-hd.png" alt="Sky Thriller HD" width="120"> | Sky Thriller HD | 409 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-drama-hd.png" alt="Sky Drama HD" width="120"> | Sky Drama HD | 410 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-scifi-horror-hd.png" alt="SkySciFi &amp; Hor HD" width="120"> | SkySciFi &amp; Hor HD | 411 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-sci-fi-hd.png" alt="Sky Sci Fi" width="120"> | Sky Sci Fi | 411 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/christmas-24.png" alt="Christmas 24" width="120"> | Christmas 24 | 419 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/christmas-24-plus1.png" alt="Christmas 24+" width="120"> | Christmas 24+ | 420 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/great-christmas.png" alt="GREAT! Christmas" width="120"> | GREAT! Christmas | 424 |
