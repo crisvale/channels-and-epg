@@ -217,3 +217,4 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="Rali de Câmara de Lobos Funchal" width="120"> | Rali de Câmara de Lobos Funchal | 445 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LIVE3&amp;profile=corner_transparent_positive&amp;width=100" alt="Direto Meo Sons do Mar" width="120"> | Direto Meo Sons do Mar | 448 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BABYTSD&amp;profile=corner_transparent_positive&amp;width=100" alt="Baby TV" width="120"> | Baby TV | 549 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=GALERSD&amp;profile=corner_transparent_positive&amp;width=100" alt="Galeria" width="120"> | Galeria | 619 |
