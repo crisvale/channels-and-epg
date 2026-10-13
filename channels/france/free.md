@@ -30,6 +30,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/3700/w400" alt="TV5 Monde" width="120"> | TV5 Monde | 27 |
 | <img src="https://img2.oqee.net/channel_pictures/2707/w400" alt="Paris Première" width="120"> | Paris Première | 28 |
 | <img src="https://img1.oqee.net/channel_pictures/3040/w400" alt="RTL9" width="120"> | RTL9 | 29 |
+| <img src="https://img1.oqee.net/channel_pictures/4010/w400" alt="RMC Sport 1" width="120"> | RMC Sport 1 | 31 |
 | <img src="https://img1.oqee.net/channel_pictures/2638/w400" alt="Eurosport 1" width="120"> | Eurosport 1 | 35 |
 | <img src="https://img1.oqee.net/channel_pictures/2810/w400" alt="beIN SPORTS 1" width="120"> | beIN SPORTS 1 | 36 |
 | <img src="https://img1.oqee.net/channel_pictures/2812/w400" alt="beIN SPORTS 2" width="120"> | beIN SPORTS 2 | 37 |
@@ -83,6 +84,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/3847/w400" alt="Winamax TV Sport" width="120"> | Winamax TV Sport | 205 |
 | <img src="https://img2.oqee.net/channel_pictures/3849/w400" alt="Winamax TV Poker" width="120"> | Winamax TV Poker | 206 |
 | <img src="https://img1.oqee.net/channel_pictures/3648/w400" alt="Zack Nani Foot" width="120"> | Zack Nani Foot | 207 |
+| <img src="https://img1.oqee.net/channel_pictures/4012/w400" alt="RMC Sport Access" width="120"> | RMC Sport Access | 228 |
 | <img src="https://img1.oqee.net/channel_pictures/3116/w400" alt="W-Sport" width="120"> | W-Sport | 229 |
 | <img src="https://img2.oqee.net/channel_pictures/1183/w400" alt="Automoto" width="120"> | Automoto | 230 |
 | <img src="https://img1.oqee.net/channel_pictures/896/w400" alt="Infosport+" width="120"> | Infosport+ | 238 |
@@ -102,7 +104,10 @@
 | <img src="https://img2.oqee.net/channel_pictures/3539/w400" alt="Ligue 1+ 8" width="120"> | Ligue 1+ 8 | 262 |
 | <img src="https://img2.oqee.net/channel_pictures/3541/w400" alt="Ligue 1+ 9" width="120"> | Ligue 1+ 9 | 263 |
 | <img src="https://img2.oqee.net/channel_pictures/3543/w400" alt="Ligue 1+ 10" width="120"> | Ligue 1+ 10 | 264 |
-| <img src="https://img2.oqee.net/channel_pictures/3981/w400" alt="OLPLAY" width="120"> | OLPLAY | 267 |
+| <img src="https://img1.oqee.net/channel_pictures/4018/w400" alt="RMC Sport Live 2" width="120"> | RMC Sport Live 2 | 266 |
+| <img src="https://img1.oqee.net/channel_pictures/4014/w400" alt="RMC Sport Live 3" width="120"> | RMC Sport Live 3 | 267 |
+| <img src="https://img1.oqee.net/channel_pictures/4016/w400" alt="RMC Sport Live 4" width="120"> | RMC Sport Live 4 | 268 |
+| <img src="https://img2.oqee.net/channel_pictures/3981/w400" alt="OLPLAY" width="120"> | OLPLAY | 273 |
 | <img src="https://img2.oqee.net/channel_pictures/3583/w400" alt="Lutte TV" width="120"> | Lutte TV | 274 |
 | <img src="https://img1.oqee.net/channel_pictures/2526/w400" alt="Fuel TV" width="120"> | Fuel TV | 275 |
 | <img src="https://img2.oqee.net/channel_pictures/2547/w400" alt="Horse TV" width="120"> | Horse TV | 276 |
@@ -151,6 +156,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1253/w400" alt="MyZen TV" width="120"> | MyZen TV | 513 |
 | <img src="https://img1.oqee.net/channel_pictures/2214/w400" alt="MyZen Nature" width="120"> | MyZen Nature | 514 |
 | <img src="https://img1.oqee.net/channel_pictures/3546/w400" alt="Dog &amp; Cat TV" width="120"> | Dog &amp; Cat TV | 515 |
+| <img src="https://img1.oqee.net/channel_pictures/2698/w400" alt="MTV" width="120"> | MTV | 518 |
 | <img src="https://img2.oqee.net/channel_pictures/1243/w400" alt="Astro Center TV" width="120"> | Astro Center TV | 519 |
 | <img src="https://img2.oqee.net/channel_pictures/2085/w400" alt="Souvenirs from Earth" width="120"> | Souvenirs from Earth | 521 |
 | <img src="https://img2.oqee.net/channel_pictures/1249/w400" alt="Fashion TV" width="120"> | Fashion TV | 522 |
@@ -180,6 +186,7 @@
 | <img src="https://img2.oqee.net/channel_pictures/1227/w400" alt="Chasse &amp; Pêche" width="120"> | Chasse &amp; Pêche | 561 |
 | <img src="https://img2.oqee.net/channel_pictures/1217/w400" alt="Trek" width="120"> | Trek | 562 |
 | <img src="https://img1.oqee.net/channel_pictures/2834/w400" alt="Animaux" width="120"> | Animaux | 563 |
+| <img src="https://img1.oqee.net/channel_pictures/4020/w400" alt="Seasons" width="120"> | Seasons | 564 |
 | <img src="https://img2.oqee.net/channel_pictures/2917/w400" alt="TRACE Sport Stars" width="120"> | TRACE Sport Stars | 567 |
 | <img src="https://img1.oqee.net/channel_pictures/3000/w400" alt="Gametoon" width="120"> | Gametoon | 568 |
 | <img src="https://img1.oqee.net/channel_pictures/1094/w400" alt="GONG MAX" width="120"> | GONG MAX | 569 |
@@ -226,7 +233,6 @@
 | <img src="https://img2.oqee.net/channel_pictures/3819/w400" alt="Now News Global" width="120"> | Now News Global | 683 |
 | <img src="https://img2.oqee.net/channel_pictures/3817/w400" alt="Now News Arabic" width="120"> | Now News Arabic | 684 |
 | <img src="https://img1.oqee.net/channel_pictures/2202/w400" alt="NRJ Hits" width="120"> | NRJ Hits | 701 |
-| <img src="https://img1.oqee.net/channel_pictures/2698/w400" alt="MTV" width="120"> | MTV | 722 |
 | <img src="https://img2.oqee.net/channel_pictures/3035/w400" alt="Vibes TV" width="120"> | Vibes TV | 723 |
 | <img src="https://img1.oqee.net/channel_pictures/1282/w400" alt="Clubbing TV" width="120"> | Clubbing TV | 724 |
 | <img src="https://img2.oqee.net/channel_pictures/3031/w400" alt="Madras FM TV" width="120"> | Madras FM TV | 725 |
