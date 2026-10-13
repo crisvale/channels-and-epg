@@ -32,7 +32,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_6788eca1eb47e03b4d571b46_1742820319584.png" alt="Anime Visión" width="120"> | Anime Visión | 10 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 11 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68ed080f18549f63c2c541e8_1763553329707.png" alt="Todo Pasión" width="120"> | Todo Pasión | 11 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6499789683eadd42faa1bb63.png" alt="Oficios perdidos" width="120"> | Oficios perdidos | 12 |
+| <img src="https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png" alt="Oficios perdidos" width="120"> | Oficios perdidos | 12 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png" alt="TRECE" width="120"> | TRECE | 13 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png?t=1660723494" alt="AXN" width="120"> | AXN | 15 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png" alt="AMC" width="120"> | AMC | 17 |
@@ -96,7 +96,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_64e480ccdc3cd8224ded0426.png" alt="Love The Planet" width="120"> | Love The Planet | 90 |
 | <img src="https://media.tvup.cloud/canales/color_lg_692ec41de3d555edbe178836_1767099123599.png" alt="El Mueble" width="120"> | El Mueble | 91 |
 | <img src="https://media.tvup.cloud/canales/color_lg_667eb39f46a1b3c800aa90cd_1775745272122.png" alt="EscapaTV" width="120"> | EscapaTV | 92 |
-| <img src="https://media.tvup.cloud/canales/color_lg_64760bc966328d12f0750012.png" alt="Oficios perdidos" width="120"> | Oficios perdidos | 93 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6499789683eadd42faa1bb63.png" alt="Oficios perdidos" width="120"> | Oficios perdidos | 93 |
 | <img src="https://media.tvup.cloud/canales/color_lg_661414e8317db681aee6b0a1.png" alt="ZenLIFE" width="120"> | ZenLIFE | 94 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e4811a758e3601480d3262.png" alt="Love Wine" width="120"> | Love Wine | 95 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64f9b2e2aae0260ae8e34fed.png" alt="Trailers" width="120"> | Trailers | 96 |
