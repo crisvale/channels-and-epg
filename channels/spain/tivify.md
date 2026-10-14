@@ -179,6 +179,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_67370b261e1c3816fa9569c1_1738687237781.png" alt="Ecuavisa" width="120"> | Ecuavisa | 239 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67dc515bd0b0cf2397ebee56_1742495177522.png" alt="Daystar" width="120"> | Daystar | 240 |
 | <img src="https://media.tvup.cloud/canales/color_lg_69299750b210457d13ff20f9_1772119274027.png" alt="Caracol Mix" width="120"> | Caracol Mix | 241 |
+| <img src="https://media.tvup.cloud/channels/6a7da1f572415c345fd1317blogoColor.png" alt="Latino Circuit TV" width="120"> | Latino Circuit TV | 242 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6731ef639767b3f9ec43808d_1737111455971.png" alt="Bloomberg Television" width="120"> | Bloomberg Television | 250 |
 | <img src="https://media.tvup.cloud/canales/5b02d6c5c5895a2dc7b5d07blogoColor.png" alt="BBC World News" width="120"> | BBC World News | 251 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b02d73ec5895a2dc7b5d07c.png" alt="Al Jazeera" width="120"> | Al Jazeera | 252 |
