@@ -86,7 +86,7 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AMCCRI&amp;profile=corner_transparent_positive&amp;width=100" alt="AMC Crime" width="120"> | AMC Crime | 114 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ID&amp;profile=corner_transparent_positive&amp;width=100" alt="Investigation Discovery" width="120"> | Investigation Discovery | 115 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=TLC&amp;profile=corner_transparent_positive&amp;width=100" alt="TLC" width="120"> | TLC | 118 |
-| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=GALERSD&amp;profile=corner_transparent_positive&amp;width=100" alt="Galeria" width="120"> | Galeria | 119 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=GALERIA&amp;profile=corner_transparent_positive&amp;width=100" alt="Galeria" width="120"> | Galeria | 119 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICC&amp;profile=corner_transparent_positive&amp;width=100" alt="SIC Caras" width="120"> | SIC Caras | 120 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CASACOZ&amp;profile=corner_transparent_positive&amp;width=100" alt="Casa e Cozinha" width="120"> | Casa e Cozinha | 122 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=24KTHD&amp;profile=corner_transparent_positive&amp;width=100" alt="24Kitchen" width="120"> | 24Kitchen | 123 |
