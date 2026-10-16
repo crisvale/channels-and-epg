@@ -226,6 +226,7 @@
 | <img src="https://media.tvup.cloud/channels/6a9e7336d9677bb9ed68e6d2logoColor.png" alt="TeleVitoria" width="120"> | TeleVitoria | 316 |
 | <img src="https://media.tvup.cloud/channels/6a9e75194fc08aaba4f562ddlogoColor.png" alt="TeleDonosti" width="120"> | TeleDonosti | 317 |
 | <img src="https://media.tvup.cloud/channels/6aab9f0a9d5fda4125d8d480logoColor.png" alt="Nós Televisión" width="120"> | Nós Televisión | 318 |
+| <img src="https://media.tvup.cloud/channels/6ad0b979eb28b5dfa8a07925logoColor.png" alt="Arabí Yecla TV" width="120"> | Arabí Yecla TV | 320 |
 | <img src="https://media.tvup.cloud/canales/5b042f54b63af22346518c50logoColor.png" alt="VOTV" width="120"> | VOTV | 330 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9ef4068808e0075a18ea0.png" alt="Canal 4 Televisió" width="120"> | Canal 4 Televisió | 331 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6048fa49f585750031e19839.png" alt="Vallès Visió" width="120"> | Vallès Visió | 332 |
