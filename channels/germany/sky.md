@@ -143,7 +143,7 @@
 | <img src="https://de.imageservice.sky.com/logo/skychb_131skycinemapremierehd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Premiere HD" width="120"> | Sky Cinema Premiere HD | 300 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_330skycinemablockbusterhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Blockbuster HD" width="120"> | Sky Cinema Blockbuster HD | 301 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_116skycinemaactionhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Action HD" width="120"> | Sky Cinema Action HD | 302 |
-| <img src="https://de.imageservice.sky.com/logo/skychb_331skycinemafeelgoodhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Feelgood HD" width="120"> | Sky Cinema Feelgood HD | 303 |
+| <img src="https://de.imageservice.sky.com/logo/skychb_331skycinemaspookyhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Spooky HD" width="120"> | Sky Cinema Spooky HD | 303 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_107skycinemaclassicshd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Classics HD" width="120"> | Sky Cinema Classics HD | 304 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_140warnertvfilmhd/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Warner TV Film HD" width="120"> | Warner TV Film HD | 305 |
 | <img src="https://de.imageservice.sky.com/logo/skychb_400skycinemapremierehd24/600/600?territory=DE&amp;provider=SKY&amp;proposition=SKYQ" alt="Sky Cinema Premiere HD +24" width="120"> | Sky Cinema Premiere HD +24 | 306 |
