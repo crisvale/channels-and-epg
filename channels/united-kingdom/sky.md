@@ -93,9 +93,9 @@
 | - | TRUE CRIME X | 147 |
 | - | LEGEND | 148 |
 | - | Quest Red | 149 |
-| - | 5ACTION | 150 |
+| - | 5DRAMA | 150 |
 | - | Sky Mix HD | 151 |
-| - | 5SELECT | 153 |
+| - | 5ACTION | 153 |
 | - | ID | 154 |
 | - | U&amp;Yesterday | 155 |
 | - | BLAZE | 156 |
