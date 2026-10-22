@@ -16,7 +16,6 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VMAISTVI&amp;profile=corner_transparent_positive&amp;width=100" alt="V+ TVI" width="120"> | V+ TVI | 12 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICM&amp;profile=corner_transparent_positive&amp;width=100" alt="SIC Mulher" width="120"> | SIC Mulher | 13 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SICNOV&amp;profile=corner_transparent_positive&amp;width=100" alt="SIC Novelas" width="120"> | SIC Novelas | 14 |
-| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CONTALA&amp;profile=corner_transparent_positive&amp;width=100" alt="Conta Lá" width="120"> | Conta Lá | 15 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=VEJA&amp;profile=corner_transparent_positive&amp;width=100" alt="Veja" width="120"> | Veja | 17 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LIVE2&amp;profile=corner_transparent_positive&amp;width=100" alt="MEO" width="120"> | MEO | 18 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=SPTVHD&amp;profile=corner_transparent_positive&amp;width=100" alt="Sport TV +" width="120"> | Sport TV + | 20 |
@@ -114,6 +113,7 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LVTVHD&amp;profile=corner_transparent_positive&amp;width=100" alt="Localvisão TV" width="120"> | Localvisão TV | 163 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CONECTV&amp;profile=corner_transparent_positive&amp;width=100" alt="Conectv" width="120"> | Conectv | 164 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=AZORES&amp;profile=corner_transparent_positive&amp;width=100" alt="Azores TV" width="120"> | Azores TV | 167 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CONTALA&amp;profile=corner_transparent_positive&amp;width=100" alt="Conta Lá" width="120"> | Conta Lá | 168 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CA%C3%87APHD&amp;profile=corner_transparent_positive&amp;width=100" alt="Caça e Pesca" width="120"> | Caça e Pesca | 172 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=CA%C3%87AVHD&amp;profile=corner_transparent_positive&amp;width=100" alt="Caçavision" width="120"> | Caçavision | 173 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=ONETORO&amp;profile=corner_transparent_positive&amp;width=100" alt="OneToro TV" width="120"> | OneToro TV | 174 |
@@ -214,6 +214,6 @@
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=HUSTLER&amp;profile=corner_transparent_positive&amp;width=100" alt="Hustler HD" width="120"> | Hustler HD | 363 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=FTV4K&amp;profile=corner_transparent_positive&amp;width=100" alt="Fashion TV 4K" width="120"> | Fashion TV 4K | 401 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EUROS4K&amp;profile=corner_transparent_positive&amp;width=100" alt="Eurosport 4K" width="120"> | Eurosport 4K | 444 |
-| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="Rampa do Porto Moniz" width="120"> | Rampa do Porto Moniz | 445 |
+| <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=EVENTO6&amp;profile=corner_transparent_positive&amp;width=100" alt="Rali Madeira Legend" width="120"> | Rali Madeira Legend | 445 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=LIVE3&amp;profile=corner_transparent_positive&amp;width=100" alt="Direto Meo Sons do Mar" width="120"> | Direto Meo Sons do Mar | 448 |
 | <img src="https://cdn-er-images.online.meo.pt/api/Channels/logos/image?callLetter=BABYTSD&amp;profile=corner_transparent_positive&amp;width=100" alt="Baby TV" width="120"> | Baby TV | 549 |
