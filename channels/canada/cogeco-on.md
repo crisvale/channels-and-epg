@@ -12,7 +12,7 @@
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10108_h15_ab.png" alt="CTV (CFTO) Toronto, ON" width="120"> | CTV (CFTO) Toronto, ON | 9 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s132316_h15_aa.png" alt="Your TV Peterborough" width="120"> | Your TV Peterborough | 10 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10112_h15_aa.png" alt="CHCH Hamilton, ON" width="120"> | CHCH Hamilton, ON | 11 |
-| <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s70583_h15_ad.png" alt="TVO (CICA-DT) Toronto, ON" width="120"> | TVO (CICA-DT) Toronto, ON | 13 |
+| <img src="https://cdn.tvpassport.com/image/station/304x112/v3/70583-2276E.png" alt="TVO (CICA-DT) Toronto, ON" width="120"> | TVO (CICA-DT) Toronto, ON | 13 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10109_h15_ab.png" alt="TFO - Chaine Francaise" width="120"> | TFO - Chaine Francaise | 14 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s15024_h15_ab.png" alt="W (WTN) - East" width="120"> | W (WTN) - East | 15 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10991_h15_ad.png" alt="NBC (WGRZ) Buffalo, NY" width="120"> | NBC (WGRZ) Buffalo, NY | 16 |
@@ -322,7 +322,7 @@
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10112_h15_aa.png" alt="CHCH Hamilton, ON HD" width="120"> | CHCH Hamilton, ON HD | 707 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10105_h15_ad.png" alt="OMNI.1 HD" width="120"> | OMNI.1 HD | 708 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s31558_h15_aa.png" alt="OMNI.2 HD" width="120"> | OMNI.2 HD | 709 |
-| <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10119_h15_ab.png" alt="TVO (TV Ontario) HD" width="120"> | TVO (TV Ontario) HD | 710 |
+| <img src="https://cdn.tvpassport.com/image/station/304x112/v3/10119-4F0E.png" alt="TVO (TV Ontario) HD" width="120"> | TVO (TV Ontario) HD | 710 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s90941_h15_ab.png" alt="TSC HD" width="120"> | TSC HD | 711 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10003_h15_ac.png" alt="ABC (WXYZ) Detroit, MI - Canada HD" width="120"> | ABC (WXYZ) Detroit, MI - Canada HD | 712 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s10098_h15_ac.png" alt="CBS (WWJ) Detroit, MI HD" width="120"> | CBS (WWJ) Detroit, MI HD | 713 |
