@@ -186,3 +186,5 @@
 | <img src="https://images-live.youview.tv/images/entity/3e0498bf-f04f-511e-b296-ef5cf8d1c72a/ident/1_128x128.png" alt="E4 Extra" width="120"> | E4 Extra | 797 |
 | <img src="https://images-live.youview.tv/images/entity/f04b7bec-d8c8-5926-8e37-eef4cc85f09d/ident/1_128x128.png" alt="ITV2 +1" width="120"> | ITV2 +1 | 798 |
 | <img src="https://images-live.youview.tv/images/entity/b80ea1bf-dff3-5132-be5d-b94853a76639/ident/1_128x128.png" alt="ITV4 +1" width="120"> | ITV4 +1 | 799 |
+| <img src="https://images-live.youview.tv/images/entity/855b8c84-68d9-57f7-bb0a-ba069d4d2066/ident/1_128x128.png" alt="your 80s" width="120"> | your 80s | - |
+| <img src="https://images-live.youview.tv/images/entity/215aa1f1-6f77-5125-97ed-30a70ab3d8aa/ident/1_128x128.png" alt="your ROCK" width="120"> | your ROCK | - |
