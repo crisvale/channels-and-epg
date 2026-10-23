@@ -75,6 +75,8 @@
 | <img src="https://images-live.youview.tv/images/entity/93535f6c-fe7c-515f-aa93-42530392b6d7/ident/1_128x128.png" alt="your Xmas" width="120"> | your Xmas | 75 |
 | <img src="https://images-live.youview.tv/images/entity/6626e568-2471-57d0-b131-79931733def6/ident/1_128x128.png" alt="That&#x27;s 60s" width="120"> | That's 60s | 76 |
 | <img src="https://images-live.youview.tv/images/entity/3a9eb86a-37c5-56ca-9368-319153e9c64b/ident/1_128x128.png" alt="your OLDIES" width="120"> | your OLDIES | 76 |
+| <img src="https://images-live.youview.tv/images/entity/855b8c84-68d9-57f7-bb0a-ba069d4d2066/ident/1_128x128.png" alt="your 80s" width="120"> | your 80s | 77 |
+| <img src="https://images-live.youview.tv/images/entity/215aa1f1-6f77-5125-97ed-30a70ab3d8aa/ident/1_128x128.png" alt="your ROCK" width="120"> | your ROCK | 78 |
 | <img src="https://images-live.youview.tv/images/entity/02a3b101-fd50-553b-afe1-571a82d8ecfb/ident/1_128x128.png" alt="Rewind TV" width="120"> | Rewind TV | 81 |
 | <img src="https://images-live.youview.tv/images/entity/0bac19f5-fa5b-5ad4-bd0c-92fda005a86e/ident/1_128x128.png" alt="Talking Pictures TV" width="120"> | Talking Pictures TV | 82 |
 | <img src="https://images-live.youview.tv/images/entity/dfa0587b-2960-5a89-aa5a-9c31f7071805/ident/1_128x128.png" alt="Together TV" width="120"> | Together TV | 83 |
@@ -186,5 +188,3 @@
 | <img src="https://images-live.youview.tv/images/entity/3e0498bf-f04f-511e-b296-ef5cf8d1c72a/ident/1_128x128.png" alt="E4 Extra" width="120"> | E4 Extra | 797 |
 | <img src="https://images-live.youview.tv/images/entity/f04b7bec-d8c8-5926-8e37-eef4cc85f09d/ident/1_128x128.png" alt="ITV2 +1" width="120"> | ITV2 +1 | 798 |
 | <img src="https://images-live.youview.tv/images/entity/b80ea1bf-dff3-5132-be5d-b94853a76639/ident/1_128x128.png" alt="ITV4 +1" width="120"> | ITV4 +1 | 799 |
-| <img src="https://images-live.youview.tv/images/entity/855b8c84-68d9-57f7-bb0a-ba069d4d2066/ident/1_128x128.png" alt="your 80s" width="120"> | your 80s | - |
-| <img src="https://images-live.youview.tv/images/entity/215aa1f1-6f77-5125-97ed-30a70ab3d8aa/ident/1_128x128.png" alt="your ROCK" width="120"> | your ROCK | - |
