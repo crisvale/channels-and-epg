@@ -288,7 +288,7 @@
 | - | MTA1 World HD | 731 |
 | - | HUM News | 732 |
 | - | GEO News | 734 |
-| - | New Vision TV | 735 |
+| - | ARY World | 735 |
 | - | Islam Channel | 736 |
 | - | GEO TV | 737 |
 | - | Noor TV | 738 |
