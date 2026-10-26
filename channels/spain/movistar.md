@@ -166,7 +166,6 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ETB.png" alt="etb2ON" width="120"> | etb2ON | 159 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/ESP3.png" alt="Esport 3" width="120"> | Esport 3 | 164 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/BTV.png" alt="Betevé" width="120"> | Betevé | 166 |
-| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" alt="M+ LALIGA 3" width="120"> | M+ LALIGA 3 | 167 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" alt="M+ LALIGA 4" width="120"> | M+ LALIGA 4 | 168 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" alt="LALIGA TV HYPERMOTION 3" width="120"> | LALIGA TV HYPERMOTION 3 | 178 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" alt="M+ Liga de Campeones 4" width="120"> | M+ Liga de Campeones 4 | 180 |
@@ -192,6 +191,7 @@
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGUH.png" alt="M+ LALIGA HDR" width="120"> | M+ LALIGA HDR | 440 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIUHD.png" alt="M+ LALIGA 2 HDR" width="120"> | M+ LALIGA 2 HDR | 441 |
 | <img src="https://www.movistarplus.es/recorte/m-NEO/canal/POPUHD.png" alt="M+ Wimbledon UHD" width="120"> | M+ Wimbledon UHD | 444 |
+| <img src="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" alt="M+ LALIGA 3" width="120"> | M+ LALIGA 3 | 450 |
 | - | LALIGA TV BAR | - |
 | - | LALIGA TV BAR 2 | - |
 | - | LALIGA TV BAR 3 | - |
