@@ -56,7 +56,7 @@
 | <img src="https://img1.oqee.net/channel_pictures/3142/w400" alt="13ème Rue" width="120"> | 13ème Rue | 147 |
 | <img src="https://img1.oqee.net/channel_pictures/3830/w400" alt="SciFi" width="120"> | SciFi | 148 |
 | <img src="https://img2.oqee.net/channel_pictures/909/w400" alt="Polar+" width="120"> | Polar+ | 149 |
-| <img src="https://img2.oqee.net/channel_pictures/3979/w400" alt="Novelas+" width="120"> | Novelas+ | 150 |
+| <img src="https://img1.oqee.net/channel_pictures/4022/w400" alt="Novelas+" width="120"> | Novelas+ | 150 |
 | <img src="https://img2.oqee.net/channel_pictures/911/w400" alt="serieclub" width="120"> | serieclub | 152 |
 | <img src="https://img2.oqee.net/channel_pictures/2765/w400" alt="Mangas" width="120"> | Mangas | 153 |
 | <img src="https://img2.oqee.net/channel_pictures/3263/w400" alt="OCS" width="120"> | OCS | 162 |
