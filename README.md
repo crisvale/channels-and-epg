@@ -10,7 +10,7 @@ Automated, consolidated XMLTV guides by country, plus channel catalogs by operat
 - One unified XMLTV guide per country.
 - Channels deduplicated across operators.
 - Best data source selected per time slot.
-- Enriched metadata via TMDB when available.
+- Metadata and artwork supplied by the operators.
 - Gzip-compressed for efficient delivery.
 - Smart updates: only changed files are published.
 
@@ -24,7 +24,7 @@ Each country has a single XMLTV file combining all supported operators.
 | United Kingdom | `epg/united-kingdom.xml.gz` | 558 | Freeview, Freesat, Sky UK, Virgin TV Go, EE TV |
 | Germany | `epg/germany.xml.gz` | 746 | Magenta TV, Sky DE, waipu.tv |
 | Congo | `epg/congo.xml.gz` | 363 | Canal+ Congo |
-| Spain | `epg/spain.xml.gz` | 567 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
+| Spain | `epg/spain.xml.gz` | 564 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 259 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 166 | Sky IT, RaiPlay, Tivu, Mediaset |
@@ -51,7 +51,7 @@ curl -sL https://raw.githubusercontent.com/crisvale/channels-and-epg/main/epg/sp
 
 ### Program Metadata
 
-Depending on availability from the source and TMDB, entries may include:
+Depending on availability from the operator, entries may include:
 
 - Title and description, with the season and episode number folded into the title for series (for example, "NCIS - 21x09 Prime Cut").
 - Poster or image.
@@ -114,9 +114,8 @@ Behavior:
 
 ## Data Sources
 
-The guide data comes from public operator EPG sources and is enriched with metadata from [TMDB](https://www.themoviedb.org/).
-
-This product uses the TMDB API but is not endorsed or certified by TMDB.
+The guides and channel catalogs are built from public operator sources. Richer
+movie and episode details can be loaded by OwnTV on demand.
 
 ## Disclaimer
 
