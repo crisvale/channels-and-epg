@@ -206,6 +206,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/colors-rishtey.png" alt="Colors Rishtey" width="120"> | Colors Rishtey | 827 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/colors-cineplex.png" alt="Colors Cineplex" width="120"> | Colors Cineplex | 828 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/aljazeera.png" alt="Al Jazeera Arabic" width="120"> | Al Jazeera Arabic | 831 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/aljazeera-now.png" alt="Al Jazeera NOW" width="120"> | Al Jazeera NOW | 832 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/islam-channel-english.png" alt="Islam Channel English" width="120"> | Islam Channel English | 838 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-one-london-hd.png" alt="BBC ONE London HD" width="120"> | BBC ONE London HD | 861 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/bbc-one-hd-scotland.png" alt="BBC ONE Scotland HD" width="120"> | BBC ONE Scotland HD | 862 |
