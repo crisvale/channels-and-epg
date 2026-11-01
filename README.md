@@ -115,7 +115,9 @@ Behavior:
 ## Data Sources
 
 The guides and channel catalogs are built from public operator sources. Richer
-movie and episode details can be loaded by OwnTV on demand.
+Movies and series publish the provider title and year; series also retain season
+and episode numbers without episode names. OwnTV can load richer movie and
+series details on demand. Other programme types keep provider-supplied details.
 
 ## Disclaimer
 
