@@ -111,15 +111,15 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/discovery-history-plus1.png" alt="Discovery History +1" width="120"> | Discovery History +1 | 381 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/vtv-movies.png" alt="Store" width="120"> | Store | 400 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-premiere-hd.png" alt="Sky Premiere HD" width="120"> | Sky Premiere HD | 401 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-animation-hd.png" alt="Sky Animation" width="120"> | Sky Animation | 402 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-halloween-hd.png" alt="Sky Halloween" width="120"> | Sky Halloween | 403 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-select-hd.png" alt="Sky Select" width="120"> | Sky Select | 402 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-hits-hd.png" alt="Sky Hits" width="120"> | Sky Hits | 403 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-greats-hd.png" alt="Sky Greats HD" width="120"> | Sky Greats HD | 404 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-family-hd.png" alt="Sky Family HD" width="120"> | Sky Family HD | 406 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-action-hd.png" alt="Sky Action" width="120"> | Sky Action | 407 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-comedy-hd.png" alt="Sky Comedy HD" width="120"> | Sky Comedy HD | 408 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-thriller-hd.png" alt="Sky Thriller HD" width="120"> | Sky Thriller HD | 409 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-drama-hd.png" alt="Sky Drama HD" width="120"> | Sky Drama HD | 410 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-sci-fi-hd.png" alt="Sky Sci Fi" width="120"> | Sky Sci Fi | 411 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/sky-cinema-scifi-horror-hd.png" alt="Sky SciFi &amp; Hor HD" width="120"> | Sky SciFi &amp; Hor HD | 411 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/christmas-24.png" alt="Christmas 24" width="120"> | Christmas 24 | 419 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/christmas-24-plus1.png" alt="Christmas 24+" width="120"> | Christmas 24+ | 420 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/great-christmas.png" alt="GREAT! Christmas" width="120"> | GREAT! Christmas | 424 |
@@ -176,8 +176,8 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-hd.png" alt="Nick HD" width="120"> | Nick HD | 712 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-plus1.png" alt="Nick +1" width="120"> | Nick +1 | 713 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-junior-hd.png" alt="Nick Jr. HD" width="120"> | Nick Jr. HD | 715 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-jr-2.png" alt="Nick Jr. Too" width="120"> | Nick Jr. Too | 716 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-alvinnn.png" alt="Nick Alvin" width="120"> | Nick Alvin | 717 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-jr-peppa.png" alt="Nick Jr. Peppa" width="120"> | Nick Jr. Peppa | 716 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/nick-spongebob.png" alt="Nick SpongeBob" width="120"> | Nick SpongeBob | 717 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/boomerang.png" alt="Boomerang" width="120"> | Boomerang | 730 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/boomerang-plus1.png" alt="Boomerang +1" width="120"> | Boomerang +1 | 731 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/qvc-hd.png" alt="QVC" width="120"> | QVC | 740 |
