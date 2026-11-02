@@ -15,11 +15,12 @@
 | <img src="https://guidatv.sky.it/logo/686skyinvestigation_Dark_Fit.png?checksum=d8acf54c-ffd6-4fe0-a34c-31321b4cc6ae" alt="Sky Investigation" width="120"> | Sky Investigation | 113 |
 | <img src="https://guidatv.sky.it/logo/249skycrime_Dark_Fit.png?checksum=ea13512e-18ac-4f3a-a0bc-e685c29dda46" alt="Sky Crime" width="120"> | Sky Crime | 115 |
 | <img src="https://guidatv.sky.it/logo/697skydocumentaries_Dark_Fit.png?checksum=051429e1-c7d2-41cb-9f05-3bb2a5f06e1d" alt="Sky Documentaries" width="120"> | Sky Documentaries | 117 |
-| <img src="https://guidatv.sky.it/logo/961skyadventure_Dark_Fit.png?checksum=6ea24ea0-611a-43e6-8151-7c293bcd8629" alt="Sky Adventure" width="120"> | Sky Adventure | 118 |
+| <img src="https://guidatv.sky.it/logo/567skyvoices_Dark_Fit.png?checksum=b0aca01a-4493-4a9b-8500-d8ffbbec5b7f" alt="Sky Voices" width="120"> | Sky Voices | 118 |
 | <img src="https://guidatv.sky.it/logo/695skynature_Dark_Fit.png?checksum=4a550e90-0d76-4287-8bed-0b7e085d6682" alt="Sky Nature" width="120"> | Sky Nature | 119 |
 | <img src="https://guidatv.sky.it/logo/74skyarte_Dark_Fit.png?checksum=877bdab3-302c-43d3-9281-59af9069f039" alt="Sky Arte" width="120"> | Sky Arte | 120 |
 | <img src="https://guidatv.sky.it/logo/170170_Dark_Fit.png?checksum=d19cfc42-3cc1-4306-bdf8-f6c50cb23fb9" alt="Sky Classica" width="120"> | Sky Classica | 121 |
 | <img src="https://guidatv.sky.it/logo/928skydocumentaries1hd_Dark_Fit.png?checksum=ed168b7c-740b-43a1-9dcb-ab103c663958" alt="Sky Documentaries +1 HD" width="120"> | Sky Documentaries +1 HD | 121 |
+| <img src="https://guidatv.sky.it/logo/961skyadventure_Dark_Fit.png?checksum=6ea24ea0-611a-43e6-8151-7c293bcd8629" alt="Sky Adventure" width="120"> | Sky Adventure | 122 |
 | <img src="https://guidatv.sky.it/logo/5522discovery_Dark_Fit.png?checksum=791908a1-6b1b-4f02-a305-bfa9c7d2bf5b" alt="Discovery" width="120"> | Discovery | 123 |
 | <img src="https://guidatv.sky.it/logo/260tv8hd_Dark_Fit.png?checksum=51b69f7d73040297bd02b1f812eb9fab" alt="TV8 HD" width="120"> | TV8 HD | 125 |
 | <img src="https://guidatv.sky.it/logo/120cielo_Dark_Fit.png?checksum=1241357c-62c0-4c0a-b81e-c7506691a9b6" alt="cielo" width="120"> | cielo | 126 |
