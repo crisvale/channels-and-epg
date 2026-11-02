@@ -81,7 +81,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/174/canal-ouah/CHN43FB/CHN43FB_174_20240611-uIxM" alt="DISCOVERY" width="120"> | DISCOVERY | 119 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1098/canal-ouah/CHN43FB/CHN43FB_1098_20240611-nQTl" alt="Investigation Discovery" width="120"> | Investigation Discovery | 120 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1201/canal-ouah/CHN43FB/DOGCATTV_ONLIGHT_640x480-W5Dx" alt="DOG &amp; CAT TV" width="120"> | DOG &amp; CAT TV | 121 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FB/CHN43FB_577_20231128-FrTc" alt="SEASONS" width="120"> | SEASONS | 122 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/577/canal-ouah/CHN43FB/CHN43FB_577_20261030-Yz8E" alt="SEASONS" width="120"> | SEASONS | 122 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/44977315" alt="CHASSE ET PECHE" width="120"> | CHASSE ET PECHE | 123 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/img-hapi.canalplus.pro:80/ServiceImage/ImageID/54237818" alt="ANIMAUX" width="120"> | ANIMAUX | 124 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/canalplus-cdn.canal-plus.io/p1/channel/1076/canal-ouah/CHN43FB/CHN43FB_1076_20230919" alt="TV MONACO" width="120"> | TV MONACO | 125 |
