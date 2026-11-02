@@ -152,8 +152,8 @@
 | - | U&amp;Eden+1 | 266 |
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
-| - | SkyAnimationHD | 302 |
-| - | Halloween HD | 303 |
+| - | Sky Christmas HD | 302 |
+| - | Sky Bourne HD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
@@ -161,7 +161,7 @@
 | - | Sky Comedy HD | 308 |
 | - | Sky Thriller HD | 309 |
 | - | Sky Drama HD | 310 |
-| - | Sky Sci-Fi HD | 311 |
+| - | Sky ScFi/HorHD | 311 |
 | - | Christmas24 | 312 |
 | - | Film4 HD | 313 |
 | - | Film4+1 | 314 |
@@ -236,14 +236,14 @@
 | - | CN+1 | 602 |
 | - | Boomerang | 603 |
 | - | NickelodeonHD | 604 |
-| - | Nick Alvinnn!!! | 605 |
+| - | Nick SpongeBob | 605 |
 | - | Nick Jr. HD | 606 |
 | - | CBBC HD | 607 |
 | - | CBeebies HD | 608 |
 | - | Sky Kids HD | 609 |
 | - | Cartoonito | 610 |
 | - | Boomerang+1 | 611 |
-| - | Nick Jr. Too | 612 |
+| - | NickJrPeppa | 612 |
 | - | Disney Jr HD | 613 |
 | - | Nickelodeon+1 | 615 |
 | - | Nick Jr+1 | 619 |
