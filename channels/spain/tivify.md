@@ -8,28 +8,28 @@
 | <img src="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" alt="Cuatro" width="120"> | Cuatro | 4 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" alt="Telecinco" width="120"> | Telecinco | 5 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" alt="La Sexta" width="120"> | La Sexta | 6 |
-| <img src="https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png" alt="7 Región de Murcia" width="120"> | 7 Región de Murcia | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png" alt="Canal Sur" width="120"> | Canal Sur | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png" alt="CMM TV" width="120"> | CMM TV | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png" alt="ETB2" width="120"> | ETB2 | 7 |
-| <img src="https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png" alt="IB3" width="120"> | IB3 | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png" alt="Telemadrid" width="120"> | Telemadrid | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png" alt="TPA7" width="120"> | TPA7 | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png" alt="TV Canaria" width="120"> | TV Canaria | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png" alt="TV3" width="120"> | TV3 | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png" alt="TVG" width="120"> | TVG | 7 |
-| <img src="https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png" alt="À Punt" width="120"> | À Punt | 7 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png" alt="Andalucía TV" width="120"> | Andalucía TV | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50_1775735557128.png" alt="ETB1" width="120"> | ETB1 | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png" alt="Grupo Cadena Media" width="120"> | Grupo Cadena Media | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png" alt="La Otra" width="120"> | La Otra | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png" alt="Super 3-33" width="120"> | Super 3-33 | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png" alt="TPA8" width="120"> | TPA8 | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png" alt="TVG 2" width="120"> | TVG 2 | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png" alt="2Cat" width="120"> | 2Cat | 9 |
-| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor.png" alt="Runtime Halloween" width="120"> | Runtime Halloween | 10 |
+| <img src="https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor.png" alt="La Séptima" width="120"> | La Séptima | 7 |
+| <img src="https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png" alt="7 Región de Murcia" width="120"> | 7 Región de Murcia | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png" alt="Canal Sur" width="120"> | Canal Sur | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png" alt="CMM TV" width="120"> | CMM TV | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png" alt="ETB2" width="120"> | ETB2 | 8 |
+| <img src="https://media.tvup.cloud/canales/5afeab43d2fc610babd2b87flogoColor.png" alt="IB3" width="120"> | IB3 | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5c14c432a69b842193852b62.png" alt="Telemadrid" width="120"> | Telemadrid | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5c013700b7adda22348eab19.png" alt="TPA7" width="120"> | TPA7 | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5f436bcafd67260066323ae5.png" alt="TV Canaria" width="120"> | TV Canaria | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5a314e548e26040be8a9f3fd.png" alt="TV3" width="120"> | TV3 | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5d777d87a9824d0056b02a67.png" alt="TVG" width="120"> | TVG | 8 |
+| <img src="https://media.tvup.cloud/canales/5cb43c78aada4d004cda83a2logoColor.png" alt="À Punt" width="120"> | À Punt | 8 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5cbcb460f75662004cbb5040.png" alt="Andalucía TV" width="120"> | Andalucía TV | 9 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5c1761caa69b842193852d50_1775735557128.png" alt="ETB1" width="120"> | ETB1 | 9 |
+| <img src="https://media.tvup.cloud/canales/color_lg_68d50b82b99dbf02992756ef_1760097442254.png" alt="Grupo Cadena Media" width="120"> | Grupo Cadena Media | 9 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5f96a0831a1838006f570679.png" alt="La Otra" width="120"> | La Otra | 9 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png" alt="Super 3-33" width="120"> | Super 3-33 | 9 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png" alt="TPA8" width="120"> | TPA8 | 9 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png" alt="TVG 2" width="120"> | TVG 2 | 9 |
+| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor_1793723969261.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 10 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 11 |
 | <img src="https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png" alt="Crímenes Reales" width="120"> | Crímenes Reales | 11 |
 | <img src="https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png" alt="Qello Concerts" width="120"> | Qello Concerts | 12 |
@@ -64,7 +64,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 53 |
-| <img src="https://media.tvup.cloud/channels/652cf8c4f914db9d0bb38805logoColor.png" alt="Runtime Halloween" width="120"> | Runtime Halloween | 54 |
+| <img src="https://media.tvup.cloud/channels/652cf8c4f914db9d0bb38805logoColor_1793723988392.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" alt="Runtime Crimen" width="120"> | Runtime Crimen | 55 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" alt="Runtime Romance" width="120"> | Runtime Romance | 56 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" alt="Runtime Clásicos" width="120"> | Runtime Clásicos | 57 |
@@ -204,6 +204,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_60d9ee5620076b001a8401af.png" alt="IB3 Global" width="120"> | IB3 Global | 289 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6050a6723662e20039601c62.png" alt="Bon Dia TV" width="120"> | Bon Dia TV | 290 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5afea59fd2fc610babd2b87b_1777295673344.png" alt="La 1 &#124; Catalunya" width="120"> | La 1 &#124; Catalunya | 291 |
+| <img src="https://media.tvup.cloud/canales/color_lg_68e7a2e8f28a3db1aeb0e25b_1777295991022.png" alt="2Cat" width="120"> | 2Cat | 292 |
 | <img src="https://media.tvup.cloud/canales/color_lg_69b2eb3e5136c743f88eaa77_1773335379130.png" alt="Distrito TV" width="120"> | Distrito TV | 293 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5cdc1465d1a7460050d8af0a.png" alt="Betevé" width="120"> | Betevé | 294 |
 | <img src="https://media.tvup.cloud/canales/color_lg_60d9efa9593c07001c560ac7.png" alt="La 8 Mediterráneo" width="120"> | La 8 Mediterráneo | 295 |
@@ -281,6 +282,9 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" alt="Wedo Big Stories" width="120"> | Wedo Big Stories | 458 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png" alt="Xtrem Sports" width="120"> | Xtrem Sports | 459 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6683b19d7af6025d72dfc85a.png" alt="Planeta de Cine" width="120"> | Planeta de Cine | 500 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6450e3d6975f53a85eb36e2e_1784200973172.png" alt="El Confidencial" width="120"> | El Confidencial | 501 |
+| <img src="https://media.tvup.cloud/canales/color_lg_69c10151097349540973d3a3_1774256465475.png" alt="Movie Music" width="120"> | Movie Music | 502 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png" alt="SIC Internacional" width="120"> | SIC Internacional | 510 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png" alt="SIC Noticias" width="120"> | SIC Noticias | 511 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png" alt="RTPi" width="120"> | RTPi | 512 |
