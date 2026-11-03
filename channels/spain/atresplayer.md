@@ -9,8 +9,8 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Mega_tiny.png" alt="Mega" width="120"> | Mega | 5 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/A3S_tiny.png" alt="Atreseries" width="120"> | Atreseries | 6 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png" alt="Flooxer" width="120"> | Flooxer | 7 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" alt="Kidz" width="120"> | Kidz | 7 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" alt="Clásicos" width="120"> | Clásicos | 8 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" alt="Kidz" width="120"> | Kidz | 9 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" alt="Aquí no hay quién viva" width="120"> | Aquí no hay quién viva | 10 |
 | - | Eventos 4 | 11 |
 | - | Eventos 8 | 11 |
