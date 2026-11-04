@@ -8,7 +8,7 @@
 | <img src="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" alt="Cuatro" width="120"> | Cuatro | 4 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" alt="Telecinco" width="120"> | Telecinco | 5 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" alt="La Sexta" width="120"> | La Sexta | 6 |
-| <img src="https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor.png" alt="La Séptima" width="120"> | La Séptima | 7 |
+| <img src="https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor.png" alt="LA SÉPTIMA" width="120"> | LA SÉPTIMA | 7 |
 | <img src="https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png" alt="7 Región de Murcia" width="120"> | 7 Región de Murcia | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 8 |
@@ -29,10 +29,10 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5afeb829d2fc610babd2b88f.png" alt="Super 3-33" width="120"> | Super 3-33 | 9 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5efc32cc377b9a00658da210.png" alt="TPA8" width="120"> | TPA8 | 9 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f23c7d2a39a240075a7a311.png" alt="TVG 2" width="120"> | TVG 2 | 9 |
-| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor_1793723969261.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 10 |
+| <img src="https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png" alt="Planeta de Cine" width="120"> | Planeta de Cine | 10 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e32db00ca0bcff00c1c142.png" alt="Cine Feel Good Verdi TV" width="120"> | Cine Feel Good Verdi TV | 11 |
-| <img src="https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png" alt="Crímenes Reales" width="120"> | Crímenes Reales | 11 |
-| <img src="https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png" alt="Qello Concerts" width="120"> | Qello Concerts | 12 |
+| <img src="https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png" alt="El Confidencial" width="120"> | El Confidencial | 11 |
+| <img src="https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png" alt="Movie Music" width="120"> | Movie Music | 12 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07e3b5b0b6b936758c5a97.png" alt="TRECE" width="120"> | TRECE | 13 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c48b03080405b20a4fe0.png?t=1660723494" alt="AXN" width="120"> | AXN | 15 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5bc6e373057cb0004ba4037c.png" alt="AMC" width="120"> | AMC | 17 |
@@ -64,12 +64,12 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_6296030832e730001aa21ad9.png" alt="Runtime" width="120"> | Runtime | 51 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d046a55cd9ea001a036025.png" alt="Runtime Acción" width="120"> | Runtime Acción | 52 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0470c54e537001b828b7c.png" alt="Runtime Comedia" width="120"> | Runtime Comedia | 53 |
-| <img src="https://media.tvup.cloud/channels/652cf8c4f914db9d0bb38805logoColor_1793723988392.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
+| <img src="https://media.tvup.cloud/channels/62d04789109c93001a7ccd1clogoColor_1793723969261.png" alt="Runtime Thriller + Terror" width="120"> | Runtime Thriller + Terror | 54 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d047d015d6db00212fa43f.png?t=1658934611" alt="Runtime Crimen" width="120"> | Runtime Crimen | 55 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0487554e537001b828bd7.png?t=1657817205" alt="Runtime Romance" width="120"> | Runtime Romance | 56 |
 | <img src="https://media.tvup.cloud/canales/color_lg_62d0482397f0ad0023422956.png" alt="Runtime Clásicos" width="120"> | Runtime Clásicos | 57 |
 | <img src="https://media.tvup.cloud/canales/color_lg_642297c5fe71e4001bd0970d_1767862705619.png" alt="Runtime Familia" width="120"> | Runtime Familia | 58 |
-| <img src="https://media.tvup.cloud/canales/color_lg_665edba1975da069e69b59c3.png" alt="Planeta de Cine" width="120"> | Planeta de Cine | 59 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6683b19d7af6025d72dfc85a.png" alt="Planeta de Cine" width="120"> | Planeta de Cine | 59 |
 | <img src="https://media.tvup.cloud/canales/color_lg_628cdee165774400228d971f.png" alt="Film&amp;Co" width="120"> | Film&amp;Co | 60 |
 | <img src="https://media.tvup.cloud/canales/color_lg_641098c475965f001c37812a.png" alt="Cine Friki" width="120"> | Cine Friki | 61 |
 | <img src="https://media.tvup.cloud/canales/color_lg_65b7d1de3003cf8efe6fc754.png" alt="Cine Western" width="120"> | Cine Western | 62 |
@@ -101,7 +101,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_64e4811a758e3601480d3262.png" alt="Love Wine" width="120"> | Love Wine | 95 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64f9b2e2aae0260ae8e34fed.png" alt="Trailers" width="120"> | Trailers | 96 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6746f995367074ada7d2e66e_1733742227105.png" alt="Crimen &amp; Historia" width="120"> | Crimen &amp; Historia | 99 |
-| <img src="https://media.tvup.cloud/canales/color_lg_68eccc1d18549f63c2c53493_1760349214218.png" alt="Crímenes Reales" width="120"> | Crímenes Reales | 100 |
+| <img src="https://media.tvup.cloud/canales/color_lg_68da93df08f02632a129035e_1759155168639.png" alt="Crímenes Reales" width="120"> | Crímenes Reales | 100 |
 | <img src="https://media.tvup.cloud/canales/color_lg_628ce71965774400228da9ae.png?t=1683806449?t=1687212737" alt="Inglés Total" width="120"> | Inglés Total | 101 |
 | <img src="https://media.tvup.cloud/canales/color_lg_66e953d1182d829c0a2edbae_1731927623534.png" alt="Vaughan TV" width="120"> | Vaughan TV | 102 |
 | <img src="https://media.tvup.cloud/canales/color_lg_679b54f5c94f7e5c9b8effce_1739785565323.png" alt="Viajes y Sabores" width="120"> | Viajes y Sabores | 103 |
@@ -146,7 +146,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_698306c8497ec26c754c85f9_1770898604967.png" alt="Stingray Classica" width="120"> | Stingray Classica | 152 |
 | <img src="https://media.tvup.cloud/canales/color_lg_683ef0750f3cea6ce5be7721_1756996692168.png" alt="Clips Don&#x27;t Lie" width="120"> | Clips Don't Lie | 154 |
 | <img src="https://media.tvup.cloud/canales/color_lg_653ba0f052f985e26c4180b1.png" alt="SOL Música" width="120"> | SOL Música | 155 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6450e32e71fda6c361d2f38a.png" alt="Qello Concerts" width="120"> | Qello Concerts | 156 |
+| <img src="https://media.tvup.cloud/canales/color_lg_628b2d6a76d04a001a52833f.png" alt="Qello Concerts" width="120"> | Qello Concerts | 156 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458ca8827684c477680a0d9.png" alt="Trace Urban" width="120"> | Trace Urban | 157 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458cbea462b2c4901272564.png" alt="Trace Latina" width="120"> | Trace Latina | 158 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458ccb08535b3af28328edf.png" alt="Trace Brasil" width="120"> | Trace Brasil | 159 |
@@ -155,7 +155,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_654b5e18c4c1cd948e73d382_1771316325091.png" alt="that&#x27;s 70s" width="120"> | that's 70s | 162 |
 | <img src="https://media.tvup.cloud/canales/color_lg_654b5eb7088090b763a00be2_1771316710232.png" alt="that&#x27;s 80s" width="120"> | that's 80s | 163 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67b4ba5dfdf20e048d551fab_1739965973280.png" alt="Qwest TV" width="120"> | Qwest TV | 164 |
-| <img src="https://media.tvup.cloud/canales/color_lg_679393fd97c8c3631a9e13bb_1741083590706.png" alt="Movie Music" width="120"> | Movie Music | 166 |
+| <img src="https://media.tvup.cloud/canales/color_lg_69c10151097349540973d3a3_1774256465475.png" alt="Movie Music" width="120"> | Movie Music | 166 |
 | <img src="https://media.tvup.cloud/canales/color_lg_679392cd97c8c3631a9e12f6_1740999173244.png" alt="Djazz" width="120"> | Djazz | 167 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6793919497c8c3631a9e11ca_1741088534802.png" alt="Naturescape" width="120"> | Naturescape | 168 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c56a03080405b20a4fe3_1777295958309.png" alt="Canal 24 horas" width="120"> | Canal 24 horas | 200 |
@@ -163,7 +163,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5b02e3e9c5895a2dc7b5d094_1758096590448.png" alt="3CatInfo" width="120"> | 3CatInfo | 202 |
 | <img src="https://media.tvup.cloud/canales/color_lg_628ce1b45233d00022138a04.png?t=1679501776" alt="El País" width="120"> | El País | 203 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f9be2ba52dc8c007fc95d13.png" alt="El Toro TV" width="120"> | El Toro TV | 204 |
-| <img src="https://media.tvup.cloud/canales/color_lg_628cdd7b6e4314001c18cf68_1784200877759.png" alt="El Confidencial" width="120"> | El Confidencial | 205 |
+| <img src="https://media.tvup.cloud/canales/color_lg_6450e3d6975f53a85eb36e2e_1784200973172.png" alt="El Confidencial" width="120"> | El Confidencial | 205 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c0517ceb7adda22348eadc6.png" alt="Canal Parlamento" width="120"> | Canal Parlamento | 207 |
 | <img src="https://media.tvup.cloud/canales/color_lg_679b4ebbfb38496ae410cd19_1739869091770.png" alt="Actualidad 360" width="120"> | Actualidad 360 | 208 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6285166c26317d0022ffee7a.png" alt="Euronews" width="120"> | Euronews | 220 |
@@ -282,9 +282,6 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3d524bac394af54b4a0e.png" alt="Heritage+" width="120"> | Heritage+ | 457 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6526c2098c7faec4bfbad910.png" alt="Wedo Big Stories" width="120"> | Wedo Big Stories | 458 |
 | <img src="https://media.tvup.cloud/canales/color_lg_659d3e74224365c4145260ef.png" alt="Xtrem Sports" width="120"> | Xtrem Sports | 459 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6683b19d7af6025d72dfc85a.png" alt="Planeta de Cine" width="120"> | Planeta de Cine | 500 |
-| <img src="https://media.tvup.cloud/canales/color_lg_6450e3d6975f53a85eb36e2e_1784200973172.png" alt="El Confidencial" width="120"> | El Confidencial | 501 |
-| <img src="https://media.tvup.cloud/canales/color_lg_69c10151097349540973d3a3_1774256465475.png" alt="Movie Music" width="120"> | Movie Music | 502 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e10c20bc400659bfde9.png" alt="SIC Internacional" width="120"> | SIC Internacional | 510 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5f901e511a1838006f56e9af.png" alt="SIC Noticias" width="120"> | SIC Noticias | 511 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5db865fc8a834e007359c277_1776788456109.png" alt="RTPi" width="120"> | RTPi | 512 |
