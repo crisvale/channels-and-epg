@@ -67,6 +67,7 @@
 | <img src="https://services.tivulaguida.it/uploads/channel/21d6a40aa31e4f7eb2d0849da323d48ef22ab524.png" alt="NHK HD" width="120"> | NHK HD | 73 |
 | <img src="https://services.tivulaguida.it/uploads/channel/7fb222867c79eca08933aafabee876a1b6e2aaa5.png" alt="France 24 HD (en Français)" width="120"> | France 24 HD (en Français) | 75 |
 | <img src="https://services.tivulaguida.it/uploads/channel/546539dc20c9ab884b072fc941adc19d8116ed99.png" alt="Al Jazeera English HD" width="120"> | Al Jazeera English HD | 77 |
+| <img src="https://services.tivulaguida.it/uploads/channel/cfc665c5809423873f3387f93d87c4df0b57f93d.png" alt="Al Jazeera Now" width="120"> | Al Jazeera Now | 78 |
 | <img src="https://services.tivulaguida.it/uploads/channel/365b63af250d0208e0e1c8e48ef12d09ab7a8c04.png" alt="CNBC HD" width="120"> | CNBC HD | 81 |
 | <img src="https://services.tivulaguida.it/uploads/channel/a968cd63dcd308ad021426bcc74d04f8bb3ee02a.png" alt="Bloomberg European" width="120"> | Bloomberg European | 82 |
 | <img src="https://services.tivulaguida.it/uploads/channel/b2adba8c49e40834621eec02d01c10abee4d7c72.png" alt="Daystar" width="120"> | Daystar | 83 |
