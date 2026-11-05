@@ -186,6 +186,7 @@
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s21633_h15_aa.png" alt="Stingray: Kids Stuff" width="120"> | Stingray: Kids Stuff | 340 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s75480_h15_aa.png" alt="Stingray: Franco Fêtes" width="120"> | Stingray: Franco Fêtes | 341 |
 | - | Stingray: Holiday Favourites | 342 |
+| <img src="https://cdn.tvpassport.com/image/station/304x112/v3/166634-515D4.png" alt="NHL on Prime" width="120"> | NHL on Prime | 375 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s18805_h15_aa.png" alt="Yes TV (CITS-DT-2) London, ON" width="120"> | Yes TV (CITS-DT-2) London, ON | 405 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s75447_h15_ad.png" alt="National Geographic Wild Canada" width="120"> | National Geographic Wild Canada | 409 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s73681_h15_aa.png" alt="FX Networks Canada" width="120"> | FX Networks Canada | 410 |
