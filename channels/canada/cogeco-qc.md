@@ -343,6 +343,8 @@
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s90123_h15_aa.png" alt="TSN4 HD" width="120"> | TSN4 HD | 795 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s90125_h15_aa.png" alt="TSN5 HD" width="120"> | TSN5 HD | 796 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s106713_h15_ab.png" alt="REV TV - Canada HD" width="120"> | REV TV - Canada HD | 797 |
+| <img src="https://cdn.tvpassport.com/image/station/304x112/v3/166634-515D4.png" alt="LNH sur prime" width="120"> | LNH sur prime | 798 |
+| <img src="https://cdn.tvpassport.com/image/station/304x112/v3/166634-515D4.png" alt="NHL on Prime" width="120"> | NHL on Prime | 799 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s67565_h15_ab.png" alt="Stingray: Flashback 70&#x27;s" width="120"> | Stingray: Flashback 70's | 900 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s21635_h15_ac.png" alt="Stingray: Adult Alternative" width="120"> | Stingray: Adult Alternative | 901 |
 | <img src="https://cdn.tvpassport.com/image/station/304x112/v2/s68630_h15_aa.png" alt="Stingray: Chill Lounge" width="120"> | Stingray: Chill Lounge | 902 |
