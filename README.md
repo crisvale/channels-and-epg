@@ -28,7 +28,7 @@ Each country has a single XMLTV file combining all supported operators.
 | Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 259 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 168 | Sky IT, RaiPlay, Tivu, Mediaset |
-| Canada | `epg/canada.xml.gz` | 507 | Cogeco (QC), Cogeco (ON), Sportsnet, TSN |
+| Canada | `epg/canada.xml.gz` | 508 | Cogeco (QC), Cogeco (ON), Sportsnet, TSN |
 
 - Coverage: **7 days of programming**
 - Format: XMLTV (`.xml.gz`)
