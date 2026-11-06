@@ -8,7 +8,7 @@
 | <img src="https://media.tvup.cloud/canales/5ac5e4b203080405b20a4fe5logoColor.png" alt="Cuatro" width="120"> | Cuatro | 4 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5e63803080405b20a4ff0_1725285512693.png" alt="Telecinco" width="120"> | Telecinco | 5 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5a314f7c38ca220c6cb04586_1732120393501.png" alt="La Sexta" width="120"> | La Sexta | 6 |
-| <img src="https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor.png" alt="LA SÉPTIMA" width="120"> | LA SÉPTIMA | 7 |
+| <img src="https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor_1793952394758.png" alt="LA SÉPTIMA" width="120"> | LA SÉPTIMA | 7 |
 | <img src="https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png" alt="7 Región de Murcia" width="120"> | 7 Región de Murcia | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 8 |
