@@ -8,6 +8,7 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Nova_tiny.png" alt="Nova" width="120"> | Nova | 4 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Mega_tiny.png" alt="Mega" width="120"> | Mega | 5 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/A3S_tiny.png" alt="Atreseries" width="120"> | Atreseries | 6 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" alt="atresplayer PREMIUM" width="120"> | atresplayer PREMIUM | 7 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png" alt="Flooxer" width="120"> | Flooxer | 7 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" alt="Clásicos" width="120"> | Clásicos | 8 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" alt="Kidz" width="120"> | Kidz | 9 |
@@ -23,5 +24,4 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" alt="Multicine" width="120"> | Multicine | 16 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" alt="Comedia" width="120"> | Comedia | 17 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" alt="Mentes inquietas" width="120"> | Mentes inquietas | 18 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/PREMIUM.png" alt="atresplayer PREMIUM" width="120"> | atresplayer PREMIUM | 19 |
 | - | Eventos 2 | 21 |
