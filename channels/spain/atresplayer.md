@@ -9,6 +9,7 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Mega_tiny.png" alt="Mega" width="120"> | Mega | 5 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/A3S_tiny.png" alt="Atreseries" width="120"> | Atreseries | 6 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Flooxer_tiny.png" alt="Flooxer" width="120"> | Flooxer | 7 |
+| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" alt="Multicine" width="120"> | Multicine | 7 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLASICOS.png" alt="Clásicos" width="120"> | Clásicos | 8 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/Kidz_tiny.png" alt="Kidz" width="120"> | Kidz | 9 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/AQNHQV.png" alt="Aquí no hay quién viva" width="120"> | Aquí no hay quién viva | 10 |
@@ -20,7 +21,6 @@
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/FOQ.png" alt="FoQ" width="120"> | FoQ | 14 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/CLUB_COMEDIA.png" alt="El club de la comedia" width="120"> | El club de la comedia | 15 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels/FAST_CHANNELS HALLOWEEN.png" alt="Halloween" width="120"> | Halloween | 16 |
-| <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/MULTICINE.png" alt="Multicine" width="120"> | Multicine | 16 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels/FAST_CHANNELS_Navidad.png" alt="Navidad" width="120"> | Navidad | 17 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/COMEDIA.png" alt="Comedia" width="120"> | Comedia | 18 |
 | <img src="https://statics.atresmedia.com/atresplayer/assets/mobile/commons/images/channels_renew/sombreado/INQUIETOS.png" alt="Mentes inquietas" width="120"> | Mentes inquietas | 19 |
