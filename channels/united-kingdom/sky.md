@@ -153,7 +153,7 @@
 | - | Disc.Sci+1 | 267 |
 | - | SkyPremiereHD | 301 |
 | - | Sky Christmas HD | 302 |
-| - | TheMummyHD | 303 |
+| - | Sky M:I HD | 303 |
 | - | Sky Family HD | 304 |
 | - | Disney+CineHD | 305 |
 | - | Sky Action HD | 306 |
