@@ -175,7 +175,7 @@
 | - | Great!Christmas | 322 |
 | - | Great! Xmas+1 | 323 |
 | - | TalkingPictures | 324 |
-| - | Clubland TV | 354 |
+| - | NOW XMAS | 354 |
 | - | NOW 70s | 355 |
 | - | NOW 80s | 356 |
 | - | NOW 90s &amp; 00s | 357 |
