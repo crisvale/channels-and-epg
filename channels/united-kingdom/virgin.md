@@ -78,7 +78,7 @@
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-80s.png" alt="NOW 80s" width="120"> | NOW 80s | 286 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-90s-00s.png" alt="NOW 90s &amp; 00s" width="120"> | NOW 90s &amp; 00s | 287 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-rock.png" alt="NOW ROCK" width="120"> | NOW ROCK | 288 |
-| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/clubland.png" alt="Clubland TV" width="120"> | Clubland TV | 289 |
+| <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/now-christmas.png" alt="NOW XMAS" width="120"> | NOW XMAS | 289 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/itv-plus1.png" alt="ITV1 +1" width="120"> | ITV1 +1 | 303 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-4-plus1.png" alt="Channel 4 +1" width="120"> | Channel 4 +1 | 304 |
 | <img src="https://staticqbr-prod-gb.gnp.cloud.virgintvgo.virginmedia.com/image-service/ImagesEPG/EventImages/channel-5-plus1.png" alt="Channel 5+1" width="120"> | Channel 5+1 | 305 |
