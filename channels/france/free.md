@@ -361,6 +361,7 @@
 | <img src="https://img2.oqee.net/pictures/6580315/w400" alt="TV7" width="120"> | TV7 | 974 |
 | <img src="https://img1.oqee.net/pictures/6581104/w400" alt="Kanaldude" width="120"> | Kanaldude | 975 |
 | <img src="https://img1.oqee.net/pictures/6580012/w400" alt="TVPI" width="120"> | TVPI | 976 |
+| <img src="https://img2.oqee.net/pictures/6746663/w400" alt="Bordo TV" width="120"> | Bordo TV | 977 |
 | <img src="https://img2.oqee.net/pictures/6581003/w400" alt="TéléPaese" width="120"> | TéléPaese | 981 |
 | <img src="https://img1.oqee.net/pictures/6581150/w400" alt="Alpe d&#x27;Huez TV" width="120"> | Alpe d'Huez TV | 983 |
 | <img src="https://img1.oqee.net/pictures/6580790/w400" alt="Maritima TV" width="120"> | Maritima TV | 984 |
@@ -526,6 +527,7 @@
 | <img src="https://img1.oqee.net/pictures/6581090/w400" alt="Saudi Quran" width="120"> | Saudi Quran | 1394 |
 | <img src="https://img2.oqee.net/pictures/6580949/w400" alt="Al Majd Documentary" width="120"> | Al Majd Documentary | 1396 |
 | <img src="https://img2.oqee.net/pictures/6579927/w400" alt="Iqraa International" width="120"> | Iqraa International | 1397 |
+| <img src="https://img2.oqee.net/empty/w1/h1" alt="Al Majd Elmiya" width="120"> | Al Majd Elmiya | 1398 |
 | <img src="https://img2.oqee.net/pictures/6581263/w400" alt="Al Watania TV" width="120"> | Al Watania TV | 1408 |
 | <img src="https://img2.oqee.net/pictures/6579959/w400" alt="Noursat" width="120"> | Noursat | 1409 |
 | <img src="https://img2.oqee.net/pictures/6580765/w400" alt="Rotana Clip" width="120"> | Rotana Clip | 1413 |
