@@ -30,7 +30,7 @@
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/i24_news_color.png" alt="i24 news" width="120"> | i24 news | 28 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/BFM_Business_color.png" alt="BFM Business" width="120"> | BFM Business | 31 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFR100x100COLORTECHCO.png" alt="TECH &amp; CO" width="120"> | TECH &amp; CO | 32 |
-| <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/RMC_Sport_1_color.png" alt="RMC Sport 1" width="120"> | RMC Sport 1 | 33 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rmc-sport-1-100x100-color.png" alt="RMC Sport 1" width="120"> | RMC Sport 1 | 33 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/SFRActu100100Couleur003.png" alt="SFR ACTU" width="120"> | SFR ACTU | 36 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Canal_color.png" alt="CANAL+" width="120"> | CANAL+ | 40 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/Paris_Premiere_color.png" alt="Paris Première" width="120"> | Paris Première | 41 |
@@ -58,10 +58,10 @@
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/brut-100x100.png" alt="Brut." width="120"> | Brut. | 96 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/LogoEurope1100x100.png" alt="EUROPE 1 TV" width="120"> | EUROPE 1 TV | 97 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/CNewsPrime100x100.png" alt="CNEWS PRIME" width="120"> | CNEWS PRIME | 98 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportAccess100x100couleur.png" alt="RMC Sport Access" width="120"> | RMC Sport Access | 106 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rmc-sport-access-color-100x100.png" alt="RMC Sport Access" width="120"> | RMC Sport Access | 106 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/AFTERFOOT100x100.png" alt="AFTER FOOT TV" width="120"> | AFTER FOOT TV | 107 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCMECANIC100x100couleur.png" alt="RMC Mecanic" width="120"> | RMC Mecanic | 108 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSportLive2100x100COULEUR.png" alt="RMC Sport Live 2" width="120"> | RMC Sport Live 2 | 112 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rmc-sport-live2-100x100-color.png" alt="RMC Sport Live 2" width="120"> | RMC Sport Live 2 | 112 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_1_color.png" alt="beIN SPORTS 1" width="120"> | beIN SPORTS 1 | 115 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_2_color.png" alt="beIN SPORTS 2" width="120"> | beIN SPORTS 2 | 116 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_3_color.png" alt="beIN SPORTS 3" width="120"> | beIN SPORTS 3 | 117 |
@@ -157,8 +157,8 @@
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_8_color.png" alt="beIN SPORTS MAX 8" width="120"> | beIN SPORTS MAX 8 | 304 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_9_color.png" alt="beIN SPORTS MAX 9" width="120"> | beIN SPORTS MAX 9 | 305 |
 | <img src="https://static-cdn.tv.sfr.net/data/logos/tv_services/beIN_SPORTS_MAX_10_color.png" alt="beIN SPORTS MAX 10" width="120"> | beIN SPORTS MAX 10 | 306 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE3100x100.png" alt="RMC Sport Live 3" width="120"> | RMC Sport Live 3 | 316 |
-| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/RMCSPORTLIVE4100x100.png" alt="RMC Sport Live 4" width="120"> | RMC Sport Live 4 | 317 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rmc-sport-live3-100x100-color.png" alt="RMC Sport Live 3" width="120"> | RMC Sport Live 3 | 316 |
+| <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/rmc-sport-live4-100x100-color.png" alt="RMC Sport Live 4" width="120"> | RMC Sport Live 4 | 317 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue12Bleu100x100.png" alt="LIGUE 1+ 2" width="120"> | LIGUE 1+ 2 | 321 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue13Bleu100x100.png" alt="LIGUE 1+ 3" width="120"> | LIGUE 1+ 3 | 322 |
 | <img src="https://static-cdn.tv.sfr.net/data/img/apps/chaines/logos/Ligue14Bleu100x100.png" alt="LIGUE 1+ 4" width="120"> | LIGUE 1+ 4 | 323 |
