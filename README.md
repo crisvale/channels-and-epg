@@ -20,12 +20,12 @@ Each country has a single XMLTV file combining all supported operators.
 
 | Country | File | Channels | Operators |
 | --- | --- | ---: | --- |
-| France | `epg/france.xml.gz` | 952 | Canal+, Orange, SFR, Free |
+| France | `epg/france.xml.gz` | 954 | Canal+, Orange, SFR, Free |
 | United Kingdom | `epg/united-kingdom.xml.gz` | 559 | Freeview, Freesat, Sky UK, Virgin TV Go, EE TV |
 | Germany | `epg/germany.xml.gz` | 746 | Magenta TV, Sky DE, waipu.tv |
 | Congo | `epg/congo.xml.gz` | 363 | Canal+ Congo |
-| Spain | `epg/spain.xml.gz` | 567 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
-| Poland | `epg/poland.xml.gz` | 272 | Canal+ Poland, Polsat |
+| Spain | `epg/spain.xml.gz` | 571 | Tivify, RTVE, Orange, Movistar Plus+, Atresplayer, AgileTV (R, Telecable, SIMple, Euskaltel) |
+| Poland | `epg/poland.xml.gz` | 273 | Canal+ Poland, Polsat |
 | Portugal | `epg/portugal.xml.gz` | 260 | MEO, NOS |
 | Italy | `epg/italy.xml.gz` | 168 | Sky IT, RaiPlay, Tivu, Mediaset |
 | Canada | `epg/canada.xml.gz` | 508 | Cogeco (QC), Cogeco (ON), Sportsnet, TSN |
