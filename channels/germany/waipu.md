@@ -76,7 +76,7 @@
 | <img src="https://images.wpstr.tv/station/ard/13f3e0f0/hd/small?res=216x162" alt="Das Erste" width="120"> | Das Erste | - |
 | <img src="https://images.wpstr.tv/station/dazn1/afe606fb/hd/small?res=216x162" alt="DAZN 1" width="120"> | DAZN 1 | - |
 | <img src="https://images.wpstr.tv/station/dazn2/69c596e2/hd/small?res=216x162" alt="DAZN 2" width="120"> | DAZN 2 | - |
-| <img src="https://images.wpstr.tv/station/daznfast/ebb43bab/hd/small?res=216x162" alt="DAZN FAST" width="120"> | DAZN FAST | - |
+| <img src="https://images.wpstr.tv/station/daznfast/d16d6ba5/hd/small?res=216x162" alt="DAZN FAST" width="120"> | DAZN FAST | - |
 | <img src="https://images.wpstr.tv/station/daznrise/cadc62a3/hd/small?res=216x162" alt="DAZN RISE" width="120"> | DAZN RISE | - |
 | <img src="https://images.wpstr.tv/station/ddrtv/fb59b25f/hd/small?res=216x162" alt="DDR TV-Archiv" width="120"> | DDR TV-Archiv | - |
 | <img src="https://images.wpstr.tv/station/defatv/a25a2cc0/sd/small?res=216x162" alt="DEFA TV" width="120"> | DEFA TV | - |
@@ -334,7 +334,7 @@
 | <img src="https://images.wpstr.tv/station/tlccrime/35cf5e24/hd/small?res=216x162" alt="TLC Crime" width="120"> | TLC Crime | - |
 | <img src="https://images.wpstr.tv/station/tlcmystery/60380b47/hd/small?res=216x162" alt="TLC Mystery" width="120"> | TLC Mystery | - |
 | <img src="https://images.wpstr.tv/station/toggoplus/e0ba4635/hd/small?res=216x162" alt="TOGGO plus" width="120"> | TOGGO plus | - |
-| <img src="https://images.wpstr.tv/station/topfilme/b5a9d79b/hd/small?res=216x162" alt="Top Filme" width="120"> | Top Filme | - |
+| <img src="https://images.wpstr.tv/station/topfilme/43e15dcf/hd/small?res=216x162" alt="Top Filme" width="120"> | Top Filme | - |
 | <img src="https://images.wpstr.tv/station/topscifi/ab83dbf7/hd/small?res=216x162" alt="TOP SCI-FI" width="120"> | TOP SCI-FI | - |
 | <img src="https://images.wpstr.tv/station/craction/ebb81abc/hd/small?res=216x162" alt="Top Serien" width="120"> | Top Serien | - |
 | <img src="https://images.wpstr.tv/station/toptruecrime/ecc5305b/hd/small?res=216x162" alt="TOP TRUE CRIME" width="120"> | TOP TRUE CRIME | - |
