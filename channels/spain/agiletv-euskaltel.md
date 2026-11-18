@@ -4,17 +4,18 @@
 | :---: | --- | :---: |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ETB1_Logo.png" alt="ETB 1 HD" width="120"> | ETB 1 HD | 1 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ETB2_Logo.png" alt="ETB 2 HD" width="120"> | ETB 2 HD | 2 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/INVITEDCH-AGILE.png" alt="Canal invitado" width="120"> | Canal invitado | 7 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ChannelStarChannel.png" alt="STAR CHANNEL" width="120"> | STAR CHANNEL | 12 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ChannelAmc.png" alt="AMC" width="120"> | AMC | 13 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_warner_tv.png" alt="Warner" width="120"> | Warner | 14 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Comedycentral.png" alt="Comedy Central" width="120"> | Comedy Central | 15 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Calle13.png" alt="CALLE 13" width="120"> | CALLE 13 | 16 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/xtrm.png" alt="XTRM" width="120"> | XTRM | 17 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/SCIFI_Logo.png" alt="SciFi" width="120"> | SciFi | 18 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Cosmo_Logo.png" alt="COSMO" width="120"> | COSMO | 19 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/VinTV_Logo.png" alt="VinTV" width="120"> | VinTV | 20 |
-| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/AMCSelektTV_Logo.png" alt="AMC Selekt TV" width="120"> | AMC Selekt TV | 21 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/LaSeptima_Logo.png" alt="LA SÉPTIMA" width="120"> | LA SÉPTIMA | 9 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/INVITEDCH-AGILE.png" alt="Canal invitado" width="120"> | Canal invitado | 10 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ChannelStarChannel.png" alt="STAR CHANNEL" width="120"> | STAR CHANNEL | 13 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/ChannelAmc.png" alt="AMC" width="120"> | AMC | 14 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel_warner_tv.png" alt="Warner" width="120"> | Warner | 15 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Comedycentral.png" alt="Comedy Central" width="120"> | Comedy Central | 16 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Channel=Calle13.png" alt="CALLE 13" width="120"> | CALLE 13 | 17 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/xtrm.png" alt="XTRM" width="120"> | XTRM | 18 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/SCIFI_Logo.png" alt="SciFi" width="120"> | SciFi | 19 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Cosmo_Logo.png" alt="COSMO" width="120"> | COSMO | 20 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/VinTV_Logo.png" alt="VinTV" width="120"> | VinTV | 21 |
+| <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/AMCSelektTV_Logo.png" alt="AMC Selekt TV" width="120"> | AMC Selekt TV | 22 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/Neox.png" alt="Neox" width="120"> | Neox | 32 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/VEO7_Logo.png" alt="VEO 7" width="120"> | VEO 7 | 37 |
 | <img src="https://agiletv-images.s3.eu-west-1.amazonaws.com/channelicons/CanalHollywood_logo.png" alt="Canal Hollywood" width="120"> | Canal Hollywood | 40 |
