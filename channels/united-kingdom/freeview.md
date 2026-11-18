@@ -101,7 +101,8 @@
 | <img src="https://img.freeviewplay.tv/s200ede2afe493f9c877fef210e194f6e/16x9/colour?w=800" alt="U&amp;Drama+1" width="120"> | U&amp;Drama+1 | 60 |
 | <img src="https://img.freeviewplay.tv/se2c11c8de93786fb3d855c6778685427/16x9/colour?w=800" alt="Great! TV +1" width="120"> | Great! TV +1 | 61 |
 | <img src="https://img.freeviewplay.tv/s98469f0257fe8025ad9a173113fc7709/16x9/colour?w=800" alt="Great! Movies" width="120"> | Great! Movies | 62 |
-| <img src="https://img.freeviewplay.tv/s90b09c26588a958d19fbbe54c4efb8a6/16x9/colour?w=800" alt="Great! Player" width="120"> | Great! Player | 63 |
+| <img src="https://img.freeviewplay.tv/s90b09c26588a958d19fbbe54c4efb8a6/16x9/colour?w=800" alt="Great! Player" width="120"> | Great! Player | 62 |
+| <img src="https://img.freeviewplay.tv/s5a34026f3c6f679704abfb7cd4597882/16x9/colour?w=800" alt="Lucky Cat TV" width="120"> | Lucky Cat TV | 63 |
 | <img src="https://img.freeviewplay.tv/s3147e33b626ccb878bf5a18d6e2793c2/16x9/colour?w=800" alt="Blaze" width="120"> | Blaze | 64 |
 | <img src="https://img.freeviewplay.tv/sb8233d45b13615f73590ae6616c6b65b/16x9/colour?w=800" alt="That&#x27;s TV 2" width="120"> | That's TV 2 | 65 |
 | <img src="https://img.freeviewplay.tv/sddd18f1e84e238aaabdb041ada555640/16x9/colour?w=800" alt="TBN UK" width="120"> | TBN UK | 66 |
