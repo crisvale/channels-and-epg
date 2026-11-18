@@ -221,6 +221,7 @@
 | <img src="https://images.wpstr.tv/station/naruto/3362c411/hd/small?res=216x162" alt="NARUTO" width="120"> | NARUTO | - |
 | <img src="https://images.wpstr.tv/station/natgeo/5e79004a/hd/small?res=216x162" alt="National Geographic" width="120"> | National Geographic | - |
 | <img src="https://images.wpstr.tv/station/natgeowild/a7d4bad9/hd/small?res=216x162" alt="National Geographic WILD" width="120"> | National Geographic WILD | - |
+| <img src="https://images.wpstr.tv/station/naturetime/8d56cc80/hd/small?res=216x162" alt="Nature Time" width="120"> | Nature Time | - |
 | <img src="https://images.wpstr.tv/station/n3_hamburg/e34b584d/hd/small?res=216x162" alt="NDR Hamburg" width="120"> | NDR Hamburg | - |
 | <img src="https://images.wpstr.tv/station/n3_mv/eb3ea0e3/hd/small?res=216x162" alt="NDR Mecklenburg-Vorpommern" width="120"> | NDR Mecklenburg-Vorpommern | - |
 | <img src="https://images.wpstr.tv/station/n3_ni/280d7bd1/hd/small?res=216x162" alt="NDR Niedersachsen" width="120"> | NDR Niedersachsen | - |
