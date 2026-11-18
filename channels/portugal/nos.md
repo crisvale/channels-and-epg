@@ -159,6 +159,7 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FNHK.png" alt="NHK World TV" width="120"> | NHK World TV | 246 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FSETA.png" alt="SET Asia" width="120"> | SET Asia | 247 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FMAX.png" alt="MAX" width="120"> | MAX | 249 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FZEETV.png" alt="Zee TV" width="120"> | Zee TV | 249 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDOGTV.png" alt="DOGTV" width="120"> | DOGTV | 253 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png" alt="OneToro TV" width="120"> | OneToro TV | 254 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png" alt="Caça e Pesca" width="120"> | Caça e Pesca | 255 |
