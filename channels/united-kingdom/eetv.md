@@ -58,7 +58,8 @@
 | <img src="https://images-live.youview.tv/images/entity/393e1707-bf6f-511b-ad7c-6b43df5b2680/ident/1_128x128.png" alt="U&amp;Drama+1" width="120"> | U&amp;Drama+1 | 60 |
 | <img src="https://images-live.youview.tv/images/entity/216edc51-0013-5e40-920d-9d3f219068f8/ident/1_128x128.png" alt="Great! TV +1" width="120"> | Great! TV +1 | 61 |
 | <img src="https://images-live.youview.tv/images/entity/f20c5bf5-afc8-5b4e-a483-1ad88251e14b/ident/1_128x128.png" alt="Great! Movies" width="120"> | Great! Movies | 62 |
-| <img src="https://images-live.youview.tv/images/entity/856732b7-8c70-50ec-b624-ee6c410b7e13/ident/1_128x128.png" alt="Great! Player" width="120"> | Great! Player | 63 |
+| <img src="https://images-live.youview.tv/images/entity/856732b7-8c70-50ec-b624-ee6c410b7e13/ident/1_128x128.png" alt="Great! Player" width="120"> | Great! Player | 62 |
+| <img src="https://images-live.youview.tv/images/entity/1bbd02b6-c603-5c48-8fa8-c1dd68d71ed5/ident/1_128x128.png" alt="Lucky Cat TV" width="120"> | Lucky Cat TV | 63 |
 | <img src="https://images-live.youview.tv/images/entity/874b6c57-ad81-51e6-8df5-bd5c32031070/ident/1_128x128.png" alt="Blaze" width="120"> | Blaze | 64 |
 | <img src="https://images-live.youview.tv/images/entity/bd7e739e-6daf-5bcc-8b24-15c4b1d2b04d/ident/1_128x128.png" alt="That&#x27;s TV 2" width="120"> | That's TV 2 | 65 |
 | <img src="https://images-live.youview.tv/images/entity/d46cdc27-4ecc-5654-927a-bea66ea703ba/ident/1_128x128.png" alt="TBN UK" width="120"> | TBN UK | 66 |
