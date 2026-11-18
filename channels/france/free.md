@@ -167,7 +167,7 @@
 | <img src="https://img2.oqee.net/pictures/6579937/w400" alt="GONG" width="120"> | GONG | 527 |
 | <img src="https://img2.oqee.net/pictures/1271881/w400" alt="MGG TV" width="120"> | MGG TV | 529 |
 | <img src="https://img1.oqee.net/pictures/6580250/w400" alt="Comedy Central" width="120"> | Comedy Central | 530 |
-| <img src="https://img2.oqee.net/pictures/6581071/w400" alt="L&#x27;Esprit Sorcier TV" width="120"> | L'Esprit Sorcier TV | 532 |
+| <img src="https://img1.oqee.net/pictures/6754822/w400" alt="L&#x27;Esprit Sorcier TV" width="120"> | L'Esprit Sorcier TV | 532 |
 | <img src="https://img1.oqee.net/pictures/6581142/w400" alt="Trotters TV" width="120"> | Trotters TV | 533 |
 | <img src="https://img1.oqee.net/pictures/6581338/w400" alt="Sophia TV" width="120"> | Sophia TV | 534 |
 | <img src="https://img2.oqee.net/pictures/6580079/w400" alt="Planète+" width="120"> | Planète+ | 546 |
