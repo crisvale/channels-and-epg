@@ -120,14 +120,16 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_67b45f2312c340d44a9a3f59_1740572348048.png" alt="1+1 Travel" width="120"> | 1+1 Travel | 112 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5e65403080405b20a4ff1_1777295828963.png" alt="Teledeporte" width="120"> | Teledeporte | 114 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b1e746bdd713247dee47264.png?t=1664334114" alt="Betis TV" width="120"> | Betis TV | 115 |
+| <img src="https://media.tvup.cloud/channels/6ab0e98dd7c5dbdaf187a6cdlogoColor_1795081359930.png" alt="Barça 24H" width="120"> | Barça 24H | 116 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b04156ab63af22346518c4c.png" alt="Esport 3" width="120"> | Esport 3 | 117 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png" alt="Red Bull TV" width="120"> | Red Bull TV | 118 |
+| <img src="https://media.tvup.cloud/channels/6ab0ea8bff519fa8b5d04412logoColor_1795081337099.png" alt="Barça 24H &#124; Català" width="120"> | Barça 24H &#124; Català | 118 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5e455c96531ee300764b5e5d.png" alt="Motorvision TV" width="120"> | Motorvision TV | 119 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6294d284c044ca001e71987d.png" alt="MMA TV" width="120"> | MMA TV | 120 |
 | <img src="https://media.tvup.cloud/canales/color_lg_64e720715bc77dacbbbb6ec8.png" alt="Fuel TV" width="120"> | Fuel TV | 121 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6458cdd3462b2c49012785fe.png?t=1685004329" alt="Trace Sport Stars" width="120"> | Trace Sport Stars | 122 |
 | <img src="https://media.tvup.cloud/canales/color_lg_669e7c664641c24ee2ea8b16.png" alt="My Padel TV" width="120"> | My Padel TV | 123 |
 | <img src="https://media.tvup.cloud/canales/color_lg_6641c6c0e6e81024bb6171b2_1733130445118.png" alt="Tennis Channel" width="120"> | Tennis Channel | 124 |
+| <img src="https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png" alt="Red Bull TV" width="120"> | Red Bull TV | 125 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png" alt="Rugby Spain" width="120"> | Rugby Spain | 126 |
 | <img src="https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png" alt="Surf Channel TV" width="120"> | Surf Channel TV | 127 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1764334750092.png" alt="DFB Play TV" width="120"> | DFB Play TV | 129 |
