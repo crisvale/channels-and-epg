@@ -132,6 +132,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_5c4352438c3e78047f57c408.png" alt="Red Bull TV" width="120"> | Red Bull TV | 125 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67ea5bd64f9cb1be71461795_1750846676105.png" alt="Rugby Spain" width="120"> | Rugby Spain | 126 |
 | <img src="https://media.tvup.cloud/canales/color_lg_668ba8e17950398e7aac55e3_1731408353544.png" alt="Surf Channel TV" width="120"> | Surf Channel TV | 127 |
+| <img src="https://media.tvup.cloud/channels/6af430d748d5369301b4baf4logoColor_1795443988616.png" alt="Wedo Cars" width="120"> | Wedo Cars | 128 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67ab8140d8408152166c2c70_1764334750092.png" alt="DFB Play TV" width="120"> | DFB Play TV | 129 |
 | <img src="https://media.tvup.cloud/canales/color_lg_67a0a9927668774da5215303_1739965102633.png" alt="INTROUBLE" width="120"> | INTROUBLE | 130 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ac5c53b03080405b20a4fe2.png" alt="Boing" width="120"> | Boing | 132 |
