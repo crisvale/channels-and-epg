@@ -203,7 +203,7 @@
 | <img src="https://media.tvup.cloud/canales/color_lg_63ce5d3736bfb800227ada7d.png" alt="TV3 CAT" width="120"> | TV3 CAT | 280 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9fff71ce1aa005e15903a.png" alt="Canal Sur Andalucía" width="120"> | Canal Sur Andalucía | 281 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9f9b1b5254100802858a6.png?t=1657533648" alt="TVG Sat" width="120"> | TVG Sat | 282 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5eea025168808e0075a18ebf.png" alt="Canal Extremadura Sat" width="120"> | Canal Extremadura Sat | 285 |
+| <img src="https://media.tvup.cloud/channels/5eea025168808e0075a18ebflogoColor_1795419889924.png" alt="Canal Extremadura Sat" width="120"> | Canal Extremadura Sat | 285 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5eea1a3668e3f10084d59a2b.png" alt="Telemadrid Internacional" width="120"> | Telemadrid Internacional | 286 |
 | <img src="https://media.tvup.cloud/canales/color_lg_69e0f790f1d3f99df26ff0ee_1776351120456.png" alt="ETB 1 ON" width="120"> | ETB 1 ON | 287 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5ee9fb1628d1e700655d6c44_1775741749679.png" alt="ETB 2 ON" width="120"> | ETB 2 ON | 288 |
