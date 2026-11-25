@@ -11,7 +11,7 @@
 | <img src="https://media.tvup.cloud/channels/6ae9c557d63a8a80c5f5ad06logoColor_1793952394758.png" alt="LA SÉPTIMA" width="120"> | LA SÉPTIMA | 7 |
 | <img src="https://media.tvup.cloud/canales/5afeb463d2fc610babd2b888logoColor.png" alt="7 Región de Murcia" width="120"> | 7 Región de Murcia | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5d6e37ce1b12bc0056d0320c_1776787988743.png" alt="Aragón TV" width="120"> | Aragón TV | 8 |
-| <img src="https://media.tvup.cloud/canales/color_lg_5e20374ee525a500595b85af_1777888773608.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 8 |
+| <img src="https://media.tvup.cloud/channels/5e20374ee525a500595b85aflogoColor_1795623687919.png" alt="Canal Extremadura" width="120"> | Canal Extremadura | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5b07d812b0b6b936758c5a96.png" alt="Canal Sur" width="120"> | Canal Sur | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5eb909661a74010063dd01a4.png" alt="CMM TV" width="120"> | CMM TV | 8 |
 | <img src="https://media.tvup.cloud/canales/color_lg_5c1762f0a69b842193852d54_1775735609226.png" alt="ETB2" width="120"> | ETB2 | 8 |
