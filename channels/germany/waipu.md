@@ -272,6 +272,7 @@
 | <img src="https://images.wpstr.tv/station/rtlplus/2b3b43b6/hd/small?res=216x162" alt="RTLup" width="120"> | RTLup | - |
 | <img src="https://images.wpstr.tv/station/rtl2/89d52a50/hd/small?res=216x162" alt="RTLZWEI" width="120"> | RTLZWEI | - |
 | <img src="https://images.wpstr.tv/station/rtlzweiclips/5bb21597/hd/small?res=216x162" alt="RTLZWEI Clips" width="120"> | RTLZWEI Clips | - |
+| <img src="https://images.wpstr.tv/station/rtlzweidokus/33a2d1ec/sd/small?res=216x162" alt="RTLZWEI Dokus" width="120"> | RTLZWEI Dokus | - |
 | <img src="https://images.wpstr.tv/station/rtlzweifamilies/88a96a8f/hd/small?res=216x162" alt="RTLZWEI Families" width="120"> | RTLZWEI Families | - |
 | <img src="https://images.wpstr.tv/station/sallyswelt/fa85587b/hd/small?res=216x162" alt="Sallys Welt" width="120"> | Sallys Welt | - |
 | <img src="https://images.wpstr.tv/station/sat1/d3f99bee/hd/small?res=216x162" alt="SAT.1" width="120"> | SAT.1 | - |
