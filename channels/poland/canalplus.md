@@ -115,6 +115,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20769/ncplus-ouah/CHN43FB/animalplanetfb" alt="ANIMAL PLANET HD" width="120"> | ANIMAL PLANET HD | 144 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20702/ncplus-ouah/CHN43FB/travelchannel" alt="TRAVEL CHANNEL HD" width="120"> | TRAVEL CHANNEL HD | 145 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22381/ncplus-ouah/CHN43FB/s-1200-630_-b_9R" alt="Kabaret TV" width="120"> | Kabaret TV | 146 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22401/ncplus-ouah/CHN43FB/DocuBox_HD_logo-nCSq" alt="DocuBox" width="120"> | DocuBox | 147 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22301/ncplus-ouah/CHN43FB/Beznazwy-2-UkcL" alt="LOVE NATURE 4K" width="120"> | LOVE NATURE 4K | 149 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20810/ncplus-ouah/CHN43FB/DISNEY_JR_HERO_LOGO_RGB-1200x900--B7V" alt="DISNEY JUNIOR" width="120"> | DISNEY JUNIOR | 152 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20808/ncplus-ouah/CHN43FB/1200x900_Nick-Jr-tlo-blanck-A9Rq" alt="NICK JR." width="120"> | NICK JR. | 153 |
@@ -147,6 +148,7 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22307/ncplus-ouah/CHN43FB/c7-AMX_" alt="CANAL+ EXTRA 7" width="120"> | CANAL+ EXTRA 7 | 199 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/21681/ncplus-ouah/CHN43FB/Golf_Zone-tZiM-Hk4B" alt="GOLF CHANNEL HD" width="120"> | GOLF CHANNEL HD | 208 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20613/ncplus-ouah/CHN43FB/extremelogo" alt="EXTREME SPORTS HD" width="120"> | EXTREME SPORTS HD | 209 |
+| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22362/ncplus-ouah/CHN43FB/logo1-2SFe" alt="Gametoon" width="120"> | Gametoon | 210 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20313/ncplus-ouah/CHN43FB/TVNturbo1-psKP" alt="TVN TURBO HD" width="120"> | TVN TURBO HD | 212 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20312/ncplus-ouah/CHN43FB/TVNStyle1-RVTN" alt="TVN STYLE HD" width="120"> | TVN STYLE HD | 213 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/20329/CHN43FB/HGTV_640_480_0503.png" alt="HGTV" width="120"> | HGTV | 214 |
@@ -232,8 +234,6 @@
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22385/ncplus-ouah/CHN43FB/extra9-8sb4" alt="CANAL+ EXTRA 9 HD" width="120"> | CANAL+ EXTRA 9 HD | 346 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22386/ncplus-ouah/CHN43FB/CExtra10_1200x900-VcBN-JAoe" alt="CANAL+ EXTRA 10 HD" width="120"> | CANAL+ EXTRA 10 HD | 347 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22387/ncplus-ouah/CHN43FB/CExtra11_1200x900-qiF6-AlMn" alt="CANAL+ EXTRA 11 HD" width="120"> | CANAL+ EXTRA 11 HD | 348 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22362/ncplus-ouah/CHN43FB/logo1-2SFe" alt="Gametoon" width="120"> | Gametoon | 500 |
-| <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22401/ncplus-ouah/CHN43FB/DocuBox_HD_logo-nCSq" alt="DocuBox" width="120"> | DocuBox | 501 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22041/ncplus-ouah/CHN43FB/T1_1000-1000" alt="Program 1" width="120"> | Program 1 | 710 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22042/ncplus-ouah/CHN43FB/T2_1000-1000" alt="Program 2" width="120"> | Program 2 | 711 |
 | <img src="https://thumb.canalplus.pro/http/unsafe/600x338/filters:quality(80)/ncplus-cdn.canal-plus.io/p1/channel/22043/ncplus-ouah/CHN43FB/T3_1000-1000" alt="Program 3" width="120"> | Program 3 | 712 |
