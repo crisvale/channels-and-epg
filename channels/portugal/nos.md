@@ -150,7 +150,9 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTL.png" alt="RTL" width="120"> | RTL | 229 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FARTEDE.png" alt="ARTE (Deutsch)" width="120"> | ARTE (Deutsch) | 230 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVBLGARIA.png" alt="BNT World" width="120"> | BNT World | 237 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOTV.png" alt="OTV" width="120"> | OTV | 238 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRUSSIAT.png" alt="Russia Today" width="120"> | Russia Today | 238 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2F1MAIS1INT.png" alt="1+1 International" width="120"> | 1+1 International | 239 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2F1MAIS1.png" alt="1+1" width="120"> | 1+1 | 240 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FTVRI.png" alt="TVR Internacional" width="120"> | TVR Internacional | 241 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCCTV4.png" alt="CCTV 4" width="120"> | CCTV 4 | 244 |
@@ -162,5 +164,5 @@
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FDOGTV.png" alt="DOGTV" width="120"> | DOGTV | 253 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FOneToroTV.png" alt="OneToro TV" width="120"> | OneToro TV | 254 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCACAPESCA.png" alt="Caça e Pesca" width="120"> | Caça e Pesca | 255 |
-| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTRPLNET.png" alt="RTR Planeta" width="120"> | RTR Planeta | 295 |
+| <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FRTRPLNET.png" alt="RTR Planeta" width="120"> | RTR Planeta | 298 |
 | <img src="https://mage.stream.nos.pt/mage/v1/Images?sourceUri=http%3A%2F%2Fvip.repositories.local.internal%2FRepositories.EPG%2FOttChannelIcons%2FCANALNOSHD.png" alt="Canal NOS HD" width="120"> | Canal NOS HD | 500 |
